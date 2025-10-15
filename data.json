@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-15 11:39:22",
+  "updated_at": "2025-10-15 04:56:14",
   "exchange_rates": {
     "USD/TWD": 30.71,
     "USD/JPY": 151.78,
@@ -14,6 +14,14 @@
     {
       "title": "Trump says US will not 'waste our time' helping Argentina if Milei loses",
       "url": "https://www.bbc.com/news/articles/cg7n82gd7pvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "FirstFT: Top financiers warn of eroding lending standards",
+      "url": "https://www.ft.com/content/8f3f0259-c854-440c-bdf9-405744c68abd"
+    },
+    {
+      "title": "Top US financiers sound alarm on lending standards",
+      "url": "https://www.ft.com/content/f1b61807-c199-4fee-9bd4-dea738e1a0ac"
     }
   ]
 }
