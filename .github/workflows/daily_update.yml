@@ -40,3 +40,4 @@ jobs:
           else
             echo "No changes in data.json"
           fi
+
