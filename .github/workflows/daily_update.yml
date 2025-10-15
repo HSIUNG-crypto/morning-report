@@ -2,42 +2,29 @@ name: Daily data update
 
 on:
   schedule:
-    # GitHub Actions 的時間是 UTC，台北 07:00 = UTC 前一天 23:00
+    # UTC 23:00 = 台北 07:00
     - cron: '0 23 * * *'
-  workflow_dispatch: {}
+  workflow_dispatch:
 
 permissions:
-  contents: write  # 允許 commit 回 repo
+  contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
-      - name: Set timezone to Asia/Taipei (for logs)
-        run: |
-          sudo timedatectl set-timezone Asia/Taipei || true
-          date
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
-            - name: Install dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install \
-            requests==2.32.3 \
-            feedparser==6.0.11 \
-            numpy==2.0.2 \
-            pandas==2.2.2 \
-            lxml==5.3.0 \
-            pytz==2024.1 \
-            yfinance==0.2.40
-
+          pip install requests yfinance feedparser numpy pandas lxml pytz
 
       - name: Run fetch script
         run: python fetch_data.py
