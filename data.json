@@ -1,0 +1,19 @@
+{
+  "updated_at": "2025-10-15 11:39:22",
+  "exchange_rates": {
+    "USD/TWD": 30.71,
+    "USD/JPY": 151.78,
+    "USD/EUR": 0.86
+  },
+  "stocks": {},
+  "news": [
+    {
+      "title": "UK will be second-fastest-growing G7 economy, IMF predicts",
+      "url": "https://www.bbc.com/news/articles/cn092p27xn0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump says US will not 'waste our time' helping Argentina if Milei loses",
+      "url": "https://www.bbc.com/news/articles/cg7n82gd7pvo?at_medium=RSS&at_campaign=rss"
+    }
+  ]
+}

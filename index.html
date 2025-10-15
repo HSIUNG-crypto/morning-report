@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>國際早報系統 🌍</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>🌅 每日國際經濟早報</h1>
+    <p>自動更新時間：<span id="update-time">載入中...</span></p>
+  </header>
+
+  <main>
+    <section id="exchange">
+      <h2>💱 匯率波動</h2>
+      <div id="exchange-data">正在載入...</div>
+    </section>
+
+    <section id="news">
+      <h2>📰 重要新聞（猶太商法觀點）</h2>
+      <ul id="news-list"></ul>
+    </section>
+
+        <section id="stocks">
+      <h2>📈 市場指數</h2>
+      <div id="stocks-list">載入中...</div>
+    </section>
+
+    <section id="ai-voice">
+      <h2>🎧 晨讀語音</h2>
+      <button onclick="readMorningNews()">播放晨讀</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 晨報系統｜由你親自建立 🪄</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

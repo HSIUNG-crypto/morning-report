@@ -1,0 +1,27 @@
+body {
+  font-family: 'Microsoft JhengHei', sans-serif;
+  background: #f4f6f8;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+
+header, footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+main {
+  padding: 1.5rem;
+  display: grid;
+  gap: 2rem;
+}
+
+section {
+  background: white;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
