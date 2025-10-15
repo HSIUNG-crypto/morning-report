@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-15 04:56:14",
+  "updated_at": "2025-10-15 23:28:34",
   "exchange_rates": {
     "USD/TWD": 30.71,
     "USD/JPY": 151.78,
@@ -8,20 +8,20 @@
   "stocks": {},
   "news": [
     {
-      "title": "UK will be second-fastest-growing G7 economy, IMF predicts",
-      "url": "https://www.bbc.com/news/articles/cn092p27xn0o?at_medium=RSS&at_campaign=rss"
+      "title": "Reeves urged to make Budget 'bold' or risk future tax rises",
+      "url": "https://www.bbc.com/news/articles/cg7n8v34jvlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump says US will not 'waste our time' helping Argentina if Milei loses",
-      "url": "https://www.bbc.com/news/articles/cg7n82gd7pvo?at_medium=RSS&at_campaign=rss"
+      "title": "Bankers to get bonuses faster under rule change",
+      "url": "https://www.bbc.com/news/articles/cr43xkv3y4go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "FirstFT: Top financiers warn of eroding lending standards",
-      "url": "https://www.ft.com/content/8f3f0259-c854-440c-bdf9-405744c68abd"
+      "title": "Trump says Modi pledged India would stop buying Russian oil",
+      "url": "https://www.ft.com/content/3d9949f5-2aeb-49c5-a038-e351dfe04c5a"
     },
     {
-      "title": "Top US financiers sound alarm on lending standards",
-      "url": "https://www.ft.com/content/f1b61807-c199-4fee-9bd4-dea738e1a0ac"
+      "title": "Reeves needs to fill £22bn hole in UK public finances, IFS says",
+      "url": "https://www.ft.com/content/57afbb4a-93a6-4829-b135-86d62d97a69b"
     }
   ]
 }
