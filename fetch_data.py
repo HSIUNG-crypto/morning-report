@@ -152,7 +152,7 @@ def main():
 
     summary_text = build_summary(ex, exch, st, nw)
 
-    # 🔸 這裡改成台北時間 + 另存一個 UTC
+    # ✅ 寫入台北時間與 UTC
     now_tpe = datetime.now(ZoneInfo("Asia/Taipei"))
     now_utc = datetime.now(timezone.utc)
 
@@ -160,7 +160,7 @@ def main():
         "updated_at": now_tpe.strftime("%Y-%m-%d %H:%M:%S") + " (台北時間)",
         "updated_at_utc": now_utc.strftime("%Y-%m-%d %H:%M:%S") + " (UTC)",
         "exchange_rates": ex,
-        "exchange_changes": exch,  # 相對昨日%
+        "exchange_changes": exch,
         "stocks": st,
         "news": nw,
         "summary_text": summary_text
@@ -172,6 +172,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
