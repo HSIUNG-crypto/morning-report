@@ -178,7 +178,17 @@ async function renderMap(changes){
 async function init(){
   $("year").innerText = new Date().getFullYear();
 
-  const data = await loadJSON('https://hsiung-crypto.github.io/morning-report/data.json').catch(()=>null);
+  // 先試 GitHub Pages，再退回本地 data.json
+let data = await loadJSON('https://hsiung-crypto.github.io/morning-report/data.json').catch(err => {
+  console.warn('遠端 data.json 載入失敗：', err);
+  return null;
+});
+if(!data){
+  data = await loadJSON('data.json').catch(err => {
+    console.error('本地 data.json 也載入失敗：', err);
+    return null;
+  });
+}
   const quotes = await loadJSON('jewish_quotes.json').catch(()=>[]);
 
   if(data){
