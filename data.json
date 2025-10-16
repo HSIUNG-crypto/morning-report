@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-10-16 14:38:46 (台北時間)",
-  "updated_at_utc": "2025-10-16 06:38:46 (UTC)",
+  "updated_at": "2025-10-16 15:21:15 (台北時間)",
+  "updated_at_utc": "2025-10-16 07:21:15 (UTC)",
   "exchange_rates": {
     "USD/TWD": 30.6022,
     "USD/JPY": 151.0967,
@@ -32,7 +32,7 @@
   "stocks": {},
   "news_economy": [
     {
-      "title": "UK economy grew 0.1% in August",
+      "title": "UK economy grew slightly in August ahead of key Budget",
       "url": "https://www.bbc.com/news/articles/cq65j9pm508o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -52,7 +52,28 @@
       "url": "https://www.bbc.com/news/articles/c629rdgyzl5o?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "news_markets": [],
+  "news_markets": [
+    {
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main"
+    },
+    {
+      "title": "Comex Gold, Silver Settle Lower",
+      "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main"
+    },
+    {
+      "title": "DeepSeek Won't Sink U.S. AI Titans",
+      "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main"
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main"
+    },
+    {
+      "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+      "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main"
+    }
+  ],
   "news_ai": [
     {
       "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
@@ -76,7 +97,7 @@
     }
   ],
   "forecast_economy": "整體經濟訊號偏弱。留意通膨與政策路徑，控制部位，遇波動以分批為宜。",
-  "forecast_markets": "",
+  "forecast_markets": "市場情緒偏強，板塊輪動可能加速。建議聚焦高流動性資產，嚴設停損與風險限額。",
   "forecast_ai": "AI 動能偏穩，技術與監管消息交錯。短期以大型雲/晶片為主軸，留意評價壓力。",
-  "summary_text": "匯率：TWD 30.6022(0.0%)，JPY 151.0967(0.0%)，EUR 0.8593(0.0%)。經濟：UK economy grew 0.1% in August"
+  "summary_text": "匯率：TWD 30.6022(0.0%)，JPY 151.0967(0.0%)，EUR 0.8593(0.0%)。經濟：UK economy grew slightly in August ahead of key Budget"
 }
