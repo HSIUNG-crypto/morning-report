@@ -1,5 +1,6 @@
 import json
-from datetime import datetime
+from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 import os
 
 import requests
@@ -123,10 +124,7 @@ def build_summary(ex, exch, st, news):
     return "。".join(parts) if parts else "今日重點已更新，請查看板塊。"
 
 def maybe_make_tts(summary_text:str):
-    """
-    若設定 OPENAI_API_KEY，且安裝 openai 套件，嘗試產生 MP3。
-    失敗不影響主流程。
-    """
+    """可選：若設定 OPENAI_API_KEY，嘗試產生 MP3。失敗不影響主流程。"""
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         print("ℹ️ 未設定 OPENAI_API_KEY，跳過 MP3 產生。")
@@ -134,7 +132,6 @@ def maybe_make_tts(summary_text:str):
     try:
         from openai import OpenAI
         client = OpenAI(api_key=api_key)
-        # 使用 TTS 模型（依你的帳戶可用資源微調）
         speech = client.audio.speech.create(
             model="gpt-4o-mini-tts",
             voice="alloy",
@@ -155,8 +152,13 @@ def main():
 
     summary_text = build_summary(ex, exch, st, nw)
 
+    # 🔸 這裡改成台北時間 + 另存一個 UTC
+    now_tpe = datetime.now(ZoneInfo("Asia/Taipei"))
+    now_utc = datetime.now(timezone.utc)
+
     result = {
-        "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "updated_at": now_tpe.strftime("%Y-%m-%d %H:%M:%S") + " (台北時間)",
+        "updated_at_utc": now_utc.strftime("%Y-%m-%d %H:%M:%S") + " (UTC)",
         "exchange_rates": ex,
         "exchange_changes": exch,  # 相對昨日%
         "stocks": st,
@@ -166,10 +168,10 @@ def main():
     with open(DATA_FILE,"w",encoding="utf-8") as f:
         json.dump(result,f,ensure_ascii=False,indent=2)
     print("✅ 今日早報資料已更新完成！")
-    # 可選：產生 MP3
     maybe_make_tts(summary_text)
 
 if __name__ == "__main__":
     main()
+
 
 
