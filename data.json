@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-10-16 13:28:33 (台北時間)",
-  "updated_at_utc": "2025-10-16 05:28:33 (UTC)",
+  "updated_at": "2025-10-16 14:07:48 (台北時間)",
+  "updated_at_utc": "2025-10-16 06:07:48 (UTC)",
   "exchange_rates": {
     "USD/TWD": 30.6022,
     "USD/JPY": 151.0967,
@@ -36,6 +36,10 @@
       "url": "https://www.bbc.com/news/articles/cg7n8v34jvlo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Thousands in UK sue Johnson & Johnson over talcum powder cancer risks",
+      "url": "https://www.bbc.com/news/articles/c797wv928g8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Bankers to get bonuses faster under rule change",
       "url": "https://www.bbc.com/news/articles/cr43xkv3y4go?at_medium=RSS&at_campaign=rss"
     },
@@ -46,10 +50,6 @@
     {
       "title": "US blasts China as 'unreliable' as trade tensions mount",
       "url": "https://www.bbc.com/news/articles/c5y45x5g140o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Energy standing charge plans could backfire, MPs told",
-      "url": "https://www.bbc.com/news/articles/cvgdwn20771o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
