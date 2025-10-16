@@ -9,7 +9,7 @@ import feedparser
 import yfinance as yf
 
 TIMEOUT = 12
-DATA_FILE = "data.json"
+DATA_FILE = os.path.join(os.path.dirname(__file__), "data.json")
 MP3_FILE = "morning.mp3"
 
 def safe_get_json(url, label="", params=None, headers=None):
@@ -26,9 +26,15 @@ def safe_get_json(url, label="", params=None, headers=None):
         return {}
 
 # ---------- 匯率 ----------
-def get_exchange_rates():
+def get_exchange_rates(prev=None):
     data = safe_get_json("https://open.er-api.com/v6/latest/USD", label="匯率")
     rates = data.get("rates", {})
+
+    # 🧩 新增這段防呆：如果 rates 為空，使用上一版資料
+    if not rates:
+        print("⚠️ 匯率 API 無法回傳 rates，使用上一版資料。")
+        return prev.get("exchange_rates", {}) if prev else {}
+
     wanted = ["TWD","JPY","EUR","GBP","CNY","AUD","CAD","CHF","HKD","KRW","SGD","INR"]
     out = {}
     for code in wanted:
@@ -81,12 +87,12 @@ def get_stock_indexes(prev=None):
 RSS_ECONOMY = [
     "http://feeds.bbci.co.uk/news/business/rss.xml",
     "https://feeds.reuters.com/reuters/businessNews",
-    "https://www.ft.com/?format=rss",  # FT 全站 RSS，仍能挑到商業經濟
+    "https://www.ft.com/rss/home/asia",  # FT 全站 RSS，仍能挑到商業經濟
 ]
 RSS_MARKETS = [
     "https://feeds.reuters.com/reuters/marketsNews",
     "https://www.marketwatch.com/feeds/topstories",  # MarketWatch
-    "https://www.bloomberg.com/feeds/podcasts/etf-report.xml",  # Bloomberg 部分 feed（示意）
+    "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",  # Bloomberg 部分 feed（示意）
 ]
 RSS_AI = [
     "https://feeds.arstechnica.com/arstechnica/technology-lab", # 科技/AI
@@ -198,7 +204,7 @@ def maybe_make_tts(summary_text:str):
 def main():
     prev = load_prev()
 
-    ex = get_exchange_rates()
+    ex = get_exchange_rates(prev=prev)
     exch = calc_changes(ex, prev.get("exchange_rates", {}))
 
     st = get_stock_indexes(prev=prev.get("stocks"))
