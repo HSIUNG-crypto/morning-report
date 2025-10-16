@@ -171,7 +171,7 @@ async function renderMap(changes){
 async function init(){
   $("year").innerText = new Date().getFullYear();
 
-  const data = await loadJSON('data.json').catch(()=>null);
+  const data = await loadJSON('https://hsiung-crypto.github.io/morning-report/data.json').catch(()=>null);
   const quotes = await loadJSON('jewish_quotes.json').catch(()=>[]);
 
   if(data){
