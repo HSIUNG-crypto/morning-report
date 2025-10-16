@@ -135,11 +135,7 @@ async function renderMap(changes){
     localStorage.setItem("fx_changes", JSON.stringify(changes));
   }
 
-    $("map").outerHTML = "<div style='text-align:center;color:#999;padding:20px'>🌍 匯率地圖暫無資料（API 無法提供漲跌%）</div>";
-    return;
-  }
-
-    try{
+  try {
     const res = await fetch("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json");
     const world = await res.json();
     const {features} = ChartGeo.topojson.features(world, world.objects.countries);
@@ -150,6 +146,7 @@ async function renderMap(changes){
       "AUD":[134,-25], "CAD":[-100,57], "CHF":[8,47], "HKD":[114,22], "KRW":[127,36],
       "SGD":[103.8,1.35], "INR":[79,22]
     };
+
     const dataPoints = Object.entries(countryCenter).map(([code, [lon,lat]])=>{
       const pair = "USD/"+code;
       const v = changes?.[pair];
@@ -164,18 +161,16 @@ async function renderMap(changes){
         datasets: [{
           outline: features,
           showOutline: true,
-          backgroundColor: ctx => ctx.raw.value>=0 ? 'rgba(61,220,145,0.45)' : 'rgba(255,107,107,0.45)',
-          data: dataPoints.map(p=>({...p, r: Math.max(2, Math.min(18, Math.abs(p.value)*3))}))
+          backgroundColor: ctx => ctx.raw.value >= 0 ? 'rgba(61,220,145,0.45)' : 'rgba(255,107,107,0.45)',
+          data: dataPoints.map(p => ({...p, r: Math.max(2, Math.min(18, Math.abs(p.value) * 3))}))
         }]
       },
       options: {
-        plugins:{legend:{display:false}},
-        scales: {
-          xy: {projection: 'equalEarth'}
-        }
+        plugins: { legend: { display: false } },
+        scales: { xy: { projection: 'equalEarth' } }
       }
     });
-  }catch(e){
+  } catch (e) {
     console.warn("地圖載入失敗：", e);
   }
 }
@@ -209,7 +204,8 @@ async function init(){
   }).catch(()=>{});
 
   // 朗讀順序：經濟→股市→AI（各 5 則標題）
-    $("btn-read").addEventListener('click', ()=>{
+      // 朗讀順序：經濟→股市→AI（各 5 則標題）
+  $("btn-read").addEventListener('click', ()=>{
     const makeText = (arr, label)=>{
       return (arr||[]).slice(0,5).map(a=>{
         if(typeof a==="string") return a;
