@@ -54,10 +54,11 @@ function toTaipeiTimeStr(data) {
 function renderFX(ex, changes){
   const keys = ["USD/TWD","USD/JPY","USD/EUR","USD/GBP","USD/CNY"];
   const main = keys.map(k=>{
+  const flag = FLAG[k] ? `<span class="flag">${FLAG[k]}</span>` : '';
     const v = ex?.[k]; const pct = changes?.[k];
     const sign = (pct>0? "↗️" : (pct<0? "↘️" : "→"));
     return `<div class="box">
-              <div><span class="flag">${FLAG[k]||""}</span>${k}</div>
+              <div>${flag}${k}</div>
               <div class="muted">現價：<b>${fmt(v,2)}</b></div>
               <div>變化：<b class="${pct>0?'up':pct<0?'down':'flat'}">${fmt(pct,2)}%</b> ${sign}</div>
             </div>`;
@@ -82,7 +83,17 @@ function renderFX(ex, changes){
 }
 
 function renderStocks(st){
-  if(!st || !Object.keys(st).length){ $("stocks-list").innerText="暫無資料（雲端暫時取不到時會沿用上一版）"; return; }
+  if(!st || !Object.keys(st).length){
+  $("stocks-list").innerText="目前無法即時取得股市資料（將沿用上次更新數據）";
+  const prev = localStorage.getItem("stocks");
+  if (prev) {
+    try { st = JSON.parse(prev); } catch {}
+  }
+}
+if(st && Object.keys(st).length){
+  localStorage.setItem("stocks", JSON.stringify(st));
+}
+
   $("stocks-list").innerHTML = Object.entries(st).map(([name, v])=>{
     const cls = v.change>0?'up':(v.change<0?'down':'flat');
     const arrow = v.change>0?'↗️':(v.change<0?'↘️':'→');
@@ -110,7 +121,13 @@ function renderNews2x3(data){
 }
 
 async function renderMap(changes){
-  try{
+  // 🧩 防呆：若沒資料就顯示提示文字
+  if(!changes || Object.keys(changes).length === 0){
+    $("map").outerHTML = "<div style='text-align:center;color:#999;padding:20px'>🌍 匯率地圖暫無資料（API 無法提供漲跌%）</div>";
+    return;
+  }
+
+    try{
     const res = await fetch("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json");
     const world = await res.json();
     const {features} = ChartGeo.topojson.features(world, world.objects.countries);
@@ -181,12 +198,17 @@ async function init(){
 
   // 朗讀順序：經濟→股市→AI（各 5 則標題）
   $("btn-read").addEventListener('click', ()=>{
-    const chunk = (arr)=> (arr||[]).slice(0,5).join("。");
-    const text = `今日重點。全球經濟：${chunk(window.__eco)}。全球股市：${chunk(window.__mkt)}。AI 智慧：${chunk(window.__ai)}。`;
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = "zh-TW";
-    speechSynthesis.speak(u);
-  });
+  const makeText = (arr, label)=>{
+    return (arr||[]).slice(0,5).map(a=>{
+      if(typeof a==="string") return a;
+      return `${a.title||""}。${a.summary||""}`;
+    }).join("。");
+  };
+  const eco = makeText(window.__eco, "經濟");
+  const mkt = makeText(window.__mkt, "股市");
+  const ai  = makeText(window.__ai, "AI");
+  const text = `今日重點新聞。全球經濟：${eco}。全球股市：${mkt}。AI 智慧：${ai}。`;
+
 }
 
 init();
