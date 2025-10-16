@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-16 02:35:45",
+  "updated_at": "2025-10-16 02:50:17",
   "exchange_rates": {
     "USD/TWD": 30.6022,
     "USD/JPY": 151.0967,
@@ -15,18 +15,18 @@
     "USD/INR": 88.0112
   },
   "exchange_changes": {
-    "USD/TWD": -0.35,
-    "USD/JPY": -0.45,
-    "USD/EUR": -0.08,
-    "USD/GBP": null,
-    "USD/CNY": null,
-    "USD/AUD": null,
-    "USD/CAD": null,
-    "USD/CHF": null,
-    "USD/HKD": null,
-    "USD/KRW": null,
-    "USD/SGD": null,
-    "USD/INR": null
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {},
   "news": [
@@ -43,5 +43,5 @@
       "url": "https://www.bbc.com/news/articles/c629rdgyzl5o?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "summary_text": "匯率：TWD 30.6022(-0.35%)，JPY 151.0967(-0.45%)，EUR 0.8593(-0.08%)。頭條：Reeves urged to make Budget 'bold' or risk future tax rises"
+  "summary_text": "匯率：TWD 30.6022(0.0%)，JPY 151.0967(0.0%)，EUR 0.8593(0.0%)。頭條：Reeves urged to make Budget 'bold' or risk future tax rises"
 }
