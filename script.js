@@ -1,34 +1,14 @@
 const $ = (id) => document.getElementById(id);
 const fmt = (n, d=2) => (typeof n === 'number' && isFinite(n)) ? n.toFixed(d) : "-";
 
-// ---- 新增：把時間顯示為台北時間 ----
-function toTaipeiTimeStr(data) {
-  // 1) 若 updated_at 已含「(台北時間)」字樣就直接顯示
-  if (data?.updated_at && /台北時間/.test(data.updated_at)) {
-    return data.updated_at;
-  }
-  // 2) 否則若有 updated_at_utc，轉為台北時區再顯示
-  if (data?.updated_at_utc) {
-    const d = new Date(data.updated_at_utc);
-    if (!isNaN(d)) {
-      const tpe = d.toLocaleString("zh-TW", { timeZone: "Asia/Taipei", hour12: false });
-      return `${tpe}（台北時間）`;
-    }
-  }
-  // 3) 最後嘗試把 updated_at 當一般日期解析並顯示為台北時區
-  if (data?.updated_at) {
-    const d = new Date(data.updated_at);
-    if (!isNaN(d)) {
-      const tpe = d.toLocaleString("zh-TW", { timeZone: "Asia/Taipei", hour12: false });
-      return `${tpe}（台北時間）`;
-    }
-    return data.updated_at; // 解析不了就原樣
-  }
-  return "—";
-}
+// 依貨幣對取國旗
+const FLAG = {
+  "USD/TWD":"🇺🇸/🇹🇼","USD/JPY":"🇺🇸/🇯🇵","USD/EUR":"🇺🇸/🇪🇺","USD/GBP":"🇺🇸/🇬🇧","USD/CNY":"🇺🇸/🇨🇳",
+  "USD/AUD":"🇺🇸/🇦🇺","USD/CAD":"🇺🇸/🇨🇦","USD/CHF":"🇺🇸/🇨🇭","USD/HKD":"🇺🇸/🇭🇰",
+  "USD/KRW":"🇺🇸/🇰🇷","USD/SGD":"🇺🇸/🇸🇬","USD/INR":"🇺🇸/🇮🇳"
+};
 
 function colorForDelta(pct){
-  // -3% = 紅, 0 = 中性, +3% = 綠（夾在中間做漸層）
   if (pct === null || pct === undefined || isNaN(pct)) return '#0f1118';
   const clamp = Math.max(-3, Math.min(3, pct));
   const ratio = (clamp + 3) / 6; // 0..1
@@ -43,31 +23,47 @@ async function loadJSON(path){
   if(!res.ok) throw new Error(`fetch ${path}: ${res.status}`);
   return res.json();
 }
-
 function pickDaily(arr){
   if(!arr?.length) return null;
-  const seed = new Date().toISOString().slice(0,10).replace(/-/g,''); // YYYYMMDD
+  const seed = new Date().toISOString().slice(0,10).replace(/-/g,'');
   const idx = parseInt(seed,10) % arr.length;
   return arr[idx];
 }
 
+// ---- 台北時間顯示 ----
+function toTaipeiTimeStr(data) {
+  if (data?.updated_at && /台北時間/.test(data.updated_at)) return data.updated_at;
+  if (data?.updated_at_utc) {
+    const d = new Date(data.updated_at_utc);
+    if (!isNaN(d)) {
+      const tpe = d.toLocaleString("zh-TW", { timeZone: "Asia/Taipei", hour12: false });
+      return `${tpe}（台北時間）`;
+    }
+  }
+  if (data?.updated_at) {
+    const d = new Date(data.updated_at);
+    if (!isNaN(d)) {
+      const tpe = d.toLocaleString("zh-TW", { timeZone: "Asia/Taipei", hour12: false });
+      return `${tpe}（台北時間）`;
+    }
+    return data.updated_at;
+  }
+  return "—";
+}
+
 function renderFX(ex, changes){
-  // 主要幣別
   const keys = ["USD/TWD","USD/JPY","USD/EUR","USD/GBP","USD/CNY"];
-  const labels = {
-    "USD/TWD":"USD/TWD", "USD/JPY":"USD/JPY", "USD/EUR":"USD/EUR",
-    "USD/GBP":"USD/GBP", "USD/CNY":"USD/CNY"
-  };
   const main = keys.map(k=>{
     const v = ex?.[k]; const pct = changes?.[k];
     const sign = (pct>0? "↗️" : (pct<0? "↘️" : "→"));
-    return `<div class="box"><div>${labels[k]}</div>
-            <div class="muted">現價：<b>${fmt(v,2)}</b></div>
-            <div>變化：<b class="${pct>0?'up':pct<0?'down':'flat'}">${fmt(pct,2)}%</b> ${sign}</div></div>`;
+    return `<div class="box">
+              <div><span class="flag">${FLAG[k]||""}</span>${k}</div>
+              <div class="muted">現價：<b>${fmt(v,2)}</b></div>
+              <div>變化：<b class="${pct>0?'up':pct<0?'down':'flat'}">${fmt(pct,2)}%</b> ${sign}</div>
+            </div>`;
   }).join("");
   $("exchange-data").innerHTML = main;
 
-  // 熱度格（更多幣別可自行擴充）
   const heatList = [
     ["USD/TWD","TWD"],["USD/JPY","JPY"],["USD/EUR","EUR"],
     ["USD/GBP","GBP"],["USD/CNY","CNY"],["USD/AUD","AUD"],
@@ -79,14 +75,14 @@ function renderFX(ex, changes){
     const bg = colorForDelta(pct);
     const arrow = pct>0?"↗":"↘";
     return `<div class="heat" style="background:${bg}">
-      <div class="code">${code}</div>
+      <div class="code">${FLAG[pair]||""} ${code}</div>
       <div class="value">變化：<span class="${pct>0?'up':pct<0?'down':'flat'}">${fmt(pct,2)}%</span> ${isNaN(pct)?'':arrow}</div>
     </div>`;
   }).join("");
 }
 
 function renderStocks(st){
-  if(!st || !Object.keys(st).length){ $("stocks-list").innerText="暫無資料"; return; }
+  if(!st || !Object.keys(st).length){ $("stocks-list").innerText="暫無資料（雲端暫時取不到時會沿用上一版）"; return; }
   $("stocks-list").innerHTML = Object.entries(st).map(([name, v])=>{
     const cls = v.change>0?'up':(v.change<0?'down':'flat');
     const arrow = v.change>0?'↗️':(v.change<0?'↘️':'→');
@@ -94,18 +90,70 @@ function renderStocks(st){
   }).join("");
 }
 
-function renderNews(list){
-  $("news-list").innerHTML = (list && list.length)
-    ? list.map(a=>`<li><a href="${a.url}" target="_blank" rel="noopener">${a.title}</a></li>`).join("")
-    : "<li>暫無資料</li>";
-  // 儲存給 TTS
-  window.__newsTitles = (list||[]).slice(0,5).map(a=>a.title);
+function renderNews2x3(data){
+  const fill = (listId, arr) => {
+    $(listId).innerHTML = (arr && arr.length)
+      ? arr.map(a=>`<li><a href="${a.url}" target="_blank" rel="noopener">${a.title}</a></li>`).join("")
+      : "<li>暫無資料</li>";
+  };
+  fill("news-eco", data.news_economy);
+  fill("news-mkt", data.news_markets);
+  fill("news-ai", data.news_ai);
+  $("fx-eco").innerText = data.forecast_economy || "暫無";
+  $("fx-mkt").innerText = data.forecast_markets || "暫無";
+  $("fx-ai").innerText = data.forecast_ai || "暫無";
+
+  // 給 TTS 用
+  window.__eco = (data.news_economy||[]).map(x=>x.title);
+  window.__mkt = (data.news_markets||[]).map(x=>x.title);
+  window.__ai  = (data.news_ai||[]).map(x=>x.title);
+}
+
+async function renderMap(changes){
+  try{
+    const res = await fetch("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json");
+    const world = await res.json();
+    const {features} = ChartGeo.topojson.features(world, world.objects.countries);
+
+    // 映射主要幣別到國家中點（簡化示意）
+    const countryCenter = {
+      "TWD":[120.97,23.97], "JPY":[138,36], "EUR":[10,51], "GBP":[-2,54], "CNY":[104,35],
+      "AUD":[134,-25], "CAD":[-100,57], "CHF":[8,47], "HKD":[114,22], "KRW":[127,36],
+      "SGD":[103.8,1.35], "INR":[79,22]
+    };
+    const dataPoints = Object.entries(countryCenter).map(([code, [lon,lat]])=>{
+      const pair = "USD/"+code;
+      const v = changes?.[pair];
+      return {latitude: lat, longitude: lon, value: isNaN(v)?0:v};
+    });
+
+    const ctx = $("map").getContext("2d");
+    new Chart(ctx, {
+      type: 'bubbleMap',
+      data: {
+        labels: dataPoints.map(()=> ''),
+        datasets: [{
+          outline: features,
+          showOutline: true,
+          backgroundColor: ctx => ctx.raw.value>=0 ? 'rgba(61,220,145,0.45)' : 'rgba(255,107,107,0.45)',
+          data: dataPoints.map(p=>({...p, r: Math.max(2, Math.min(18, Math.abs(p.value)*3))}))
+        }]
+      },
+      options: {
+        plugins:{legend:{display:false}},
+        scales: {
+          xy: {projection: 'equalEarth'}
+        }
+      }
+    });
+  }catch(e){
+    console.warn("地圖載入失敗：", e);
+  }
 }
 
 async function init(){
   $("year").innerText = new Date().getFullYear();
 
-  // 載入資料
   const data = await loadJSON('data.json').catch(()=>null);
   const quotes = await loadJSON('jewish_quotes.json').catch(()=>[]);
 
@@ -113,10 +161,10 @@ async function init(){
     $("update-time").innerText = toTaipeiTimeStr(data);
     renderFX(data.exchange_rates, data.exchange_changes);
     renderStocks(data.stocks);
-    renderNews(data.news);
+    renderNews2x3(data);
+    renderMap(data.exchange_changes);
   }
 
-  // 金句：依日期穩定挑選
   const q = pickDaily(quotes) || {text:"今天就從紀律開始。", note:"規則讓你更自由。"};
   $("quote-text").innerText = `「${q.text}」`;
   $("quote-note").innerText = q.note || "";
@@ -131,11 +179,11 @@ async function init(){
     }
   }).catch(()=>{});
 
-  // Fallback：用瀏覽器語音朗讀
+  // 朗讀順序：經濟→股市→AI（各 5 則標題）
   $("btn-read").addEventListener('click', ()=>{
-    const news = (window.__newsTitles||[]).join("。");
-    const summary = (data && data.summary_text) ? data.summary_text : `今日重點新聞：${news}`;
-    const u = new SpeechSynthesisUtterance(summary);
+    const chunk = (arr)=> (arr||[]).slice(0,5).join("。");
+    const text = `今日重點。全球經濟：${chunk(window.__eco)}。全球股市：${chunk(window.__mkt)}。AI 智慧：${chunk(window.__ai)}。`;
+    const u = new SpeechSynthesisUtterance(text);
     u.lang = "zh-TW";
     speechSynthesis.speak(u);
   });

@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>夜貓國際早報 🐈‍⬛</title>
   <link rel="stylesheet" href="styles.css"/>
-  <!-- Chart.js（之後要做圖表可用；目前用不到也可以先留著） -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4.3.3/build/index.umd.min.js"></script>
 </head>
 <body class="no-scrollbar">
   <header class="header">
@@ -16,16 +16,20 @@
 
   <main class="container">
     <!-- 金句 -->
-    <section class="card quote">
+    <section class="card quote gold">
       <div class="quote-badge">✡️ 猶太商法・每日金句</div>
       <h2 id="quote-text">載入中…</h2>
       <p id="quote-note" class="muted">—</p>
     </section>
 
-    <!-- 匯率 + 熱度格 -->
-    <section class="card">
+    <!-- 匯率 + 熱度格 + 地圖 -->
+    <section class="card gold">
       <h3>💱 主要匯率</h3>
       <div id="exchange-data" class="grid-2"></div>
+
+      <h4 class="mt">🗺️ 世界匯率地圖（相對昨日 %，氣泡大小與顏色）</h4>
+      <canvas id="map" height="300"></canvas>
+
       <h4 class="mt">🌍 世界匯率熱度（相對昨日 %）</h4>
       <div id="fx-heat" class="heat-grid"></div>
       <div class="legend">
@@ -36,24 +40,51 @@
     </section>
 
     <!-- 市場指數 -->
-    <section class="card">
+    <section class="card gold">
       <h3>📈 市場指數</h3>
       <div id="stocks-list" class="list"></div>
     </section>
 
-    <!-- 新聞 -->
-    <section class="card">
-      <h3>📰 今日重點新聞</h3>
-      <ul id="news-list" class="news"></ul>
+    <!-- 新聞 2×3 -->
+    <section class="card gold">
+      <h3>📰 今日重點新聞（2×3）</h3>
+      <div class="grid-2x3">
+        <div>
+          <h4>🌐 全球經濟脈動（5）</h4>
+          <ul id="news-eco" class="news"></ul>
+        </div>
+        <div>
+          <h4>分析（經濟）</h4>
+          <p id="fx-eco" class="muted"></p>
+        </div>
+
+        <div>
+          <h4>📊 全球股市脈動（5）</h4>
+          <ul id="news-mkt" class="news"></ul>
+        </div>
+        <div>
+          <h4>分析（股市）</h4>
+          <p id="fx-mkt" class="muted"></p>
+        </div>
+
+        <div>
+          <h4>🤖 AI 智慧新聞（5）</h4>
+          <ul id="news-ai" class="news"></ul>
+        </div>
+        <div>
+          <h4>分析（AI）</h4>
+          <p id="fx-ai" class="muted"></p>
+        </div>
+      </div>
     </section>
 
     <!-- 語音晨讀 -->
-    <section class="card audio">
+    <section class="card gold audio">
       <h3>🎧 語音晨讀</h3>
       <audio id="mp3" controls class="audio-ui" style="display:none"></audio>
       <div id="tts-fallback" class="row">
-        <button id="btn-read" class="btn">▶ 以瀏覽器朗讀</button>
-        <span class="muted">（若雲端未產生 MP3，改用你的瀏覽器語音）</span>
+        <button id="btn-read" class="btn">▶ 依序朗讀：經濟→股市→AI</button>
+        <span class="muted">（若無 MP3，改用瀏覽器語音）</span>
       </div>
     </section>
   </main>
@@ -65,4 +96,3 @@
   <script src="script.js"></script>
 </body>
 </html>
-

@@ -2,6 +2,7 @@ import json
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 import os
+import time
 
 import requests
 import feedparser
@@ -24,7 +25,7 @@ def safe_get_json(url, label="", params=None, headers=None):
         print(f"⚠️ {label} 網路/服務錯誤：{e}")
         return {}
 
-# 1) 匯率（USD 基準）
+# ---------- 匯率 ----------
 def get_exchange_rates():
     data = safe_get_json("https://open.er-api.com/v6/latest/USD", label="匯率")
     rates = data.get("rates", {})
@@ -35,54 +36,107 @@ def get_exchange_rates():
             out[f"USD/{code}"] = round(float(rates[code]), 4)
     return out
 
-# 2) 股市：yfinance（不需 key）
-def get_stock_indexes():
-    tickers = ["^DJI","^IXIC","^GSPC","^N225"]
+# ---------- 指數（含重試、備援、沿用前值） ----------
+IDX_TICKERS = {
+    "^DJI":"道瓊", "^IXIC":"那斯達克", "^GSPC":"S&P 500", "^N225":"日經225",
+    "^GDAXI":"德國DAX", "^FTSE":"英國FTSE", "^HSI":"恆生指數", "^TWII":"台灣加權"
+}
+def get_stock_indexes(prev=None):
     result = {}
-    try:
-        data = yf.download(" ".join(tickers), period="5d", interval="1d", progress=False, group_by='ticker', threads=False)
-        for t in tickers:
-            try:
-                close_series = data[t]["Close"] if isinstance(data, dict) and t in data else data["Close"][t]
-            except Exception:
-                close_series = data["Close"][t]
-            price = float(close_series.tail(1).values[0])
-            if len(close_series) >= 2:
-                prev = float(close_series.tail(2).values[0])
-                chg = ((price - prev) / prev) * 100 if prev else 0.0
-            else:
-                chg = 0.0
-            name_map = {"^DJI":"道瓊","^IXIC":"那斯達克","^GSPC":"S&P 500","^N225":"日經225"}
-            result[name_map.get(t,t)] = {"price": round(price,2), "change": round(chg,2)}
-    except Exception as e:
-        print(f"⚠️ 股市(yfinance) 取得失敗：{e}")
+    tickers = " ".join(IDX_TICKERS.keys())
+    ok = False
+    for attempt in range(3):
+        try:
+            data = yf.download(tickers, period="6d", interval="1d",
+                               progress=False, group_by='ticker', threads=False)
+            ok = True
+            break
+        except Exception as e:
+            print(f"⚠️ yfinance 失敗({attempt+1}/3)：{e}")
+            time.sleep(2)
+    if ok:
+        try:
+            # yfinance 有兩種結構，統一處理
+            for t, name in IDX_TICKERS.items():
+                try:
+                    close_series = data[t]["Close"] if isinstance(data, dict) and t in data else data["Close"][t]
+                except Exception:
+                    close_series = data["Close"][t]
+                price = float(close_series.tail(1).values[0])
+                if len(close_series) >= 2:
+                    prev_close = float(close_series.tail(2).values[0])
+                    chg = ((price - prev_close) / prev_close) * 100 if prev_close else 0.0
+                else:
+                    chg = 0.0
+                result[name] = {"price": round(price,2), "change": round(chg,2)}
+        except Exception as e:
+            print(f"⚠️ yfinance 解析失敗：{e}")
+    # 抓不到就沿用前值（避免前端空白）
+    if not result and prev:
+        print("ℹ️ 指數抓取失敗，沿用上一版數據。")
+        return prev
     return result
 
-# 3) 新聞：RSS
-RSS_FEEDS = [
+# ---------- 新聞（分三類） ----------
+RSS_ECONOMY = [
     "http://feeds.bbci.co.uk/news/business/rss.xml",
     "https://feeds.reuters.com/reuters/businessNews",
-    "https://feeds.reuters.com/Reuters/worldNews"
+    "https://www.ft.com/?format=rss",  # FT 全站 RSS，仍能挑到商業經濟
 ]
-def get_international_news(max_items=6):
+RSS_MARKETS = [
+    "https://feeds.reuters.com/reuters/marketsNews",
+    "https://www.marketwatch.com/feeds/topstories",  # MarketWatch
+    "https://www.bloomberg.com/feeds/podcasts/etf-report.xml",  # Bloomberg 部分 feed（示意）
+]
+RSS_AI = [
+    "https://feeds.arstechnica.com/arstechnica/technology-lab", # 科技/AI
+    "https://www.theverge.com/rss/index.xml",
+    "https://feeds.feedburner.com/TechCrunch/"
+]
+
+def fetch_rss_batch(urls, max_items=5):
     items = []
-    for url in RSS_FEEDS:
+    for url in urls:
         try:
             d = feedparser.parse(url)
-            for e in d.entries[: max(2, max_items // len(RSS_FEEDS) + 1)]:
+            for e in d.entries[:max_items]:
                 title = e.get("title","").strip()
                 link = e.get("link","").strip()
                 if title and link:
                     items.append({"title": title, "url": link})
         except Exception as ex:
             print(f"⚠️ RSS 讀取失敗：{url} -> {ex}")
-    # 去重
+    # 去重 + 取前 N
     seen, uniq = set(), []
     for it in items:
         if it["title"] not in seen:
             seen.add(it["title"])
             uniq.append(it)
     return uniq[:max_items]
+
+def short_forecast_from_titles(titles, domain):
+    """
+    超簡短 100 字內「情勢預測」：以關鍵詞方向+保守用語，避免過度武斷。
+    domain: 'economy' | 'markets' | 'ai'
+    """
+    text = "、".join(titles[:5])
+    text = text.lower()
+    pos = sum(text.count(k) for k in ["growth","expansion","optimism","rally","recover","boom","record","surge"])
+    neg = sum(text.count(k) for k in ["slow","recession","decline","fall","slump","risk","crisis","cut"])
+    neu = sum(text.count(k) for k in ["flat","mixed","steady","unchanged","pause"])
+    sentiment = "偏穩" if max(pos,neg,neu)==neu else ("偏強" if pos>=neg else "偏弱")
+
+    if domain=="economy":
+        base = f"整體經濟訊號{sentiment}。"
+        tip = "留意通膨與政策路徑，控制部位，遇波動以分批為宜。"
+    elif domain=="markets":
+        base = f"市場情緒{sentiment}，板塊輪動可能加速。"
+        tip = "建議聚焦高流動性資產，嚴設停損與風險限額。"
+    else: # ai
+        base = f"AI 動能{sentiment}，技術與監管消息交錯。"
+        tip = "短期以大型雲/晶片為主軸，留意評價壓力。"
+    s = f"{base}{tip}"
+    return s[:95] + "…" if len(s)>100 else s
 
 def load_prev():
     if os.path.exists(DATA_FILE):
@@ -94,7 +148,6 @@ def load_prev():
     return {}
 
 def calc_changes(curr: dict, prev: dict):
-    """計算相對昨日的 % 變化（同一貨幣對）"""
     out = {}
     for k,v in curr.items():
         p = prev.get(k)
@@ -104,7 +157,7 @@ def calc_changes(curr: dict, prev: dict):
             out[k] = None
     return out
 
-def build_summary(ex, exch, st, news):
+def build_summary(ex, exch, st, news_ec, news_mk, news_ai):
     parts = []
     if ex:
         fx_line = []
@@ -119,12 +172,11 @@ def build_summary(ex, exch, st, news):
         top = best[0] if best else None
         if top:
             parts.append(f"股市：{top[0]} 變動 {top[1]['change']}%。")
-    if news:
-        parts.append("頭條：" + news[0]["title"])
+    if news_ec:
+        parts.append("經濟：" + news_ec[0]["title"])
     return "。".join(parts) if parts else "今日重點已更新，請查看板塊。"
 
 def maybe_make_tts(summary_text:str):
-    """可選：若設定 OPENAI_API_KEY，嘗試產生 MP3。失敗不影響主流程。"""
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         print("ℹ️ 未設定 OPENAI_API_KEY，跳過 MP3 產生。")
@@ -145,14 +197,21 @@ def maybe_make_tts(summary_text:str):
 
 def main():
     prev = load_prev()
+
     ex = get_exchange_rates()
     exch = calc_changes(ex, prev.get("exchange_rates", {}))
-    st = get_stock_indexes()
-    nw = get_international_news()
 
-    summary_text = build_summary(ex, exch, st, nw)
+    st = get_stock_indexes(prev=prev.get("stocks"))
+    news_economy = fetch_rss_batch(RSS_ECONOMY, 5)
+    news_markets = fetch_rss_batch(RSS_MARKETS, 5)
+    news_ai = fetch_rss_batch(RSS_AI, 5)
 
-    # ✅ 寫入台北時間與 UTC
+    forecast_economy = short_forecast_from_titles([n["title"] for n in news_economy], "economy") if news_economy else ""
+    forecast_markets = short_forecast_from_titles([n["title"] for n in news_markets], "markets") if news_markets else ""
+    forecast_ai = short_forecast_from_titles([n["title"] for n in news_ai], "ai") if news_ai else ""
+
+    summary_text = build_summary(ex, exch, st, news_economy, news_markets, news_ai)
+
     now_tpe = datetime.now(ZoneInfo("Asia/Taipei"))
     now_utc = datetime.now(timezone.utc)
 
@@ -162,7 +221,12 @@ def main():
         "exchange_rates": ex,
         "exchange_changes": exch,
         "stocks": st,
-        "news": nw,
+        "news_economy": news_economy,
+        "news_markets": news_markets,
+        "news_ai": news_ai,
+        "forecast_economy": forecast_economy,
+        "forecast_markets": forecast_markets,
+        "forecast_ai": forecast_ai,
         "summary_text": summary_text
     }
     with open(DATA_FILE,"w",encoding="utf-8") as f:

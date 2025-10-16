@@ -27,7 +27,7 @@ html,body{margin:0;background:var(--bg);color:var(--text);font-family: "Noto San
 @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
 
 .container{
-  max-width:1100px;margin:24px auto;padding:0 16px;
+  max-width:1200px;margin:24px auto;padding:0 16px;
   display:grid;grid-template-columns:repeat(12,1fr);gap:16px;
 }
 .card{
@@ -37,6 +37,7 @@ html,body{margin:0;background:var(--bg);color:var(--text);font-family: "Noto San
   border-radius:var(--radius);box-shadow:var(--shadow);
   padding:18px 18px;
 }
+.card.gold{border:1px solid rgba(246,196,83,.6); box-shadow:0 6px 24px rgba(246,196,83,.12)}
 .card.quote{border-left:4px solid var(--gold)}
 h2,h3,h4{margin:.25rem 0 1rem 0}
 .muted{color:var(--muted)}
@@ -44,38 +45,38 @@ h2,h3,h4{margin:.25rem 0 1rem 0}
 
 .grid-2{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
 .grid-2 .box{
-  background:#0f1118;border:1px solid rgba(255,255,255,.06);
+  background:#0f1118;border:1px solid rgba(255,255,255,.12);
   padding:12px;border-radius:12px
 }
+.flag{margin-right:6px}
 
-.list div{margin:6px 0;padding:8px 10px;border:1px solid rgba(255,255,255,.08);border-radius:10px;background:#0f1118}
+.grid-2x3{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  grid-template-rows: auto auto auto;
+  gap:14px;
+}
+
+.list div{margin:6px 0;padding:8px 10px;border:1px solid rgba(255,255,255,.12);border-radius:10px;background:#0f1118}
 .list .up{color:var(--green)} .list .down{color:var(--red)} .list .flat{color:#bdbdbd}
 
 .news{list-style:none;padding:0;margin:0}
-.news li{margin:8px 0;padding:8px 12px;border:1px solid rgba(255,255,255,.08);border-radius:10px;background:#0f1118}
+.news li{margin:8px 0;padding:8px 12px;border:1px solid rgba(255,255,255,.12);border-radius:10px;background:#0f1118}
 .news a{color:var(--accent);text-decoration:none}
 .news a:hover{text-decoration:underline}
 
 .audio-ui{width:100%}
 .row{display:flex;align-items:center;gap:12px}
 .btn{
-  background:linear-gradient(180deg,#2a2b30,#1b1c22);color:#fff;border:1px solid rgba(255,255,255,.12);
+  background:linear-gradient(180deg,#2a2b30,#1b1c22);color:#fff;border:1px solid rgba(255,255,255,.2);
   border-radius:12px;padding:10px 14px;cursor:pointer;transition:.2s;box-shadow: var(--shadow);
 }
 .btn:hover{transform:translateY(-1px);border-color:var(--gold);box-shadow:0 8px 30px rgba(246,196,83,.12)}
 
-.footer{
-  margin:36px 0 28px 0;text-align:center;color:var(--muted)
-}
+.footer{margin:36px 0 28px 0;text-align:center;color:var(--muted)}
 
-/* 熱度格 */
-.heat-grid{
-  display:grid;grid-template-columns: repeat(6, minmax(90px, 1fr)); gap:10px;margin-top:10px
-}
-.heat{
-  border-radius:12px;padding:10px;border:1px solid rgba(255,255,255,.06);
-  background:#0f1118
-}
+.heat-grid{display:grid;grid-template-columns: repeat(6, minmax(90px, 1fr)); gap:10px;margin-top:10px}
+.heat{border-radius:12px;padding:10px;border:1px solid rgba(255,255,255,.12);background:#0f1118}
 .heat .code{font-weight:700}
 .heat .value{font-size:.95rem;margin-top:4px;color:#cfd3d7}
 .heat .delta{font-weight:700}
