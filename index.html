@@ -2,42 +2,67 @@
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>國際早報系統 🌍</title>
-  <link rel="stylesheet" href="styles.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>夜貓國際早報 🐈‍⬛</title>
+  <link rel="stylesheet" href="styles.css"/>
+  <!-- Chart.js（之後要做圖表可用；目前用不到也可以先留著） -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 </head>
-<body>
-  <header>
-    <h1>🌅 每日國際經濟早報</h1>
-    <p>自動更新時間：<span id="update-time">載入中...</span></p>
+<body class="no-scrollbar">
+  <header class="header">
+    <div class="brand">夜貓國際早報 <span class="shine">•</span></div>
+    <div class="meta">更新：<span id="update-time">—</span></div>
   </header>
 
-  <main>
-    <section id="exchange">
-      <h2>💱 匯率波動</h2>
-      <div id="exchange-data">正在載入...</div>
+  <main class="container">
+    <!-- 金句 -->
+    <section class="card quote">
+      <div class="quote-badge">✡️ 猶太商法・每日金句</div>
+      <h2 id="quote-text">載入中…</h2>
+      <p id="quote-note" class="muted">—</p>
     </section>
 
-    <section id="news">
-      <h2>📰 重要新聞（猶太商法觀點）</h2>
-      <ul id="news-list"></ul>
+    <!-- 匯率 + 熱度格 -->
+    <section class="card">
+      <h3>💱 主要匯率</h3>
+      <div id="exchange-data" class="grid-2"></div>
+      <h4 class="mt">🌍 世界匯率熱度（相對昨日 %）</h4>
+      <div id="fx-heat" class="heat-grid"></div>
+      <div class="legend">
+        <span>↘ 弱</span>
+        <div class="bar"><i style="--p:0%"></i><i style="--p:25%"></i><i style="--p:50%"></i><i style="--p:75%"></i><i style="--p:100%"></i></div>
+        <span>強 ↗</span>
+      </div>
     </section>
 
-        <section id="stocks">
-      <h2>📈 市場指數</h2>
-      <div id="stocks-list">載入中...</div>
+    <!-- 市場指數 -->
+    <section class="card">
+      <h3>📈 市場指數</h3>
+      <div id="stocks-list" class="list"></div>
     </section>
 
-    <section id="ai-voice">
-      <h2>🎧 晨讀語音</h2>
-      <button onclick="readMorningNews()">播放晨讀</button>
+    <!-- 新聞 -->
+    <section class="card">
+      <h3>📰 今日重點新聞</h3>
+      <ul id="news-list" class="news"></ul>
+    </section>
+
+    <!-- 語音晨讀 -->
+    <section class="card audio">
+      <h3>🎧 語音晨讀</h3>
+      <audio id="mp3" controls class="audio-ui" style="display:none"></audio>
+      <div id="tts-fallback" class="row">
+        <button id="btn-read" class="btn">▶ 以瀏覽器朗讀</button>
+        <span class="muted">（若雲端未產生 MP3，改用你的瀏覽器語音）</span>
+      </div>
     </section>
   </main>
 
-  <footer>
-    <p>© 2025 晨報系統｜由你親自建立 🪄</p>
+  <footer class="footer">
+    © <span id="year"></span> 夜貓國際早報 · 由你親手打造
   </footer>
 
   <script src="script.js"></script>
 </body>
 </html>
+

@@ -2,8 +2,7 @@ name: Daily data update
 
 on:
   schedule:
-    # UTC 23:00 = 台北 07:00
-    - cron: '0 23 * * *'
+    - cron: '0 23 * * *'   # 台北 07:00
   workflow_dispatch:
 
 permissions:
@@ -25,19 +24,26 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests yfinance feedparser numpy pandas lxml pytz
+          # 有設 OPENAI_API_KEY 才需要 openai；安裝失敗也不影響主流程
+          pip install openai || true
 
       - name: Run fetch script
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python fetch_data.py
 
-      - name: Commit and push updated data.json
+      - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain data.json)" ]; then
-            git add data.json
-            git commit -m "chore: daily data refresh [skip ci]"
-            git push
+          changed=0
+          git add data.json && changed=1 || true
+          if [ -f "morning.mp3" ]; then git add morning.mp3 && changed=1; fi
+          if [ $changed -eq 1 ]; then
+            git commit -m "chore: daily data refresh [skip ci]" || true
+            git push || true
           else
-            echo "No changes in data.json"
+            echo "No changes"
           fi
+
 
