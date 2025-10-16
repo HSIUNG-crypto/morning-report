@@ -123,6 +123,18 @@ function renderNews2x3(data){
 async function renderMap(changes){
   // 🧩 防呆：若沒資料就顯示提示文字
   if(!changes || Object.keys(changes).length === 0){
+    const cache = localStorage.getItem("fx_changes");
+    if(cache){
+      console.warn("🌍 使用上次的匯率變化資料。");
+      changes = JSON.parse(cache);
+    } else {
+      $("map").outerHTML = "<div style='text-align:center;color:#999;padding:20px'>🌍 匯率地圖暫無資料</div>";
+      return;
+    }
+  } else {
+    localStorage.setItem("fx_changes", JSON.stringify(changes));
+  }
+
     $("map").outerHTML = "<div style='text-align:center;color:#999;padding:20px'>🌍 匯率地圖暫無資料（API 無法提供漲跌%）</div>";
     return;
   }
