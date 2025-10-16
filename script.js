@@ -1,6 +1,32 @@
 const $ = (id) => document.getElementById(id);
 const fmt = (n, d=2) => (typeof n === 'number' && isFinite(n)) ? n.toFixed(d) : "-";
 
+// ---- 新增：把時間顯示為台北時間 ----
+function toTaipeiTimeStr(data) {
+  // 1) 若 updated_at 已含「(台北時間)」字樣就直接顯示
+  if (data?.updated_at && /台北時間/.test(data.updated_at)) {
+    return data.updated_at;
+  }
+  // 2) 否則若有 updated_at_utc，轉為台北時區再顯示
+  if (data?.updated_at_utc) {
+    const d = new Date(data.updated_at_utc);
+    if (!isNaN(d)) {
+      const tpe = d.toLocaleString("zh-TW", { timeZone: "Asia/Taipei", hour12: false });
+      return `${tpe}（台北時間）`;
+    }
+  }
+  // 3) 最後嘗試把 updated_at 當一般日期解析並顯示為台北時區
+  if (data?.updated_at) {
+    const d = new Date(data.updated_at);
+    if (!isNaN(d)) {
+      const tpe = d.toLocaleString("zh-TW", { timeZone: "Asia/Taipei", hour12: false });
+      return `${tpe}（台北時間）`;
+    }
+    return data.updated_at; // 解析不了就原樣
+  }
+  return "—";
+}
+
 function colorForDelta(pct){
   // -3% = 紅, 0 = 中性, +3% = 綠（夾在中間做漸層）
   if (pct === null || pct === undefined || isNaN(pct)) return '#0f1118';
@@ -84,7 +110,7 @@ async function init(){
   const quotes = await loadJSON('jewish_quotes.json').catch(()=>[]);
 
   if(data){
-    $("update-time").innerText = data.updated_at || "—";
+    $("update-time").innerText = toTaipeiTimeStr(data);
     renderFX(data.exchange_rates, data.exchange_changes);
     renderStocks(data.stocks);
     renderNews(data.news);
