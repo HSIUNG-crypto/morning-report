@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-10-16 14:07:48 (台北時間)",
-  "updated_at_utc": "2025-10-16 06:07:48 (UTC)",
+  "updated_at": "2025-10-16 14:24:21 (台北時間)",
+  "updated_at_utc": "2025-10-16 06:24:21 (UTC)",
   "exchange_rates": {
     "USD/TWD": 30.6022,
     "USD/JPY": 151.0967,
@@ -32,6 +32,10 @@
   "stocks": {},
   "news_economy": [
     {
+      "title": "UK economy grew 0.1% in August",
+      "url": "https://www.bbc.com/news/articles/cq65j9pm508o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Reeves urged to make Budget 'bold' or risk future tax rises",
       "url": "https://www.bbc.com/news/articles/cg7n8v34jvlo?at_medium=RSS&at_campaign=rss"
     },
@@ -46,10 +50,6 @@
     {
       "title": "Baroness Mone-linked PPE firm misses deadline to pay £122m",
       "url": "https://www.bbc.com/news/articles/c629rdgyzl5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US blasts China as 'unreliable' as trade tensions mount",
-      "url": "https://www.bbc.com/news/articles/c5y45x5g140o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -78,5 +78,5 @@
   "forecast_economy": "整體經濟訊號偏弱。留意通膨與政策路徑，控制部位，遇波動以分批為宜。",
   "forecast_markets": "",
   "forecast_ai": "AI 動能偏穩，技術與監管消息交錯。短期以大型雲/晶片為主軸，留意評價壓力。",
-  "summary_text": "匯率：TWD 30.6022(0.0%)，JPY 151.0967(0.0%)，EUR 0.8593(0.0%)。經濟：Reeves urged to make Budget 'bold' or risk future tax rises"
+  "summary_text": "匯率：TWD 30.6022(0.0%)，JPY 151.0967(0.0%)，EUR 0.8593(0.0%)。經濟：UK economy grew 0.1% in August"
 }
