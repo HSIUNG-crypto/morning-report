@@ -179,16 +179,30 @@ async function init(){
   $("year").innerText = new Date().getFullYear();
 
   // 先試 GitHub Pages，再退回本地 data.json
-let data = await loadJSON('https://hsiung-crypto.github.io/morning-report/data.json').catch(err => {
-  console.warn('遠端 data.json 載入失敗：', err);
+// 決定使用哪個來源：
+// - 若網站是在 GitHub Pages (hostname 含 github.io)，走同源 data.json
+// - 若在本機測試 (localhost)，走遠端網址
+const isPages = location.hostname.endsWith("github.io");
+let dataUrl = isPages 
+  ? "data.json?v=" + Date.now() 
+  : "https://hsiung-crypto.github.io/morning-report/data.json?v=" + Date.now();
+
+let data = await loadJSON(dataUrl).catch(err => {
+  console.warn("❌ 載入 data.json 失敗，來源:", dataUrl, err);
   return null;
 });
-if(!data){
-  data = await loadJSON('data.json').catch(err => {
-    console.error('本地 data.json 也載入失敗：', err);
-    return null;
-  });
+
+// 若主要來源抓不到，再換備援來源
+if (!data) {
+  const altUrl = isPages
+    ? "https://hsiung-crypto.github.io/morning-report/data.json?v=" + Date.now()
+    : "data.json?v=" + Date.now();
+  console.log("⚠️ 嘗試備援來源:", altUrl);
+  data = await loadJSON(altUrl).catch(() => null);
 }
+
+console.log("✅ data.json 來源：", isPages ? "同源 (GitHub Pages)" : "遠端/本地");
+
   const quotes = await loadJSON('jewish_quotes.json').catch(()=>[]);
 
   if(data){
