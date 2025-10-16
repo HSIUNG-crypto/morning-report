@@ -138,7 +138,7 @@ async function renderMap(changes){
   try {
     const res = await fetch("https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json");
     const world = await res.json();
-    const {features} = ChartGeo.topojson.features(world, world.objects.countries);
+    const {features} = topojson.feature(world, world.objects.countries);
 
     // 映射主要幣別到國家中點（簡化示意）
     const countryCenter = {
