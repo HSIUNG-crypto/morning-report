@@ -197,18 +197,24 @@ async function init(){
   }).catch(()=>{});
 
   // 朗讀順序：經濟→股市→AI（各 5 則標題）
-  $("btn-read").addEventListener('click', ()=>{
-  const makeText = (arr, label)=>{
-    return (arr||[]).slice(0,5).map(a=>{
-      if(typeof a==="string") return a;
-      return `${a.title||""}。${a.summary||""}`;
-    }).join("。");
-  };
-  const eco = makeText(window.__eco, "經濟");
-  const mkt = makeText(window.__mkt, "股市");
-  const ai  = makeText(window.__ai, "AI");
-  const text = `今日重點新聞。全球經濟：${eco}。全球股市：${mkt}。AI 智慧：${ai}。`;
+    $("btn-read").addEventListener('click', ()=>{
+    const makeText = (arr, label)=>{
+      return (arr||[]).slice(0,5).map(a=>{
+        if(typeof a==="string") return a;
+        return `${a.title||""}。${a.summary||""}`;
+      }).join("。");
+    };
+    const eco = makeText(window.__eco, "經濟");
+    const mkt = makeText(window.__mkt, "股市");
+    const ai  = makeText(window.__ai, "AI");
+    const text = `今日重點新聞。全球經濟：${eco}。全球股市：${mkt}。AI 智慧：${ai}。`;
 
-}
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = "zh-TW";
+    speechSynthesis.speak(u);
+  }); // ← 關閉事件監聽器
 
-init();
+} // ← 關閉 init 函式
+
+init(); // ← 呼叫初始化
+
