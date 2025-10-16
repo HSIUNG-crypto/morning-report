@@ -1,9 +1,32 @@
 {
-  "updated_at": "2025-10-15 23:28:34",
+  "updated_at": "2025-10-16 02:35:45",
   "exchange_rates": {
-    "USD/TWD": 30.71,
-    "USD/JPY": 151.78,
-    "USD/EUR": 0.86
+    "USD/TWD": 30.6022,
+    "USD/JPY": 151.0967,
+    "USD/EUR": 0.8593,
+    "USD/GBP": 0.7472,
+    "USD/CNY": 7.1282,
+    "USD/AUD": 1.5367,
+    "USD/CAD": 1.4042,
+    "USD/CHF": 0.7981,
+    "USD/HKD": 7.7745,
+    "USD/KRW": 1422.3394,
+    "USD/SGD": 1.2961,
+    "USD/INR": 88.0112
+  },
+  "exchange_changes": {
+    "USD/TWD": -0.35,
+    "USD/JPY": -0.45,
+    "USD/EUR": -0.08,
+    "USD/GBP": null,
+    "USD/CNY": null,
+    "USD/AUD": null,
+    "USD/CAD": null,
+    "USD/CHF": null,
+    "USD/HKD": null,
+    "USD/KRW": null,
+    "USD/SGD": null,
+    "USD/INR": null
   },
   "stocks": {},
   "news": [
@@ -16,12 +39,9 @@
       "url": "https://www.bbc.com/news/articles/cr43xkv3y4go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump says Modi pledged India would stop buying Russian oil",
-      "url": "https://www.ft.com/content/3d9949f5-2aeb-49c5-a038-e351dfe04c5a"
-    },
-    {
-      "title": "Reeves needs to fill £22bn hole in UK public finances, IFS says",
-      "url": "https://www.ft.com/content/57afbb4a-93a6-4829-b135-86d62d97a69b"
+      "title": "Baroness Mone-linked PPE firm misses deadline to pay £122m",
+      "url": "https://www.bbc.com/news/articles/c629rdgyzl5o?at_medium=RSS&at_campaign=rss"
     }
-  ]
+  ],
+  "summary_text": "匯率：TWD 30.6022(-0.35%)，JPY 151.0967(-0.45%)，EUR 0.8593(-0.08%)。頭條：Reeves urged to make Budget 'bold' or risk future tax rises"
 }
