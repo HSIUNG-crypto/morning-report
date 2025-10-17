@@ -100,11 +100,17 @@ RSS_AI = [
     "https://feeds.feedburner.com/TechCrunch/"
 ]
 
+# 🧩 RSS 讀取：加上 User-Agent，避免伺服器拒絕匿名連線
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; NightCatMorning/1.0; +https://github.com/HSIUNG-crypto/morning-report)"
+}
+
 def fetch_rss_batch(urls, max_items=5):
     items = []
     for url in urls:
         try:
-            d = feedparser.parse(url)
+            # ✅ 關鍵修改點：加上 request_headers=HEADERS
+            d = feedparser.parse(url, request_headers=HEADERS)
             for e in d.entries[:max_items]:
                 title = e.get("title","").strip()
                 link = e.get("link","").strip()
