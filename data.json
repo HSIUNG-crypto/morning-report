@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-10-17 21:02:21 (台北時間)",
-  "updated_at_utc": "2025-10-17 13:02:21 (UTC)",
+  "updated_at": "2025-10-17 21:04:10 (台北時間)",
+  "updated_at_utc": "2025-10-17 13:04:10 (UTC)",
   "exchange_rates": {
     "USD/TWD": 30.6247,
     "USD/JPY": 150.4604,
@@ -47,12 +47,12 @@
       "change": -1.44
     },
     "德國DAX": {
-      "price": 23926.58,
-      "change": -1.42
+      "price": 23914.28,
+      "change": -1.47
     },
     "英國FTSE": {
-      "price": 9353.46,
-      "change": -0.88
+      "price": 9351.4,
+      "change": -0.9
     },
     "恆生指數": {
       "price": 25247.1,
