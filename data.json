@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "updated_at": "2025-10-17 09:43:05 (台北時間)",
   "updated_at_utc": "2025-10-17 01:43:05 (UTC)",
+=======
+  "updated_at": "2025-10-17 10:37:48 (台北時間)",
+  "updated_at_utc": "2025-10-17 02:37:48 (UTC)",
+>>>>>>> 4052d8a (seed: add first data.json with stocks & fx)
   "exchange_rates": {
     "USD/TWD": 30.6247,
     "USD/JPY": 150.4604,
@@ -63,6 +68,43 @@
       "change": -0.85
     }
   },
+<<<<<<< HEAD
+=======
+  "stocks": {
+    "道瓊": {
+      "price": NaN,
+      "change": NaN
+    },
+    "那斯達克": {
+      "price": NaN,
+      "change": NaN
+    },
+    "S&P 500": {
+      "price": NaN,
+      "change": NaN
+    },
+    "日經225": {
+      "price": 47902.4,
+      "change": -0.78
+    },
+    "德國DAX": {
+      "price": NaN,
+      "change": NaN
+    },
+    "英國FTSE": {
+      "price": NaN,
+      "change": NaN
+    },
+    "恆生指數": {
+      "price": 25515.48,
+      "change": -1.44
+    },
+    "台灣加權": {
+      "price": 27366.43,
+      "change": -1.02
+    }
+  },
+>>>>>>> 4052d8a (seed: add first data.json with stocks & fx)
   "news_economy": [
     {
       "title": "Cafes and food delivery apps are our new rivals, Greene King CEO says",
@@ -108,7 +150,13 @@
       "url": "https://arstechnica.com/ai/2025/10/chatgpt-will-soon-allow-erotic-chats-for-verified-adults-only/"
     }
   ],
+<<<<<<< HEAD
   "forecast_economy": "經濟情勢偏強，短期以大型雲/晶片為主軸，留意評價壓力。",
   "forecast_markets": "市場情勢偏穩，短期以大型雲/晶片為主軸，留意評價壓力。",
   "forecast_ai": "AI情勢偏穩，短期以大型雲/晶片為主軸，留意評價壓力。"
+=======
+  "forecast_economy": "經濟訊號偏強。留意通膨與政策路徑，控制部位，遇波動以分批為宜。",
+  "forecast_markets": "",
+  "forecast_ai": "AI訊號偏穩。短期以大型雲/晶片為主軸，留意評價壓力。"
+>>>>>>> 4052d8a (seed: add first data.json with stocks & fx)
 }
