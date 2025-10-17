@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
-  "updated_at": "2025-10-17 09:43:05 (台北時間)",
-  "updated_at_utc": "2025-10-17 01:43:05 (UTC)",
-=======
-  "updated_at": "2025-10-17 10:37:48 (台北時間)",
-  "updated_at_utc": "2025-10-17 02:37:48 (UTC)",
->>>>>>> 4052d8a (seed: add first data.json with stocks & fx)
+  "updated_at": "2025-10-17 13:21:20 (台北時間)",
+  "updated_at_utc": "2025-10-17 05:21:20 (UTC)",
   "exchange_rates": {
     "USD/TWD": 30.6247,
     "USD/JPY": 150.4604,
@@ -21,18 +16,18 @@
     "USD/INR": 87.9653
   },
   "exchange_changes": {
-    "USD/TWD": 0.07,
-    "USD/JPY": -0.42,
-    "USD/EUR": -0.35,
-    "USD/GBP": -0.4,
-    "USD/CNY": -0.05,
-    "USD/AUD": 0.31,
-    "USD/CAD": 0.09,
-    "USD/CHF": -0.46,
-    "USD/HKD": -0.04,
-    "USD/KRW": -0.42,
-    "USD/SGD": -0.15,
-    "USD/INR": -0.05
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -43,13 +38,13 @@
       "price": NaN,
       "change": NaN
     },
-    "S&P 500": {
+    "S&P500": {
       "price": NaN,
       "change": NaN
     },
     "日經225": {
-      "price": 48113.03,
-      "change": -0.34
+      "price": 47619.58,
+      "change": -1.36
     },
     "德國DAX": {
       "price": NaN,
@@ -59,52 +54,15 @@
       "price": NaN,
       "change": NaN
     },
-    "恆生指數": {
-      "price": 25851.94,
-      "change": -0.14
+    "恆生": {
+      "price": 25453.86,
+      "change": -1.68
     },
     "台灣加權": {
-      "price": 27411.86,
-      "change": -0.85
+      "price": 27401.71,
+      "change": -0.89
     }
   },
-<<<<<<< HEAD
-=======
-  "stocks": {
-    "道瓊": {
-      "price": NaN,
-      "change": NaN
-    },
-    "那斯達克": {
-      "price": NaN,
-      "change": NaN
-    },
-    "S&P 500": {
-      "price": NaN,
-      "change": NaN
-    },
-    "日經225": {
-      "price": 47902.4,
-      "change": -0.78
-    },
-    "德國DAX": {
-      "price": NaN,
-      "change": NaN
-    },
-    "英國FTSE": {
-      "price": NaN,
-      "change": NaN
-    },
-    "恆生指數": {
-      "price": 25515.48,
-      "change": -1.44
-    },
-    "台灣加權": {
-      "price": 27366.43,
-      "change": -1.02
-    }
-  },
->>>>>>> 4052d8a (seed: add first data.json with stocks & fx)
   "news_economy": [
     {
       "title": "Cafes and food delivery apps are our new rivals, Greene King CEO says",
@@ -123,8 +81,8 @@
       "url": "https://www.bbc.com/news/articles/c8eykkgdze5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Spotify working on AI music tools with major record labels",
-      "url": "https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&at_campaign=rss"
+      "title": "China has found Trump's pain point - rare earths",
+      "url": "https://www.bbc.com/news/articles/ckg1jr18z4ko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -150,13 +108,7 @@
       "url": "https://arstechnica.com/ai/2025/10/chatgpt-will-soon-allow-erotic-chats-for-verified-adults-only/"
     }
   ],
-<<<<<<< HEAD
-  "forecast_economy": "經濟情勢偏強，短期以大型雲/晶片為主軸，留意評價壓力。",
-  "forecast_markets": "市場情勢偏穩，短期以大型雲/晶片為主軸，留意評價壓力。",
-  "forecast_ai": "AI情勢偏穩，短期以大型雲/晶片為主軸，留意評價壓力。"
-=======
-  "forecast_economy": "經濟訊號偏強。留意通膨與政策路徑，控制部位，遇波動以分批為宜。",
-  "forecast_markets": "",
+  "forecast_economy": "經濟訊號偏穩。留意通膨與政策路徑，控制部位，遇波動以分批為宜。",
+  "forecast_markets": "市場訊號偏穩。聚焦高流動性資產，嚴設停損與風險限額。",
   "forecast_ai": "AI訊號偏穩。短期以大型雲/晶片為主軸，留意評價壓力。"
->>>>>>> 4052d8a (seed: add first data.json with stocks & fx)
 }
