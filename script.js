@@ -154,22 +154,31 @@ async function renderMap(changes){
     });
 
     const ctx = $("map").getContext("2d");
-    new Chart(ctx, {
-      type: 'bubbleMap',
-      data: {
-        labels: dataPoints.map(()=> ''),
-        datasets: [{
-          outline: features,
-          showOutline: true,
-          backgroundColor: ctx => ctx.raw.value >= 0 ? 'rgba(61,220,145,0.45)' : 'rgba(255,107,107,0.45)',
-          data: dataPoints.map(p => ({...p, r: Math.max(2, Math.min(18, Math.abs(p.value) * 3))}))
-        }]
+new Chart(ctx, {
+  type: 'bubbleMap',
+  data: {
+    labels: dataPoints.map(() => ''),
+    datasets: [{
+      parsing: false, // ✅ 防止 Chart.js 自動解析
+      outline: features,
+      showOutline: true,
+      backgroundColor: (context) => { // ✅ 防呆：避免 raw 未定義
+        const raw = context && context.raw ? context.raw : {};
+        const v = (typeof raw.value === 'number') ? raw.value : 0;
+        return v >= 0 ? 'rgba(61,220,145,0.45)' : 'rgba(255,107,107,0.45)';
       },
-      options: {
-        plugins: { legend: { display: false } },
-        scales: { xy: { projection: 'equalEarth' } }
-      }
-    });
+      data: dataPoints.map(p => ({
+        ...p,
+        r: Math.max(2, Math.min(18, Math.abs(Number(p.value) || 0) * 3))
+      }))
+    }]
+  },
+  options: {
+    plugins: { legend: { display: false } },
+    scales: { xy: { projection: 'equalEarth' } }
+  }
+});
+
   } catch (e) {
     console.warn("地圖載入失敗：", e);
   }
