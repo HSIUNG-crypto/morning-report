@@ -19,10 +19,13 @@ function colorForDelta(pct){
 }
 
 async function loadJSON(path){
-  const res = await fetch(path, {cache:'no-store'});
-  if(!res.ok) throw new Error(`fetch ${path}: ${res.status}`);
+  // 🔹 每次加上隨機查詢參數，避免 304 快取
+  const url = path.includes('?') ? `${path}&_=${Date.now()}` : `${path}?_=${Date.now()}`;
+  const res = await fetch(url, {cache:'no-store'});
+  if(!res.ok) throw new Error(`fetch ${url}: ${res.status}`);
   return res.json();
 }
+
 function pickDaily(arr){
   if(!arr?.length) return null;
   const seed = new Date().toISOString().slice(0,10).replace(/-/g,'');
@@ -191,10 +194,9 @@ async function init(){
 // 決定使用哪個來源：
 // - 若網站是在 GitHub Pages (hostname 含 github.io)，走同源 data.json
 // - 若在本機測試 (localhost)，走遠端網址
-const isPages = location.hostname.endsWith("github.io");
-let dataUrl = isPages 
-  ? "data.json?v=" + Date.now() 
-  : "https://hsiung-crypto.github.io/morning-report/data.json?v=" + Date.now();
+// 🚀 無論在本地或 Pages，都直接抓 GitHub 版本
+const dataUrl = "https://hsiung-crypto.github.io/morning-report/data.json";
+
 
 let data = await loadJSON(dataUrl).catch(err => {
   console.warn("❌ 載入 data.json 失敗，來源:", dataUrl, err);
