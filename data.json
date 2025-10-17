@@ -1,35 +1,68 @@
 {
-  "updated_at": "2025-10-17 07:25:06 (台北時間)",
-  "updated_at_utc": "2025-10-16 23:25:06 (UTC)",
+  "updated_at": "2025-10-17 09:43:05 (台北時間)",
+  "updated_at_utc": "2025-10-17 01:43:05 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.6022,
-    "USD/JPY": 151.0967,
-    "USD/EUR": 0.8593,
-    "USD/GBP": 0.7472,
-    "USD/CNY": 7.1282,
-    "USD/AUD": 1.5367,
-    "USD/CAD": 1.4042,
-    "USD/CHF": 0.7981,
-    "USD/HKD": 7.7745,
-    "USD/KRW": 1422.3394,
-    "USD/SGD": 1.2961,
-    "USD/INR": 88.0112
+    "USD/TWD": 30.6247,
+    "USD/JPY": 150.4604,
+    "USD/EUR": 0.8563,
+    "USD/GBP": 0.7442,
+    "USD/CNY": 7.1248,
+    "USD/AUD": 1.5415,
+    "USD/CAD": 1.4055,
+    "USD/CHF": 0.7944,
+    "USD/HKD": 7.7715,
+    "USD/KRW": 1416.3767,
+    "USD/SGD": 1.2942,
+    "USD/INR": 87.9653
   },
   "exchange_changes": {
-    "USD/TWD": 0.0,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.0,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.0
+    "USD/TWD": 0.07,
+    "USD/JPY": -0.42,
+    "USD/EUR": -0.35,
+    "USD/GBP": -0.4,
+    "USD/CNY": -0.05,
+    "USD/AUD": 0.31,
+    "USD/CAD": 0.09,
+    "USD/CHF": -0.46,
+    "USD/HKD": -0.04,
+    "USD/KRW": -0.42,
+    "USD/SGD": -0.15,
+    "USD/INR": -0.05
   },
-  "stocks": {},
+  "stocks": {
+    "道瓊": {
+      "price": NaN,
+      "change": NaN
+    },
+    "那斯達克": {
+      "price": NaN,
+      "change": NaN
+    },
+    "S&P 500": {
+      "price": NaN,
+      "change": NaN
+    },
+    "日經225": {
+      "price": 48113.03,
+      "change": -0.34
+    },
+    "德國DAX": {
+      "price": NaN,
+      "change": NaN
+    },
+    "英國FTSE": {
+      "price": NaN,
+      "change": NaN
+    },
+    "恆生指數": {
+      "price": 25851.94,
+      "change": -0.14
+    },
+    "台灣加權": {
+      "price": 27411.86,
+      "change": -0.85
+    }
+  },
   "news_economy": [
     {
       "title": "Cafes and food delivery apps are our new rivals, Greene King CEO says",
@@ -52,28 +85,7 @@
       "url": "https://www.bbc.com/news/articles/cn7emv83edjo?at_medium=RSS&at_campaign=rss"
     }
   ],
-  "news_markets": [
-    {
-      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
-      "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main"
-    },
-    {
-      "title": "Comex Gold, Silver Settle Lower",
-      "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main"
-    },
-    {
-      "title": "DeepSeek Won't Sink U.S. AI Titans",
-      "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main"
-    },
-    {
-      "title": "Financial Services Roundup: Market Talk",
-      "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main"
-    },
-    {
-      "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
-      "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main"
-    }
-  ],
+  "news_markets": [],
   "news_ai": [
     {
       "title": "Nation-state hackers deliver malware from “bulletproof” blockchains",
@@ -96,8 +108,7 @@
       "url": "https://arstechnica.com/ai/2025/10/chatgpt-will-soon-allow-erotic-chats-for-verified-adults-only/"
     }
   ],
-  "forecast_economy": "整體經濟訊號偏強。留意通膨與政策路徑，控制部位，遇波動以分批為宜。",
-  "forecast_markets": "市場情緒偏強，板塊輪動可能加速。建議聚焦高流動性資產，嚴設停損與風險限額。",
-  "forecast_ai": "AI 動能偏穩，技術與監管消息交錯。短期以大型雲/晶片為主軸，留意評價壓力。",
-  "summary_text": "匯率：TWD 30.6022(0.0%)，JPY 151.0967(0.0%)，EUR 0.8593(0.0%)。經濟：Cafes and food delivery apps are our new rivals, Greene King CEO says"
+  "forecast_economy": "經濟情勢偏強，短期以大型雲/晶片為主軸，留意評價壓力。",
+  "forecast_markets": "市場情勢偏穩，短期以大型雲/晶片為主軸，留意評價壓力。",
+  "forecast_ai": "AI情勢偏穩，短期以大型雲/晶片為主軸，留意評價壓力。"
 }
