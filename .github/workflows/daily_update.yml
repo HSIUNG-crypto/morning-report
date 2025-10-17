@@ -2,11 +2,11 @@ name: 🕗 Daily Morning Report Update
 
 on:
   schedule:
-    - cron: '0 23 * * *'   # 每天 UTC 23 點 = 台北早上 7 點
-  workflow_dispatch:
+    - cron: '0 0 * * *'   # 每天 UTC 0 點（台北 08:00）
+  workflow_dispatch:       # 允許手動觸發
 
 permissions:
-  contents: write
+  contents: write          # 允許推回 repo（必要）
 
 jobs:
   update:
@@ -15,8 +15,6 @@ jobs:
     steps:
       - name: 📥 Checkout repo
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
@@ -25,16 +23,15 @@ jobs:
 
       - name: 📦 Install dependencies
         run: |
-          pip install --upgrade pip
-          pip install requests feedparser yfinance pandas numpy lxml tzdata
+          pip install requests feedparser yfinance tzdata
 
-      - name: 📰 Run morning.py
+      - name: 📰 Run morning.py to update data.json
         run: python morning.py
 
-      - name: 💾 Commit & Push data.json
+      - name: 💾 Commit & Push updated data.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "auto: update data.json [skip ci]" || echo "No changes"
+          git commit -m "auto: update data.json [skip ci]" || echo "No changes to commit"
           git push
