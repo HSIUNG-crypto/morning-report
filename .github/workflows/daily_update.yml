@@ -1,49 +1,34 @@
-name: Daily data update
+name: 🕗 Daily Morning Report Update
 
 on:
   schedule:
-    - cron: '0 23 * * *'   # 台北 07:00
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '0 0 * * *'   # 每天 UTC 0:00 執行（台北時間早上 8:00）
+  workflow_dispatch:       # 允許手動觸發執行
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      - name: 📥 Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.11'
 
-      - name: Install dependencies
+      - name: 📦 Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install requests yfinance feedparser numpy pandas lxml pytz
-          # 有設 OPENAI_API_KEY 才需要 openai；安裝失敗也不影響主流程
-          pip install openai || true
+          pip install requests feedparser yfinance tzdata
 
-      - name: Run fetch script
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python fetch_data.py
+      - name: 📰 Run morning.py to update data.json
+        run: python morning.py
 
-      - name: Commit and push updated data
+      - name: 💾 Commit & Push updated data.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          changed=0
-          git add data.json && changed=1 || true
-          if [ -f "morning.mp3" ]; then git add morning.mp3 && changed=1; fi
-          if [ $changed -eq 1 ]; then
-            git commit -m "chore: daily data refresh [skip ci]" || true
-            git push || true
-          else
-            echo "No changes"
-          fi
-
-
+          git add data.json
+          git commit -m "auto: update data.json [skip ci]" || echo "No changes to commit"
+          git push
