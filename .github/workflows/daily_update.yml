@@ -2,8 +2,11 @@ name: 🕗 Daily Morning Report Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # 每天 UTC 0:00 執行（台北時間早上 8:00）
-  workflow_dispatch:       # 允許手動觸發執行
+    - cron: '0 0 * * *'   # 每天 UTC 0 點 (台北早上 8 點)
+  workflow_dispatch:       # 手動執行
+
+permissions:
+  contents: write          # 🟢 關鍵！允許 push 回 repo
 
 jobs:
   update:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: 📥 Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ 使用 GitHub 預設的安全 Token
 
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
