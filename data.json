@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-10-17 22:04:11 (台北時間)",
-  "updated_at_utc": "2025-10-17 14:04:11 (UTC)",
+  "updated_at": "2025-10-18 08:36:16 (台北時間)",
+  "updated_at_utc": "2025-10-18 00:36:16 (UTC)",
   "exchange_rates": {
     "USD/TWD": 30.6247,
     "USD/JPY": 150.4604,
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "UK stock market hit by nerves over US banks",
+      "title": "How nervous are investors about the stock market?",
+      "url": "https://www.bbc.com/news/articles/cq502xl53xqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Lamborghini swerves away from all-electric future",
+      "url": "https://www.bbc.com/news/articles/clykvq2955qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Squeaky shoes lead to lawsuit for being 'embarrassing'",
+      "url": "https://www.bbc.com/news/articles/c803lzr87yno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Landmark deal to cut global shipping emissions in tatters after US pressure",
+      "url": "https://www.bbc.com/news/articles/c3vnl0yxg53o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Fears over US banks cause stock market jitters",
       "url": "https://www.bbc.com/news/articles/c4gjz82wx4wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Cafes and food delivery apps are our new rivals, says Greene King boss",
-      "url": "https://www.bbc.com/news/articles/cd9kd14pgzgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "British Gas owner among firms fined for underpaying staff",
-      "url": "https://www.bbc.com/news/articles/c4g7zrmpld0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Major UK rare earths refinery scrapped in favour of US",
-      "url": "https://www.bbc.com/news/articles/czxnv7y03nno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'You are willing to lose the money, but not the person' says romance scam victim",
-      "url": "https://www.bbc.com/news/articles/c24l5301gg8o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/ai/2025/10/chatgpt-will-soon-allow-erotic-chats-for-verified-adults-only/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
