@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-10-21 11:16:52 (台北時間)",
-  "updated_at_utc": "2025-10-21 03:16:52 (UTC)",
+  "updated_at": "2025-10-22 10:12:05 (台北時間)",
+  "updated_at_utc": "2025-10-22 02:12:05 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.5837,
-    "USD/JPY": 150.7033,
-    "USD/EUR": 0.8584,
-    "USD/GBP": 0.7457,
-    "USD/CNY": 7.0973,
-    "USD/AUD": 1.5366,
-    "USD/CAD": 1.4035,
-    "USD/CHF": 0.7925,
-    "USD/HKD": 7.7684,
-    "USD/KRW": 1421.0329,
-    "USD/SGD": 1.294,
-    "USD/INR": 87.9348
+    "USD/TWD": 30.6702,
+    "USD/JPY": 151.5132,
+    "USD/EUR": 0.8613,
+    "USD/GBP": 0.7477,
+    "USD/CNY": 7.093,
+    "USD/AUD": 1.5404,
+    "USD/CAD": 1.4031,
+    "USD/CHF": 0.796,
+    "USD/HKD": 7.7715,
+    "USD/KRW": 1430.0075,
+    "USD/SGD": 1.298,
+    "USD/INR": 88.0293
   },
   "exchange_changes": {
-    "USD/TWD": -0.15,
-    "USD/JPY": -0.03,
-    "USD/EUR": 0.1,
-    "USD/GBP": 0.12,
-    "USD/CNY": 0.03,
-    "USD/AUD": -0.19,
-    "USD/CAD": 0.11,
-    "USD/CHF": -0.09,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.04,
-    "USD/SGD": -0.11,
-    "USD/INR": -0.14
+    "USD/TWD": 0.28,
+    "USD/JPY": 0.54,
+    "USD/EUR": 0.34,
+    "USD/GBP": 0.27,
+    "USD/CNY": -0.06,
+    "USD/AUD": 0.25,
+    "USD/CAD": -0.03,
+    "USD/CHF": 0.44,
+    "USD/HKD": 0.04,
+    "USD/KRW": 0.63,
+    "USD/SGD": 0.31,
+    "USD/INR": 0.11
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "I finished building my house just before new tariffs hit",
-      "url": "https://www.bbc.com/news/articles/c2emdm84xjko?at_medium=RSS&at_campaign=rss"
+      "title": "The £5.30 orange juice that tells the story of why supermarket prices are sky high",
+      "url": "https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Pizza Hut to close 68 UK restaurants",
-      "url": "https://www.bbc.com/news/articles/c07mk59pzkpo?at_medium=RSS&at_campaign=rss"
+      "title": "Fining firms for sewage spills will get 'quicker and easier', says government",
+      "url": "https://www.bbc.com/news/articles/c4gz7xyr2g7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Penguin and Club bars can no longer be called chocolate",
-      "url": "https://www.bbc.com/news/articles/c86737yg3jlo?at_medium=RSS&at_campaign=rss"
+      "title": "ChatGPT-maker OpenAI releases browser in attempt to rival Google",
+      "url": "https://www.bbc.com/news/articles/c07mz10m1k9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Spike in Disney+ cancellations after Kimmel suspension",
-      "url": "https://www.bbc.com/news/articles/c1wle4dx4qwo?at_medium=RSS&at_campaign=rss"
+      "title": "Our biggest competition is screens at home, says theme park boss",
+      "url": "https://www.bbc.com/news/articles/crl2kz6w3zyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What's the best way to detect and destroy drones?",
-      "url": "https://www.bbc.com/news/articles/cy40yjz10ydo?at_medium=RSS&at_campaign=rss"
+      "title": "Bank chief says US firm collapses ring 'alarm bells'",
+      "url": "https://www.bbc.com/news/articles/cvgv102n4gwo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
