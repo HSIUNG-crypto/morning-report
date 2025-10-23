@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-10-22 11:35:01 (台北時間)",
-  "updated_at_utc": "2025-10-22 03:35:01 (UTC)",
+  "updated_at": "2025-10-23 11:13:54 (台北時間)",
+  "updated_at_utc": "2025-10-23 03:13:54 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.6702,
-    "USD/JPY": 151.5132,
-    "USD/EUR": 0.8613,
-    "USD/GBP": 0.7477,
-    "USD/CNY": 7.093,
-    "USD/AUD": 1.5404,
-    "USD/CAD": 1.4031,
-    "USD/CHF": 0.796,
-    "USD/HKD": 7.7715,
-    "USD/KRW": 1430.0075,
-    "USD/SGD": 1.298,
-    "USD/INR": 88.0293
+    "USD/TWD": 30.7433,
+    "USD/JPY": 151.8115,
+    "USD/EUR": 0.8617,
+    "USD/GBP": 0.7489,
+    "USD/CNY": 7.0954,
+    "USD/AUD": 1.541,
+    "USD/CAD": 1.4004,
+    "USD/CHF": 0.7963,
+    "USD/HKD": 7.7711,
+    "USD/KRW": 1431.7959,
+    "USD/SGD": 1.2981,
+    "USD/INR": 87.8519
   },
   "exchange_changes": {
-    "USD/TWD": 0.0,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.0,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.0
+    "USD/TWD": 0.24,
+    "USD/JPY": 0.2,
+    "USD/EUR": 0.05,
+    "USD/GBP": 0.16,
+    "USD/CNY": 0.03,
+    "USD/AUD": 0.04,
+    "USD/CAD": -0.19,
+    "USD/CHF": 0.04,
+    "USD/HKD": -0.01,
+    "USD/KRW": 0.13,
+    "USD/SGD": 0.01,
+    "USD/INR": -0.2
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "The £5.30 orange juice that tells the story of why supermarket prices are sky high",
-      "url": "https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss"
+      "title": "Tesla profits slide despite record revenue",
+      "url": "https://www.bbc.com/news/articles/cql9yqxllqdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Fining firms for sewage spills will get 'quicker and easier', says government",
-      "url": "https://www.bbc.com/news/articles/c4gz7xyr2g7o?at_medium=RSS&at_campaign=rss"
+      "title": "Amazon unveils prototype AI smart glasses for its delivery drivers",
+      "url": "https://www.bbc.com/news/articles/c0rpzrrgqvlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Labubu maker sees sales soar after launch of mini version of toy",
-      "url": "https://www.bbc.com/news/articles/cg51d0qql24o?at_medium=RSS&at_campaign=rss"
+      "title": "Temu agrees to remove rip-off greeting cards from its site more quickly",
+      "url": "https://www.bbc.com/news/articles/c2kpg9jyn0po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ChatGPT-maker OpenAI releases browser in attempt to rival Google",
-      "url": "https://www.bbc.com/news/articles/c07mz10m1k9o?at_medium=RSS&at_campaign=rss"
+      "title": "London Stock Exchange bouncing back, says metals magnate",
+      "url": "https://www.bbc.com/news/articles/cq50z91z6q4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Our biggest competition is screens at home, says theme park boss",
-      "url": "https://www.bbc.com/news/articles/crl2kz6w3zyo?at_medium=RSS&at_campaign=rss"
+      "title": "Stable inflation gives chancellor space to break doom loop",
+      "url": "https://www.bbc.com/news/articles/cjekv555xxdo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Cache poisoning vulnerabilities found in 2 DNS resolving apps",
+      "url": "https://arstechnica.com/security/2025/10/bind-warns-of-bugs-that-could-bring-dns-cache-attack-back-from-the-dead/"
+    },
     {
       "title": "NSO permanently barred from targeting WhatsApp users with Pegasus spyware",
       "url": "https://arstechnica.com/security/2025/10/nso-permanently-barred-from-targeting-whatsapp-users-with-pegasus-spyware/"
@@ -102,13 +106,9 @@
     {
       "title": "Thousands of customers imperiled after nation-state ransacks F5’s network",
       "url": "https://arstechnica.com/security/2025/10/breach-of-f5-requires-emergency-action-from-big-ip-users-feds-warn/"
-    },
-    {
-      "title": "Anthropic’s Claude Haiku 4.5 matches May’s frontier model at fraction of cost",
-      "url": "https://arstechnica.com/ai/2025/10/anthropics-claude-haiku-4-5-matches-mays-frontier-model-at-fraction-of-cost/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
