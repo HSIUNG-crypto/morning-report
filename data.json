@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-10-30 11:33:31 (台北時間)",
-  "updated_at_utc": "2025-10-30 03:33:31 (UTC)",
+  "updated_at": "2025-10-31 11:33:43 (台北時間)",
+  "updated_at_utc": "2025-10-31 03:33:43 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.6022,
-    "USD/JPY": 152.4192,
-    "USD/EUR": 0.8604,
-    "USD/GBP": 0.7572,
-    "USD/CNY": 7.1031,
-    "USD/AUD": 1.5185,
-    "USD/CAD": 1.393,
-    "USD/CHF": 0.7987,
-    "USD/HKD": 7.7704,
-    "USD/KRW": 1424.8646,
-    "USD/SGD": 1.2956,
-    "USD/INR": 88.3165
+    "USD/TWD": 30.7131,
+    "USD/JPY": 153.9178,
+    "USD/EUR": 0.8635,
+    "USD/GBP": 0.76,
+    "USD/CNY": 7.1135,
+    "USD/AUD": 1.5259,
+    "USD/CAD": 1.3978,
+    "USD/CHF": 0.8017,
+    "USD/HKD": 7.7692,
+    "USD/KRW": 1430.251,
+    "USD/SGD": 1.3003,
+    "USD/INR": 88.6768
   },
   "exchange_changes": {
-    "USD/TWD": 0.11,
-    "USD/JPY": 0.16,
-    "USD/EUR": 0.26,
-    "USD/GBP": 0.57,
-    "USD/CNY": 0.06,
-    "USD/AUD": -0.22,
-    "USD/CAD": -0.2,
-    "USD/CHF": 0.59,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.59,
-    "USD/SGD": 0.08,
-    "USD/INR": 0.03
+    "USD/TWD": 0.36,
+    "USD/JPY": 0.98,
+    "USD/EUR": 0.36,
+    "USD/GBP": 0.37,
+    "USD/CNY": 0.15,
+    "USD/AUD": 0.49,
+    "USD/CAD": 0.34,
+    "USD/CHF": 0.38,
+    "USD/HKD": -0.02,
+    "USD/KRW": 0.38,
+    "USD/SGD": 0.36,
+    "USD/INR": 0.41
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
+      "title": "Apple claims 'tremendous' global uptake of latest iPhones",
+      "url": "https://www.bbc.com/news/articles/cz6n98exv9zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Watchdog slams O2 over unexpected price rise",
+      "url": "https://www.bbc.com/news/articles/cd047vl9ylpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Virgin cleared to challenge Eurostar on Channel Tunnel route",
+      "url": "https://www.bbc.com/news/articles/cy8v5z15551o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump hails 'amazing' meeting with China's Xi but no formal trade deal agreed",
+      "url": "https://www.bbc.com/news/articles/crl25xl1gjpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Thousands could have energy debt written off but bills would go up for others",
       "url": "https://www.bbc.com/news/articles/c4gpzynky88o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Spooky spending creeping in weeks before Halloween",
-      "url": "https://www.bbc.com/news/articles/ce9d3kpdp4do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Tit-for-tat tariffs, a shaky truce and turmoil: How we got to the Trump-Xi meeting",
-      "url": "https://www.bbc.com/news/articles/c986j98qmj1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Tech giants are spending big on AI in rush to dominate the boom",
-      "url": "https://www.bbc.com/news/articles/c5yp2y8rdpro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Fed cuts US interest rates again despite 'flying blind'",
-      "url": "https://www.bbc.com/news/articles/c5y0p7g7560o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "ChatGPT maker reportedly eyes $1 trillion IPO despite major quarterly losses",
+      "url": "https://arstechnica.com/ai/2025/10/is-openai-worth-1-trillion-potential-ipo-may-reveal-the-answer/"
+    },
+    {
+      "title": "After teen death lawsuits, Character.AI will restrict chats for under-18 users",
+      "url": "https://arstechnica.com/information-technology/2025/10/after-teen-death-lawsuits-character-ai-will-restrict-chats-for-under-18-users/"
+    },
     {
       "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
       "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
@@ -98,17 +106,9 @@
     {
       "title": "New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel",
       "url": "https://arstechnica.com/security/2025/10/new-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel/"
-    },
-    {
-      "title": "OpenAI data suggests 1 million users discuss suicide with ChatGPT weekly",
-      "url": "https://arstechnica.com/ai/2025/10/openai-data-suggests-1-million-users-discuss-suicide-with-chatgpt-weekly/"
-    },
-    {
-      "title": "Expert panel will determine AGI arrival in new Microsoft-OpenAI agreement",
-      "url": "https://arstechnica.com/information-technology/2025/10/expert-panel-will-determine-agi-arrival-in-new-microsoft-openai-agreement/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
