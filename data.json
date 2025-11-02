@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-11-01 11:32:05 (台北時間)",
-  "updated_at_utc": "2025-11-01 03:32:05 (UTC)",
+  "updated_at": "2025-11-02 11:36:07 (台北時間)",
+  "updated_at_utc": "2025-11-02 03:36:07 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.764,
-    "USD/JPY": 154.1073,
-    "USD/EUR": 0.8661,
+    "USD/TWD": 30.7618,
+    "USD/JPY": 154.0817,
+    "USD/EUR": 0.866,
     "USD/GBP": 0.7609,
-    "USD/CNY": 7.1204,
+    "USD/CNY": 7.1216,
     "USD/AUD": 1.5281,
-    "USD/CAD": 1.4008,
-    "USD/CHF": 0.8041,
+    "USD/CAD": 1.4005,
+    "USD/CHF": 0.804,
     "USD/HKD": 7.7708,
-    "USD/KRW": 1428.2799,
-    "USD/SGD": 1.3011,
-    "USD/INR": 88.7758
+    "USD/KRW": 1428.2401,
+    "USD/SGD": 1.3006,
+    "USD/INR": 88.7594
   },
   "exchange_changes": {
-    "USD/TWD": 0.17,
-    "USD/JPY": 0.12,
-    "USD/EUR": 0.3,
-    "USD/GBP": 0.12,
-    "USD/CNY": 0.1,
-    "USD/AUD": 0.14,
-    "USD/CAD": 0.21,
-    "USD/CHF": 0.3,
-    "USD/HKD": 0.02,
-    "USD/KRW": -0.14,
-    "USD/SGD": 0.06,
-    "USD/INR": 0.11
+    "USD/TWD": -0.01,
+    "USD/JPY": -0.02,
+    "USD/EUR": -0.01,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.02,
+    "USD/AUD": 0.0,
+    "USD/CAD": -0.02,
+    "USD/CHF": -0.01,
+    "USD/HKD": 0.0,
+    "USD/KRW": -0.0,
+    "USD/SGD": -0.04,
+    "USD/INR": -0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "Police seize €1.3bn from Campari owner over alleged tax evasion",
+      "url": "https://www.bbc.com/news/articles/cpq11v5d1rno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Homes without lounges now a reality for renters",
+      "url": "https://www.bbc.com/news/articles/c93063q2lzeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "China to loosen chip export ban to Europe after Netherlands row",
+      "url": "https://www.bbc.com/news/articles/cly44qwgnx0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Post Office justice measures could include special stamp for victims",
       "url": "https://www.bbc.com/news/articles/cze6w4e8kxeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Disney pulls channels from YouTube TV over fee dispute",
       "url": "https://www.bbc.com/news/articles/c2emmdx0x38o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The US bet big with Argentina bailout - is it paying off?",
-      "url": "https://www.bbc.com/news/articles/c4g3mdvle78o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "£420m bill cut for heavy industry as union attacks 'obscene' energy profits",
-      "url": "https://www.bbc.com/news/articles/c5ype0gp7lgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "No free bus passes for under 22s, says government",
-      "url": "https://www.bbc.com/news/articles/ce9drlgenjno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/ai/2025/10/nvidia-hits-record-5-trillion-mark-as-ceo-dismisses-ai-bubble-concerns/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
