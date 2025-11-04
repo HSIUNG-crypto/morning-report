@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-11-03 11:41:07 (台北時間)",
-  "updated_at_utc": "2025-11-03 03:41:07 (UTC)",
+  "updated_at": "2025-11-04 11:32:05 (台北時間)",
+  "updated_at_utc": "2025-11-04 03:32:05 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.7833,
-    "USD/JPY": 154.1832,
-    "USD/EUR": 0.867,
-    "USD/GBP": 0.7614,
-    "USD/CNY": 7.1245,
-    "USD/AUD": 1.5279,
-    "USD/CAD": 1.4013,
-    "USD/CHF": 0.8046,
-    "USD/HKD": 7.7708,
-    "USD/KRW": 1428.7078,
-    "USD/SGD": 1.3017,
-    "USD/INR": 88.8264
+    "USD/TWD": 30.8828,
+    "USD/JPY": 154.1688,
+    "USD/EUR": 0.8681,
+    "USD/GBP": 0.7613,
+    "USD/CNY": 7.1218,
+    "USD/AUD": 1.5292,
+    "USD/CAD": 1.4047,
+    "USD/CHF": 0.8077,
+    "USD/HKD": 7.7724,
+    "USD/KRW": 1429.9678,
+    "USD/SGD": 1.3041,
+    "USD/INR": 88.7877
   },
   "exchange_changes": {
-    "USD/TWD": 0.07,
-    "USD/JPY": 0.07,
-    "USD/EUR": 0.12,
-    "USD/GBP": 0.07,
-    "USD/CNY": 0.04,
-    "USD/AUD": -0.01,
-    "USD/CAD": 0.06,
-    "USD/CHF": 0.07,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.03,
-    "USD/SGD": 0.08,
-    "USD/INR": 0.08
+    "USD/TWD": 0.32,
+    "USD/JPY": -0.01,
+    "USD/EUR": 0.13,
+    "USD/GBP": -0.01,
+    "USD/CNY": -0.04,
+    "USD/AUD": 0.09,
+    "USD/CAD": 0.24,
+    "USD/CHF": 0.39,
+    "USD/HKD": 0.02,
+    "USD/KRW": 0.09,
+    "USD/SGD": 0.18,
+    "USD/INR": -0.04
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "World awaits landmark US Supreme Court decision on Trump's tariffs",
-      "url": "https://www.bbc.com/news/articles/cn4jyk9jyv3o?at_medium=RSS&at_campaign=rss"
+      "title": "Budget will be 'fair' says Reeves as tax rises expected",
+      "url": "https://www.bbc.com/news/articles/ce8g6kdgzelo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "I blew the whistle on a massive tax scam - and they sued me",
-      "url": "https://www.bbc.com/news/articles/c2kp19ed78wo?at_medium=RSS&at_campaign=rss"
+      "title": "Government disappointed by unexpected O2 price rise",
+      "url": "https://www.bbc.com/news/articles/c5y02797xygo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "China to ease chip export ban in new trade deal, White House says",
-      "url": "https://www.bbc.com/news/articles/cy5qgy93w9go?at_medium=RSS&at_campaign=rss"
+      "title": "More people using family help than Buy Now Pay Later loans",
+      "url": "https://www.bbc.com/news/articles/cze6822y135o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Vue cinema boss: I don't see streaming as the competition",
-      "url": "https://www.bbc.com/news/articles/c986d9jjv87o?at_medium=RSS&at_campaign=rss"
+      "title": "Shein bans all sex dolls after outrage over childlike products",
+      "url": "https://www.bbc.com/news/articles/cddrg70pj1mo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Football Manager has finally added women's teams after 20 years. I put the game to the test",
-      "url": "https://www.bbc.com/news/articles/clyz8de5p57o?at_medium=RSS&at_campaign=rss"
+      "title": "Starbucks to sell majority stake in China business",
+      "url": "https://www.bbc.com/news/articles/cn0g90376j5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "OpenAI signs massive AI compute deal with Amazon",
+      "url": "https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/"
+    },
     {
       "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
       "url": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/"
@@ -102,10 +106,6 @@
     {
       "title": "NPM flooded with malicious packages downloaded more than 86,000 times",
       "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
-    },
-    {
-      "title": "Nvidia hits record $5 trillion mark as CEO dismisses AI bubble concerns",
-      "url": "https://arstechnica.com/ai/2025/10/nvidia-hits-record-5-trillion-mark-as-ceo-dismisses-ai-bubble-concerns/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
