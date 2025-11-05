@@ -1,32 +1,32 @@
 {
-  "updated_at": "2025-11-04 11:32:05 (台北時間)",
-  "updated_at_utc": "2025-11-04 03:32:05 (UTC)",
+  "updated_at": "2025-11-05 11:33:18 (台北時間)",
+  "updated_at_utc": "2025-11-05 03:33:18 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.8828,
-    "USD/JPY": 154.1688,
-    "USD/EUR": 0.8681,
-    "USD/GBP": 0.7613,
-    "USD/CNY": 7.1218,
-    "USD/AUD": 1.5292,
-    "USD/CAD": 1.4047,
-    "USD/CHF": 0.8077,
-    "USD/HKD": 7.7724,
-    "USD/KRW": 1429.9678,
-    "USD/SGD": 1.3041,
-    "USD/INR": 88.7877
+    "USD/TWD": 30.9129,
+    "USD/JPY": 153.609,
+    "USD/EUR": 0.8702,
+    "USD/GBP": 0.7665,
+    "USD/CNY": 7.1231,
+    "USD/AUD": 1.5404,
+    "USD/CAD": 1.4089,
+    "USD/CHF": 0.8098,
+    "USD/HKD": 7.7746,
+    "USD/KRW": 1440.555,
+    "USD/SGD": 1.3071,
+    "USD/INR": 88.7486
   },
   "exchange_changes": {
-    "USD/TWD": 0.32,
-    "USD/JPY": -0.01,
-    "USD/EUR": 0.13,
-    "USD/GBP": -0.01,
-    "USD/CNY": -0.04,
-    "USD/AUD": 0.09,
-    "USD/CAD": 0.24,
-    "USD/CHF": 0.39,
-    "USD/HKD": 0.02,
-    "USD/KRW": 0.09,
-    "USD/SGD": 0.18,
+    "USD/TWD": 0.1,
+    "USD/JPY": -0.36,
+    "USD/EUR": 0.24,
+    "USD/GBP": 0.68,
+    "USD/CNY": 0.02,
+    "USD/AUD": 0.73,
+    "USD/CAD": 0.3,
+    "USD/CHF": 0.26,
+    "USD/HKD": 0.03,
+    "USD/KRW": 0.74,
+    "USD/SGD": 0.23,
     "USD/INR": -0.04
   },
   "stocks": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Budget will be 'fair' says Reeves as tax rises expected",
-      "url": "https://www.bbc.com/news/articles/ce8g6kdgzelo?at_medium=RSS&at_campaign=rss"
+      "title": "Britain sliding 'into economic crisis' over £85bn sickness bill",
+      "url": "https://www.bbc.com/news/articles/c7v80n7mz2jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Government disappointed by unexpected O2 price rise",
-      "url": "https://www.bbc.com/news/articles/c5y02797xygo?at_medium=RSS&at_campaign=rss"
+      "title": "Oldest victim of Post Office scandal, 92, receives final payout",
+      "url": "https://www.bbc.com/news/articles/c74jvd0drvvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "More people using family help than Buy Now Pay Later loans",
-      "url": "https://www.bbc.com/news/articles/cze6822y135o?at_medium=RSS&at_campaign=rss"
+      "title": "France investigates Shein and Temu after sex doll scandal",
+      "url": "https://www.bbc.com/news/articles/cx2lppx2jm7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Shein bans all sex dolls after outrage over childlike products",
-      "url": "https://www.bbc.com/news/articles/cddrg70pj1mo?at_medium=RSS&at_campaign=rss"
+      "title": "Tesla says Musk should be paid $1tn - will shareholders agree?",
+      "url": "https://www.bbc.com/news/articles/cn4j0yg1drgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Starbucks to sell majority stake in China business",
-      "url": "https://www.bbc.com/news/articles/cn0g90376j5o?at_medium=RSS&at_campaign=rss"
+      "title": "Head of UK's richest family dies aged 85",
+      "url": "https://www.bbc.com/news/articles/cdx4jy9qp27o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
