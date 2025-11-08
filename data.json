@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-11-07 11:32:19 (台北時間)",
-  "updated_at_utc": "2025-11-07 03:32:19 (UTC)",
+  "updated_at": "2025-11-08 11:14:15 (台北時間)",
+  "updated_at_utc": "2025-11-08 03:14:15 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.9411,
-    "USD/JPY": 153.2282,
-    "USD/EUR": 0.8666,
-    "USD/GBP": 0.762,
-    "USD/CNY": 7.1202,
-    "USD/AUD": 1.5413,
-    "USD/CAD": 1.4109,
-    "USD/CHF": 0.807,
-    "USD/HKD": 7.7748,
-    "USD/KRW": 1446.4837,
-    "USD/SGD": 1.3043,
-    "USD/INR": 88.6764
+    "USD/TWD": 30.9838,
+    "USD/JPY": 153.3163,
+    "USD/EUR": 0.8648,
+    "USD/GBP": 0.7611,
+    "USD/CNY": 7.124,
+    "USD/AUD": 1.5411,
+    "USD/CAD": 1.4065,
+    "USD/CHF": 0.8055,
+    "USD/HKD": 7.7774,
+    "USD/KRW": 1457.133,
+    "USD/SGD": 1.302,
+    "USD/INR": 88.715
   },
   "exchange_changes": {
-    "USD/TWD": 0.17,
-    "USD/JPY": -0.46,
-    "USD/EUR": -0.45,
-    "USD/GBP": -0.6,
-    "USD/CNY": -0.1,
-    "USD/AUD": 0.14,
-    "USD/CAD": -0.01,
-    "USD/CHF": -0.39,
-    "USD/HKD": -0.0,
-    "USD/KRW": 0.35,
-    "USD/SGD": -0.19,
-    "USD/INR": 0.03
+    "USD/TWD": 0.14,
+    "USD/JPY": 0.06,
+    "USD/EUR": -0.21,
+    "USD/GBP": -0.12,
+    "USD/CNY": 0.05,
+    "USD/AUD": -0.01,
+    "USD/CAD": -0.31,
+    "USD/CHF": -0.19,
+    "USD/HKD": 0.03,
+    "USD/KRW": 0.74,
+    "USD/SGD": -0.18,
+    "USD/INR": 0.04
   },
   "stocks": {
     "道瓊": {
@@ -65,34 +65,38 @@
   },
   "news_economy": [
     {
-      "title": "McDonald's to introduce sexual harassment training in UK after BBC uncovered abuse of staff",
-      "url": "https://www.bbc.com/news/articles/cpwv01r2wj5o?at_medium=RSS&at_campaign=rss"
+      "title": "Tesla plans to pay Musk $1tn - do they really need him that much?",
+      "url": "https://www.bbc.com/news/articles/c5yp8w5k5q9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Blame game over Air India crash goes on",
+      "url": "https://www.bbc.com/news/articles/c33pzypkkdzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "ITV in talks to sell television business to Sky",
+      "url": "https://www.bbc.com/news/articles/czxk7j87xd0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
       "url": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Texas sues Roblox for 'putting paedophiles and profits' over safety",
-      "url": "https://www.bbc.com/news/articles/cy0kd4kk0kqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Betting firms 'scaremongering' over tax rises, say MPs",
-      "url": "https://www.bbc.com/news/articles/cglg586kwn6o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Bank says inflation has 'peaked' as it holds interest rates",
-      "url": "https://www.bbc.com/news/articles/c77zkg5504eo?at_medium=RSS&at_campaign=rss"
+      "title": "Rightmove shares plummet over AI investment plans",
+      "url": "https://www.bbc.com/news/articles/cly97lj0nddo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
     {
+      "title": "Researchers surprised that with AI, toxicity is harder to fake than intelligence",
+      "url": "https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/"
+    },
+    {
       "title": "Wipers from Russia’s most cut-throat hackers rain destruction on Ukraine",
       "url": "https://arstechnica.com/security/2025/11/wipers-from-russias-most-cut-throat-hackers-rain-destruction-on-ukraine/"
     },
     {
-      "title": "Google plans secret AI military outpost on tiny island overrun by crabs",
+      "title": "Google says project on famous crab-covered island is about cables, not combat",
       "url": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/"
     },
     {
@@ -102,10 +106,6 @@
     {
       "title": "OpenAI signs massive AI compute deal with Amazon",
       "url": "https://arstechnica.com/ai/2025/11/openai-signs-massive-ai-compute-deal-with-amazon/"
-    },
-    {
-      "title": "Two Windows vulnerabilities, one a 0-day, are under active exploitation",
-      "url": "https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
