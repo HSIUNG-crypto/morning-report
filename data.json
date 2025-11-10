@@ -1,31 +1,31 @@
 {
-  "updated_at": "2025-11-09 11:34:20 (台北時間)",
-  "updated_at_utc": "2025-11-09 03:34:20 (UTC)",
+  "updated_at": "2025-11-10 11:40:43 (台北時間)",
+  "updated_at_utc": "2025-11-10 03:40:43 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.9809,
-    "USD/JPY": 153.3079,
-    "USD/EUR": 0.8649,
+    "USD/TWD": 30.9757,
+    "USD/JPY": 153.6231,
+    "USD/EUR": 0.8656,
     "USD/GBP": 0.7609,
-    "USD/CNY": 7.1251,
-    "USD/AUD": 1.5414,
-    "USD/CAD": 1.4066,
-    "USD/CHF": 0.8056,
-    "USD/HKD": 7.7773,
-    "USD/KRW": 1456.5625,
-    "USD/SGD": 1.3022,
-    "USD/INR": 88.7217
+    "USD/CNY": 7.1278,
+    "USD/AUD": 1.5398,
+    "USD/CAD": 1.4049,
+    "USD/CHF": 0.8065,
+    "USD/HKD": 7.7771,
+    "USD/KRW": 1457.8487,
+    "USD/SGD": 1.3024,
+    "USD/INR": 88.7342
   },
   "exchange_changes": {
-    "USD/TWD": -0.01,
-    "USD/JPY": -0.01,
-    "USD/EUR": 0.01,
-    "USD/GBP": -0.03,
-    "USD/CNY": 0.02,
-    "USD/AUD": 0.02,
-    "USD/CAD": 0.01,
-    "USD/CHF": 0.01,
+    "USD/TWD": -0.02,
+    "USD/JPY": 0.21,
+    "USD/EUR": 0.08,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.04,
+    "USD/AUD": -0.1,
+    "USD/CAD": -0.12,
+    "USD/CHF": 0.11,
     "USD/HKD": -0.0,
-    "USD/KRW": -0.04,
+    "USD/KRW": 0.09,
     "USD/SGD": 0.02,
     "USD/INR": 0.01
   },
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Tesla plans to pay Musk $1tn - do they really need him that much?",
-      "url": "https://www.bbc.com/news/articles/c5yp8w5k5q9o?at_medium=RSS&at_campaign=rss"
+      "title": "HMRC to review suspending 23,500 child benefit payments",
+      "url": "https://www.bbc.com/news/articles/cjr0p4l2qryo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Blame game over Air India crash goes on",
-      "url": "https://www.bbc.com/news/articles/c33pzypkkdzo?at_medium=RSS&at_campaign=rss"
+      "title": "China exempts chips used by carmakers from export curbs",
+      "url": "https://www.bbc.com/news/articles/c0rp2514g4qo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Shoppers are turning to Shein - but some still can't leave Primark",
-      "url": "https://www.bbc.com/news/articles/c9wvn7d8lq4o?at_medium=RSS&at_campaign=rss"
+      "title": "Tutoring a baby to make them an 'English gentleman' - Is it worth the money?",
+      "url": "https://www.bbc.com/news/articles/cd9kljww1zdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ITV in talks to sell television business to Sky",
-      "url": "https://www.bbc.com/news/articles/czxk7j87xd0o?at_medium=RSS&at_campaign=rss"
+      "title": "Honesty boxes should be dying like cash. But many are flourishing",
+      "url": "https://www.bbc.com/news/articles/cjd05rj5xl9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Elon Musk's $1tn pay deal approved by Tesla shareholders",
-      "url": "https://www.bbc.com/news/articles/cwyk6kvyxvzo?at_medium=RSS&at_campaign=rss"
+      "title": "Inquiry to review rise in young people not working or studying",
+      "url": "https://www.bbc.com/news/articles/c0l7elxrr7ko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
