@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-11-11 11:35:34 (台北時間)",
-  "updated_at_utc": "2025-11-11 03:35:34 (UTC)",
+  "updated_at": "2025-11-12 11:33:56 (台北時間)",
+  "updated_at_utc": "2025-11-12 03:33:56 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.9653,
-    "USD/JPY": 154.0401,
-    "USD/EUR": 0.8649,
-    "USD/GBP": 0.7592,
-    "USD/CNY": 7.1203,
-    "USD/AUD": 1.531,
-    "USD/CAD": 1.402,
-    "USD/CHF": 0.8053,
-    "USD/HKD": 7.7738,
-    "USD/KRW": 1455.2834,
-    "USD/SGD": 1.3027,
-    "USD/INR": 88.7476
+    "USD/TWD": 30.9737,
+    "USD/JPY": 154.1095,
+    "USD/EUR": 0.8635,
+    "USD/GBP": 0.76,
+    "USD/CNY": 7.1187,
+    "USD/AUD": 1.5316,
+    "USD/CAD": 1.4014,
+    "USD/CHF": 0.801,
+    "USD/HKD": 7.7718,
+    "USD/KRW": 1461.4626,
+    "USD/SGD": 1.3014,
+    "USD/INR": 88.5603
   },
   "exchange_changes": {
-    "USD/TWD": -0.03,
-    "USD/JPY": 0.27,
-    "USD/EUR": -0.08,
-    "USD/GBP": -0.22,
-    "USD/CNY": -0.11,
-    "USD/AUD": -0.57,
-    "USD/CAD": -0.21,
-    "USD/CHF": -0.15,
-    "USD/HKD": -0.04,
-    "USD/KRW": -0.18,
-    "USD/SGD": 0.02,
-    "USD/INR": 0.02
+    "USD/TWD": 0.03,
+    "USD/JPY": 0.05,
+    "USD/EUR": -0.16,
+    "USD/GBP": 0.11,
+    "USD/CNY": -0.02,
+    "USD/AUD": 0.04,
+    "USD/CAD": -0.04,
+    "USD/CHF": -0.53,
+    "USD/HKD": -0.03,
+    "USD/KRW": 0.42,
+    "USD/SGD": -0.1,
+    "USD/INR": -0.21
   },
   "stocks": {
     "道瓊": {
@@ -65,30 +65,34 @@
   },
   "news_economy": [
     {
-      "title": "Reeves suggests benefit limits on larger families to be lifted",
-      "url": "https://www.bbc.com/news/articles/c70j7dxjp5wo?at_medium=RSS&at_campaign=rss"
+      "title": "Building society pledges to keep branches open",
+      "url": "https://www.bbc.com/news/articles/c4gk44gm4mpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Cryptoqueen who fled China for London mansion to be sentenced over £5bn Bitcoin stash",
-      "url": "https://www.bbc.com/news/articles/cvg4w1g9ezko?at_medium=RSS&at_campaign=rss"
+      "title": "UK toy sales up as 'kidults' buy Lego and Pokémon",
+      "url": "https://www.bbc.com/news/articles/cd04md5rx1no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Battle over Chinese chip maker rocks global car industry",
-      "url": "https://www.bbc.com/news/articles/cr43kyn9d6po?at_medium=RSS&at_campaign=rss"
+      "title": "Two popular gay dating platforms removed from Apple app store in China",
+      "url": "https://www.bbc.com/news/articles/c98n2kye01eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Post Office Horizon IT contract extended for another year",
-      "url": "https://www.bbc.com/news/articles/cz6n2v7ywgeo?at_medium=RSS&at_campaign=rss"
+      "title": "Starbucks' baristas are striking again – will that hold back the chain's recovery?",
+      "url": "https://www.bbc.com/news/articles/c5ype4j07xpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Guinness maker appoints former Tesco boss to stem flagging sales",
-      "url": "https://www.bbc.com/news/articles/cy4021v7wepo?at_medium=RSS&at_campaign=rss"
+      "title": "China needs its youth to spend but they are embracing frugality",
+      "url": "https://www.bbc.com/news/articles/cx2pvlvdve7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
     {
-      "title": "Researchers isolate memorization from reasoning in AI neural networks",
+      "title": "ClickFix may be the biggest security threat your family has never heard of",
+      "url": "https://arstechnica.com/security/2025/11/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of/"
+    },
+    {
+      "title": "Researchers isolate memorization from problem-solving in AI neural networks",
       "url": "https://arstechnica.com/ai/2025/11/study-finds-ai-models-store-memories-and-logic-in-different-neural-regions/"
     },
     {
@@ -102,13 +106,9 @@
     {
       "title": "Google says project on famous crab-covered island is about cables, not combat",
       "url": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/"
-    },
-    {
-      "title": "5 AI-developed malware families analyzed by Google fail to work and are easily detected",
-      "url": "https://arstechnica.com/security/2025/11/ai-generated-malware-poses-little-real-world-threat-contrary-to-hype/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
