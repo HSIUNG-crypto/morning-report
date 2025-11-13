@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-12 11:33:56 (台北時間)",
-  "updated_at_utc": "2025-11-12 03:33:56 (UTC)",
+  "updated_at": "2025-11-13 08:41:32 (台北時間)",
+  "updated_at_utc": "2025-11-13 00:41:32 (UTC)",
   "exchange_rates": {
     "USD/TWD": 30.9737,
     "USD/JPY": 154.1095,
@@ -16,18 +16,18 @@
     "USD/INR": 88.5603
   },
   "exchange_changes": {
-    "USD/TWD": 0.03,
-    "USD/JPY": 0.05,
-    "USD/EUR": -0.16,
-    "USD/GBP": 0.11,
-    "USD/CNY": -0.02,
-    "USD/AUD": 0.04,
-    "USD/CAD": -0.04,
-    "USD/CHF": -0.53,
-    "USD/HKD": -0.03,
-    "USD/KRW": 0.42,
-    "USD/SGD": -0.1,
-    "USD/INR": -0.21
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Building society pledges to keep branches open",
-      "url": "https://www.bbc.com/news/articles/c4gk44gm4mpo?at_medium=RSS&at_campaign=rss"
+      "title": "UK's first small nuclear power station to be built in north Wales",
+      "url": "https://www.bbc.com/news/articles/c051y3d7myzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK toy sales up as 'kidults' buy Lego and Pokémon",
-      "url": "https://www.bbc.com/news/articles/cd04md5rx1no?at_medium=RSS&at_campaign=rss"
+      "title": "£220 ‘for a cut-up sock' - Apple's new iPhone Pocket ridiculed online",
+      "url": "https://www.bbc.com/news/articles/cn97ndgpnq7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Two popular gay dating platforms removed from Apple app store in China",
-      "url": "https://www.bbc.com/news/articles/c98n2kye01eo?at_medium=RSS&at_campaign=rss"
+      "title": "Heineken UK cuts Foster's alcohol strength to 3.4%",
+      "url": "https://www.bbc.com/news/articles/c4gzw99w17go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Starbucks' baristas are striking again – will that hold back the chain's recovery?",
-      "url": "https://www.bbc.com/news/articles/c5ype4j07xpo?at_medium=RSS&at_campaign=rss"
+      "title": "SSE to invest £33bn in upgrading Scotland's electricity grid",
+      "url": "https://www.bbc.com/news/articles/cr7mk5np141o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "China needs its youth to spend but they are embracing frugality",
-      "url": "https://www.bbc.com/news/articles/cx2pvlvdve7o?at_medium=RSS&at_campaign=rss"
+      "title": "Driving test rules to change in bid to stop bots booking slots",
+      "url": "https://www.bbc.com/news/articles/cn09v4d2xe7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "OpenAI walks a tricky tightrope with GPT-5.1’s eight new personalities",
+      "url": "https://arstechnica.com/ai/2025/11/openai-walks-a-tricky-tightrope-with-gpt-5-1s-eight-new-personalities/"
+    },
+    {
+      "title": "Meta’s star AI scientist Yann LeCun plans to leave for own startup",
+      "url": "https://arstechnica.com/ai/2025/11/metas-star-ai-scientist-yann-lecun-plans-to-leave-for-own-startup/"
+    },
     {
       "title": "ClickFix may be the biggest security threat your family has never heard of",
       "url": "https://arstechnica.com/security/2025/11/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of/"
@@ -98,17 +106,9 @@
     {
       "title": "Researchers surprised that with AI, toxicity is harder to fake than intelligence",
       "url": "https://arstechnica.com/information-technology/2025/11/being-too-nice-online-is-a-dead-giveaway-for-ai-bots-study-suggests/"
-    },
-    {
-      "title": "Wipers from Russia’s most cut-throat hackers rain destruction on Ukraine",
-      "url": "https://arstechnica.com/security/2025/11/wipers-from-russias-most-cut-throat-hackers-rain-destruction-on-ukraine/"
-    },
-    {
-      "title": "Google says project on famous crab-covered island is about cables, not combat",
-      "url": "https://arstechnica.com/ai/2025/11/google-plans-secret-ai-military-outpost-on-tiny-island-overrun-by-crabs/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
-  "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
+  "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
