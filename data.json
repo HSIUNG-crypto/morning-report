@@ -1,32 +1,32 @@
 {
-  "updated_at": "2025-11-16 08:44:47 (台北時間)",
-  "updated_at_utc": "2025-11-16 00:44:47 (UTC)",
+  "updated_at": "2025-11-17 08:43:01 (台北時間)",
+  "updated_at_utc": "2025-11-17 00:43:01 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 30.662,
-    "USD/JPY": 154.4651,
-    "USD/EUR": 0.8606,
+    "USD/TWD": 30.6446,
+    "USD/JPY": 154.4657,
+    "USD/EUR": 0.8605,
     "USD/GBP": 0.7596,
-    "USD/CNY": 7.1035,
+    "USD/CNY": 7.1062,
     "USD/AUD": 1.5301,
-    "USD/CAD": 1.4021,
+    "USD/CAD": 1.402,
     "USD/CHF": 0.7934,
-    "USD/HKD": 7.7718,
-    "USD/KRW": 1455.2065,
-    "USD/SGD": 1.299,
-    "USD/INR": 88.7586
+    "USD/HKD": 7.7717,
+    "USD/KRW": 1455.8467,
+    "USD/SGD": 1.2992,
+    "USD/INR": 88.7636
   },
   "exchange_changes": {
-    "USD/TWD": -1.36,
-    "USD/JPY": -0.06,
-    "USD/EUR": 0.07,
-    "USD/GBP": -0.05,
+    "USD/TWD": -0.06,
+    "USD/JPY": 0.0,
+    "USD/EUR": -0.01,
+    "USD/GBP": 0.0,
     "USD/CNY": 0.04,
-    "USD/AUD": 0.05,
-    "USD/CAD": 0.03,
-    "USD/CHF": -0.1,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.75,
-    "USD/SGD": -0.12,
+    "USD/AUD": 0.0,
+    "USD/CAD": -0.01,
+    "USD/CHF": 0.0,
+    "USD/HKD": -0.0,
+    "USD/KRW": 0.04,
+    "USD/SGD": 0.02,
     "USD/INR": 0.01
   },
   "stocks": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "What's behind Rachel Reeves's 'hokey cokey' on income tax rises?",
-      "url": "https://www.bbc.com/news/articles/cx2yzj6619wo?at_medium=RSS&at_campaign=rss"
+      "title": "Keyless car theft devices used by criminals sell for £20k online",
+      "url": "https://www.bbc.com/news/articles/c74jgvp1x49o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Formula 1 tech used to rev-up train wi-fi speeds in new pilot",
+      "url": "https://www.bbc.com/news/articles/cqjwkdez71ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Nature is not a blocker to housing growth, MPs find",
+      "url": "https://www.bbc.com/news/articles/cn0941r9d49o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Data centre in the shed reduces energy bills to £40",
+      "url": "https://www.bbc.com/news/articles/c0rpy7envr5o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "What is the two-child benefit cap and how could it change?",
       "url": "https://www.bbc.com/news/articles/ce3xrz3drk9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump rolls back tariffs on dozens of food products",
-      "url": "https://www.bbc.com/news/articles/cdjr4xw83eko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Sale of Daily Telegraph collapses after US firm pulls out",
-      "url": "https://www.bbc.com/news/articles/c993drmj1dyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Jaguar Land Rover posts heavy loss after cyber-attack",
-      "url": "https://www.bbc.com/news/articles/ckg1w255gy1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2025/11/clickfix-may-be-the-biggest-security-threat-your-family-has-never-heard-of/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
