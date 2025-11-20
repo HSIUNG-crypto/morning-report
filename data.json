@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-19 08:41:43 (台北時間)",
-  "updated_at_utc": "2025-11-19 00:41:43 (UTC)",
+  "updated_at": "2025-11-20 08:40:41 (台北時間)",
+  "updated_at_utc": "2025-11-20 00:40:41 (UTC)",
   "exchange_rates": {
     "USD/TWD": 31.1108,
     "USD/JPY": 155.4125,
@@ -16,18 +16,18 @@
     "USD/INR": 88.591
   },
   "exchange_changes": {
-    "USD/TWD": 1.62,
-    "USD/JPY": 0.57,
-    "USD/EUR": 0.31,
-    "USD/GBP": 0.09,
-    "USD/CNY": 0.08,
-    "USD/AUD": 0.42,
-    "USD/CAD": -0.18,
-    "USD/CHF": 0.58,
-    "USD/HKD": 0.15,
-    "USD/KRW": 0.52,
-    "USD/SGD": 0.24,
-    "USD/INR": -0.18
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Hotel adverts banned over misleadingly cheap rooms",
-      "url": "https://www.bbc.com/news/articles/cvgw7grp5vxo?at_medium=RSS&at_campaign=rss"
+      "title": "Ford boss: 'Now is not the time to tax electric vehicles'",
+      "url": "https://www.bbc.com/news/articles/c5yp1ky55g1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Google boss says trillion-dollar AI investment boom has 'elements of irrationality'",
-      "url": "https://www.bbc.com/news/articles/cwy7vrd8k4eo?at_medium=RSS&at_campaign=rss"
+      "title": "Nvidia shares jump after revenue and outlook top estimates",
+      "url": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Judge rules Meta doesn't have monopoly after Instagram, WhatsApp acquisitions",
-      "url": "https://www.bbc.com/news/articles/crklgrpdke8o?at_medium=RSS&at_campaign=rss"
+      "title": "Good for mortgages, bad for the food shop - how inflation dip affects you",
+      "url": "https://www.bbc.com/news/articles/c1wlrw8ygvxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Baby Shark: How a 90-second clip created a $400m business",
-      "url": "https://www.bbc.com/news/articles/cn8xzgw623go?at_medium=RSS&at_campaign=rss"
+      "title": "UK inflation rate hits lowest level in four months",
+      "url": "https://www.bbc.com/news/articles/czxkvkwjl5eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Don't blindly trust what AI tells you, says Google's Sundar Pichai",
-      "url": "https://www.bbc.com/news/articles/c8drzv37z4jo?at_medium=RSS&at_campaign=rss"
+      "title": "The contradiction at the heart of the trillion-dollar AI race",
+      "url": "https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
+      "url": "https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/"
+    },
+    {
+      "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
+      "url": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/"
+    },
     {
       "title": "Tech giants pour billions into Anthropic as circular AI investments roll on",
       "url": "https://arstechnica.com/ai/2025/11/tech-giants-pour-billions-into-anthropic-as-circular-ai-investments-roll-on/"
@@ -98,14 +106,6 @@
     {
       "title": "Google CEO: If an AI bubble pops, no one is getting out clean",
       "url": "https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/"
-    },
-    {
-      "title": "5 plead guilty to laptop farm and ID theft scheme to land North Koreans US IT jobs",
-      "url": "https://arstechnica.com/security/2025/11/5-plead-guilty-to-laptop-farm-and-id-theft-scheme-to-land-north-koreans-us-it-jobs/"
-    },
-    {
-      "title": "Oracle hit hard in Wall Street’s tech sell-off over its huge AI bet",
-      "url": "https://arstechnica.com/information-technology/2025/11/oracle-hit-hard-in-wall-streets-tech-sell-off-over-its-huge-ai-bet/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
