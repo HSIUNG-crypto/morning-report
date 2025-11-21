@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-11-20 08:40:41 (台北時間)",
-  "updated_at_utc": "2025-11-20 00:40:41 (UTC)",
+  "updated_at": "2025-11-21 08:41:16 (台北時間)",
+  "updated_at_utc": "2025-11-21 00:41:16 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.1108,
-    "USD/JPY": 155.4125,
-    "USD/EUR": 0.8634,
-    "USD/GBP": 0.7606,
-    "USD/CNY": 7.1113,
-    "USD/AUD": 1.5371,
-    "USD/CAD": 1.3999,
-    "USD/CHF": 0.7987,
-    "USD/HKD": 7.7842,
-    "USD/KRW": 1461.0999,
-    "USD/SGD": 1.3021,
-    "USD/INR": 88.591
+    "USD/TWD": 31.1901,
+    "USD/JPY": 156.625,
+    "USD/EUR": 0.8658,
+    "USD/GBP": 0.7643,
+    "USD/CNY": 7.1137,
+    "USD/AUD": 1.5421,
+    "USD/CAD": 1.4034,
+    "USD/CHF": 0.8042,
+    "USD/HKD": 7.7882,
+    "USD/KRW": 1467.2203,
+    "USD/SGD": 1.3053,
+    "USD/INR": 88.5598
   },
   "exchange_changes": {
-    "USD/TWD": 0.0,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.0,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.0
+    "USD/TWD": 0.25,
+    "USD/JPY": 0.78,
+    "USD/EUR": 0.28,
+    "USD/GBP": 0.49,
+    "USD/CNY": 0.03,
+    "USD/AUD": 0.33,
+    "USD/CAD": 0.25,
+    "USD/CHF": 0.69,
+    "USD/HKD": 0.05,
+    "USD/KRW": 0.42,
+    "USD/SGD": 0.25,
+    "USD/INR": -0.04
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Ford boss: 'Now is not the time to tax electric vehicles'",
-      "url": "https://www.bbc.com/news/articles/c5yp1ky55g1o?at_medium=RSS&at_campaign=rss"
+      "title": "US stocks slide as Wall Street's AI jitters persist",
+      "url": "https://www.bbc.com/news/articles/cwy1yl1202yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Nvidia shares jump after revenue and outlook top estimates",
-      "url": "https://www.bbc.com/news/articles/cly4y2enywro?at_medium=RSS&at_campaign=rss"
+      "title": "Energy price cap fall expected as temperatures plunge",
+      "url": "https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Good for mortgages, bad for the food shop - how inflation dip affects you",
-      "url": "https://www.bbc.com/news/articles/c1wlrw8ygvxo?at_medium=RSS&at_campaign=rss"
+      "title": "Vinted blocks 'sickening' sexually explicit ads",
+      "url": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK inflation rate hits lowest level in four months",
-      "url": "https://www.bbc.com/news/articles/czxkvkwjl5eo?at_medium=RSS&at_campaign=rss"
+      "title": "Channel Tunnel says UK investment 'non-viable' as it halts projects",
+      "url": "https://www.bbc.com/news/articles/cx2n215nqvyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The contradiction at the heart of the trillion-dollar AI race",
-      "url": "https://www.bbc.com/news/articles/cvgvynlxqdyo?at_medium=RSS&at_campaign=rss"
+      "title": "Almost one million young people still not in work or education, figures show",
+      "url": "https://www.bbc.com/news/articles/c62920440m2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "HP and Dell disable HEVC support built into their laptops’ CPUs",
+      "url": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/"
+    },
     {
       "title": "Massive Cloudflare outage was triggered by file that suddenly doubled in size",
       "url": "https://arstechnica.com/tech-policy/2025/11/cloudflare-broke-much-of-the-internet-with-a-corrupted-bot-management-file/"
@@ -102,13 +106,9 @@
     {
       "title": "Bonkers Bitcoin heist: 5-star hotels, cash-filled envelopes, vanishing funds",
       "url": "https://arstechnica.com/information-technology/2025/11/bonkers-bitcoin-heist-5-star-hotels-cash-filled-envelopes-vanishing-funds/"
-    },
-    {
-      "title": "Google CEO: If an AI bubble pops, no one is getting out clean",
-      "url": "https://arstechnica.com/ai/2025/11/googles-sundar-pichai-warns-of-irrationality-in-trillion-dollar-ai-investment-boom/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
