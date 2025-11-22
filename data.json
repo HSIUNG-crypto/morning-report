@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-11-21 08:41:16 (台北時間)",
-  "updated_at_utc": "2025-11-21 00:41:16 (UTC)",
+  "updated_at": "2025-11-22 08:39:36 (台北時間)",
+  "updated_at_utc": "2025-11-22 00:39:36 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.1901,
-    "USD/JPY": 156.625,
-    "USD/EUR": 0.8658,
-    "USD/GBP": 0.7643,
-    "USD/CNY": 7.1137,
-    "USD/AUD": 1.5421,
-    "USD/CAD": 1.4034,
-    "USD/CHF": 0.8042,
-    "USD/HKD": 7.7882,
-    "USD/KRW": 1467.2203,
-    "USD/SGD": 1.3053,
-    "USD/INR": 88.5598
+    "USD/TWD": 31.3062,
+    "USD/JPY": 156.7591,
+    "USD/EUR": 0.8682,
+    "USD/GBP": 0.7637,
+    "USD/CNY": 7.1125,
+    "USD/AUD": 1.5497,
+    "USD/CAD": 1.4094,
+    "USD/CHF": 0.8077,
+    "USD/HKD": 7.7846,
+    "USD/KRW": 1470.8317,
+    "USD/SGD": 1.3075,
+    "USD/INR": 89.4451
   },
   "exchange_changes": {
-    "USD/TWD": 0.25,
-    "USD/JPY": 0.78,
+    "USD/TWD": 0.37,
+    "USD/JPY": 0.09,
     "USD/EUR": 0.28,
-    "USD/GBP": 0.49,
-    "USD/CNY": 0.03,
-    "USD/AUD": 0.33,
-    "USD/CAD": 0.25,
-    "USD/CHF": 0.69,
-    "USD/HKD": 0.05,
-    "USD/KRW": 0.42,
-    "USD/SGD": 0.25,
-    "USD/INR": -0.04
+    "USD/GBP": -0.08,
+    "USD/CNY": -0.02,
+    "USD/AUD": 0.49,
+    "USD/CAD": 0.43,
+    "USD/CHF": 0.44,
+    "USD/HKD": -0.05,
+    "USD/KRW": 0.25,
+    "USD/SGD": 0.17,
+    "USD/INR": 1.0
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "US stocks slide as Wall Street's AI jitters persist",
-      "url": "https://www.bbc.com/news/articles/cwy1yl1202yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Energy price cap fall expected as temperatures plunge",
+      "title": "Households face unexpected rise in energy prices in new year",
       "url": "https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Vinted blocks 'sickening' sexually explicit ads",
-      "url": "https://www.bbc.com/news/articles/cn515p22nxno?at_medium=RSS&at_campaign=rss"
+      "title": "Government borrowing for October higher than expected",
+      "url": "https://www.bbc.com/news/articles/c20508068jno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Channel Tunnel says UK investment 'non-viable' as it halts projects",
-      "url": "https://www.bbc.com/news/articles/cx2n215nqvyo?at_medium=RSS&at_campaign=rss"
+      "title": "What taxes apply to electric vehicles and how could the Budget change that?",
+      "url": "https://www.bbc.com/news/articles/clykywlw2eko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Almost one million young people still not in work or education, figures show",
-      "url": "https://www.bbc.com/news/articles/c62920440m2o?at_medium=RSS&at_campaign=rss"
+      "title": "The curious case of why Poundland is struggling during a cost-of-living crisis",
+      "url": "https://www.bbc.com/news/articles/c4gkgxeeyzno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The 'toughest crop': Can tech help cardamom farmers?",
+      "url": "https://www.bbc.com/news/articles/cn0g2xxnrj3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "How to know if your Asus router is one of thousands hacked by China-state hackers",
+      "url": "https://arstechnica.com/security/2025/11/thousands-of-hacked-asus-routers-are-under-control-of-suspected-china-state-hackers/"
+    },
+    {
+      "title": "Google tells employees it must double capacity every 6 months to meet AI demand",
+      "url": "https://arstechnica.com/ai/2025/11/google-tells-employees-it-must-double-capacity-every-6-months-to-meet-ai-demand/"
+    },
     {
       "title": "HP and Dell disable HEVC support built into their laptops’ CPUs",
       "url": "https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/"
@@ -98,14 +106,6 @@
     {
       "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
       "url": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/"
-    },
-    {
-      "title": "Tech giants pour billions into Anthropic as circular AI investments roll on",
-      "url": "https://arstechnica.com/ai/2025/11/tech-giants-pour-billions-into-anthropic-as-circular-ai-investments-roll-on/"
-    },
-    {
-      "title": "Bonkers Bitcoin heist: 5-star hotels, cash-filled envelopes, vanishing funds",
-      "url": "https://arstechnica.com/information-technology/2025/11/bonkers-bitcoin-heist-5-star-hotels-cash-filled-envelopes-vanishing-funds/"
     }
   ],
   "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
