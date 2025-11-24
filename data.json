@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-23 08:47:25 (台北時間)",
-  "updated_at_utc": "2025-11-23 00:47:25 (UTC)",
+  "updated_at": "2025-11-24 08:44:36 (台北時間)",
+  "updated_at_utc": "2025-11-24 00:44:36 (UTC)",
   "exchange_rates": {
     "USD/TWD": 31.2976,
     "USD/JPY": 156.7674,
@@ -16,18 +16,18 @@
     "USD/INR": 89.4539
   },
   "exchange_changes": {
-    "USD/TWD": -0.03,
-    "USD/JPY": 0.01,
-    "USD/EUR": -0.01,
-    "USD/GBP": 0.03,
-    "USD/CNY": 0.03,
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
     "USD/AUD": 0.0,
-    "USD/CAD": -0.04,
+    "USD/CAD": 0.0,
     "USD/CHF": 0.0,
     "USD/HKD": 0.0,
-    "USD/KRW": -0.02,
-    "USD/SGD": -0.01,
-    "USD/INR": 0.01
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "What can nervous businesses expect from the Budget?",
+      "url": "https://www.bbc.com/news/articles/c1dz7gr042no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Furlough and business loans on the agenda for Covid Inquiry",
+      "url": "https://www.bbc.com/news/articles/cwyp4g95re4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Japan's high-stakes gamble to turn island of flowers into global chip hub",
+      "url": "https://www.bbc.com/news/articles/c8676qpxgnqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Minister denies Budget leaks have damaged economy",
+      "url": "https://www.bbc.com/news/articles/clykvql14r7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Rail fares to be frozen in England next year",
       "url": "https://www.bbc.com/news/articles/cwygx71g3n7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "EV grant scheme boost worth £1.3bn expected in Budget",
-      "url": "https://www.bbc.com/news/articles/c39pk873wlwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Daily Mail publisher agrees to buy Daily Telegraph for £500m",
-      "url": "https://www.bbc.com/news/articles/cx2eg1w0n81o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Fraud victims 'are being failed' by justice system",
-      "url": "https://www.bbc.com/news/articles/cy404wpvkq3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Households face unexpected rise in energy prices in new year",
-      "url": "https://www.bbc.com/news/articles/c2lplg7d9ewo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
