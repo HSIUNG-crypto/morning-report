@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-11-25 08:40:23 (台北時間)",
-  "updated_at_utc": "2025-11-25 00:40:23 (UTC)",
+  "updated_at": "2025-11-26 08:41:49 (台北時間)",
+  "updated_at_utc": "2025-11-26 00:41:49 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.3106,
-    "USD/JPY": 156.6654,
-    "USD/EUR": 0.8688,
-    "USD/GBP": 0.7637,
-    "USD/CNY": 7.1137,
-    "USD/AUD": 1.5484,
-    "USD/CAD": 1.4095,
-    "USD/CHF": 0.8086,
-    "USD/HKD": 7.783,
-    "USD/KRW": 1470.882,
-    "USD/SGD": 1.3082,
-    "USD/INR": 89.6267
+    "USD/TWD": 31.4128,
+    "USD/JPY": 156.8904,
+    "USD/EUR": 0.8675,
+    "USD/GBP": 0.7631,
+    "USD/CNY": 7.1018,
+    "USD/AUD": 1.5483,
+    "USD/CAD": 1.4108,
+    "USD/CHF": 0.8082,
+    "USD/HKD": 7.7818,
+    "USD/KRW": 1474.5296,
+    "USD/SGD": 1.3048,
+    "USD/INR": 89.1761
   },
   "exchange_changes": {
-    "USD/TWD": 0.04,
-    "USD/JPY": -0.07,
-    "USD/EUR": 0.08,
-    "USD/GBP": -0.03,
-    "USD/CNY": -0.01,
-    "USD/AUD": -0.08,
-    "USD/CAD": 0.04,
-    "USD/CHF": 0.11,
+    "USD/TWD": 0.33,
+    "USD/JPY": 0.14,
+    "USD/EUR": -0.15,
+    "USD/GBP": -0.08,
+    "USD/CNY": -0.17,
+    "USD/AUD": -0.01,
+    "USD/CAD": 0.09,
+    "USD/CHF": -0.05,
     "USD/HKD": -0.02,
-    "USD/KRW": 0.02,
-    "USD/SGD": 0.06,
-    "USD/INR": 0.19
+    "USD/KRW": 0.25,
+    "USD/SGD": -0.26,
+    "USD/INR": -0.5
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "'We earn £60,000 and want stamp duty scrapped'",
+      "title": "Everything you need to know about the Budget",
+      "url": "https://www.bbc.com/news/articles/cj4w44w42j5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'I'm on £22,000 and want free bus travel for all students'",
       "url": "https://www.bbc.com/news/articles/c9d6zwppjvjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Has Britain's budget watchdog become too all-powerful?",
-      "url": "https://www.bbc.com/news/articles/clyx9n5p7v7o?at_medium=RSS&at_campaign=rss"
+      "title": "Over 21s to get £12.71 an hour in minimum wage rise",
+      "url": "https://www.bbc.com/news/articles/cn41v89xq4go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US presses Europe on rules for big tech companies",
-      "url": "https://www.bbc.com/news/articles/clydjnlm54po?at_medium=RSS&at_campaign=rss"
+      "title": "North Sea drilling restrictions to be relaxed in new Labour plan",
+      "url": "https://www.bbc.com/news/articles/c0r9gyjkky0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What can nervous businesses expect from the Budget?",
-      "url": "https://www.bbc.com/news/articles/c1dz7gr042no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Covid inquiry hears impact on firms and staff",
-      "url": "https://www.bbc.com/news/articles/cwyp4g95re4o?at_medium=RSS&at_campaign=rss"
+      "title": "Rachel Reeves will be hoping this Budget buys her some time",
+      "url": "https://www.bbc.com/news/articles/cz68jedylvxo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
