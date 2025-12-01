@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-11-30 08:47:10 (台北時間)",
-  "updated_at_utc": "2025-11-30 00:47:10 (UTC)",
+  "updated_at": "2025-12-01 08:52:45 (台北時間)",
+  "updated_at_utc": "2025-12-01 00:52:45 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4098,
-    "USD/JPY": 156.177,
-    "USD/EUR": 0.8628,
-    "USD/GBP": 0.7557,
-    "USD/CNY": 7.0832,
-    "USD/AUD": 1.5284,
-    "USD/CAD": 1.3985,
-    "USD/CHF": 0.8042,
-    "USD/HKD": 7.7844,
-    "USD/KRW": 1467.6727,
-    "USD/SGD": 1.2966,
-    "USD/INR": 89.4401
+    "USD/TWD": 31.3981,
+    "USD/JPY": 156.1747,
+    "USD/EUR": 0.863,
+    "USD/GBP": 0.7558,
+    "USD/CNY": 7.0862,
+    "USD/AUD": 1.5303,
+    "USD/CAD": 1.3986,
+    "USD/CHF": 0.8044,
+    "USD/HKD": 7.7833,
+    "USD/KRW": 1467.7996,
+    "USD/SGD": 1.2967,
+    "USD/INR": 89.4337
   },
   "exchange_changes": {
-    "USD/TWD": 0.0,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.0,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.0
+    "USD/TWD": -0.04,
+    "USD/JPY": -0.0,
+    "USD/EUR": 0.02,
+    "USD/GBP": 0.01,
+    "USD/CNY": 0.04,
+    "USD/AUD": 0.12,
+    "USD/CAD": 0.01,
+    "USD/CHF": 0.02,
+    "USD/HKD": -0.01,
+    "USD/KRW": 0.01,
+    "USD/SGD": 0.01,
+    "USD/INR": -0.01
   },
   "stocks": {
     "道瓊": {
@@ -65,12 +65,16 @@
   },
   "news_economy": [
     {
-      "title": "Flights returning to normal after Airbus warning grounded planes",
-      "url": "https://www.bbc.com/news/articles/c4gp9d28p74o?at_medium=RSS&at_campaign=rss"
+      "title": "Reeves denies she misled public over UK's finances in run-up to Budget",
+      "url": "https://www.bbc.com/news/articles/clyd38gp00eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "No 10 denies Reeves misled public in run-up to Budget",
-      "url": "https://www.bbc.com/news/articles/c4gex225p5jo?at_medium=RSS&at_campaign=rss"
+      "title": "Tories urge financial regulator to investigate Reeves and Treasury over Budget build-up",
+      "url": "https://www.bbc.com/news/articles/c1kpjwee3g7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Flights returning to normal after Airbus warning grounded planes",
+      "url": "https://www.bbc.com/news/articles/c4gp9d28p74o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "'Business rates changes will cost me £62,000'",
@@ -79,10 +83,6 @@
     {
       "title": "State pensioners with no other income will not pay tax",
       "url": "https://www.bbc.com/news/articles/cev8ed9klz1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Minister defends 'pragmatic' U-turn on workers' rights",
-      "url": "https://www.bbc.com/news/articles/cd9zqx5k8yno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
