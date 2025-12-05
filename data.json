@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-04 08:42:29 (台北時間)",
-  "updated_at_utc": "2025-12-04 00:42:29 (UTC)",
+  "updated_at": "2025-12-05 08:43:02 (台北時間)",
+  "updated_at_utc": "2025-12-05 00:43:02 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4032,
-    "USD/JPY": 155.8589,
-    "USD/EUR": 0.8608,
-    "USD/GBP": 0.757,
-    "USD/CNY": 7.0781,
-    "USD/AUD": 1.524,
-    "USD/CAD": 1.3981,
-    "USD/CHF": 0.8037,
-    "USD/HKD": 7.7849,
-    "USD/KRW": 1468.1074,
-    "USD/SGD": 1.2969,
-    "USD/INR": 89.9412
+    "USD/TWD": 31.2829,
+    "USD/JPY": 155.275,
+    "USD/EUR": 0.8573,
+    "USD/GBP": 0.7506,
+    "USD/CNY": 7.0723,
+    "USD/AUD": 1.5163,
+    "USD/CAD": 1.3949,
+    "USD/CHF": 0.8003,
+    "USD/HKD": 7.7844,
+    "USD/KRW": 1465.3552,
+    "USD/SGD": 1.2943,
+    "USD/INR": 90.2143
   },
   "exchange_changes": {
-    "USD/TWD": -0.01,
-    "USD/JPY": 0.33,
-    "USD/EUR": 0.01,
-    "USD/GBP": 0.13,
-    "USD/CNY": -0.01,
-    "USD/AUD": -0.24,
-    "USD/CAD": -0.04,
-    "USD/CHF": -0.01,
-    "USD/HKD": -0.05,
-    "USD/KRW": -0.02,
-    "USD/SGD": 0.1,
-    "USD/INR": 0.36
+    "USD/TWD": -0.38,
+    "USD/JPY": -0.37,
+    "USD/EUR": -0.41,
+    "USD/GBP": -0.85,
+    "USD/CNY": -0.08,
+    "USD/AUD": -0.51,
+    "USD/CAD": -0.23,
+    "USD/CHF": -0.42,
+    "USD/HKD": -0.01,
+    "USD/KRW": -0.19,
+    "USD/SGD": -0.2,
+    "USD/INR": 0.3
   },
   "stocks": {
     "道瓊": {
@@ -65,30 +65,34 @@
   },
   "news_economy": [
     {
-      "title": "A speeding driver killed my parents - there needs to be a cultural change",
-      "url": "https://www.bbc.com/news/articles/c4g9ez9p4y7o?at_medium=RSS&at_campaign=rss"
+      "title": "My husband would still be alive if he'd got Post Office compensation",
+      "url": "https://www.bbc.com/news/articles/cy0p50ej0w2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Investigation into pre-Budget leaks is under way, MPs told",
-      "url": "https://www.bbc.com/news/articles/c4g9e7wp79zo?at_medium=RSS&at_campaign=rss"
+      "title": "We would sell books by AI, says Waterstones boss",
+      "url": "https://www.bbc.com/news/articles/cpvdkw4xgewo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Supermarket loyalty discounts to be allowed on baby formula",
-      "url": "https://www.bbc.com/news/articles/clyx321ded1o?at_medium=RSS&at_campaign=rss"
+      "title": "Six-month unfair dismissal right to begin from 2027",
+      "url": "https://www.bbc.com/news/articles/c4gk7r80ep5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "People admit to 'secret spending' without telling partners",
-      "url": "https://www.bbc.com/news/articles/cewjdkj8z2go?at_medium=RSS&at_campaign=rss"
+      "title": "Energy grid investment of £28bn to push up household bills",
+      "url": "https://www.bbc.com/news/articles/cp84yymxpjno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump administration to roll back fuel economy rules set under Biden",
-      "url": "https://www.bbc.com/news/articles/cly13we8zxeo?at_medium=RSS&at_campaign=rss"
+      "title": "Construction sector shrinks at fastest pace since pandemic, survey suggests",
+      "url": "https://www.bbc.com/news/articles/cx257jx70g5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
     {
-      "title": "Maximum-severity vulnerability threatens 6% of all websites",
+      "title": "In comedy of errors, men accused of wiping gov databases turned to an AI tool",
+      "url": "https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/"
+    },
+    {
+      "title": "Admins and defenders gird themselves against maximum-severity server vuln",
       "url": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/"
     },
     {
@@ -102,13 +106,9 @@
     {
       "title": "OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months",
       "url": "https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/"
-    },
-    {
-      "title": "Syntax hacking: Researchers discover sentence structure can bypass AI safety rules",
-      "url": "https://arstechnica.com/ai/2025/12/syntax-hacking-researchers-discover-sentence-structure-can-bypass-ai-safety-rules/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
