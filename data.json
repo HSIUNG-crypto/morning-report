@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-05 08:43:02 (台北時間)",
-  "updated_at_utc": "2025-12-05 00:43:02 (UTC)",
+  "updated_at": "2025-12-06 08:40:42 (台北時間)",
+  "updated_at_utc": "2025-12-06 00:40:42 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.2829,
-    "USD/JPY": 155.275,
-    "USD/EUR": 0.8573,
-    "USD/GBP": 0.7506,
-    "USD/CNY": 7.0723,
-    "USD/AUD": 1.5163,
-    "USD/CAD": 1.3949,
-    "USD/CHF": 0.8003,
-    "USD/HKD": 7.7844,
-    "USD/KRW": 1465.3552,
-    "USD/SGD": 1.2943,
-    "USD/INR": 90.2143
+    "USD/TWD": 31.2729,
+    "USD/JPY": 155.2103,
+    "USD/EUR": 0.8586,
+    "USD/GBP": 0.7497,
+    "USD/CNY": 7.0786,
+    "USD/AUD": 1.507,
+    "USD/CAD": 1.3855,
+    "USD/CHF": 0.8042,
+    "USD/HKD": 7.7849,
+    "USD/KRW": 1472.353,
+    "USD/SGD": 1.2956,
+    "USD/INR": 90.0069
   },
   "exchange_changes": {
-    "USD/TWD": -0.38,
-    "USD/JPY": -0.37,
-    "USD/EUR": -0.41,
-    "USD/GBP": -0.85,
-    "USD/CNY": -0.08,
-    "USD/AUD": -0.51,
-    "USD/CAD": -0.23,
-    "USD/CHF": -0.42,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.19,
-    "USD/SGD": -0.2,
-    "USD/INR": 0.3
+    "USD/TWD": -0.03,
+    "USD/JPY": -0.04,
+    "USD/EUR": 0.15,
+    "USD/GBP": -0.12,
+    "USD/CNY": 0.09,
+    "USD/AUD": -0.61,
+    "USD/CAD": -0.67,
+    "USD/CHF": 0.49,
+    "USD/HKD": 0.01,
+    "USD/KRW": 0.48,
+    "USD/SGD": 0.1,
+    "USD/INR": -0.23
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "Five takeaways from the blockbuster Netflix Warner Brothers deal",
+      "url": "https://www.bbc.com/news/articles/cx25039ddlro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Jamie's Italian to return six years after collapse",
+      "url": "https://www.bbc.com/news/articles/cj9yvz4ewg8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
+      "url": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "My husband would still be alive if he'd got Post Office compensation",
       "url": "https://www.bbc.com/news/articles/cy0p50ej0w2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "We would sell books by AI, says Waterstones boss",
-      "url": "https://www.bbc.com/news/articles/cpvdkw4xgewo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Six-month unfair dismissal right to begin from 2027",
-      "url": "https://www.bbc.com/news/articles/c4gk7r80ep5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Energy grid investment of £28bn to push up household bills",
-      "url": "https://www.bbc.com/news/articles/cp84yymxpjno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Construction sector shrinks at fastest pace since pandemic, survey suggests",
-      "url": "https://www.bbc.com/news/articles/cx257jx70g5o?at_medium=RSS&at_campaign=rss"
+      "title": "Disruption as flights resume at Edinburgh Airport after outage",
+      "url": "https://www.bbc.com/news/articles/c773vn035plo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
