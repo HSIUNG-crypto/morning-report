@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-06 08:40:42 (台北時間)",
-  "updated_at_utc": "2025-12-06 00:40:42 (UTC)",
+  "updated_at": "2025-12-07 08:47:10 (台北時間)",
+  "updated_at_utc": "2025-12-07 00:47:10 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.2729,
-    "USD/JPY": 155.2103,
-    "USD/EUR": 0.8586,
+    "USD/TWD": 31.2732,
+    "USD/JPY": 155.1985,
+    "USD/EUR": 0.8585,
     "USD/GBP": 0.7497,
-    "USD/CNY": 7.0786,
-    "USD/AUD": 1.507,
-    "USD/CAD": 1.3855,
+    "USD/CNY": 7.0819,
+    "USD/AUD": 1.5077,
+    "USD/CAD": 1.386,
     "USD/CHF": 0.8042,
-    "USD/HKD": 7.7849,
-    "USD/KRW": 1472.353,
-    "USD/SGD": 1.2956,
-    "USD/INR": 90.0069
+    "USD/HKD": 7.7847,
+    "USD/KRW": 1472.1006,
+    "USD/SGD": 1.2955,
+    "USD/INR": 90.0251
   },
   "exchange_changes": {
-    "USD/TWD": -0.03,
-    "USD/JPY": -0.04,
-    "USD/EUR": 0.15,
-    "USD/GBP": -0.12,
-    "USD/CNY": 0.09,
-    "USD/AUD": -0.61,
-    "USD/CAD": -0.67,
-    "USD/CHF": 0.49,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.48,
-    "USD/SGD": 0.1,
-    "USD/INR": -0.23
+    "USD/TWD": 0.0,
+    "USD/JPY": -0.01,
+    "USD/EUR": -0.01,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.05,
+    "USD/AUD": 0.05,
+    "USD/CAD": 0.04,
+    "USD/CHF": 0.0,
+    "USD/HKD": -0.0,
+    "USD/KRW": -0.02,
+    "USD/SGD": -0.01,
+    "USD/INR": 0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,7 +65,11 @@
   },
   "news_economy": [
     {
-      "title": "Five takeaways from the blockbuster Netflix Warner Brothers deal",
+      "title": "Failed Sarah Ferguson-backed app received  £1m taxpayers' money",
+      "url": "https://www.bbc.com/news/articles/cgl6zejp75wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Five takeaways from the blockbuster Netflix-Warner Brothers deal",
       "url": "https://www.bbc.com/news/articles/cx25039ddlro?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -73,16 +77,12 @@
       "url": "https://www.bbc.com/news/articles/cj9yvz4ewg8o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Shoppers loved the 'fabric queen'. Then, order by order, her story fell apart",
+      "url": "https://www.bbc.com/news/articles/c5y937w7xl7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Netflix to buy Warner Bros film and streaming businesses for $72bn",
       "url": "https://www.bbc.com/news/articles/ce91x2jm5pjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "My husband would still be alive if he'd got Post Office compensation",
-      "url": "https://www.bbc.com/news/articles/cy0p50ej0w2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Disruption as flights resume at Edinburgh Airport after outage",
-      "url": "https://www.bbc.com/news/articles/c773vn035plo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
