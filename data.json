@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-09 08:43:02 (台北時間)",
-  "updated_at_utc": "2025-12-09 00:43:02 (UTC)",
+  "updated_at": "2025-12-10 08:43:59 (台北時間)",
+  "updated_at_utc": "2025-12-10 00:43:59 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.1747,
-    "USD/JPY": 155.7349,
-    "USD/EUR": 0.8588,
-    "USD/GBP": 0.7506,
-    "USD/CNY": 7.0779,
-    "USD/AUD": 1.5086,
-    "USD/CAD": 1.3839,
-    "USD/CHF": 0.8063,
-    "USD/HKD": 7.7805,
-    "USD/KRW": 1467.7709,
-    "USD/SGD": 1.2972,
-    "USD/INR": 90.1696
+    "USD/TWD": 31.1577,
+    "USD/JPY": 156.6203,
+    "USD/EUR": 0.8597,
+    "USD/GBP": 0.7513,
+    "USD/CNY": 7.0724,
+    "USD/AUD": 1.5061,
+    "USD/CAD": 1.3843,
+    "USD/CHF": 0.8062,
+    "USD/HKD": 7.7817,
+    "USD/KRW": 1468.9333,
+    "USD/SGD": 1.297,
+    "USD/INR": 89.9429
   },
   "exchange_changes": {
-    "USD/TWD": -0.31,
-    "USD/JPY": 0.29,
-    "USD/EUR": -0.01,
-    "USD/GBP": 0.05,
-    "USD/CNY": -0.01,
-    "USD/AUD": 0.11,
-    "USD/CAD": -0.02,
-    "USD/CHF": 0.2,
-    "USD/HKD": -0.05,
-    "USD/KRW": -0.34,
-    "USD/SGD": 0.13,
-    "USD/INR": 0.12
+    "USD/TWD": -0.05,
+    "USD/JPY": 0.57,
+    "USD/EUR": 0.1,
+    "USD/GBP": 0.09,
+    "USD/CNY": -0.08,
+    "USD/AUD": -0.17,
+    "USD/CAD": 0.03,
+    "USD/CHF": -0.01,
+    "USD/HKD": 0.02,
+    "USD/KRW": 0.08,
+    "USD/SGD": -0.02,
+    "USD/INR": -0.25
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Trump gives Nvidia green light to sell advanced AI chips to China",
-      "url": "https://www.bbc.com/news/articles/ckg9q635q6po?at_medium=RSS&at_campaign=rss"
+      "title": "Budget could knock half a percentage point off inflation, Bank chief says",
+      "url": "https://www.bbc.com/news/articles/c898djgn2n2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Paramount launches rival bid for Warner Bros Discovery",
-      "url": "https://www.bbc.com/news/articles/cj69xzpzrdyo?at_medium=RSS&at_campaign=rss"
+      "title": "UK spending half an hour longer online than in pandemic, says Ofcom",
+      "url": "https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why has Paramount launched a hostile bid for Warner Bros Discovery?",
-      "url": "https://www.bbc.com/news/articles/cm21z4zgkx7o?at_medium=RSS&at_campaign=rss"
+      "title": "Much of £11bn Covid scheme fraud 'beyond recovery', report says",
+      "url": "https://www.bbc.com/news/articles/c075vjxyx3no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Branding and logo for Great British Railways unveiled",
-      "url": "https://www.bbc.com/news/articles/c4g9kx0je10o?at_medium=RSS&at_campaign=rss"
+      "title": "Date set for challenge over second Gatwick runway",
+      "url": "https://www.bbc.com/news/articles/cdxw27n2we4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Sweaty Betty in new dispute over ad slogans",
-      "url": "https://www.bbc.com/news/articles/cj9yz0xmvk2o?at_medium=RSS&at_campaign=rss"
+      "title": "Thirteen Labour MPs vote for talks on joining EU customs union",
+      "url": "https://www.bbc.com/news/articles/cwywr089l7vo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2025/12/fraudulent-gambling-network-may-be-a-nation-state-spying-operation/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
