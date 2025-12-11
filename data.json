@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-10 08:43:59 (台北時間)",
-  "updated_at_utc": "2025-12-10 00:43:59 (UTC)",
+  "updated_at": "2025-12-11 08:44:38 (台北時間)",
+  "updated_at_utc": "2025-12-11 00:44:38 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.1577,
-    "USD/JPY": 156.6203,
-    "USD/EUR": 0.8597,
-    "USD/GBP": 0.7513,
-    "USD/CNY": 7.0724,
-    "USD/AUD": 1.5061,
-    "USD/CAD": 1.3843,
-    "USD/CHF": 0.8062,
-    "USD/HKD": 7.7817,
-    "USD/KRW": 1468.9333,
-    "USD/SGD": 1.297,
-    "USD/INR": 89.9429
+    "USD/TWD": 31.1371,
+    "USD/JPY": 156.1932,
+    "USD/EUR": 0.8573,
+    "USD/GBP": 0.749,
+    "USD/CNY": 7.073,
+    "USD/AUD": 1.5021,
+    "USD/CAD": 1.3821,
+    "USD/CHF": 0.8025,
+    "USD/HKD": 7.7809,
+    "USD/KRW": 1467.8904,
+    "USD/SGD": 1.2946,
+    "USD/INR": 89.9456
   },
   "exchange_changes": {
-    "USD/TWD": -0.05,
-    "USD/JPY": 0.57,
-    "USD/EUR": 0.1,
-    "USD/GBP": 0.09,
-    "USD/CNY": -0.08,
-    "USD/AUD": -0.17,
-    "USD/CAD": 0.03,
-    "USD/CHF": -0.01,
-    "USD/HKD": 0.02,
-    "USD/KRW": 0.08,
-    "USD/SGD": -0.02,
-    "USD/INR": -0.25
+    "USD/TWD": -0.07,
+    "USD/JPY": -0.27,
+    "USD/EUR": -0.28,
+    "USD/GBP": -0.31,
+    "USD/CNY": 0.01,
+    "USD/AUD": -0.27,
+    "USD/CAD": -0.16,
+    "USD/CHF": -0.46,
+    "USD/HKD": -0.01,
+    "USD/KRW": -0.07,
+    "USD/SGD": -0.19,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Budget could knock half a percentage point off inflation, Bank chief says",
-      "url": "https://www.bbc.com/news/articles/c898djgn2n2o?at_medium=RSS&at_campaign=rss"
+      "title": "UK pharma boss says US is the best country to invest in",
+      "url": "https://www.bbc.com/news/articles/cwywp3y35ryo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK spending half an hour longer online than in pandemic, says Ofcom",
-      "url": "https://www.bbc.com/news/articles/c39prelx2mxo?at_medium=RSS&at_campaign=rss"
+      "title": "Banks to tell you where you might put your money",
+      "url": "https://www.bbc.com/news/articles/clydzglm5e1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Much of £11bn Covid scheme fraud 'beyond recovery', report says",
-      "url": "https://www.bbc.com/news/articles/c075vjxyx3no?at_medium=RSS&at_campaign=rss"
+      "title": "Shares in AI giant Oracle fall after revenue results ramp up bubble fears",
+      "url": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Date set for challenge over second Gatwick runway",
-      "url": "https://www.bbc.com/news/articles/cdxw27n2we4o?at_medium=RSS&at_campaign=rss"
+      "title": "Leon to close 20 stores and cut jobs in restructure",
+      "url": "https://www.bbc.com/news/articles/c33mp5rem05o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Thirteen Labour MPs vote for talks on joining EU customs union",
-      "url": "https://www.bbc.com/news/articles/cwywr089l7vo?at_medium=RSS&at_campaign=rss"
+      "title": "Fed lowers interest rates but future cuts uncertain",
+      "url": "https://www.bbc.com/news/articles/cx257k3n2g1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "A new open-weights AI coding model is closing in on proprietary options",
+      "url": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/"
+    },
+    {
+      "title": "Operation Bluebird wants to relaunch “Twitter,” says Musk abandoned the name and logo",
+      "url": "https://arstechnica.com/information-technology/2025/12/can-twitter-fly-again-startup-wants-to-pry-iconic-trademark-from-musks-x/"
+    },
     {
       "title": "Meta offers EU users ad-light option in push to end investigation",
       "url": "https://arstechnica.com/information-technology/2025/12/meta-offers-eu-users-ad-light-option-in-push-to-end-investigation/"
@@ -98,17 +106,9 @@
     {
       "title": "Admins and defenders gird themselves against maximum-severity server vuln",
       "url": "https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/"
-    },
-    {
-      "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
-      "url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/"
-    },
-    {
-      "title": "Fraudulent gambling network may actually be something more nefarious",
-      "url": "https://arstechnica.com/security/2025/12/fraudulent-gambling-network-may-be-a-nation-state-spying-operation/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
-  "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
+  "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
