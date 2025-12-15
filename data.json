@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-14 08:47:33 (台北時間)",
-  "updated_at_utc": "2025-12-14 00:47:33 (UTC)",
+  "updated_at": "2025-12-15 08:46:11 (台北時間)",
+  "updated_at_utc": "2025-12-15 00:46:11 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.2999,
-    "USD/JPY": 155.814,
+    "USD/TWD": 31.3266,
+    "USD/JPY": 155.8148,
     "USD/EUR": 0.8519,
-    "USD/GBP": 0.7478,
-    "USD/CNY": 7.0674,
-    "USD/AUD": 1.5026,
-    "USD/CAD": 1.3764,
+    "USD/GBP": 0.7479,
+    "USD/CNY": 7.0624,
+    "USD/AUD": 1.5038,
+    "USD/CAD": 1.3767,
     "USD/CHF": 0.7956,
-    "USD/HKD": 7.7844,
-    "USD/KRW": 1475.5263,
-    "USD/SGD": 1.2915,
-    "USD/INR": 90.5658
+    "USD/HKD": 7.785,
+    "USD/KRW": 1476.1918,
+    "USD/SGD": 1.2916,
+    "USD/INR": 90.6609
   },
   "exchange_changes": {
-    "USD/TWD": 0.02,
-    "USD/JPY": -0.01,
-    "USD/EUR": 0.01,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.04,
-    "USD/AUD": -0.01,
-    "USD/CAD": -0.02,
+    "USD/TWD": 0.09,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.01,
+    "USD/CNY": -0.07,
+    "USD/AUD": 0.08,
+    "USD/CAD": 0.02,
     "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": -0.03,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.02
+    "USD/HKD": 0.01,
+    "USD/KRW": 0.05,
+    "USD/SGD": 0.01,
+    "USD/INR": 0.11
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "'A nightmare' - The battle over Warner Bros is turning Hollywood upside down",
+      "url": "https://www.bbc.com/news/articles/c8dyy47qy82o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Train timetable revamp takes effect with more services promised",
+      "url": "https://www.bbc.com/news/articles/cd9zek4e493o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Tories to scrap petrol car ban if they win next election",
+      "url": "https://www.bbc.com/news/articles/c36z84ej6e0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Whisky industry faces bleak midwinter as tariffs bite and exports stall",
+      "url": "https://www.bbc.com/news/articles/cd0kkkmymz5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Why your chocolate is getting smaller, more expensive and less chocolatey",
       "url": "https://www.bbc.com/news/articles/cz0n8eygdp7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "EU backs indefinite freeze on Russia's frozen cash ahead of loan plan for Ukraine",
-      "url": "https://www.bbc.com/news/articles/c98nnd01g91o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK economy shrank unexpectedly by 0.1% in October",
-      "url": "https://www.bbc.com/news/articles/cwyp7v7r28yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "No 10 says it backs pubs as landlords bar Labour MPs in tax protest",
-      "url": "https://www.bbc.com/news/articles/c4gvvvdz01go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Nationwide fined £44m for 'ineffective' crime controls",
-      "url": "https://www.bbc.com/news/articles/c1e440e49q6o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
