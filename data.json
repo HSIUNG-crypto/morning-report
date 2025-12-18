@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-17 08:41:08 (台北時間)",
-  "updated_at_utc": "2025-12-17 00:41:08 (UTC)",
+  "updated_at": "2025-12-18 08:40:24 (台北時間)",
+  "updated_at_utc": "2025-12-18 00:40:24 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4629,
-    "USD/JPY": 154.7598,
-    "USD/EUR": 0.8504,
-    "USD/GBP": 0.745,
-    "USD/CNY": 7.0487,
-    "USD/AUD": 1.5073,
-    "USD/CAD": 1.3755,
-    "USD/CHF": 0.7951,
-    "USD/HKD": 7.7799,
-    "USD/KRW": 1472.6086,
-    "USD/SGD": 1.2891,
-    "USD/INR": 91.028
+    "USD/TWD": 31.5634,
+    "USD/JPY": 155.4748,
+    "USD/EUR": 0.8519,
+    "USD/GBP": 0.7478,
+    "USD/CNY": 7.0515,
+    "USD/AUD": 1.5134,
+    "USD/CAD": 1.3781,
+    "USD/CHF": 0.7957,
+    "USD/HKD": 7.7806,
+    "USD/KRW": 1476.6796,
+    "USD/SGD": 1.2914,
+    "USD/INR": 90.4528
   },
   "exchange_changes": {
-    "USD/TWD": 0.42,
-    "USD/JPY": -0.27,
-    "USD/EUR": -0.06,
-    "USD/GBP": -0.32,
-    "USD/CNY": -0.1,
-    "USD/AUD": 0.15,
-    "USD/CAD": -0.09,
-    "USD/CHF": -0.11,
-    "USD/HKD": -0.03,
-    "USD/KRW": 0.2,
-    "USD/SGD": -0.02,
-    "USD/INR": 0.24
+    "USD/TWD": 0.32,
+    "USD/JPY": 0.46,
+    "USD/EUR": 0.18,
+    "USD/GBP": 0.38,
+    "USD/CNY": 0.04,
+    "USD/AUD": 0.4,
+    "USD/CAD": 0.19,
+    "USD/CHF": 0.08,
+    "USD/HKD": 0.01,
+    "USD/KRW": 0.28,
+    "USD/SGD": 0.18,
+    "USD/INR": -0.63
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Learner drivers face 24-week wait as backlog continues for two more years",
-      "url": "https://www.bbc.com/news/articles/cqlkg11d5gxo?at_medium=RSS&at_campaign=rss"
+      "title": "Bank of England expected to cut interest rates",
+      "url": "https://www.bbc.com/news/articles/cj01v7z73q1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Weight-loss jab ad banned for targeting new mums",
-      "url": "https://www.bbc.com/news/articles/cly5v89xny3o?at_medium=RSS&at_campaign=rss"
+      "title": "BP names new boss as current CEO leaves after less than two years",
+      "url": "https://www.bbc.com/news/articles/cq60jq125ljo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "New £150m funding package to protect jobs at Grangemouth",
-      "url": "https://www.bbc.com/news/articles/c75ve576x5eo?at_medium=RSS&at_campaign=rss"
+      "title": "Why this month's inflation figure may be good news for you",
+      "url": "https://www.bbc.com/news/articles/c0r9x1xx0x7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Employment Rights Bill clears last parliamentary hurdle",
-      "url": "https://www.bbc.com/news/articles/c2dz16jxjp1o?at_medium=RSS&at_campaign=rss"
+      "title": "Pay freeze for Father Christmas but elves fare better",
+      "url": "https://www.bbc.com/news/articles/cx25eln2kd0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "EU waters down plans to end new petrol and diesel car sales by 2035",
-      "url": "https://www.bbc.com/news/articles/crk78y7k8ezo?at_medium=RSS&at_campaign=rss"
+      "title": "Starmer tells Abramovich to 'pay up now' or face court",
+      "url": "https://www.bbc.com/news/articles/cx2e64lr3zeo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
+      "url": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/"
+    },
+    {
+      "title": "Browser extensions with 8 million users collect extended AI conversations",
+      "url": "https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/"
+    },
     {
       "title": "Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content",
       "url": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/"
@@ -98,17 +106,9 @@
     {
       "title": "Roomba maker iRobot swept into bankruptcy",
       "url": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/"
-    },
-    {
-      "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
-      "url": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/"
-    },
-    {
-      "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
-      "url": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
