@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-19 08:43:51 (台北時間)",
-  "updated_at_utc": "2025-12-19 00:43:51 (UTC)",
+  "updated_at": "2025-12-20 08:41:20 (台北時間)",
+  "updated_at_utc": "2025-12-20 00:41:20 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5617,
-    "USD/JPY": 155.6137,
-    "USD/EUR": 0.8526,
-    "USD/GBP": 0.7472,
-    "USD/CNY": 7.0509,
-    "USD/AUD": 1.5126,
-    "USD/CAD": 1.3775,
-    "USD/CHF": 0.7944,
-    "USD/HKD": 7.7809,
-    "USD/KRW": 1475.2588,
-    "USD/SGD": 1.2903,
-    "USD/INR": 90.3383
+    "USD/TWD": 31.5577,
+    "USD/JPY": 157.3278,
+    "USD/EUR": 0.8535,
+    "USD/GBP": 0.7478,
+    "USD/CNY": 7.0511,
+    "USD/AUD": 1.5125,
+    "USD/CAD": 1.3789,
+    "USD/CHF": 0.7953,
+    "USD/HKD": 7.7815,
+    "USD/KRW": 1476.9304,
+    "USD/SGD": 1.2923,
+    "USD/INR": 89.8962
   },
   "exchange_changes": {
     "USD/TWD": -0.01,
-    "USD/JPY": 0.09,
-    "USD/EUR": 0.08,
-    "USD/GBP": -0.08,
-    "USD/CNY": -0.01,
-    "USD/AUD": -0.05,
-    "USD/CAD": -0.04,
-    "USD/CHF": -0.16,
-    "USD/HKD": 0.0,
-    "USD/KRW": -0.1,
-    "USD/SGD": -0.09,
-    "USD/INR": -0.13
+    "USD/JPY": 1.1,
+    "USD/EUR": 0.11,
+    "USD/GBP": 0.08,
+    "USD/CNY": 0.0,
+    "USD/AUD": -0.01,
+    "USD/CAD": 0.1,
+    "USD/CHF": 0.11,
+    "USD/HKD": 0.01,
+    "USD/KRW": 0.11,
+    "USD/SGD": 0.16,
+    "USD/INR": -0.49
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Faisal Islam: Will 'Santa rate cut' have enough festive spirit to boost the economy?",
-      "url": "https://www.bbc.com/news/articles/c1kp2722399o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "TikTok owner signs deal to sell US business",
-      "url": "https://www.bbc.com/news/articles/cgexp1q8wn1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Friday to be busiest travel day of festive season",
+      "title": "Millions head off for Christmas on busiest day of festive getaway",
       "url": "https://www.bbc.com/news/articles/c5yjvnr655po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How much more your Christmas dinner will cost this year",
-      "url": "https://www.bbc.com/news/articles/cj01rvgd3jvo?at_medium=RSS&at_campaign=rss"
+      "title": "Removed Ben & Jerry's chair says Magnum aimed to 'smear' her",
+      "url": "https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Tourists to face €2 fee to get near Rome's Trevi Fountain",
+      "url": "https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "£100 contactless card limit to be lifted",
       "url": "https://www.bbc.com/news/articles/cx2prjr4lpko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Retail sales fall as Black Friday deals fail to lure shoppers",
+      "url": "https://www.bbc.com/news/articles/c0ed28qlz89o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
