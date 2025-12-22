@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-21 08:47:06 (台北時間)",
-  "updated_at_utc": "2025-12-21 00:47:06 (UTC)",
+  "updated_at": "2025-12-22 08:46:26 (台北時間)",
+  "updated_at_utc": "2025-12-22 00:46:26 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5671,
-    "USD/JPY": 157.219,
-    "USD/EUR": 0.8535,
-    "USD/GBP": 0.7477,
-    "USD/CNY": 7.0541,
-    "USD/AUD": 1.5125,
-    "USD/CAD": 1.3789,
-    "USD/CHF": 0.7954,
-    "USD/HKD": 7.7814,
-    "USD/KRW": 1476.5439,
-    "USD/SGD": 1.2923,
-    "USD/INR": 89.9239
+    "USD/TWD": 31.5657,
+    "USD/JPY": 157.5741,
+    "USD/EUR": 0.8538,
+    "USD/GBP": 0.7475,
+    "USD/CNY": 7.0485,
+    "USD/AUD": 1.5129,
+    "USD/CAD": 1.3791,
+    "USD/CHF": 0.7955,
+    "USD/HKD": 7.7816,
+    "USD/KRW": 1477.1301,
+    "USD/SGD": 1.2929,
+    "USD/INR": 89.7224
   },
   "exchange_changes": {
-    "USD/TWD": 0.03,
-    "USD/JPY": -0.07,
-    "USD/EUR": 0.0,
-    "USD/GBP": -0.01,
-    "USD/CNY": 0.04,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
+    "USD/TWD": -0.0,
+    "USD/JPY": 0.23,
+    "USD/EUR": 0.04,
+    "USD/GBP": -0.03,
+    "USD/CNY": -0.08,
+    "USD/AUD": 0.03,
+    "USD/CAD": 0.01,
     "USD/CHF": 0.01,
-    "USD/HKD": -0.0,
-    "USD/KRW": -0.03,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.03
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.04,
+    "USD/SGD": 0.05,
+    "USD/INR": -0.22
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "London's West End bucks Christmas shopping trends",
-      "url": "https://www.bbc.com/news/articles/c1e423n7qqgo?at_medium=RSS&at_campaign=rss"
+      "title": "Cricket-themed bar chain Sixes goes into administration",
+      "url": "https://www.bbc.com/news/articles/c5yqz5we58jo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Supply 'too reliant' on one asset, says water firm boss",
-      "url": "https://www.bbc.com/news/articles/cy47epz7dqjo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Millions head off for Christmas on busiest day of festive getaway",
-      "url": "https://www.bbc.com/news/articles/c5yjvnr655po?at_medium=RSS&at_campaign=rss"
+      "title": "The 'winners and losers' in Universal UK's plan to rival Disneyland Paris",
+      "url": "https://www.bbc.com/news/articles/cg4npgy1ngdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Removed Ben & Jerry's chair says Magnum aimed to 'smear' her",
       "url": "https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tourists to face €2 fee to get near Rome's Trevi Fountain",
-      "url": "https://www.bbc.com/news/articles/cp89p41gr06o?at_medium=RSS&at_campaign=rss"
+      "title": "London's West End bucks Christmas shopping trends",
+      "url": "https://www.bbc.com/news/articles/c1e423n7qqgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Supply 'too reliant' on one asset, says water firm boss",
+      "url": "https://www.bbc.com/news/articles/cy47epz7dqjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
