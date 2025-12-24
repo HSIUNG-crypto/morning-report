@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-23 08:43:40 (台北時間)",
-  "updated_at_utc": "2025-12-23 00:43:40 (UTC)",
+  "updated_at": "2025-12-24 08:44:02 (台北時間)",
+  "updated_at_utc": "2025-12-24 00:44:02 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5522,
-    "USD/JPY": 157.0499,
-    "USD/EUR": 0.851,
-    "USD/GBP": 0.7434,
-    "USD/CNY": 7.0465,
-    "USD/AUD": 1.5035,
-    "USD/CAD": 1.3751,
-    "USD/CHF": 0.7925,
-    "USD/HKD": 7.7798,
-    "USD/KRW": 1479.6441,
-    "USD/SGD": 1.2891,
-    "USD/INR": 89.7522
+    "USD/TWD": 31.5169,
+    "USD/JPY": 156.2209,
+    "USD/EUR": 0.8483,
+    "USD/GBP": 0.7406,
+    "USD/CNY": 7.0386,
+    "USD/AUD": 1.4938,
+    "USD/CAD": 1.3696,
+    "USD/CHF": 0.7883,
+    "USD/HKD": 7.778,
+    "USD/KRW": 1480.9932,
+    "USD/SGD": 1.2852,
+    "USD/INR": 89.6676
   },
   "exchange_changes": {
-    "USD/TWD": -0.04,
-    "USD/JPY": -0.33,
-    "USD/EUR": -0.33,
-    "USD/GBP": -0.55,
-    "USD/CNY": -0.03,
-    "USD/AUD": -0.62,
-    "USD/CAD": -0.29,
-    "USD/CHF": -0.38,
+    "USD/TWD": -0.11,
+    "USD/JPY": -0.53,
+    "USD/EUR": -0.32,
+    "USD/GBP": -0.38,
+    "USD/CNY": -0.11,
+    "USD/AUD": -0.65,
+    "USD/CAD": -0.4,
+    "USD/CHF": -0.53,
     "USD/HKD": -0.02,
-    "USD/KRW": 0.17,
-    "USD/SGD": -0.29,
-    "USD/INR": 0.03
+    "USD/KRW": 0.09,
+    "USD/SGD": -0.3,
+    "USD/INR": -0.09
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "US economy grows at fastest pace in two years",
+      "url": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Government waters down inheritance tax plan for farms",
+      "url": "https://www.bbc.com/news/articles/c8e9n3y28g1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Bet365 boss pay package rises to £280m",
+      "url": "https://www.bbc.com/news/articles/c1j914rj64do?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Our son can't come home for Christmas after insulation mould took over",
       "url": "https://www.bbc.com/news/articles/cz0ne0k70dro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Post Office had deal with Fujitsu to fix Horizon errors 19 years ago",
-      "url": "https://www.bbc.com/news/articles/cqlkx6n15ero?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Petrol and diesel profit margins still persistently high, says watchdog",
-      "url": "https://www.bbc.com/news/articles/c2dzk4kz722o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Lush co-founder takes pride in being a 'woke nerd'",
-      "url": "https://www.bbc.com/news/articles/cjrj9529yn5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Gold and silver hit records as investors hunt for safety",
-      "url": "https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss"
+      "title": "Who are the frontrunners for the top Fed job?",
+      "url": "https://www.bbc.com/news/articles/c4g907zekllo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
