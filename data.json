@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-24 08:44:02 (台北時間)",
-  "updated_at_utc": "2025-12-24 00:44:02 (UTC)",
+  "updated_at": "2025-12-25 08:43:36 (台北時間)",
+  "updated_at_utc": "2025-12-25 00:43:36 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5169,
-    "USD/JPY": 156.2209,
-    "USD/EUR": 0.8483,
+    "USD/TWD": 31.4523,
+    "USD/JPY": 155.9442,
+    "USD/EUR": 0.8486,
     "USD/GBP": 0.7406,
-    "USD/CNY": 7.0386,
-    "USD/AUD": 1.4938,
-    "USD/CAD": 1.3696,
-    "USD/CHF": 0.7883,
-    "USD/HKD": 7.778,
-    "USD/KRW": 1480.9932,
-    "USD/SGD": 1.2852,
-    "USD/INR": 89.6676
+    "USD/CNY": 7.0251,
+    "USD/AUD": 1.4914,
+    "USD/CAD": 1.3676,
+    "USD/CHF": 0.7881,
+    "USD/HKD": 7.7761,
+    "USD/KRW": 1447.1071,
+    "USD/SGD": 1.284,
+    "USD/INR": 89.8366
   },
   "exchange_changes": {
-    "USD/TWD": -0.11,
-    "USD/JPY": -0.53,
-    "USD/EUR": -0.32,
-    "USD/GBP": -0.38,
-    "USD/CNY": -0.11,
-    "USD/AUD": -0.65,
-    "USD/CAD": -0.4,
-    "USD/CHF": -0.53,
+    "USD/TWD": -0.2,
+    "USD/JPY": -0.18,
+    "USD/EUR": 0.04,
+    "USD/GBP": 0.0,
+    "USD/CNY": -0.19,
+    "USD/AUD": -0.16,
+    "USD/CAD": -0.15,
+    "USD/CHF": -0.03,
     "USD/HKD": -0.02,
-    "USD/KRW": 0.09,
-    "USD/SGD": -0.3,
-    "USD/INR": -0.09
+    "USD/KRW": -2.29,
+    "USD/SGD": -0.09,
+    "USD/INR": 0.19
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "Busiest ever Christmas Eve for air travel, says civil aviation body",
+      "url": "https://www.bbc.com/news/articles/c2dzw06g1ydo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "BP sells stake in motor oil arm Castrol for $6bn",
+      "url": "https://www.bbc.com/news/articles/c93wekx37g4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "US economy grows at fastest pace in two years",
       "url": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Government waters down inheritance tax plan for farms",
-      "url": "https://www.bbc.com/news/articles/c8e9n3y28g1o?at_medium=RSS&at_campaign=rss"
+      "title": "Rivalries and rumours: How the new order of the Murdoch dynasty is playing out",
+      "url": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Bet365 boss pay package rises to £280m",
-      "url": "https://www.bbc.com/news/articles/c1j914rj64do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Our son can't come home for Christmas after insulation mould took over",
-      "url": "https://www.bbc.com/news/articles/cz0ne0k70dro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Who are the frontrunners for the top Fed job?",
-      "url": "https://www.bbc.com/news/articles/c4g907zekllo?at_medium=RSS&at_campaign=rss"
+      "title": "Major fires still a risk under 'spineless' new safety law, construction boss warns",
+      "url": "https://www.bbc.com/news/articles/cev8mrgky9eo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
