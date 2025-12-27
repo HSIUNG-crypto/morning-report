@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-26 08:44:08 (台北時間)",
-  "updated_at_utc": "2025-12-26 00:44:08 (UTC)",
+  "updated_at": "2025-12-27 08:42:38 (台北時間)",
+  "updated_at_utc": "2025-12-27 00:42:38 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4579,
-    "USD/JPY": 155.9595,
-    "USD/EUR": 0.8483,
-    "USD/GBP": 0.7401,
-    "USD/CNY": 7.0158,
-    "USD/AUD": 1.4919,
-    "USD/CAD": 1.3677,
-    "USD/CHF": 0.7879,
-    "USD/HKD": 7.7754,
-    "USD/KRW": 1445.4603,
-    "USD/SGD": 1.2841,
-    "USD/INR": 89.9152
+    "USD/TWD": 31.4498,
+    "USD/JPY": 156.472,
+    "USD/EUR": 0.8493,
+    "USD/GBP": 0.7407,
+    "USD/CNY": 7.0165,
+    "USD/AUD": 1.4899,
+    "USD/CAD": 1.3672,
+    "USD/CHF": 0.7892,
+    "USD/HKD": 7.7719,
+    "USD/KRW": 1438.3443,
+    "USD/SGD": 1.2842,
+    "USD/INR": 90.0185
   },
   "exchange_changes": {
-    "USD/TWD": 0.02,
-    "USD/JPY": 0.01,
-    "USD/EUR": -0.04,
-    "USD/GBP": -0.07,
-    "USD/CNY": -0.13,
-    "USD/AUD": 0.03,
-    "USD/CAD": 0.01,
-    "USD/CHF": -0.03,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.11,
+    "USD/TWD": -0.03,
+    "USD/JPY": 0.33,
+    "USD/EUR": 0.12,
+    "USD/GBP": 0.08,
+    "USD/CNY": 0.01,
+    "USD/AUD": -0.13,
+    "USD/CAD": -0.04,
+    "USD/CHF": 0.16,
+    "USD/HKD": -0.05,
+    "USD/KRW": -0.49,
     "USD/SGD": 0.01,
-    "USD/INR": 0.09
+    "USD/INR": 0.11
   },
   "stocks": {
     "道瓊": {
@@ -65,6 +65,14 @@
   },
   "news_economy": [
     {
+      "title": "Boxing Day shopping falls flat once again",
+      "url": "https://www.bbc.com/news/articles/c865d7zw26jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US judge blocks detention of British social media campaigner",
+      "url": "https://www.bbc.com/news/articles/c33mx6j5jrvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Busiest ever Christmas Eve for air travel, says civil aviation body",
       "url": "https://www.bbc.com/news/articles/c2dzw06g1ydo?at_medium=RSS&at_campaign=rss"
     },
@@ -75,14 +83,6 @@
     {
       "title": "US economy grows at fastest pace in two years",
       "url": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Rivalries and rumours: How the new order of the Murdoch dynasty is playing out",
-      "url": "https://www.bbc.com/news/articles/clyd12d38jgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Major fires still a risk under 'spineless' new safety law, construction boss warns",
-      "url": "https://www.bbc.com/news/articles/cev8mrgky9eo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
