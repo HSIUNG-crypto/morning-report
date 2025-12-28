@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-27 08:42:38 (台北時間)",
-  "updated_at_utc": "2025-12-27 00:42:38 (UTC)",
+  "updated_at": "2025-12-28 08:50:42 (台北時間)",
+  "updated_at_utc": "2025-12-28 00:50:42 (UTC)",
   "exchange_rates": {
     "USD/TWD": 31.4498,
     "USD/JPY": 156.472,
@@ -16,18 +16,18 @@
     "USD/INR": 90.0185
   },
   "exchange_changes": {
-    "USD/TWD": -0.03,
-    "USD/JPY": 0.33,
-    "USD/EUR": 0.12,
-    "USD/GBP": 0.08,
-    "USD/CNY": 0.01,
-    "USD/AUD": -0.13,
-    "USD/CAD": -0.04,
-    "USD/CHF": 0.16,
-    "USD/HKD": -0.05,
-    "USD/KRW": -0.49,
-    "USD/SGD": 0.01,
-    "USD/INR": 0.11
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -69,20 +69,20 @@
       "url": "https://www.bbc.com/news/articles/c865d7zw26jo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Don't rule out EU customs union, TUC boss tells Starmer",
+      "url": "https://www.bbc.com/news/articles/cx2dj27y0z0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Treasury to cover Bayeux Tapestry for estimated £800m",
+      "url": "https://www.bbc.com/news/articles/c79x21wdlgeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "US judge blocks detention of British social media campaigner",
       "url": "https://www.bbc.com/news/articles/c33mx6j5jrvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Busiest ever Christmas Eve for air travel, says civil aviation body",
       "url": "https://www.bbc.com/news/articles/c2dzw06g1ydo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "BP sells stake in motor oil arm Castrol for $6bn",
-      "url": "https://www.bbc.com/news/articles/c93wekx37g4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US economy grows at fastest pace in two years",
-      "url": "https://www.bbc.com/news/articles/c62n9ynzrdpo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
