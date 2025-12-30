@@ -1,33 +1,33 @@
 {
-  "updated_at": "2025-12-29 08:49:16 (台北時間)",
-  "updated_at_utc": "2025-12-29 00:49:16 (UTC)",
+  "updated_at": "2025-12-30 08:43:54 (台北時間)",
+  "updated_at_utc": "2025-12-30 00:43:54 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4486,
-    "USD/JPY": 156.5002,
-    "USD/EUR": 0.8495,
-    "USD/GBP": 0.7408,
-    "USD/CNY": 7.023,
-    "USD/AUD": 1.4903,
-    "USD/CAD": 1.367,
-    "USD/CHF": 0.7894,
-    "USD/HKD": 7.7725,
-    "USD/KRW": 1440.4314,
-    "USD/SGD": 1.2839,
-    "USD/INR": 89.947
+    "USD/TWD": 31.431,
+    "USD/JPY": 156.4818,
+    "USD/EUR": 0.8493,
+    "USD/GBP": 0.7409,
+    "USD/CNY": 7.0149,
+    "USD/AUD": 1.4901,
+    "USD/CAD": 1.3668,
+    "USD/CHF": 0.7891,
+    "USD/HKD": 7.7713,
+    "USD/KRW": 1438.5429,
+    "USD/SGD": 1.2847,
+    "USD/INR": 90.0348
   },
   "exchange_changes": {
-    "USD/TWD": -0.0,
-    "USD/JPY": 0.02,
-    "USD/EUR": 0.02,
+    "USD/TWD": -0.06,
+    "USD/JPY": -0.01,
+    "USD/EUR": -0.02,
     "USD/GBP": 0.01,
-    "USD/CNY": 0.09,
-    "USD/AUD": 0.03,
+    "USD/CNY": -0.12,
+    "USD/AUD": -0.01,
     "USD/CAD": -0.01,
-    "USD/CHF": 0.03,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.15,
-    "USD/SGD": -0.02,
-    "USD/INR": -0.08
+    "USD/CHF": -0.04,
+    "USD/HKD": -0.02,
+    "USD/KRW": -0.13,
+    "USD/SGD": 0.06,
+    "USD/INR": 0.1
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "Oldest Post Office scandal victim made OBE",
+      "url": "https://www.bbc.com/news/articles/ce8n8385rk8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Beyoncé declared a billionaire by Forbes",
+      "url": "https://www.bbc.com/news/articles/cn09091zw34o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Pothole claims up 90% in three years, says RAC",
+      "url": "https://www.bbc.com/news/articles/clyzyww1jp2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Many new UK drone users must take theory test before flying outside",
       "url": "https://www.bbc.com/news/articles/cjrjpzdzeddo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why are young people leaving to work abroad?",
-      "url": "https://www.bbc.com/news/articles/c1kpv1z372lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Late shopper rush drives Boxing Day sales traffic",
-      "url": "https://www.bbc.com/news/articles/c997e2vrzz7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Is texting behind the wheel of a self-driving Tesla crazy?",
-      "url": "https://www.bbc.com/news/articles/c783qd14zl7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Don't rule out EU customs union, TUC boss tells Starmer",
-      "url": "https://www.bbc.com/news/articles/cx2dj27y0z0o?at_medium=RSS&at_campaign=rss"
+      "title": "Boss of Everyman cinema chain departs weeks after profit warning",
+      "url": "https://www.bbc.com/news/articles/ce8q8zejgpdo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
