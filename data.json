@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-02 08:44:57 (台北時間)",
-  "updated_at_utc": "2026-01-02 00:44:57 (UTC)",
+  "updated_at": "2026-01-03 08:42:26 (台北時間)",
+  "updated_at_utc": "2026-01-03 00:42:26 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.396,
-    "USD/JPY": 156.6962,
-    "USD/EUR": 0.8516,
-    "USD/GBP": 0.7429,
-    "USD/CNY": 7.0009,
-    "USD/AUD": 1.4974,
-    "USD/CAD": 1.3707,
-    "USD/CHF": 0.7929,
-    "USD/HKD": 7.7827,
-    "USD/KRW": 1442.8612,
-    "USD/SGD": 1.2855,
-    "USD/INR": 89.941
+    "USD/TWD": 31.3778,
+    "USD/JPY": 156.7299,
+    "USD/EUR": 0.8513,
+    "USD/GBP": 0.7427,
+    "USD/CNY": 6.9974,
+    "USD/AUD": 1.4979,
+    "USD/CAD": 1.3715,
+    "USD/CHF": 0.7925,
+    "USD/HKD": 7.7837,
+    "USD/KRW": 1442.7307,
+    "USD/SGD": 1.2852,
+    "USD/INR": 90.034
   },
   "exchange_changes": {
-    "USD/TWD": 0.23,
-    "USD/JPY": 0.26,
-    "USD/EUR": 0.09,
-    "USD/GBP": 0.12,
-    "USD/CNY": -0.08,
-    "USD/AUD": 0.29,
-    "USD/CAD": 0.11,
-    "USD/CHF": 0.23,
-    "USD/HKD": 0.02,
-    "USD/KRW": 0.1,
-    "USD/SGD": 0.09,
-    "USD/INR": 0.06
+    "USD/TWD": -0.06,
+    "USD/JPY": 0.02,
+    "USD/EUR": -0.04,
+    "USD/GBP": -0.03,
+    "USD/CNY": -0.05,
+    "USD/AUD": 0.03,
+    "USD/CAD": 0.06,
+    "USD/CHF": -0.05,
+    "USD/HKD": 0.01,
+    "USD/KRW": -0.01,
+    "USD/SGD": -0.02,
+    "USD/INR": 0.1
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Crypto users forced to share account details with tax officials",
-      "url": "https://www.bbc.com/news/articles/ckgl2je65klo?at_medium=RSS&at_campaign=rss"
+      "title": "FTSE 100 hits 10,000 mark for first time",
+      "url": "https://www.bbc.com/news/articles/c87r05143dzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Energy prices rise slightly for millions of households as temperatures fall",
-      "url": "https://www.bbc.com/news/articles/clyzy5488qqo?at_medium=RSS&at_campaign=rss"
+      "title": "Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes",
+      "url": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Condom tax and cheaper childcare: China's plan to boost birth rates",
-      "url": "https://www.bbc.com/news/articles/czxpk7r8w9yo?at_medium=RSS&at_campaign=rss"
+      "title": "China's BYD overtakes Tesla as world's top EV seller",
+      "url": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Eurostar services return to normal after major Channel Tunnel disruption",
-      "url": "https://www.bbc.com/news/articles/c0q4eg03eyzo?at_medium=RSS&at_campaign=rss"
+      "title": "US slashes proposed tariffs on Italian pasta imports",
+      "url": "https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Bottled water from Waitrose recalled over risk it contains glass",
-      "url": "https://www.bbc.com/news/articles/c62wrn17295o?at_medium=RSS&at_campaign=rss"
+      "title": "Why everything from your phone to your PC may get pricier in 2026",
+      "url": "https://www.bbc.com/news/articles/c1dzdndzlxqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
