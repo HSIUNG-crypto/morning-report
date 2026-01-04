@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-03 08:42:26 (台北時間)",
-  "updated_at_utc": "2026-01-03 00:42:26 (UTC)",
+  "updated_at": "2026-01-04 08:51:23 (台北時間)",
+  "updated_at_utc": "2026-01-04 00:51:23 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.3778,
-    "USD/JPY": 156.7299,
-    "USD/EUR": 0.8513,
-    "USD/GBP": 0.7427,
-    "USD/CNY": 6.9974,
-    "USD/AUD": 1.4979,
-    "USD/CAD": 1.3715,
-    "USD/CHF": 0.7925,
-    "USD/HKD": 7.7837,
-    "USD/KRW": 1442.7307,
-    "USD/SGD": 1.2852,
-    "USD/INR": 90.034
+    "USD/TWD": 31.4455,
+    "USD/JPY": 156.8463,
+    "USD/EUR": 0.853,
+    "USD/GBP": 0.743,
+    "USD/CNY": 7.0009,
+    "USD/AUD": 1.4948,
+    "USD/CAD": 1.3729,
+    "USD/CHF": 0.7924,
+    "USD/HKD": 7.7909,
+    "USD/KRW": 1444.4676,
+    "USD/SGD": 1.2862,
+    "USD/INR": 90.1319
   },
   "exchange_changes": {
-    "USD/TWD": -0.06,
-    "USD/JPY": 0.02,
-    "USD/EUR": -0.04,
-    "USD/GBP": -0.03,
-    "USD/CNY": -0.05,
-    "USD/AUD": 0.03,
-    "USD/CAD": 0.06,
-    "USD/CHF": -0.05,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.01,
-    "USD/SGD": -0.02,
-    "USD/INR": 0.1
+    "USD/TWD": 0.22,
+    "USD/JPY": 0.07,
+    "USD/EUR": 0.2,
+    "USD/GBP": 0.04,
+    "USD/CNY": 0.05,
+    "USD/AUD": -0.21,
+    "USD/CAD": 0.1,
+    "USD/CHF": -0.01,
+    "USD/HKD": 0.09,
+    "USD/KRW": 0.12,
+    "USD/SGD": 0.08,
+    "USD/INR": 0.11
   },
   "stocks": {
     "道瓊": {
@@ -88,27 +88,27 @@
   "news_markets": [],
   "news_ai": [
     {
-      "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
-      "url": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/"
+      "title": "Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025",
+      "url": "https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/"
     },
     {
-      "title": "Browser extensions with 8 million users collect extended AI conversations",
-      "url": "https://arstechnica.com/security/2025/12/browser-extensions-with-8-million-users-collect-extended-ai-conversations/"
+      "title": "From prophet to product: How AI came back down to earth in 2025",
+      "url": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/"
     },
     {
-      "title": "Merriam-Webster’s word of the year delivers a dismissive verdict on junk AI content",
-      "url": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/"
+      "title": "Condé Nast user database reportedly breached, Ars unaffected",
+      "url": "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/"
     },
     {
-      "title": "Microsoft will finally kill obsolete cipher that has wreaked decades of havoc",
-      "url": "https://arstechnica.com/security/2025/12/microsoft-will-finally-kill-obsolete-cipher-that-has-wreaked-decades-of-havoc/"
+      "title": "GPS is vulnerable to jamming—here’s how we might fix it",
+      "url": "https://arstechnica.com/information-technology/2025/12/gps-is-vulnerable-to-jamming-heres-how-we-might-fix-it/"
     },
     {
-      "title": "Roomba maker iRobot swept into bankruptcy",
-      "url": "https://arstechnica.com/information-technology/2025/12/roomba-maker-irobot-swept-into-bankruptcy/"
+      "title": "How AI coding agents work—and what to remember if you use them",
+      "url": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
-  "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
+  "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
