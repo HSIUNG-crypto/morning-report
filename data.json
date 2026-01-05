@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-04 08:51:23 (台北時間)",
-  "updated_at_utc": "2026-01-04 00:51:23 (UTC)",
+  "updated_at": "2026-01-05 08:50:25 (台北時間)",
+  "updated_at_utc": "2026-01-05 00:50:25 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4455,
-    "USD/JPY": 156.8463,
-    "USD/EUR": 0.853,
+    "USD/TWD": 31.4351,
+    "USD/JPY": 156.8414,
+    "USD/EUR": 0.8529,
     "USD/GBP": 0.743,
-    "USD/CNY": 7.0009,
-    "USD/AUD": 1.4948,
-    "USD/CAD": 1.3729,
-    "USD/CHF": 0.7924,
-    "USD/HKD": 7.7909,
-    "USD/KRW": 1444.4676,
+    "USD/CNY": 7.0085,
+    "USD/AUD": 1.4949,
+    "USD/CAD": 1.3727,
+    "USD/CHF": 0.7926,
+    "USD/HKD": 7.7904,
+    "USD/KRW": 1444.427,
     "USD/SGD": 1.2862,
-    "USD/INR": 90.1319
+    "USD/INR": 90.1096
   },
   "exchange_changes": {
-    "USD/TWD": 0.22,
-    "USD/JPY": 0.07,
-    "USD/EUR": 0.2,
-    "USD/GBP": 0.04,
-    "USD/CNY": 0.05,
-    "USD/AUD": -0.21,
-    "USD/CAD": 0.1,
-    "USD/CHF": -0.01,
-    "USD/HKD": 0.09,
-    "USD/KRW": 0.12,
-    "USD/SGD": 0.08,
-    "USD/INR": 0.11
+    "USD/TWD": -0.03,
+    "USD/JPY": -0.0,
+    "USD/EUR": -0.01,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.11,
+    "USD/AUD": 0.01,
+    "USD/CAD": -0.01,
+    "USD/CHF": 0.03,
+    "USD/HKD": -0.01,
+    "USD/KRW": -0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": -0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "Trump wants Venezuela's oil. Will his plan work?",
+      "url": "https://www.bbc.com/news/articles/crkr4y717k7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Junk food advert ban set to come into force",
+      "url": "https://www.bbc.com/news/articles/cq5y2vzlyldo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Dreading going back to work? How to ease the post-Christmas return",
+      "url": "https://www.bbc.com/news/articles/c7097jp00pno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "How UK plush toy Jellycat conquered China",
+      "url": "https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "FTSE 100 hits 10,000 mark for first time",
       "url": "https://www.bbc.com/news/articles/c87r05143dzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Woman felt 'dehumanised' after Musk's Grok AI used to digitally remove her clothes",
-      "url": "https://www.bbc.com/news/articles/c98p1r4e6m8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "China's BYD overtakes Tesla as world's top EV seller",
-      "url": "https://www.bbc.com/news/articles/cj9rjwpvmpzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US slashes proposed tariffs on Italian pasta imports",
-      "url": "https://www.bbc.com/news/articles/c70lw7w89epo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Why everything from your phone to your PC may get pricier in 2026",
-      "url": "https://www.bbc.com/news/articles/c1dzdndzlxqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
