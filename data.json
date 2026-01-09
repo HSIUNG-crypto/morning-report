@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-08 08:44:50 (台北時間)",
-  "updated_at_utc": "2026-01-08 00:44:50 (UTC)",
+  "updated_at": "2026-01-09 08:44:46 (台北時間)",
+  "updated_at_utc": "2026-01-09 00:44:46 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5201,
-    "USD/JPY": 156.6193,
-    "USD/EUR": 0.855,
-    "USD/GBP": 0.7404,
-    "USD/CNY": 6.9953,
-    "USD/AUD": 1.4858,
-    "USD/CAD": 1.3794,
-    "USD/CHF": 0.795,
-    "USD/HKD": 7.7873,
-    "USD/KRW": 1447.0223,
-    "USD/SGD": 1.2806,
-    "USD/INR": 90.2118
+    "USD/TWD": 31.483,
+    "USD/JPY": 156.6572,
+    "USD/EUR": 0.8559,
+    "USD/GBP": 0.7422,
+    "USD/CNY": 7.0026,
+    "USD/AUD": 1.4871,
+    "USD/CAD": 1.3834,
+    "USD/CHF": 0.797,
+    "USD/HKD": 7.7869,
+    "USD/KRW": 1448.0273,
+    "USD/SGD": 1.282,
+    "USD/INR": 89.8996
   },
   "exchange_changes": {
-    "USD/TWD": -0.01,
-    "USD/JPY": -0.0,
-    "USD/EUR": 0.06,
-    "USD/GBP": -0.07,
-    "USD/CNY": -0.08,
-    "USD/AUD": -0.5,
-    "USD/CAD": 0.17,
-    "USD/CHF": 0.2,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.06,
-    "USD/SGD": -0.28,
-    "USD/INR": -0.1
+    "USD/TWD": -0.12,
+    "USD/JPY": 0.02,
+    "USD/EUR": 0.11,
+    "USD/GBP": 0.24,
+    "USD/CNY": 0.1,
+    "USD/AUD": 0.09,
+    "USD/CAD": 0.29,
+    "USD/CHF": 0.25,
+    "USD/HKD": -0.01,
+    "USD/KRW": 0.07,
+    "USD/SGD": 0.11,
+    "USD/INR": -0.35
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
+      "title": "More businesses call to be included in pub rates backtrack",
+      "url": "https://www.bbc.com/news/articles/cp80l2ndz5yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Weight loss jabs affecting Greggs, boss says",
+      "url": "https://www.bbc.com/news/articles/c20g11y4dywo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Government to water down business rate rise for pubs",
+      "url": "https://www.bbc.com/news/articles/c8e57dexly1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Tesco and M&S report strong  Christmas food sales",
+      "url": "https://www.bbc.com/news/articles/cp82ylmy6d1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Inside the sub-zero lair of the world's most powerful computer",
       "url": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Labour's workers' rights concessions to save businesses billions, assessment shows",
-      "url": "https://www.bbc.com/news/articles/c5yv6n536vno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Unions accuse McDonald's of 'repeated harassment’ against ‘mostly teenage’ staff",
-      "url": "https://www.bbc.com/news/articles/c2e1g17drr2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "How tariff disruption will continue reshaping the global economy in 2026",
-      "url": "https://www.bbc.com/news/articles/czejp3gep63o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "IWF finds sexual imagery of children which 'appears to have been' made by Grok",
-      "url": "https://www.bbc.com/news/articles/cvg1mzlryxeo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+      "url": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/"
+    },
+    {
+      "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+      "url": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/"
+    },
     {
       "title": "The nation’s strictest privacy law just took effect, to data brokers’ chagrin",
       "url": "https://arstechnica.com/tech-policy/2026/01/data-broker-hoarding-is-rampant-new-law-lets-consumers-fight-back/"
@@ -98,14 +106,6 @@
     {
       "title": "From prophet to product: How AI came back down to earth in 2025",
       "url": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/"
-    },
-    {
-      "title": "Condé Nast user database reportedly breached, Ars unaffected",
-      "url": "https://arstechnica.com/information-technology/2025/12/conde-nast-user-database-reportedly-breached-ars-unaffected/"
-    },
-    {
-      "title": "GPS is vulnerable to jamming—here’s how we might fix it",
-      "url": "https://arstechnica.com/information-technology/2025/12/gps-is-vulnerable-to-jamming-heres-how-we-might-fix-it/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
