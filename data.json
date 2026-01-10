@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-09 08:44:46 (台北時間)",
-  "updated_at_utc": "2026-01-09 00:44:46 (UTC)",
+  "updated_at": "2026-01-10 08:43:41 (台北時間)",
+  "updated_at_utc": "2026-01-10 00:43:41 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.483,
-    "USD/JPY": 156.6572,
-    "USD/EUR": 0.8559,
-    "USD/GBP": 0.7422,
-    "USD/CNY": 7.0026,
-    "USD/AUD": 1.4871,
-    "USD/CAD": 1.3834,
-    "USD/CHF": 0.797,
-    "USD/HKD": 7.7869,
-    "USD/KRW": 1448.0273,
-    "USD/SGD": 1.282,
-    "USD/INR": 89.8996
+    "USD/TWD": 31.5824,
+    "USD/JPY": 156.8381,
+    "USD/EUR": 0.8574,
+    "USD/GBP": 0.7442,
+    "USD/CNY": 6.9961,
+    "USD/AUD": 1.4931,
+    "USD/CAD": 1.3863,
+    "USD/CHF": 0.7986,
+    "USD/HKD": 7.7925,
+    "USD/KRW": 1451.643,
+    "USD/SGD": 1.2846,
+    "USD/INR": 89.986
   },
   "exchange_changes": {
-    "USD/TWD": -0.12,
-    "USD/JPY": 0.02,
-    "USD/EUR": 0.11,
-    "USD/GBP": 0.24,
-    "USD/CNY": 0.1,
-    "USD/AUD": 0.09,
-    "USD/CAD": 0.29,
-    "USD/CHF": 0.25,
-    "USD/HKD": -0.01,
-    "USD/KRW": 0.07,
-    "USD/SGD": 0.11,
-    "USD/INR": -0.35
+    "USD/TWD": 0.32,
+    "USD/JPY": 0.12,
+    "USD/EUR": 0.18,
+    "USD/GBP": 0.27,
+    "USD/CNY": -0.09,
+    "USD/AUD": 0.4,
+    "USD/CAD": 0.21,
+    "USD/CHF": 0.2,
+    "USD/HKD": 0.07,
+    "USD/KRW": 0.25,
+    "USD/SGD": 0.2,
+    "USD/INR": 0.1
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "More businesses call to be included in pub rates backtrack",
-      "url": "https://www.bbc.com/news/articles/cp80l2ndz5yo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump seeks $100bn for Venezuela oil, but Exxon boss says country 'uninvestable'",
+      "url": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Weight loss jabs affecting Greggs, boss says",
-      "url": "https://www.bbc.com/news/articles/c20g11y4dywo?at_medium=RSS&at_campaign=rss"
+      "title": "EU reaches South America trade deal after 25 years of talks",
+      "url": "https://www.bbc.com/news/articles/ceqzj49gny4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Government to water down business rate rise for pubs",
-      "url": "https://www.bbc.com/news/articles/c8e57dexly1o?at_medium=RSS&at_campaign=rss"
+      "title": "X could face UK ban over deepfakes, minister says",
+      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tesco and M&S report strong  Christmas food sales",
-      "url": "https://www.bbc.com/news/articles/cp82ylmy6d1o?at_medium=RSS&at_campaign=rss"
+      "title": "US calls Argentina peso bet a 'homerun deal'",
+      "url": "https://www.bbc.com/news/articles/cwyngv1keq7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Inside the sub-zero lair of the world's most powerful computer",
-      "url": "https://www.bbc.com/news/articles/c62r6dvpl5ro?at_medium=RSS&at_campaign=rss"
+      "title": "US job creation in 2025 slows to weakest since Covid",
+      "url": "https://www.bbc.com/news/articles/c0r4zd29n5no?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
