@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-10 08:43:41 (台北時間)",
-  "updated_at_utc": "2026-01-10 00:43:41 (UTC)",
+  "updated_at": "2026-01-11 08:50:48 (台北時間)",
+  "updated_at_utc": "2026-01-11 00:50:48 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5824,
-    "USD/JPY": 156.8381,
-    "USD/EUR": 0.8574,
-    "USD/GBP": 0.7442,
-    "USD/CNY": 6.9961,
-    "USD/AUD": 1.4931,
-    "USD/CAD": 1.3863,
-    "USD/CHF": 0.7986,
-    "USD/HKD": 7.7925,
-    "USD/KRW": 1451.643,
-    "USD/SGD": 1.2846,
-    "USD/INR": 89.986
+    "USD/TWD": 31.6438,
+    "USD/JPY": 157.7796,
+    "USD/EUR": 0.8593,
+    "USD/GBP": 0.7457,
+    "USD/CNY": 6.9928,
+    "USD/AUD": 1.4956,
+    "USD/CAD": 1.3897,
+    "USD/CHF": 0.8009,
+    "USD/HKD": 7.7945,
+    "USD/KRW": 1458.0013,
+    "USD/SGD": 1.2869,
+    "USD/INR": 90.2185
   },
   "exchange_changes": {
-    "USD/TWD": 0.32,
-    "USD/JPY": 0.12,
-    "USD/EUR": 0.18,
-    "USD/GBP": 0.27,
-    "USD/CNY": -0.09,
-    "USD/AUD": 0.4,
-    "USD/CAD": 0.21,
-    "USD/CHF": 0.2,
-    "USD/HKD": 0.07,
-    "USD/KRW": 0.25,
-    "USD/SGD": 0.2,
-    "USD/INR": 0.1
+    "USD/TWD": 0.19,
+    "USD/JPY": 0.6,
+    "USD/EUR": 0.22,
+    "USD/GBP": 0.2,
+    "USD/CNY": -0.05,
+    "USD/AUD": 0.17,
+    "USD/CAD": 0.25,
+    "USD/CHF": 0.29,
+    "USD/HKD": 0.03,
+    "USD/KRW": 0.44,
+    "USD/SGD": 0.18,
+    "USD/INR": 0.26
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "'Unprecedented' numbers seeking debt help post-Christmas, say charities",
+      "url": "https://www.bbc.com/news/articles/c0er4n1zelro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Musk says X outcry is 'excuse for censorship'",
+      "url": "https://www.bbc.com/news/articles/ce3kqzepp5zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Out of stock': What went wrong at luxury retailer Saks?",
+      "url": "https://www.bbc.com/news/articles/czdq1z73pv9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Trump seeks $100bn for Venezuela oil, but Exxon boss says country 'uninvestable'",
       "url": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "EU reaches South America trade deal after 25 years of talks",
       "url": "https://www.bbc.com/news/articles/ceqzj49gny4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "X could face UK ban over deepfakes, minister says",
-      "url": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US calls Argentina peso bet a 'homerun deal'",
-      "url": "https://www.bbc.com/news/articles/cwyngv1keq7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US job creation in 2025 slows to weakest since Covid",
-      "url": "https://www.bbc.com/news/articles/c0r4zd29n5no?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
