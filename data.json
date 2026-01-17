@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-16 08:45:29 (台北時間)",
-  "updated_at_utc": "2026-01-16 00:45:29 (UTC)",
+  "updated_at": "2026-01-17 08:43:16 (台北時間)",
+  "updated_at_utc": "2026-01-17 00:43:16 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5727,
-    "USD/JPY": 158.5032,
-    "USD/EUR": 0.8585,
-    "USD/GBP": 0.7439,
-    "USD/CNY": 6.9857,
-    "USD/AUD": 1.497,
-    "USD/CAD": 1.388,
-    "USD/CHF": 0.8003,
-    "USD/HKD": 7.7976,
-    "USD/KRW": 1469.8363,
-    "USD/SGD": 1.2878,
-    "USD/INR": 90.3397
+    "USD/TWD": 31.5601,
+    "USD/JPY": 158.5861,
+    "USD/EUR": 0.8609,
+    "USD/GBP": 0.7469,
+    "USD/CNY": 6.9806,
+    "USD/AUD": 1.4932,
+    "USD/CAD": 1.3895,
+    "USD/CHF": 0.8028,
+    "USD/HKD": 7.7982,
+    "USD/KRW": 1468.6018,
+    "USD/SGD": 1.288,
+    "USD/INR": 90.3895
   },
   "exchange_changes": {
-    "USD/TWD": -0.28,
-    "USD/JPY": -0.31,
-    "USD/EUR": 0.02,
-    "USD/GBP": -0.01,
-    "USD/CNY": -0.04,
-    "USD/AUD": 0.11,
-    "USD/CAD": -0.04,
-    "USD/CHF": 0.01,
-    "USD/HKD": -0.04,
-    "USD/KRW": -0.28,
-    "USD/SGD": -0.02,
-    "USD/INR": 0.04
+    "USD/TWD": -0.04,
+    "USD/JPY": 0.05,
+    "USD/EUR": 0.28,
+    "USD/GBP": 0.4,
+    "USD/CNY": -0.07,
+    "USD/AUD": -0.25,
+    "USD/CAD": 0.11,
+    "USD/CHF": 0.31,
+    "USD/HKD": 0.01,
+    "USD/KRW": -0.08,
+    "USD/SGD": 0.02,
+    "USD/INR": 0.06
   },
   "stocks": {
     "道瓊": {
@@ -65,50 +65,50 @@
   },
   "news_economy": [
     {
+      "title": "Trump to unveil home buying plan involving retirement funds",
+      "url": "https://www.bbc.com/news/articles/cpdyjde1ey3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Government to give cash payouts to people in financial crisis",
       "url": "https://www.bbc.com/news/articles/cx2l74eykxdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Leon will focus on stations and airports to revive fortunes, boss says",
+      "title": "ChatGPT to carry adverts for some users",
+      "url": "https://www.bbc.com/news/articles/cvgjn012k3do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Weight loss jabs are 'opportunity' for Leon, boss says",
       "url": "https://www.bbc.com/news/articles/cd7z8j9j3ypo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Serial rail fare evader faces jail over 112 unpaid tickets",
-      "url": "https://www.bbc.com/news/articles/c17zwv58x99o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US to cut tariffs on Taiwanese goods after investment pledge",
-      "url": "https://www.bbc.com/news/articles/c3dmpr37yxlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK economy grew by 0.3% in November, beating forecasts",
-      "url": "https://www.bbc.com/news/articles/c8d041pp85mo?at_medium=RSS&at_campaign=rss"
+      "title": "Mother of Elon Musk's child sues xAI over Grok deepfakes",
+      "url": "https://www.bbc.com/news/articles/cp37erw0zwwo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
     {
-      "title": "Wikipedia signs AI training deals with Microsoft, Meta, and Amazon",
+      "title": "Rackspace customers grapple with “devastating” email hosting price hike",
+      "url": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/"
+    },
+    {
+      "title": "OpenAI to test ads in ChatGPT as it burns through billions",
+      "url": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/"
+    },
+    {
+      "title": "Mandiant releases rainbow table that cracks weak admin password in 12 hours",
+      "url": "https://arstechnica.com/security/2026/01/mandiant-releases-rainbow-table-that-cracks-weak-admin-password-in-12-hours/"
+    },
+    {
+      "title": "TSMC says AI demand is “endless” after record Q4 earnings",
+      "url": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/"
+    },
+    {
+      "title": "Wikipedia signs major AI firms to new priority data access deals",
       "url": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/"
-    },
-    {
-      "title": "A single click mounted a covert, multistage attack against Copilot",
-      "url": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/"
-    },
-    {
-      "title": "Bandcamp bans purely AI-generated music from its platform",
-      "url": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/"
-    },
-    {
-      "title": "The RAM shortage’s silver lining: Less talk about “AI PCs”",
-      "url": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/"
-    },
-    {
-      "title": "Never-before-seen Linux malware is “far more advanced than typical”",
-      "url": "https://arstechnica.com/security/2026/01/never-before-seen-linux-malware-is-far-more-advanced-than-typical/"
     }
   ],
   "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
-  "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
+  "forecast_ai": "AI情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
