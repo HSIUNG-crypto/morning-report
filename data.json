@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-19 08:49:16 (台北時間)",
-  "updated_at_utc": "2026-01-19 00:49:16 (UTC)",
+  "updated_at": "2026-01-20 08:44:01 (台北時間)",
+  "updated_at_utc": "2026-01-20 00:44:01 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.615,
-    "USD/JPY": 158.1674,
-    "USD/EUR": 0.8615,
-    "USD/GBP": 0.7469,
-    "USD/CNY": 6.9877,
-    "USD/AUD": 1.4952,
-    "USD/CAD": 1.3908,
-    "USD/CHF": 0.8028,
-    "USD/HKD": 7.7986,
-    "USD/KRW": 1472.5966,
-    "USD/SGD": 1.2887,
-    "USD/INR": 90.7742
+    "USD/TWD": 31.6245,
+    "USD/JPY": 157.7837,
+    "USD/EUR": 0.8614,
+    "USD/GBP": 0.7468,
+    "USD/CNY": 6.9798,
+    "USD/AUD": 1.4954,
+    "USD/CAD": 1.3903,
+    "USD/CHF": 0.8009,
+    "USD/HKD": 7.7984,
+    "USD/KRW": 1473.1748,
+    "USD/SGD": 1.2888,
+    "USD/INR": 90.7975
   },
   "exchange_changes": {
-    "USD/TWD": 0.12,
-    "USD/JPY": 0.01,
+    "USD/TWD": 0.03,
+    "USD/JPY": -0.24,
     "USD/EUR": -0.01,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.05,
-    "USD/AUD": -0.02,
-    "USD/CAD": -0.01,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": -0.02,
+    "USD/GBP": -0.01,
+    "USD/CNY": -0.11,
+    "USD/AUD": 0.01,
+    "USD/CAD": -0.04,
+    "USD/CHF": -0.24,
+    "USD/HKD": -0.0,
+    "USD/KRW": 0.04,
     "USD/SGD": 0.01,
-    "USD/INR": 0.02
+    "USD/INR": 0.03
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Faisal Islam: Global disruption looms large over biggest-ever Davos",
-      "url": "https://www.bbc.com/news/articles/cx2p3e245npo?at_medium=RSS&at_campaign=rss"
+      "title": "Greenland 'will stay Greenland', former Trump adviser declares",
+      "url": "https://www.bbc.com/news/articles/c98p6m0r53no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Europe won't be blackmailed,' Danish PM says in wake of Trump Greenland threats",
-      "url": "https://www.bbc.com/news/articles/ceqz0llpnyqo?at_medium=RSS&at_campaign=rss"
+      "title": "UK to consult on social media ban for under 16s",
+      "url": "https://www.bbc.com/news/articles/cgm4xpyxp7lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Faisal Islam: Trump's Greenland threats to allies are without parallel",
-      "url": "https://www.bbc.com/news/articles/cx2gjdx241wo?at_medium=RSS&at_campaign=rss"
+      "title": "Water companies to face regular MOT-style checks in industry shake-up",
+      "url": "https://www.bbc.com/news/articles/cwygpg281dno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "British Gas took 15 months to refund me £1,500. It's absurd",
-      "url": "https://www.bbc.com/news/articles/c62n9qp3gezo?at_medium=RSS&at_campaign=rss"
+      "title": "Environment Secretary: South East Water boss 'should not get bonus'",
+      "url": "https://www.bbc.com/news/articles/czjgp89le7do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
-      "url": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss"
+      "title": "How could Europe respond to Trump's Greenland tariffs?",
+      "url": "https://www.bbc.com/news/articles/cgk8z8xxpgmo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "10 things I learned from burning myself out with AI coding agents",
+      "url": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/"
+    },
     {
       "title": "Rackspace customers grapple with “devastating” email hosting price hike",
       "url": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/"
@@ -102,10 +106,6 @@
     {
       "title": "TSMC says AI demand is “endless” after record Q4 earnings",
       "url": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/"
-    },
-    {
-      "title": "Wikipedia signs major AI firms to new priority data access deals",
-      "url": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
