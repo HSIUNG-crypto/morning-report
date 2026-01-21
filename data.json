@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-20 08:44:01 (台北時間)",
-  "updated_at_utc": "2026-01-20 00:44:01 (UTC)",
+  "updated_at": "2026-01-21 08:45:59 (台北時間)",
+  "updated_at_utc": "2026-01-21 00:45:59 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6245,
-    "USD/JPY": 157.7837,
-    "USD/EUR": 0.8614,
-    "USD/GBP": 0.7468,
-    "USD/CNY": 6.9798,
-    "USD/AUD": 1.4954,
-    "USD/CAD": 1.3903,
-    "USD/CHF": 0.8009,
-    "USD/HKD": 7.7984,
-    "USD/KRW": 1473.1748,
-    "USD/SGD": 1.2888,
-    "USD/INR": 90.7975
+    "USD/TWD": 31.5693,
+    "USD/JPY": 158.0514,
+    "USD/EUR": 0.8594,
+    "USD/GBP": 0.7454,
+    "USD/CNY": 6.9767,
+    "USD/AUD": 1.4907,
+    "USD/CAD": 1.3876,
+    "USD/CHF": 0.7979,
+    "USD/HKD": 7.7971,
+    "USD/KRW": 1473.0842,
+    "USD/SGD": 1.2853,
+    "USD/INR": 90.9589
   },
   "exchange_changes": {
-    "USD/TWD": 0.03,
-    "USD/JPY": -0.24,
-    "USD/EUR": -0.01,
-    "USD/GBP": -0.01,
-    "USD/CNY": -0.11,
-    "USD/AUD": 0.01,
-    "USD/CAD": -0.04,
-    "USD/CHF": -0.24,
-    "USD/HKD": -0.0,
-    "USD/KRW": 0.04,
-    "USD/SGD": 0.01,
-    "USD/INR": 0.03
+    "USD/TWD": -0.17,
+    "USD/JPY": 0.17,
+    "USD/EUR": -0.23,
+    "USD/GBP": -0.19,
+    "USD/CNY": -0.04,
+    "USD/AUD": -0.31,
+    "USD/CAD": -0.19,
+    "USD/CHF": -0.37,
+    "USD/HKD": -0.02,
+    "USD/KRW": -0.01,
+    "USD/SGD": -0.27,
+    "USD/INR": 0.18
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Greenland 'will stay Greenland', former Trump adviser declares",
-      "url": "https://www.bbc.com/news/articles/c98p6m0r53no?at_medium=RSS&at_campaign=rss"
+      "title": "Driving test cheating soars as candidates turn to Bluetooth headsets and impersonators",
+      "url": "https://www.bbc.com/news/articles/cx2g30wwmnno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK to consult on social media ban for under 16s",
-      "url": "https://www.bbc.com/news/articles/cgm4xpyxp7lo?at_medium=RSS&at_campaign=rss"
+      "title": "Snap settles social media addiction lawsuit ahead of trial",
+      "url": "https://www.bbc.com/news/articles/c62ndl2ydzxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Water companies to face regular MOT-style checks in industry shake-up",
-      "url": "https://www.bbc.com/news/articles/cwygpg281dno?at_medium=RSS&at_campaign=rss"
+      "title": "Air India crash plane had record of safety defects, campaigners claim",
+      "url": "https://www.bbc.com/news/articles/czx1p47x589o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Environment Secretary: South East Water boss 'should not get bonus'",
-      "url": "https://www.bbc.com/news/articles/czjgp89le7do?at_medium=RSS&at_campaign=rss"
+      "title": "Alleged scam mastermind arrested after being exposed by BBC",
+      "url": "https://www.bbc.com/news/articles/cwy8v31kkv1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How could Europe respond to Trump's Greenland tariffs?",
-      "url": "https://www.bbc.com/news/articles/cgk8z8xxpgmo?at_medium=RSS&at_campaign=rss"
+      "title": "Europe to suspend approval of US trade deal as global markets fall",
+      "url": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
