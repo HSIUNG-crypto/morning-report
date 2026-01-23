@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-22 08:45:44 (台北時間)",
-  "updated_at_utc": "2026-01-22 00:45:44 (UTC)",
+  "updated_at": "2026-01-23 08:45:49 (台北時間)",
+  "updated_at_utc": "2026-01-23 00:45:49 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.691,
-    "USD/JPY": 158.0078,
-    "USD/EUR": 0.853,
-    "USD/GBP": 0.7438,
-    "USD/CNY": 6.9732,
-    "USD/AUD": 1.4853,
-    "USD/CAD": 1.383,
-    "USD/CHF": 0.7904,
-    "USD/HKD": 7.7993,
-    "USD/KRW": 1478.1352,
-    "USD/SGD": 1.2837,
-    "USD/INR": 91.0971
+    "USD/TWD": 31.6515,
+    "USD/JPY": 158.1572,
+    "USD/EUR": 0.8546,
+    "USD/GBP": 0.7447,
+    "USD/CNY": 6.9762,
+    "USD/AUD": 1.4803,
+    "USD/CAD": 1.3821,
+    "USD/CHF": 0.7939,
+    "USD/HKD": 7.7973,
+    "USD/KRW": 1466.6647,
+    "USD/SGD": 1.2838,
+    "USD/INR": 91.6515
   },
   "exchange_changes": {
-    "USD/TWD": 0.39,
-    "USD/JPY": -0.03,
-    "USD/EUR": -0.74,
-    "USD/GBP": -0.21,
-    "USD/CNY": -0.05,
-    "USD/AUD": -0.36,
-    "USD/CAD": -0.33,
-    "USD/CHF": -0.94,
-    "USD/HKD": 0.03,
-    "USD/KRW": 0.34,
-    "USD/SGD": -0.12,
-    "USD/INR": 0.15
+    "USD/TWD": -0.12,
+    "USD/JPY": 0.09,
+    "USD/EUR": 0.19,
+    "USD/GBP": 0.12,
+    "USD/CNY": 0.04,
+    "USD/AUD": -0.34,
+    "USD/CAD": -0.07,
+    "USD/CHF": 0.44,
+    "USD/HKD": -0.03,
+    "USD/KRW": -0.78,
+    "USD/SGD": 0.01,
+    "USD/INR": 0.61
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Trump says 'framework of a future deal' discussed on Greenland as he drops tariffs threat",
-      "url": "https://www.bbc.com/news/articles/cgezx40r7d7o?at_medium=RSS&at_campaign=rss"
+      "title": "Botched insulation scheme was 'doomed to fail', say MPs",
+      "url": "https://www.bbc.com/news/articles/c8011kkdn5jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Retired civil servants left in pension limbo",
+      "url": "https://www.bbc.com/news/articles/cp9jkdx1gp8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Sharp fall in government borrowing in December, figures show",
+      "url": "https://www.bbc.com/news/articles/clymd1pj887o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Two charged after funeral firm collapse hit 46,000",
+      "url": "https://www.bbc.com/news/articles/cnvggm1l39mo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Decision on Manchester-London 'ghost train' was uninformed, regulator admits",
       "url": "https://www.bbc.com/news/articles/cx2ydq20drlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Faisal Islam: What it was like inside the room with Donald Trump at Davos",
-      "url": "https://www.bbc.com/news/articles/cm24vjvy3n1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Supreme Court sceptical of Trump firing of Lisa Cook",
-      "url": "https://www.bbc.com/news/articles/ckgjm50r14go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK inflation rises for first time in five months - but one-off factors blamed",
-      "url": "https://www.bbc.com/news/articles/cnvg251g25yo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+      "url": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/"
+    },
+    {
+      "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
+      "url": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/"
+    },
     {
       "title": "Millions of people imperiled through sign-in links sent by SMS",
       "url": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/"
@@ -98,17 +106,9 @@
     {
       "title": "10 things I learned from burning myself out with AI coding agents",
       "url": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/"
-    },
-    {
-      "title": "Rackspace customers grapple with “devastating” email hosting price hike",
-      "url": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/"
-    },
-    {
-      "title": "OpenAI to test ads in ChatGPT as it burns through billions",
-      "url": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
