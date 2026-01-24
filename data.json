@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-23 08:45:49 (台北時間)",
-  "updated_at_utc": "2026-01-23 00:45:49 (UTC)",
+  "updated_at": "2026-01-24 08:43:58 (台北時間)",
+  "updated_at_utc": "2026-01-24 00:43:58 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6515,
-    "USD/JPY": 158.1572,
-    "USD/EUR": 0.8546,
-    "USD/GBP": 0.7447,
-    "USD/CNY": 6.9762,
-    "USD/AUD": 1.4803,
-    "USD/CAD": 1.3821,
-    "USD/CHF": 0.7939,
-    "USD/HKD": 7.7973,
-    "USD/KRW": 1466.6647,
-    "USD/SGD": 1.2838,
-    "USD/INR": 91.6515
+    "USD/TWD": 31.6184,
+    "USD/JPY": 158.4906,
+    "USD/EUR": 0.8523,
+    "USD/GBP": 0.7425,
+    "USD/CNY": 6.98,
+    "USD/AUD": 1.4652,
+    "USD/CAD": 1.3796,
+    "USD/CHF": 0.791,
+    "USD/HKD": 7.7975,
+    "USD/KRW": 1465.8477,
+    "USD/SGD": 1.2821,
+    "USD/INR": 91.6291
   },
   "exchange_changes": {
-    "USD/TWD": -0.12,
-    "USD/JPY": 0.09,
-    "USD/EUR": 0.19,
-    "USD/GBP": 0.12,
-    "USD/CNY": 0.04,
-    "USD/AUD": -0.34,
-    "USD/CAD": -0.07,
-    "USD/CHF": 0.44,
-    "USD/HKD": -0.03,
-    "USD/KRW": -0.78,
-    "USD/SGD": 0.01,
-    "USD/INR": 0.61
+    "USD/TWD": -0.1,
+    "USD/JPY": 0.21,
+    "USD/EUR": -0.27,
+    "USD/GBP": -0.3,
+    "USD/CNY": 0.05,
+    "USD/AUD": -1.02,
+    "USD/CAD": -0.18,
+    "USD/CHF": -0.37,
+    "USD/HKD": 0.0,
+    "USD/KRW": -0.06,
+    "USD/SGD": -0.13,
+    "USD/INR": -0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Botched insulation scheme was 'doomed to fail', say MPs",
-      "url": "https://www.bbc.com/news/articles/c8011kkdn5jo?at_medium=RSS&at_campaign=rss"
+      "title": "Heathrow scraps 100ml liquid container limit",
+      "url": "https://www.bbc.com/news/articles/c1evvx89559o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Retired civil servants left in pension limbo",
-      "url": "https://www.bbc.com/news/articles/cp9jkdx1gp8o?at_medium=RSS&at_campaign=rss"
+      "title": "Post Office and Fujitsu accused of delaying £4m legal claim",
+      "url": "https://www.bbc.com/news/articles/cgk82743gz1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Sharp fall in government borrowing in December, figures show",
-      "url": "https://www.bbc.com/news/articles/clymd1pj887o?at_medium=RSS&at_campaign=rss"
+      "title": "Tesla fined for repeatedly failing to help UK police over driving offences",
+      "url": "https://www.bbc.com/news/articles/c0r44zpprg7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Two charged after funeral firm collapse hit 46,000",
-      "url": "https://www.bbc.com/news/articles/cnvggm1l39mo?at_medium=RSS&at_campaign=rss"
+      "title": "Demand for online jewellery boosts December retail sales",
+      "url": "https://www.bbc.com/news/articles/cy8y4qz9429o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Decision on Manchester-London 'ghost train' was uninformed, regulator admits",
-      "url": "https://www.bbc.com/news/articles/cx2ydq20drlo?at_medium=RSS&at_campaign=rss"
+      "title": "What does a new US TikTok deal mean for users?",
+      "url": "https://www.bbc.com/news/articles/cq5yynydvgzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
