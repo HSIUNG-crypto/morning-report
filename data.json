@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-25 08:51:29 (台北時間)",
-  "updated_at_utc": "2026-01-25 00:51:29 (UTC)",
+  "updated_at": "2026-01-26 08:50:35 (台北時間)",
+  "updated_at_utc": "2026-01-26 00:50:35 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4937,
-    "USD/JPY": 156.8104,
-    "USD/EUR": 0.8487,
-    "USD/GBP": 0.7369,
-    "USD/CNY": 6.9763,
-    "USD/AUD": 1.4546,
-    "USD/CAD": 1.3729,
-    "USD/CHF": 0.7851,
-    "USD/HKD": 7.7975,
-    "USD/KRW": 1457.341,
-    "USD/SGD": 1.2755,
-    "USD/INR": 91.8063
+    "USD/TWD": 31.4844,
+    "USD/JPY": 157.1671,
+    "USD/EUR": 0.8494,
+    "USD/GBP": 0.7374,
+    "USD/CNY": 6.9797,
+    "USD/AUD": 1.4566,
+    "USD/CAD": 1.3738,
+    "USD/CHF": 0.7866,
+    "USD/HKD": 7.7978,
+    "USD/KRW": 1459.5437,
+    "USD/SGD": 1.2769,
+    "USD/INR": 91.8485
   },
   "exchange_changes": {
-    "USD/TWD": -0.39,
-    "USD/JPY": -1.06,
-    "USD/EUR": -0.42,
-    "USD/GBP": -0.75,
-    "USD/CNY": -0.05,
-    "USD/AUD": -0.72,
-    "USD/CAD": -0.49,
-    "USD/CHF": -0.75,
+    "USD/TWD": -0.03,
+    "USD/JPY": 0.23,
+    "USD/EUR": 0.08,
+    "USD/GBP": 0.07,
+    "USD/CNY": 0.05,
+    "USD/AUD": 0.14,
+    "USD/CAD": 0.07,
+    "USD/CHF": 0.19,
     "USD/HKD": 0.0,
-    "USD/KRW": -0.58,
-    "USD/SGD": -0.51,
-    "USD/INR": 0.19
+    "USD/KRW": 0.15,
+    "USD/SGD": 0.11,
+    "USD/INR": 0.05
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Heathrow scraps 100ml liquid container limit",
-      "url": "https://www.bbc.com/news/articles/c1evvx89559o?at_medium=RSS&at_campaign=rss"
+      "title": "Gold tops $5,000 for first time ever, adding to historic rally",
+      "url": "https://www.bbc.com/news/articles/cvgd8kj2y2po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Post Office and Fujitsu accused of delaying £4m legal claim",
-      "url": "https://www.bbc.com/news/articles/cgk82743gz1o?at_medium=RSS&at_campaign=rss"
+      "title": "Five ways weight-loss jabs are changing spending habits",
+      "url": "https://www.bbc.com/news/articles/cj6wy85l3x5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tesla fined for repeatedly failing to help UK police over driving offences",
-      "url": "https://www.bbc.com/news/articles/c0r44zpprg7o?at_medium=RSS&at_campaign=rss"
+      "title": "Should smartphones be locked away at gigs and in schools?",
+      "url": "https://www.bbc.com/news/articles/cvgqxljxndeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Demand for online jewellery boosts December retail sales",
-      "url": "https://www.bbc.com/news/articles/cy8y4qz9429o?at_medium=RSS&at_campaign=rss"
+      "title": "Davey says war bonds would help to speed up UK defence spending",
+      "url": "https://www.bbc.com/news/articles/cq5y7edg169o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What does a new US TikTok deal mean for users?",
-      "url": "https://www.bbc.com/news/articles/cq5yynydvgzo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump threatens Canada with 100% tariffs if it 'makes a deal with China'",
+      "url": "https://www.bbc.com/news/articles/cy4qww3w72lo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
