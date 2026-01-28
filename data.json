@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-27 08:48:50 (台北時間)",
-  "updated_at_utc": "2026-01-27 00:48:50 (UTC)",
+  "updated_at": "2026-01-28 08:45:25 (台北時間)",
+  "updated_at_utc": "2026-01-28 00:45:25 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.3981,
-    "USD/JPY": 155.6165,
-    "USD/EUR": 0.8453,
-    "USD/GBP": 0.7339,
-    "USD/CNY": 6.9714,
-    "USD/AUD": 1.4491,
-    "USD/CAD": 1.3708,
-    "USD/CHF": 0.7802,
-    "USD/HKD": 7.7969,
-    "USD/KRW": 1452.4777,
-    "USD/SGD": 1.2734,
-    "USD/INR": 91.8161
+    "USD/TWD": 31.4546,
+    "USD/JPY": 154.2001,
+    "USD/EUR": 0.8427,
+    "USD/GBP": 0.7316,
+    "USD/CNY": 6.9652,
+    "USD/AUD": 1.4459,
+    "USD/CAD": 1.3704,
+    "USD/CHF": 0.7772,
+    "USD/HKD": 7.7981,
+    "USD/KRW": 1444.3844,
+    "USD/SGD": 1.2702,
+    "USD/INR": 91.8032
   },
   "exchange_changes": {
-    "USD/TWD": -0.27,
-    "USD/JPY": -0.99,
-    "USD/EUR": -0.48,
-    "USD/GBP": -0.47,
-    "USD/CNY": -0.12,
-    "USD/AUD": -0.51,
-    "USD/CAD": -0.22,
-    "USD/CHF": -0.81,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.48,
-    "USD/SGD": -0.27,
-    "USD/INR": -0.04
+    "USD/TWD": 0.18,
+    "USD/JPY": -0.91,
+    "USD/EUR": -0.31,
+    "USD/GBP": -0.31,
+    "USD/CNY": -0.09,
+    "USD/AUD": -0.22,
+    "USD/CAD": -0.03,
+    "USD/CHF": -0.38,
+    "USD/HKD": 0.02,
+    "USD/KRW": -0.56,
+    "USD/SGD": -0.25,
+    "USD/INR": -0.01
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Airlines pay out millions after initially rejecting claims",
-      "url": "https://www.bbc.com/news/articles/cvg5079yr20o?at_medium=RSS&at_campaign=rss"
+      "title": "AI boom will produce victors and carnage, tech boss warns",
+      "url": "https://www.bbc.com/news/articles/cr57p2ve8glo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tech giants face landmark trial over social media addiction claims",
-      "url": "https://www.bbc.com/news/articles/c24g8v6qr1mo?at_medium=RSS&at_campaign=rss"
+      "title": "EasyJet warned over 'misleading' £5.99 cabin bag fee",
+      "url": "https://www.bbc.com/news/articles/cddgp9jgjz1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump raises US tariffs on South Korea imports to 25%",
-      "url": "https://www.bbc.com/news/articles/cwyw3ynwe37o?at_medium=RSS&at_campaign=rss"
+      "title": "Vets may have to publish prices of common pet treatments",
+      "url": "https://www.bbc.com/news/articles/cd7zpgn5n47o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Revolution Bars to enter administration with 2,200 jobs at risk",
-      "url": "https://www.bbc.com/news/articles/cly10jjmg92o?at_medium=RSS&at_campaign=rss"
+      "title": "Pubs given support package after business rates backlash",
+      "url": "https://www.bbc.com/news/articles/c78vqj99168o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ryanair fares to rise as passenger numbers forecast to surge",
-      "url": "https://www.bbc.com/news/articles/c620506dvmjo?at_medium=RSS&at_campaign=rss"
+      "title": "Vulnerable missing out on benefits due to online tool",
+      "url": "https://www.bbc.com/news/articles/c33827k6elxo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "There's a rash of scam spam coming from a real Microsoft address",
+      "url": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/"
+    },
     {
       "title": "OpenAI spills technical details about how its AI coding agent works",
       "url": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/"
@@ -102,13 +106,9 @@
     {
       "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
       "url": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/"
-    },
-    {
-      "title": "Millions of people imperiled through sign-in links sent by SMS",
-      "url": "https://arstechnica.com/security/2026/01/millions-of-people-imperiled-through-sign-in-links-sent-by-sms/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
