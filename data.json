@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-28 08:45:25 (台北時間)",
-  "updated_at_utc": "2026-01-28 00:45:25 (UTC)",
+  "updated_at": "2026-01-29 08:54:15 (台北時間)",
+  "updated_at_utc": "2026-01-29 00:54:15 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4546,
-    "USD/JPY": 154.2001,
-    "USD/EUR": 0.8427,
-    "USD/GBP": 0.7316,
-    "USD/CNY": 6.9652,
-    "USD/AUD": 1.4459,
-    "USD/CAD": 1.3704,
-    "USD/CHF": 0.7772,
-    "USD/HKD": 7.7981,
-    "USD/KRW": 1444.3844,
-    "USD/SGD": 1.2702,
-    "USD/INR": 91.8032
+    "USD/TWD": 31.3629,
+    "USD/JPY": 152.8992,
+    "USD/EUR": 0.836,
+    "USD/GBP": 0.7262,
+    "USD/CNY": 6.9663,
+    "USD/AUD": 1.4353,
+    "USD/CAD": 1.3621,
+    "USD/CHF": 0.7673,
+    "USD/HKD": 7.8006,
+    "USD/KRW": 1440.4082,
+    "USD/SGD": 1.2638,
+    "USD/INR": 91.6547
   },
   "exchange_changes": {
-    "USD/TWD": 0.18,
-    "USD/JPY": -0.91,
-    "USD/EUR": -0.31,
-    "USD/GBP": -0.31,
-    "USD/CNY": -0.09,
-    "USD/AUD": -0.22,
-    "USD/CAD": -0.03,
-    "USD/CHF": -0.38,
-    "USD/HKD": 0.02,
-    "USD/KRW": -0.56,
-    "USD/SGD": -0.25,
-    "USD/INR": -0.01
+    "USD/TWD": -0.29,
+    "USD/JPY": -0.84,
+    "USD/EUR": -0.8,
+    "USD/GBP": -0.74,
+    "USD/CNY": 0.02,
+    "USD/AUD": -0.73,
+    "USD/CAD": -0.61,
+    "USD/CHF": -1.27,
+    "USD/HKD": 0.03,
+    "USD/KRW": -0.28,
+    "USD/SGD": -0.5,
+    "USD/INR": -0.16
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,40 @@
   },
   "news_economy": [
     {
-      "title": "AI boom will produce victors and carnage, tech boss warns",
-      "url": "https://www.bbc.com/news/articles/cr57p2ve8glo?at_medium=RSS&at_campaign=rss"
+      "title": "Water bills to rise again: Use our tool to find out by how much",
+      "url": "https://www.bbc.com/news/articles/cn56p0qkky7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "EasyJet warned over 'misleading' £5.99 cabin bag fee",
-      "url": "https://www.bbc.com/news/articles/cddgp9jgjz1o?at_medium=RSS&at_campaign=rss"
+      "title": "Driverless taxis set to launch in UK as soon as September",
+      "url": "https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Vets may have to publish prices of common pet treatments",
-      "url": "https://www.bbc.com/news/articles/cd7zpgn5n47o?at_medium=RSS&at_campaign=rss"
+      "title": "Meta to 'dramatically change' with AI, Zuckerberg says",
+      "url": "https://www.bbc.com/news/articles/cn8jkyk78gno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Pubs given support package after business rates backlash",
-      "url": "https://www.bbc.com/news/articles/c78vqj99168o?at_medium=RSS&at_campaign=rss"
+      "title": "US Fed holds interest rates and defends independence",
+      "url": "https://www.bbc.com/news/articles/c9wxedz9v22o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Vulnerable missing out on benefits due to online tool",
-      "url": "https://www.bbc.com/news/articles/c33827k6elxo?at_medium=RSS&at_campaign=rss"
+      "title": "Starbucks scraps $250,000 cap on boss's use of company jet",
+      "url": "https://www.bbc.com/news/articles/c20gy48571po?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Site catering to online criminals has been seized by the FBI",
+      "url": "https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/"
+    },
+    {
+      "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
+      "url": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/"
+    },
+    {
+      "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
+      "url": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/"
+    },
     {
       "title": "There's a rash of scam spam coming from a real Microsoft address",
       "url": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/"
@@ -94,21 +106,9 @@
     {
       "title": "OpenAI spills technical details about how its AI coding agent works",
       "url": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/"
-    },
-    {
-      "title": "Why has Microsoft been routing example.com traffic to a company in Japan?",
-      "url": "https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/"
-    },
-    {
-      "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
-      "url": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/"
-    },
-    {
-      "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
-      "url": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
-  "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
+  "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
