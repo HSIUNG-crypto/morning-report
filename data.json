@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-01-29 08:54:15 (台北時間)",
-  "updated_at_utc": "2026-01-29 00:54:15 (UTC)",
+  "updated_at": "2026-01-30 08:54:14 (台北時間)",
+  "updated_at_utc": "2026-01-30 00:54:14 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.3629,
-    "USD/JPY": 152.8992,
-    "USD/EUR": 0.836,
-    "USD/GBP": 0.7262,
-    "USD/CNY": 6.9663,
-    "USD/AUD": 1.4353,
-    "USD/CAD": 1.3621,
-    "USD/CHF": 0.7673,
-    "USD/HKD": 7.8006,
-    "USD/KRW": 1440.4082,
-    "USD/SGD": 1.2638,
-    "USD/INR": 91.6547
+    "USD/TWD": 31.3197,
+    "USD/JPY": 153.1265,
+    "USD/EUR": 0.8355,
+    "USD/GBP": 0.7247,
+    "USD/CNY": 6.9561,
+    "USD/AUD": 1.4262,
+    "USD/CAD": 1.3559,
+    "USD/CHF": 0.7675,
+    "USD/HKD": 7.8014,
+    "USD/KRW": 1431.3508,
+    "USD/SGD": 1.2622,
+    "USD/INR": 92.0078
   },
   "exchange_changes": {
-    "USD/TWD": -0.29,
-    "USD/JPY": -0.84,
-    "USD/EUR": -0.8,
-    "USD/GBP": -0.74,
-    "USD/CNY": 0.02,
-    "USD/AUD": -0.73,
-    "USD/CAD": -0.61,
-    "USD/CHF": -1.27,
-    "USD/HKD": 0.03,
-    "USD/KRW": -0.28,
-    "USD/SGD": -0.5,
-    "USD/INR": -0.16
+    "USD/TWD": -0.14,
+    "USD/JPY": 0.15,
+    "USD/EUR": -0.06,
+    "USD/GBP": -0.21,
+    "USD/CNY": -0.15,
+    "USD/AUD": -0.63,
+    "USD/CAD": -0.46,
+    "USD/CHF": 0.03,
+    "USD/HKD": 0.01,
+    "USD/KRW": -0.63,
+    "USD/SGD": -0.13,
+    "USD/INR": 0.39
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Water bills to rise again: Use our tool to find out by how much",
-      "url": "https://www.bbc.com/news/articles/cn56p0qkky7o?at_medium=RSS&at_campaign=rss"
+      "title": "Millions to get £150 off energy bills for further five years",
+      "url": "https://www.bbc.com/news/articles/cedw468e50wo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Driverless taxis set to launch in UK as soon as September",
-      "url": "https://www.bbc.com/news/articles/czej9n578k9o?at_medium=RSS&at_campaign=rss"
+      "title": "Why the US dollar hit a four-year low and could fall further",
+      "url": "https://www.bbc.com/news/articles/czjg2rlyvyzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Meta to 'dramatically change' with AI, Zuckerberg says",
-      "url": "https://www.bbc.com/news/articles/cn8jkyk78gno?at_medium=RSS&at_campaign=rss"
+      "title": "Apple reports best-ever iPhone sales as Mac dips",
+      "url": "https://www.bbc.com/news/articles/cy8yw190q83o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US Fed holds interest rates and defends independence",
-      "url": "https://www.bbc.com/news/articles/c9wxedz9v22o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump threatens tariffs for countries that sell oil to Cuba",
+      "url": "https://www.bbc.com/news/articles/c74vyr44xn3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Starbucks scraps $250,000 cap on boss's use of company jet",
-      "url": "https://www.bbc.com/news/articles/c20gy48571po?at_medium=RSS&at_campaign=rss"
+      "title": "Boss of Post Office IT scandal firm Fujitsu to step down",
+      "url": "https://www.bbc.com/news/articles/cre2l5qxy9do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "County pays $600,000 to pentesters it arrested for assessing courthouse security",
+      "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/"
+    },
+    {
+      "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+      "url": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/"
+    },
     {
       "title": "Site catering to online criminals has been seized by the FBI",
       "url": "https://arstechnica.com/security/2026/01/site-catering-to-online-criminals-has-been-seized-by-the-fbi/"
@@ -98,17 +106,9 @@
     {
       "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
       "url": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/"
-    },
-    {
-      "title": "There's a rash of scam spam coming from a real Microsoft address",
-      "url": "https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/"
-    },
-    {
-      "title": "OpenAI spills technical details about how its AI coding agent works",
-      "url": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
