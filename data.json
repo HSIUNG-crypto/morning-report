@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-02-01 09:03:48 (台北時間)",
-  "updated_at_utc": "2026-02-01 01:03:48 (UTC)",
+  "updated_at": "2026-02-02 08:57:45 (台北時間)",
+  "updated_at_utc": "2026-02-02 00:57:45 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5332,
-    "USD/JPY": 154.3136,
-    "USD/EUR": 0.8407,
-    "USD/GBP": 0.7286,
-    "USD/CNY": 6.9657,
-    "USD/AUD": 1.4317,
-    "USD/CAD": 1.3568,
-    "USD/CHF": 0.7709,
-    "USD/HKD": 7.8093,
-    "USD/KRW": 1443.8932,
-    "USD/SGD": 1.2691,
-    "USD/INR": 91.9262
+    "USD/TWD": 31.5913,
+    "USD/JPY": 154.9866,
+    "USD/EUR": 0.843,
+    "USD/GBP": 0.7301,
+    "USD/CNY": 6.964,
+    "USD/AUD": 1.4376,
+    "USD/CAD": 1.361,
+    "USD/CHF": 0.7727,
+    "USD/HKD": 7.8101,
+    "USD/KRW": 1448.2221,
+    "USD/SGD": 1.2707,
+    "USD/INR": 91.8486
   },
   "exchange_changes": {
-    "USD/TWD": 0.48,
-    "USD/JPY": 0.77,
-    "USD/EUR": 0.57,
-    "USD/GBP": 0.59,
-    "USD/CNY": 0.19,
-    "USD/AUD": 0.92,
-    "USD/CAD": 0.43,
-    "USD/CHF": 0.63,
-    "USD/HKD": 0.05,
-    "USD/KRW": 0.79,
-    "USD/SGD": 0.37,
-    "USD/INR": -0.01
+    "USD/TWD": 0.18,
+    "USD/JPY": 0.44,
+    "USD/EUR": 0.27,
+    "USD/GBP": 0.21,
+    "USD/CNY": -0.02,
+    "USD/AUD": 0.41,
+    "USD/CAD": 0.31,
+    "USD/CHF": 0.23,
+    "USD/HKD": 0.01,
+    "USD/KRW": 0.3,
+    "USD/SGD": 0.13,
+    "USD/INR": -0.08
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "Starbucks bets on robots to brew a turnaround in customers",
+      "url": "https://www.bbc.com/news/articles/cew8qzdxnnjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Harry Styles and Anthony Joshua among UK's top taxpayers",
+      "url": "https://www.bbc.com/news/articles/ckgkv814p37o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "French tech giant Capgemini to sell US subsidiary working for ICE",
+      "url": "https://www.bbc.com/news/articles/cd9e4xw8vqqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Asda has lost its mojo and has a big fight to get it back",
+      "url": "https://www.bbc.com/news/articles/cd0yrrr1ryvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Phone lines stay open as tax return deadline looms",
       "url": "https://www.bbc.com/news/articles/cwy10ye2030o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Plan ahead and dress wisely: How to minimise add-on costs when you fly",
-      "url": "https://www.bbc.com/news/articles/c5y28w0de91o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump picks Kevin Warsh to lead the US Federal Reserve",
-      "url": "https://www.bbc.com/news/articles/c2d7yddrl2xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Three reasons for the record rise in gold prices, and one why they are falling",
-      "url": "https://www.bbc.com/news/articles/c87r2700dq8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Seven UK Labubu shops to open, after PM's China visit",
-      "url": "https://www.bbc.com/news/articles/cgm4kyw482eo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
