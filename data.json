@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-02-04 08:53:30 (台北時間)",
-  "updated_at_utc": "2026-02-04 00:53:30 (UTC)",
+  "updated_at": "2026-02-05 08:57:02 (台北時間)",
+  "updated_at_utc": "2026-02-05 00:57:02 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.608,
-    "USD/JPY": 155.349,
-    "USD/EUR": 0.8463,
-    "USD/GBP": 0.7316,
-    "USD/CNY": 6.9519,
-    "USD/AUD": 1.4385,
-    "USD/CAD": 1.3672,
-    "USD/CHF": 0.7786,
-    "USD/HKD": 7.8109,
-    "USD/KRW": 1451.9611,
-    "USD/SGD": 1.272,
-    "USD/INR": 91.5239
+    "USD/TWD": 31.6302,
+    "USD/JPY": 156.6817,
+    "USD/EUR": 0.8469,
+    "USD/GBP": 0.7313,
+    "USD/CNY": 6.9502,
+    "USD/AUD": 1.4277,
+    "USD/CAD": 1.3663,
+    "USD/CHF": 0.7767,
+    "USD/HKD": 7.8127,
+    "USD/KRW": 1457.1348,
+    "USD/SGD": 1.2721,
+    "USD/INR": 90.4428
   },
   "exchange_changes": {
-    "USD/TWD": 0.0,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.0,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.0
+    "USD/TWD": 0.07,
+    "USD/JPY": 0.86,
+    "USD/EUR": 0.07,
+    "USD/GBP": -0.04,
+    "USD/CNY": -0.02,
+    "USD/AUD": -0.75,
+    "USD/CAD": -0.07,
+    "USD/CHF": -0.24,
+    "USD/HKD": 0.02,
+    "USD/KRW": 0.36,
+    "USD/SGD": 0.01,
+    "USD/INR": -1.18
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,40 @@
   },
   "news_economy": [
     {
-      "title": "Walmart becomes first retailer to hit $1tn market value",
-      "url": "https://www.bbc.com/news/articles/cvgp7ry9evwo?at_medium=RSS&at_campaign=rss"
+      "title": "Bank of England expected to hold interest rates",
+      "url": "https://www.bbc.com/news/articles/czx1vly05pvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Netflix and Warner Bros struggle to defend merger",
-      "url": "https://www.bbc.com/news/articles/c5ydndkmvy2o?at_medium=RSS&at_campaign=rss"
+      "title": "US probes Nike over white workers discrimination claims",
+      "url": "https://www.bbc.com/news/articles/c5y31vnnjepo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Disney names Josh D'Amaro as new chief executive",
-      "url": "https://www.bbc.com/news/articles/cy4qxdq2147o?at_medium=RSS&at_campaign=rss"
+      "title": "Wegovy maker warns price cuts 'painful' for firm as shares plunge",
+      "url": "https://www.bbc.com/news/articles/c8e5zzrjllgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "One million people miss HMRC tax return deadline",
-      "url": "https://www.bbc.com/news/articles/c150882d9vzo?at_medium=RSS&at_campaign=rss"
+      "title": "Washington Post announces sweeping layoffs, scaling back news coverage",
+      "url": "https://www.bbc.com/news/articles/cwyn05d1494o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Chinese planemaker taking on Boeing and Airbus",
-      "url": "https://www.bbc.com/news/articles/ce3exl1k247o?at_medium=RSS&at_campaign=rss"
+      "title": "Gold rebounds above $5,000 after US downs Iran drone",
+      "url": "https://www.bbc.com/news/articles/c5y2nn582l5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
+      "url": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/"
+    },
+    {
+      "title": "Should AI chatbots have ads? Anthropic says no.",
+      "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/"
+    },
+    {
+      "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
+      "url": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/"
+    },
     {
       "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
       "url": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/"
@@ -94,18 +106,6 @@
     {
       "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
       "url": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/"
-    },
-    {
-      "title": "Notepad++ users take note: It's time to check if you're hacked",
-      "url": "https://arstechnica.com/security/2026/02/notepad-updater-was-compromised-for-6-months-in-supply-chain-attack/"
-    },
-    {
-      "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
-      "url": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/"
-    },
-    {
-      "title": "Developers say AI coding tools work—and that's precisely what worries them",
-      "url": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/"
     }
   ],
   "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
