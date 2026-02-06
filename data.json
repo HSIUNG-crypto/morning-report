@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-05 08:57:02 (台北時間)",
-  "updated_at_utc": "2026-02-05 00:57:02 (UTC)",
+  "updated_at": "2026-02-06 08:53:20 (台北時間)",
+  "updated_at_utc": "2026-02-06 00:53:20 (UTC)",
   "exchange_rates": {
     "USD/TWD": 31.6302,
     "USD/JPY": 156.6817,
@@ -16,18 +16,18 @@
     "USD/INR": 90.4428
   },
   "exchange_changes": {
-    "USD/TWD": 0.07,
-    "USD/JPY": 0.86,
-    "USD/EUR": 0.07,
-    "USD/GBP": -0.04,
-    "USD/CNY": -0.02,
-    "USD/AUD": -0.75,
-    "USD/CAD": -0.07,
-    "USD/CHF": -0.24,
-    "USD/HKD": 0.02,
-    "USD/KRW": 0.36,
-    "USD/SGD": 0.01,
-    "USD/INR": -1.18
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,40 @@
   },
   "news_economy": [
     {
-      "title": "Bank of England expected to hold interest rates",
+      "title": "Amazon shares tumble as it joins the Big Tech AI spending spree",
+      "url": "https://www.bbc.com/news/articles/c150e144we3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Bitcoin falls to lowest level since Trump took office",
+      "url": "https://www.bbc.com/news/articles/cy09x24q0pro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Canada unveils auto industry plan in latest pivot away from US",
+      "url": "https://www.bbc.com/news/articles/cvgd2j80klmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Bank hints at rate cuts, but don't expect Covid-era mortgage deals",
+      "url": "https://www.bbc.com/news/articles/czdq9gzdq5qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK interest rates held at 3.75% but Bank says future cuts likely",
       "url": "https://www.bbc.com/news/articles/czx1vly05pvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US probes Nike over white workers discrimination claims",
-      "url": "https://www.bbc.com/news/articles/c5y31vnnjepo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Wegovy maker warns price cuts 'painful' for firm as shares plunge",
-      "url": "https://www.bbc.com/news/articles/c8e5zzrjllgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Washington Post announces sweeping layoffs, scaling back news coverage",
-      "url": "https://www.bbc.com/news/articles/cwyn05d1494o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Gold rebounds above $5,000 after US downs Iran drone",
-      "url": "https://www.bbc.com/news/articles/c5y2nn582l5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "AI companies want you to stop chatting with bots and start managing them",
+      "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/"
+    },
+    {
+      "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+      "url": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/"
+    },
+    {
+      "title": "Increase of AI bots on the Internet sparks arms race",
+      "url": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/"
+    },
     {
       "title": "Microsoft releases urgent Office patch. Russian-state hackers pounce.",
       "url": "https://arstechnica.com/security/2026/02/russian-state-hackers-exploit-office-vulnerability-to-infect-computers/"
@@ -94,18 +106,6 @@
     {
       "title": "Should AI chatbots have ads? Anthropic says no.",
       "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/"
-    },
-    {
-      "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
-      "url": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/"
-    },
-    {
-      "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
-      "url": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/"
-    },
-    {
-      "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
-      "url": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/"
     }
   ],
   "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
