@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-02-10 09:07:17 (台北時間)",
-  "updated_at_utc": "2026-02-10 01:07:17 (UTC)",
+  "updated_at": "2026-02-11 09:05:19 (台北時間)",
+  "updated_at_utc": "2026-02-11 01:05:19 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5698,
-    "USD/JPY": 156.157,
-    "USD/EUR": 0.8406,
-    "USD/GBP": 0.7318,
-    "USD/CNY": 6.9295,
-    "USD/AUD": 1.4141,
-    "USD/CAD": 1.3578,
-    "USD/CHF": 0.7685,
-    "USD/HKD": 7.8152,
-    "USD/KRW": 1460.1882,
-    "USD/SGD": 1.2668,
-    "USD/INR": 90.764
+    "USD/TWD": 31.5128,
+    "USD/JPY": 154.632,
+    "USD/EUR": 0.8407,
+    "USD/GBP": 0.7324,
+    "USD/CNY": 6.9187,
+    "USD/AUD": 1.414,
+    "USD/CAD": 1.3554,
+    "USD/CHF": 0.7675,
+    "USD/HKD": 7.818,
+    "USD/KRW": 1458.3581,
+    "USD/SGD": 1.2653,
+    "USD/INR": 90.5947
   },
   "exchange_changes": {
-    "USD/TWD": -0.19,
-    "USD/JPY": -0.69,
-    "USD/EUR": -0.67,
-    "USD/GBP": -0.46,
-    "USD/CNY": -0.2,
-    "USD/AUD": -0.68,
-    "USD/CAD": -0.62,
-    "USD/CHF": -1.03,
-    "USD/HKD": 0.02,
-    "USD/KRW": -0.26,
-    "USD/SGD": -0.45,
-    "USD/INR": 0.15
+    "USD/TWD": -0.18,
+    "USD/JPY": -0.98,
+    "USD/EUR": 0.01,
+    "USD/GBP": 0.08,
+    "USD/CNY": -0.16,
+    "USD/AUD": -0.01,
+    "USD/CAD": -0.18,
+    "USD/CHF": -0.13,
+    "USD/HKD": 0.04,
+    "USD/KRW": -0.13,
+    "USD/SGD": -0.12,
+    "USD/INR": -0.19
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Instagram and YouTube owners built 'addiction machines', trial hears",
-      "url": "https://www.bbc.com/news/articles/c3wlpqpe2z4o?at_medium=RSS&at_campaign=rss"
+      "title": "'Fear and alienation': Senior Co-op staff complain of 'toxic' culture at the top",
+      "url": "https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Businesses face extinction unless they protect nature, major report warns",
-      "url": "https://www.bbc.com/news/articles/cq8g20xgdjwo?at_medium=RSS&at_campaign=rss"
+      "title": "Disney advert banned for showing 'disturbing' severed body",
+      "url": "https://www.bbc.com/news/articles/ce8n132681no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Make-up brand Barry M bought by rival Warpaint",
-      "url": "https://www.bbc.com/news/articles/c98q50gd2vmo?at_medium=RSS&at_campaign=rss"
+      "title": "Wrapped helps Spotify add users despite artists' criticism over fees",
+      "url": "https://www.bbc.com/news/articles/cwy8lg9lkj3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The tech firms embracing a 72-hour working week",
-      "url": "https://www.bbc.com/news/articles/cvgn2k285ypo?at_medium=RSS&at_campaign=rss"
+      "title": "Ford says it took an extra $900m tariff hit last year",
+      "url": "https://www.bbc.com/news/articles/cdjmepg4pzlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Japanese stocks surge as Takaichi secures historic election victory",
-      "url": "https://www.bbc.com/news/articles/cjd9k852zdjo?at_medium=RSS&at_campaign=rss"
+      "title": "US consumer spending slowed in December - Is it a warning for the economy?",
+      "url": "https://www.bbc.com/news/articles/cg7e8ven7r7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/ai/2026/02/increase-of-ai-bots-on-the-internet-sparks-arms-race/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
