@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-02-12 08:58:05 (台北時間)",
-  "updated_at_utc": "2026-02-12 00:58:05 (UTC)",
+  "updated_at": "2026-02-13 09:02:00 (台北時間)",
+  "updated_at_utc": "2026-02-13 01:02:00 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.3668,
-    "USD/JPY": 153.3213,
-    "USD/EUR": 0.8417,
-    "USD/GBP": 0.733,
-    "USD/CNY": 6.9183,
-    "USD/AUD": 1.4043,
-    "USD/CAD": 1.3568,
-    "USD/CHF": 0.7703,
-    "USD/HKD": 7.8168,
-    "USD/KRW": 1447.796,
+    "USD/TWD": 31.4036,
+    "USD/JPY": 152.9512,
+    "USD/EUR": 0.8423,
+    "USD/GBP": 0.7339,
+    "USD/CNY": 6.9096,
+    "USD/AUD": 1.4084,
+    "USD/CAD": 1.3598,
+    "USD/CHF": 0.7695,
+    "USD/HKD": 7.8165,
+    "USD/KRW": 1439.0452,
     "USD/SGD": 1.2621,
-    "USD/INR": 90.738
+    "USD/INR": 90.6206
   },
   "exchange_changes": {
-    "USD/TWD": -0.46,
-    "USD/JPY": -0.85,
-    "USD/EUR": 0.12,
-    "USD/GBP": 0.08,
-    "USD/CNY": -0.01,
-    "USD/AUD": -0.69,
-    "USD/CAD": 0.1,
-    "USD/CHF": 0.36,
-    "USD/HKD": -0.02,
-    "USD/KRW": -0.72,
-    "USD/SGD": -0.25,
-    "USD/INR": 0.16
+    "USD/TWD": 0.12,
+    "USD/JPY": -0.24,
+    "USD/EUR": 0.07,
+    "USD/GBP": 0.12,
+    "USD/CNY": -0.13,
+    "USD/AUD": 0.29,
+    "USD/CAD": 0.22,
+    "USD/CHF": -0.1,
+    "USD/HKD": -0.0,
+    "USD/KRW": -0.6,
+    "USD/SGD": 0.0,
+    "USD/INR": -0.13
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Scrap proposed England holiday tax, hospitality bosses urge",
-      "url": "https://www.bbc.com/news/articles/c5yjrvje8eeo?at_medium=RSS&at_campaign=rss"
+      "title": "Rain and politics driving up half-term holiday bookings, travel agents say",
+      "url": "https://www.bbc.com/news/articles/c3ew90z9jezo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Instagram boss: Too much social media use is 'personal thing'",
-      "url": "https://www.bbc.com/news/articles/cn71mgmzljlo?at_medium=RSS&at_campaign=rss"
+      "title": "Tesco plans to give under-18s Clubcard access this year",
+      "url": "https://www.bbc.com/news/articles/ckg8r4nnx0yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Lloyds Banking Group to close another 95 branches",
-      "url": "https://www.bbc.com/news/articles/cy4wgpkkzq0o?at_medium=RSS&at_campaign=rss"
+      "title": "The US economy is growing - so where are all the jobs?",
+      "url": "https://www.bbc.com/news/articles/c3ewje4xk3yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Fear and alienation': Senior Co-op staff complain of 'toxic' culture at the top",
-      "url": "https://www.bbc.com/news/articles/crrnkpyqdzyo?at_medium=RSS&at_campaign=rss"
+      "title": "US antitrust chief resigns amid tensions with Trump officials",
+      "url": "https://www.bbc.com/news/articles/cnv6j9vrn06o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US jobs see surprise growth in January after weak 2025",
-      "url": "https://www.bbc.com/news/articles/c5y5xjzpr52o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump revokes key climate ruling which he says has made cars pricier",
+      "url": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+      "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/"
+    },
+    {
+      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+      "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/"
+    },
     {
       "title": "Once-hobbled Lumma Stealer is back with lures that are hard to resist",
       "url": "https://arstechnica.com/security/2026/02/once-hobbled-lumma-stealer-is-back-with-lures-that-are-hard-to-resist/"
@@ -98,17 +106,9 @@
     {
       "title": "Sixteen Claude AI agents working together created a new C compiler",
       "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/"
-    },
-    {
-      "title": "Malicious packages for dYdX cryptocurrency exchange empties user wallets",
-      "url": "https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/"
-    },
-    {
-      "title": "AI companies want you to stop chatting with bots and start managing them",
-      "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
