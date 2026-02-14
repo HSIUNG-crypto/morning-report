@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-13 09:02:00 (台北時間)",
-  "updated_at_utc": "2026-02-13 01:02:00 (UTC)",
+  "updated_at": "2026-02-14 08:55:33 (台北時間)",
+  "updated_at_utc": "2026-02-14 00:55:33 (UTC)",
   "exchange_rates": {
     "USD/TWD": 31.4036,
     "USD/JPY": 152.9512,
@@ -16,18 +16,18 @@
     "USD/INR": 90.6206
   },
   "exchange_changes": {
-    "USD/TWD": 0.12,
-    "USD/JPY": -0.24,
-    "USD/EUR": 0.07,
-    "USD/GBP": 0.12,
-    "USD/CNY": -0.13,
-    "USD/AUD": 0.29,
-    "USD/CAD": 0.22,
-    "USD/CHF": -0.1,
-    "USD/HKD": -0.0,
-    "USD/KRW": -0.6,
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
     "USD/SGD": 0.0,
-    "USD/INR": -0.13
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Rain and politics driving up half-term holiday bookings, travel agents say",
-      "url": "https://www.bbc.com/news/articles/c3ew90z9jezo?at_medium=RSS&at_campaign=rss"
+      "title": "Head of Dubai-based ports giant quits after Epstein links revealed",
+      "url": "https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tesco plans to give under-18s Clubcard access this year",
-      "url": "https://www.bbc.com/news/articles/ckg8r4nnx0yo?at_medium=RSS&at_campaign=rss"
+      "title": "Andrew facing claim he shared Treasury document with banking contact",
+      "url": "https://www.bbc.com/news/articles/cddn6yyr66yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The US economy is growing - so where are all the jobs?",
-      "url": "https://www.bbc.com/news/articles/c3ewje4xk3yo?at_medium=RSS&at_campaign=rss"
+      "title": "Heathrow not crowded but people walk in 'wrong place', says boss",
+      "url": "https://www.bbc.com/news/articles/c4g52q0pl5yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US antitrust chief resigns amid tensions with Trump officials",
-      "url": "https://www.bbc.com/news/articles/cnv6j9vrn06o?at_medium=RSS&at_campaign=rss"
+      "title": "Amazon's Ring ends deal with surveillance firm after backlash",
+      "url": "https://www.bbc.com/news/articles/cwy8dxz1g7zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump revokes key climate ruling which he says has made cars pricier",
-      "url": "https://www.bbc.com/news/articles/cn0zdd7yl4vo?at_medium=RSS&at_campaign=rss"
+      "title": "Inflation eases in US as prices for used cars fall",
+      "url": "https://www.bbc.com/news/articles/cd6z05p56xyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
