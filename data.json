@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-02-16 08:58:21 (台北時間)",
-  "updated_at_utc": "2026-02-16 00:58:21 (UTC)",
+  "updated_at": "2026-02-17 08:57:38 (台北時間)",
+  "updated_at_utc": "2026-02-17 00:57:38 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.3616,
-    "USD/JPY": 152.8329,
-    "USD/EUR": 0.8428,
-    "USD/GBP": 0.7332,
-    "USD/CNY": 6.9125,
-    "USD/AUD": 1.4156,
-    "USD/CAD": 1.362,
-    "USD/CHF": 0.7686,
-    "USD/HKD": 7.817,
-    "USD/KRW": 1441.9581,
-    "USD/SGD": 1.263,
-    "USD/INR": 90.6677
+    "USD/TWD": 31.3635,
+    "USD/JPY": 153.5054,
+    "USD/EUR": 0.8437,
+    "USD/GBP": 0.7337,
+    "USD/CNY": 6.9152,
+    "USD/AUD": 1.4134,
+    "USD/CAD": 1.3632,
+    "USD/CHF": 0.7697,
+    "USD/HKD": 7.8155,
+    "USD/KRW": 1442.7232,
+    "USD/SGD": 1.2624,
+    "USD/INR": 90.7305
   },
   "exchange_changes": {
-    "USD/TWD": -0.04,
-    "USD/JPY": -0.07,
-    "USD/EUR": 0.01,
-    "USD/GBP": -0.03,
-    "USD/CNY": -0.03,
-    "USD/AUD": 0.01,
-    "USD/CAD": 0.07,
-    "USD/CHF": 0.01,
-    "USD/HKD": -0.0,
-    "USD/KRW": -0.1,
-    "USD/SGD": 0.01,
-    "USD/INR": 0.05
+    "USD/TWD": 0.01,
+    "USD/JPY": 0.44,
+    "USD/EUR": 0.11,
+    "USD/GBP": 0.07,
+    "USD/CNY": 0.04,
+    "USD/AUD": -0.16,
+    "USD/CAD": 0.09,
+    "USD/CHF": 0.14,
+    "USD/HKD": -0.02,
+    "USD/KRW": 0.05,
+    "USD/SGD": -0.05,
+    "USD/INR": 0.07
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Andrew's time as trade envoy should be investigated, says Vince Cable",
-      "url": "https://www.bbc.com/news/articles/cp32j7v2dy5o?at_medium=RSS&at_campaign=rss"
+      "title": "Six of Sarah Ferguson's companies winding down",
+      "url": "https://www.bbc.com/news/articles/cd9g28yzy0no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Could Manchester be a model for the UK to kickstart growth?",
-      "url": "https://www.bbc.com/news/articles/c0ljgzjwjx3o?at_medium=RSS&at_campaign=rss"
+      "title": "Royal Mail letters sit undelivered 'for weeks' as parcels prioritised, staff say",
+      "url": "https://www.bbc.com/news/articles/c39wlryn20vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Gender pay gap won't close for another 30 years, warns trade unions group",
-      "url": "https://www.bbc.com/news/articles/cvg5l75yx6vo?at_medium=RSS&at_campaign=rss"
+      "title": "Lloyds boss accepts concern over use of staff data in pay talks",
+      "url": "https://www.bbc.com/news/articles/c5yqv1v9x92o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Craft beer maker Brewdog put up for sale",
-      "url": "https://www.bbc.com/news/articles/c7951yl59lxo?at_medium=RSS&at_campaign=rss"
+      "title": "Brewdog staff 'upset and concerned' by sale plans",
+      "url": "https://www.bbc.com/news/articles/c627eyzmmg8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Head of Dubai-based ports giant quits after Epstein links revealed",
-      "url": "https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss"
+      "title": "ByteDance to curb AI video app after Disney legal threat",
+      "url": "https://www.bbc.com/news/articles/c93wq6xqgy1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
