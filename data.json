@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-19 08:58:57 (台北時間)",
-  "updated_at_utc": "2026-02-19 00:58:57 (UTC)",
+  "updated_at": "2026-02-20 08:55:00 (台北時間)",
+  "updated_at_utc": "2026-02-20 00:55:00 (UTC)",
   "exchange_rates": {
     "USD/TWD": 31.4654,
     "USD/JPY": 154.4163,
@@ -16,18 +16,18 @@
     "USD/INR": 90.7734
   },
   "exchange_changes": {
-    "USD/TWD": 0.27,
-    "USD/JPY": 0.74,
-    "USD/EUR": 0.25,
-    "USD/GBP": 0.22,
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
     "USD/CNY": 0.0,
-    "USD/AUD": 0.25,
-    "USD/CAD": 0.25,
-    "USD/CHF": 0.23,
-    "USD/HKD": -0.01,
-    "USD/KRW": 0.25,
-    "USD/SGD": 0.22,
-    "USD/INR": 0.09
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Zuckerberg defends Meta in landmark social media addiction trial",
-      "url": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss"
+      "title": "Lobbying firm co-founded by Mandelson on brink of collapse",
+      "url": "https://www.bbc.com/news/articles/cz9q57y9y3xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tech firms will have 48 hours to remove abusive images under new law",
-      "url": "https://www.bbc.com/news/articles/cz6ed1549yvo?at_medium=RSS&at_campaign=rss"
+      "title": "The Chinese AI app sending Hollywood into a panic",
+      "url": "https://www.bbc.com/news/articles/ckg1dl410q9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "eBay buys second-hand clothing app Depop for $1.2bn",
-      "url": "https://www.bbc.com/news/articles/cx240kme2k8o?at_medium=RSS&at_campaign=rss"
+      "title": "US trade deficit hits fresh high despite Trump's tariffs",
+      "url": "https://www.bbc.com/news/articles/c4ge4yxwnlno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump adviser calls for Fed economists to be 'disciplined'",
-      "url": "https://www.bbc.com/news/articles/clygwv38k1xo?at_medium=RSS&at_campaign=rss"
+      "title": "Warmer weather hits profits at British Gas owner",
+      "url": "https://www.bbc.com/news/articles/cz7g9ge2lr2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Lower fuel prices and airfares help drive inflation down",
-      "url": "https://www.bbc.com/news/articles/c5yg04jg1n5o?at_medium=RSS&at_campaign=rss"
+      "title": "Why there's no quick fix in sight for the problem of dazzling headlights",
+      "url": "https://www.bbc.com/news/articles/cn71xyjpdl2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
