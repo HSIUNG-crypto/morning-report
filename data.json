@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-02-21 08:53:53 (台北時間)",
-  "updated_at_utc": "2026-02-21 00:53:53 (UTC)",
+  "updated_at": "2026-02-22 08:57:40 (台北時間)",
+  "updated_at_utc": "2026-02-22 00:57:40 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.538,
-    "USD/JPY": 155.0921,
-    "USD/EUR": 0.849,
-    "USD/GBP": 0.7419,
-    "USD/CNY": 6.9157,
-    "USD/AUD": 1.4143,
-    "USD/CAD": 1.3682,
-    "USD/CHF": 0.7757,
+    "USD/TWD": 31.5383,
+    "USD/JPY": 155.1421,
+    "USD/EUR": 0.8492,
+    "USD/GBP": 0.742,
+    "USD/CNY": 6.9242,
+    "USD/AUD": 1.415,
+    "USD/CAD": 1.3683,
+    "USD/CHF": 0.7759,
     "USD/HKD": 7.8148,
-    "USD/KRW": 1447.7383,
-    "USD/SGD": 1.2676,
-    "USD/INR": 90.9568
+    "USD/KRW": 1447.9541,
+    "USD/SGD": 1.2679,
+    "USD/INR": 90.9715
   },
   "exchange_changes": {
-    "USD/TWD": 0.23,
-    "USD/JPY": 0.44,
-    "USD/EUR": 0.26,
-    "USD/GBP": 0.34,
-    "USD/CNY": 0.03,
-    "USD/AUD": -0.23,
-    "USD/CAD": 0.02,
-    "USD/CHF": 0.44,
-    "USD/HKD": -0.01,
-    "USD/KRW": 0.03,
-    "USD/SGD": 0.13,
-    "USD/INR": 0.2
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.03,
+    "USD/EUR": 0.02,
+    "USD/GBP": 0.01,
+    "USD/CNY": 0.12,
+    "USD/AUD": 0.05,
+    "USD/CAD": 0.01,
+    "USD/CHF": 0.03,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.01,
+    "USD/SGD": 0.02,
+    "USD/INR": 0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,8 +65,8 @@
   },
   "news_economy": [
     {
-      "title": "Trump brings in new 10% tariff as Supreme Court rejects his global import taxes",
-      "url": "https://www.bbc.com/news/articles/cn8146l0n55o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump says he will increase his new global tariffs to 15%",
+      "url": "https://www.bbc.com/news/articles/cn8z48xwqn3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Uncertainty for UK firms after US tariff ruling, experts say",
@@ -77,12 +77,12 @@
       "url": "https://www.bbc.com/news/articles/cvgvn810njpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "KFC, Nando's, and others ditch chicken welfare pledge",
-      "url": "https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&at_campaign=rss"
+      "title": "MPs to discuss inquiry into trade envoy role after Andrew arrest",
+      "url": "https://www.bbc.com/news/articles/cqxde59d3gwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Higher tax helped UK government reach record January surplus",
-      "url": "https://www.bbc.com/news/articles/c93w4egd3gzo?at_medium=RSS&at_campaign=rss"
+      "title": "KFC, Nando's, and others ditch chicken welfare pledge",
+      "url": "https://www.bbc.com/news/articles/cm2r6jqm042o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
