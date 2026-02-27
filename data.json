@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-02-26 08:55:03 (台北時間)",
-  "updated_at_utc": "2026-02-26 00:55:03 (UTC)",
+  "updated_at": "2026-02-27 08:56:29 (台北時間)",
+  "updated_at_utc": "2026-02-27 00:56:29 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.3146,
-    "USD/JPY": 156.3138,
+    "USD/TWD": 31.2649,
+    "USD/JPY": 156.0464,
     "USD/EUR": 0.8473,
-    "USD/GBP": 0.7385,
-    "USD/CNY": 6.8715,
-    "USD/AUD": 1.4067,
-    "USD/CAD": 1.3682,
-    "USD/CHF": 0.7733,
-    "USD/HKD": 7.82,
-    "USD/KRW": 1427.2599,
-    "USD/SGD": 1.2641,
-    "USD/INR": 90.9654
+    "USD/GBP": 0.7402,
+    "USD/CNY": 6.8524,
+    "USD/AUD": 1.4078,
+    "USD/CAD": 1.3679,
+    "USD/CHF": 0.7736,
+    "USD/HKD": 7.8231,
+    "USD/KRW": 1429.0966,
+    "USD/SGD": 1.2638,
+    "USD/INR": 91.0271
   },
   "exchange_changes": {
-    "USD/TWD": -0.26,
-    "USD/JPY": 0.37,
-    "USD/EUR": -0.21,
-    "USD/GBP": -0.34,
-    "USD/CNY": -0.26,
-    "USD/AUD": -0.71,
-    "USD/CAD": -0.15,
-    "USD/CHF": -0.09,
-    "USD/HKD": -0.04,
-    "USD/KRW": -1.05,
-    "USD/SGD": -0.23,
-    "USD/INR": 0.0
+    "USD/TWD": -0.16,
+    "USD/JPY": -0.17,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.23,
+    "USD/CNY": -0.28,
+    "USD/AUD": 0.08,
+    "USD/CAD": -0.02,
+    "USD/CHF": 0.04,
+    "USD/HKD": 0.04,
+    "USD/KRW": 0.13,
+    "USD/SGD": -0.02,
+    "USD/INR": 0.07
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Faisal Islam: Is Reeves right in saying we're turning a corner?",
-      "url": "https://www.bbc.com/news/articles/c5y6820nn23o?at_medium=RSS&at_campaign=rss"
+      "title": "Netflix drops bid for Warner Bros, clearing way for Paramount takeover",
+      "url": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Aldi shop staff to receive two pay rises this year",
-      "url": "https://www.bbc.com/news/articles/cwygr3p3e8go?at_medium=RSS&at_campaign=rss"
+      "title": "Mandelson referred to EU anti-fraud agency over Epstein emails",
+      "url": "https://www.bbc.com/news/articles/cj98zm22327o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Chip giant Nvidia flouts AI scepticism with record revenue",
-      "url": "https://www.bbc.com/news/articles/c80jgd8yljko?at_medium=RSS&at_campaign=rss"
+      "title": "'I stopped engaging' due to Instagram, YouTube, woman tells landmark trial",
+      "url": "https://www.bbc.com/news/articles/c89kdpjn7eqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'We don't know where we are going': Asian businesses brace for more Trump tariff turmoil",
-      "url": "https://www.bbc.com/news/articles/cdr2kmjd31ro?at_medium=RSS&at_campaign=rss"
+      "title": "Jack Dorsey's Block cuts thousands of jobs as it embraces AI",
+      "url": "https://www.bbc.com/news/articles/cq570d12y9do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "John Lewis pulls out of housebuilding business",
-      "url": "https://www.bbc.com/news/articles/crl45dp1gg5o?at_medium=RSS&at_campaign=rss"
+      "title": "Burger King rolls out AI headsets that track employee 'friendliness'",
+      "url": "https://www.bbc.com/news/articles/cgk2zygg0k3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "New AirSnitch attack breaks Wi-Fi encryption in homes, offices, and enterprises",
+      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/"
+    },
     {
       "title": "Password managers' promise that they can't see your vaults isn't always true",
       "url": "https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/"
@@ -102,13 +106,9 @@
     {
       "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
       "url": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/"
-    },
-    {
-      "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
-      "url": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
