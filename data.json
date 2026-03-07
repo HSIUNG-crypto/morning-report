@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-03-06 09:01:35 (台北時間)",
-  "updated_at_utc": "2026-03-06 01:01:35 (UTC)",
+  "updated_at": "2026-03-07 08:53:12 (台北時間)",
+  "updated_at_utc": "2026-03-07 00:53:12 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8571,
-    "USD/JPY": 157.4989,
-    "USD/EUR": 0.8615,
-    "USD/GBP": 0.7489,
-    "USD/CNY": 6.9099,
-    "USD/AUD": 1.4257,
-    "USD/CAD": 1.3663,
-    "USD/CHF": 0.7807,
-    "USD/HKD": 7.8194,
-    "USD/KRW": 1476.8285,
-    "USD/SGD": 1.2792,
-    "USD/INR": 91.8055
+    "USD/TWD": 31.8646,
+    "USD/JPY": 157.759,
+    "USD/EUR": 0.8623,
+    "USD/GBP": 0.7479,
+    "USD/CNY": 6.9167,
+    "USD/AUD": 1.4244,
+    "USD/CAD": 1.3603,
+    "USD/CHF": 0.7783,
+    "USD/HKD": 7.8209,
+    "USD/KRW": 1483.7395,
+    "USD/SGD": 1.2791,
+    "USD/INR": 91.9215
   },
   "exchange_changes": {
-    "USD/TWD": 0.58,
-    "USD/JPY": 0.24,
-    "USD/EUR": 0.23,
-    "USD/GBP": 0.09,
-    "USD/CNY": 0.06,
-    "USD/AUD": 0.7,
-    "USD/CAD": 0.06,
-    "USD/CHF": 0.09,
-    "USD/HKD": 0.03,
-    "USD/KRW": 0.85,
-    "USD/SGD": 0.33,
-    "USD/INR": -0.43
+    "USD/TWD": 0.02,
+    "USD/JPY": 0.17,
+    "USD/EUR": 0.09,
+    "USD/GBP": -0.13,
+    "USD/CNY": 0.1,
+    "USD/AUD": -0.09,
+    "USD/CAD": -0.44,
+    "USD/CHF": -0.31,
+    "USD/HKD": 0.02,
+    "USD/KRW": 0.47,
+    "USD/SGD": -0.01,
+    "USD/INR": 0.13
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "One in 7 shops in UK has turned cashless in the past year, survey finds",
-      "url": "https://www.bbc.com/news/articles/cm211jnz568o?at_medium=RSS&at_campaign=rss"
+      "title": "Oil price at two-year high after Qatar warns all Gulf production could stop within days",
+      "url": "https://www.bbc.com/news/articles/cy031ylgepro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Five ways the Iran war could affect you - in charts",
-      "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
+      "title": "Flight paths squeezed as Iran conflict closes more airspace",
+      "url": "https://www.bbc.com/news/articles/crrx1jgr4jjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK firms pull fixed energy deals as Iran war pushes up prices",
-      "url": "https://www.bbc.com/news/articles/c3ewwej0p13o?at_medium=RSS&at_campaign=rss"
+      "title": "US economy unexpectedly sheds 92,000 jobs in February",
+      "url": "https://www.bbc.com/news/articles/cjd98091g28o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Will petrol and diesel prices go up now?",
-      "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+      "title": "Axel Springer agrees to buy Telegraph Media Group in £575m deal",
+      "url": "https://www.bbc.com/news/articles/cyv916d999no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "States sue Trump administration over new 'unlawful' global tariffs",
-      "url": "https://www.bbc.com/news/articles/c3ewxjpqqqzo?at_medium=RSS&at_campaign=rss"
+      "title": "Surge in jet fuel prices could push up air fares, analysts warn",
+      "url": "https://www.bbc.com/news/articles/c14m57k8vgeo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
+      "url": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/"
+    },
+    {
+      "title": "Amazon appears to be down, with over 20,000 reported problems",
+      "url": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/"
+    },
     {
       "title": "Trump gets data center companies to pledge to pay for power generation",
       "url": "https://arstechnica.com/tech-policy/2026/03/leading-ai-datacenter-companies-sign-pledge-to-buy-their-own-power/"
@@ -98,17 +106,9 @@
     {
       "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
       "url": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/"
-    },
-    {
-      "title": "Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space",
-      "url": "https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/"
-    },
-    {
-      "title": "New AirSnitch attack bypasses Wi-Fi encryption in homes, offices, and enterprises",
-      "url": "https://arstechnica.com/security/2026/02/new-airsnitch-attack-breaks-wi-fi-encryption-in-homes-offices-and-enterprises/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
