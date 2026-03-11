@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-03-10 08:52:17 (台北時間)",
-  "updated_at_utc": "2026-03-10 00:52:17 (UTC)",
+  "updated_at": "2026-03-11 08:53:13 (台北時間)",
+  "updated_at_utc": "2026-03-11 00:53:13 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.855,
-    "USD/JPY": 158.1221,
-    "USD/EUR": 0.8633,
-    "USD/GBP": 0.7471,
-    "USD/CNY": 6.918,
-    "USD/AUD": 1.4206,
-    "USD/CAD": 1.3567,
-    "USD/CHF": 0.7786,
-    "USD/HKD": 7.8198,
-    "USD/KRW": 1477.0046,
-    "USD/SGD": 1.2771,
-    "USD/INR": 92.2454
+    "USD/TWD": 31.7877,
+    "USD/JPY": 157.9018,
+    "USD/EUR": 0.8601,
+    "USD/GBP": 0.7443,
+    "USD/CNY": 6.8766,
+    "USD/AUD": 1.404,
+    "USD/CAD": 1.3577,
+    "USD/CHF": 0.7776,
+    "USD/HKD": 7.8238,
+    "USD/KRW": 1472.817,
+    "USD/SGD": 1.273,
+    "USD/INR": 92.0376
   },
   "exchange_changes": {
-    "USD/TWD": -0.05,
-    "USD/JPY": -0.13,
-    "USD/EUR": -0.33,
-    "USD/GBP": -0.47,
-    "USD/CNY": 0.06,
-    "USD/AUD": -0.87,
-    "USD/CAD": -0.25,
-    "USD/CHF": -0.27,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.46,
-    "USD/SGD": -0.38,
-    "USD/INR": 0.26
+    "USD/TWD": -0.21,
+    "USD/JPY": -0.14,
+    "USD/EUR": -0.37,
+    "USD/GBP": -0.37,
+    "USD/CNY": -0.6,
+    "USD/AUD": -1.17,
+    "USD/CAD": 0.07,
+    "USD/CHF": -0.13,
+    "USD/HKD": 0.05,
+    "USD/KRW": -0.28,
+    "USD/SGD": -0.32,
+    "USD/INR": -0.23
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Reeves to look at how to help households with heating oil bills",
-      "url": "https://www.bbc.com/news/articles/c07jyd0rrz2o?at_medium=RSS&at_campaign=rss"
+      "title": "Iran war cost will be passed to consumers, shipping giant boss tells BBC",
+      "url": "https://www.bbc.com/news/articles/c5ykzyd0rkyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why the price of oil matters more than you might think",
-      "url": "https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&at_campaign=rss"
+      "title": "Wildlife to replace historical characters on banknotes",
+      "url": "https://www.bbc.com/news/articles/c4geyyg9en6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "G7 to take 'necessary measures' to support energy supplies",
-      "url": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss"
+      "title": "Childcare and more paid leave: Will China's new plan to boost spending work?",
+      "url": "https://www.bbc.com/news/articles/c70n5xllp1do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How the Iran war may affect your bills and finances",
-      "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss"
+      "title": "'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom",
+      "url": "https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Six ways the Iran war could affect you - in charts",
-      "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
+      "title": "Meta urged to boost oversight of fake AI videos",
+      "url": "https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
