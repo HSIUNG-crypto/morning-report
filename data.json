@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-03-14 08:54:40 (台北時間)",
-  "updated_at_utc": "2026-03-14 00:54:40 (UTC)",
+  "updated_at": "2026-03-15 09:04:47 (台北時間)",
+  "updated_at_utc": "2026-03-15 01:04:47 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.0846,
-    "USD/JPY": 159.5372,
-    "USD/EUR": 0.8736,
-    "USD/GBP": 0.7547,
-    "USD/CNY": 6.9086,
-    "USD/AUD": 1.4266,
-    "USD/CAD": 1.3707,
-    "USD/CHF": 0.7898,
-    "USD/HKD": 7.8284,
-    "USD/KRW": 1496.5397,
-    "USD/SGD": 1.2812,
-    "USD/INR": 92.5544
+    "USD/TWD": 32.0419,
+    "USD/JPY": 159.4982,
+    "USD/EUR": 0.8732,
+    "USD/GBP": 0.7544,
+    "USD/CNY": 6.9093,
+    "USD/AUD": 1.4251,
+    "USD/CAD": 1.37,
+    "USD/CHF": 0.7894,
+    "USD/HKD": 7.8283,
+    "USD/KRW": 1495.2405,
+    "USD/SGD": 1.2805,
+    "USD/INR": 92.5114
   },
   "exchange_changes": {
-    "USD/TWD": 0.59,
-    "USD/JPY": 0.25,
-    "USD/EUR": 0.74,
-    "USD/GBP": 0.84,
-    "USD/CNY": 0.4,
-    "USD/AUD": 1.21,
-    "USD/CAD": 0.64,
-    "USD/CHF": 0.68,
-    "USD/HKD": 0.02,
-    "USD/KRW": 0.8,
-    "USD/SGD": 0.29,
-    "USD/INR": 0.19
+    "USD/TWD": -0.13,
+    "USD/JPY": -0.02,
+    "USD/EUR": -0.05,
+    "USD/GBP": -0.04,
+    "USD/CNY": 0.01,
+    "USD/AUD": -0.11,
+    "USD/CAD": -0.05,
+    "USD/CHF": -0.05,
+    "USD/HKD": -0.0,
+    "USD/KRW": -0.09,
+    "USD/SGD": -0.05,
+    "USD/INR": -0.05
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "'We're not profiteering on fuel. But my staff still face abuse'",
+      "title": "Banknotes, beavers and a very British backlash",
+      "url": "https://www.bbc.com/news/articles/cy03zy1lr8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump urges UK and other nations to send ships to Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "We're not profiteering on fuel. But my staff still face abuse",
       "url": "https://www.bbc.com/news/articles/c626mdvn6d5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Chancellor to offer support over rising heating oil costs",
+      "url": "https://www.bbc.com/news/articles/cvg3y9dpvxgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Judge says 'no evidence' to justify Federal Reserve probe",
       "url": "https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Petrol retailers in row with government over 'rip off' accusations",
-      "url": "https://www.bbc.com/news/articles/crk83e2g65no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Why has Trump eased sanctions on Russian oil - and will it help Putin?",
-      "url": "https://www.bbc.com/news/articles/cm2871wyz9ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "New US trade probe targets EU, Canada, UK over forced labour",
-      "url": "https://www.bbc.com/news/articles/cgrzvdqze5xo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
