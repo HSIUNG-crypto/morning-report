@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-03-15 09:04:47 (台北時間)",
-  "updated_at_utc": "2026-03-15 01:04:47 (UTC)",
+  "updated_at": "2026-03-16 09:04:33 (台北時間)",
+  "updated_at_utc": "2026-03-16 01:04:33 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.0419,
-    "USD/JPY": 159.4982,
-    "USD/EUR": 0.8732,
-    "USD/GBP": 0.7544,
-    "USD/CNY": 6.9093,
-    "USD/AUD": 1.4251,
-    "USD/CAD": 1.37,
-    "USD/CHF": 0.7894,
-    "USD/HKD": 7.8283,
-    "USD/KRW": 1495.2405,
-    "USD/SGD": 1.2805,
-    "USD/INR": 92.5114
+    "USD/TWD": 32.1146,
+    "USD/JPY": 159.5573,
+    "USD/EUR": 0.8746,
+    "USD/GBP": 0.7553,
+    "USD/CNY": 6.91,
+    "USD/AUD": 1.4278,
+    "USD/CAD": 1.3717,
+    "USD/CHF": 0.7903,
+    "USD/HKD": 7.8282,
+    "USD/KRW": 1497.481,
+    "USD/SGD": 1.2829,
+    "USD/INR": 92.7044
   },
   "exchange_changes": {
-    "USD/TWD": -0.13,
-    "USD/JPY": -0.02,
-    "USD/EUR": -0.05,
-    "USD/GBP": -0.04,
+    "USD/TWD": 0.23,
+    "USD/JPY": 0.04,
+    "USD/EUR": 0.16,
+    "USD/GBP": 0.12,
     "USD/CNY": 0.01,
-    "USD/AUD": -0.11,
-    "USD/CAD": -0.05,
-    "USD/CHF": -0.05,
+    "USD/AUD": 0.19,
+    "USD/CAD": 0.12,
+    "USD/CHF": 0.11,
     "USD/HKD": -0.0,
-    "USD/KRW": -0.09,
-    "USD/SGD": -0.05,
-    "USD/INR": -0.05
+    "USD/KRW": 0.15,
+    "USD/SGD": 0.19,
+    "USD/INR": 0.21
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "Starmer to set out support plan for heating oil costs",
+      "url": "https://www.bbc.com/news/articles/cp9mgpzn901o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "We will intervene on energy bills if necessary, says Miliband",
+      "url": "https://www.bbc.com/news/articles/cj4z7zr4kd8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Banknotes, beavers and a very British backlash",
       "url": "https://www.bbc.com/news/articles/cy03zy1lr8go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump urges UK and other nations to send ships to Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/cd039n9vj3vo?at_medium=RSS&at_campaign=rss"
+      "title": "How the Iran war may affect your money and bills",
+      "url": "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "We're not profiteering on fuel. But my staff still face abuse",
-      "url": "https://www.bbc.com/news/articles/c626mdvn6d5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Chancellor to offer support over rising heating oil costs",
-      "url": "https://www.bbc.com/news/articles/cvg3y9dpvxgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Judge says 'no evidence' to justify Federal Reserve probe",
-      "url": "https://www.bbc.com/news/articles/cwy6z25y7z0o?at_medium=RSS&at_campaign=rss"
+      "title": "Starmer speaks to Trump about importance of reopening Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cj0dlvl086eo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
