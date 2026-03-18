@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-03-17 08:57:03 (台北時間)",
-  "updated_at_utc": "2026-03-17 00:57:03 (UTC)",
+  "updated_at": "2026-03-18 09:01:16 (台北時間)",
+  "updated_at_utc": "2026-03-18 01:01:16 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.998,
-    "USD/JPY": 159.1722,
-    "USD/EUR": 0.8706,
-    "USD/GBP": 0.7517,
-    "USD/CNY": 6.8983,
-    "USD/AUD": 1.4169,
-    "USD/CAD": 1.3683,
-    "USD/CHF": 0.7882,
-    "USD/HKD": 7.8306,
-    "USD/KRW": 1491.163,
-    "USD/SGD": 1.2785,
-    "USD/INR": 92.4013
+    "USD/TWD": 31.8885,
+    "USD/JPY": 158.984,
+    "USD/EUR": 0.8672,
+    "USD/GBP": 0.7492,
+    "USD/CNY": 6.8935,
+    "USD/AUD": 1.408,
+    "USD/CAD": 1.3693,
+    "USD/CHF": 0.7856,
+    "USD/HKD": 7.8365,
+    "USD/KRW": 1487.6423,
+    "USD/SGD": 1.2769,
+    "USD/INR": 92.4763
   },
   "exchange_changes": {
-    "USD/TWD": -0.36,
-    "USD/JPY": -0.24,
-    "USD/EUR": -0.46,
-    "USD/GBP": -0.48,
-    "USD/CNY": -0.17,
-    "USD/AUD": -0.76,
-    "USD/CAD": -0.25,
-    "USD/CHF": -0.27,
-    "USD/HKD": 0.03,
-    "USD/KRW": -0.42,
-    "USD/SGD": -0.34,
-    "USD/INR": -0.33
+    "USD/TWD": -0.34,
+    "USD/JPY": -0.12,
+    "USD/EUR": -0.39,
+    "USD/GBP": -0.33,
+    "USD/CNY": -0.07,
+    "USD/AUD": -0.63,
+    "USD/CAD": 0.07,
+    "USD/CHF": -0.33,
+    "USD/HKD": 0.08,
+    "USD/KRW": -0.24,
+    "USD/SGD": -0.13,
+    "USD/INR": 0.08
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Reeves vows to stop UK tech from 'drifting abroad'",
+      "title": "Mayors to gain more spending power under Reeves tax plans",
       "url": "https://www.bbc.com/news/articles/c0k16zdr1r1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Train delay repay rule changes to make claims easier",
-      "url": "https://www.bbc.com/news/articles/ce94k3v3rvro?at_medium=RSS&at_campaign=rss"
+      "title": "Typical new mortgage costs soar £788 a year in two weeks",
+      "url": "https://www.bbc.com/news/articles/c0mgd3z1e9ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ad for AI editing app which said it could 'remove anything' banned",
+      "url": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Easter holidaymakers switching from Dubai to Spain as flights fill up",
       "url": "https://www.bbc.com/news/articles/cm21gv3133zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Car park firm NCP collapses with nearly 700 jobs at risk",
-      "url": "https://www.bbc.com/news/articles/c2e48zl4j7ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump seeks to delay meeting Xi in China due to Iran war",
-      "url": "https://www.bbc.com/news/articles/cn9e0z7v3nxo?at_medium=RSS&at_campaign=rss"
+      "title": "Train Delay Repay rule changes to make claims easier",
+      "url": "https://www.bbc.com/news/articles/ce94k3v3rvro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
+      "url": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/"
+    },
     {
       "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
       "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/"
@@ -102,13 +106,9 @@
     {
       "title": "Feds take notice of iOS vulnerabilities exploited under mysterious circumstances",
       "url": "https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities/"
-    },
-    {
-      "title": "Amazon appears to be down, with over 20,000 reported problems",
-      "url": "https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
