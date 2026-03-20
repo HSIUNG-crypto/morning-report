@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-03-19 09:00:14 (台北時間)",
-  "updated_at_utc": "2026-03-19 01:00:14 (UTC)",
+  "updated_at": "2026-03-20 08:57:18 (台北時間)",
+  "updated_at_utc": "2026-03-20 00:57:18 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.9693,
-    "USD/JPY": 159.5305,
-    "USD/EUR": 0.8702,
-    "USD/GBP": 0.752,
-    "USD/CNY": 6.8892,
-    "USD/AUD": 1.4178,
-    "USD/CAD": 1.3718,
-    "USD/CHF": 0.7908,
-    "USD/HKD": 7.8376,
-    "USD/KRW": 1497.9596,
-    "USD/SGD": 1.2814,
-    "USD/INR": 92.9476
+    "USD/TWD": 31.8705,
+    "USD/JPY": 158.2778,
+    "USD/EUR": 0.8664,
+    "USD/GBP": 0.7479,
+    "USD/CNY": 6.8998,
+    "USD/AUD": 1.4165,
+    "USD/CAD": 1.3727,
+    "USD/CHF": 0.7906,
+    "USD/HKD": 7.833,
+    "USD/KRW": 1493.8686,
+    "USD/SGD": 1.2796,
+    "USD/INR": 93.0653
   },
   "exchange_changes": {
-    "USD/TWD": 0.25,
-    "USD/JPY": 0.34,
-    "USD/EUR": 0.35,
-    "USD/GBP": 0.37,
-    "USD/CNY": -0.06,
-    "USD/AUD": 0.7,
-    "USD/CAD": 0.18,
-    "USD/CHF": 0.66,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.69,
-    "USD/SGD": 0.35,
-    "USD/INR": 0.51
+    "USD/TWD": -0.31,
+    "USD/JPY": -0.79,
+    "USD/EUR": -0.44,
+    "USD/GBP": -0.55,
+    "USD/CNY": 0.15,
+    "USD/AUD": -0.09,
+    "USD/CAD": 0.07,
+    "USD/CHF": -0.03,
+    "USD/HKD": -0.06,
+    "USD/KRW": -0.27,
+    "USD/SGD": -0.14,
+    "USD/INR": 0.13
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Impact of Iran war expected to bring hold in interest rates",
-      "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss"
+      "title": "The global winners and losers of the war in Iran",
+      "url": "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK sets target to boost steel making and cut imports",
-      "url": "https://www.bbc.com/news/articles/c98q8q4zl8qo?at_medium=RSS&at_campaign=rss"
+      "title": "Faisal Islam: Iran war is having a dramatic effect on the UK economy",
+      "url": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Oil nears $110 a barrel after gas field strike",
+      "title": "Stock markets rattled and energy prices soar after strikes on Qatar gas hub",
       "url": "https://www.bbc.com/news/articles/c78x83lpgngo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US holds interest rates as Iran war triggers inflation fears",
-      "url": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss"
+      "title": "Bank ready to raise interest rates if Iran war price 'shock' persists",
+      "url": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Labubu movie in the works as viral toys attempt film crossover",
-      "url": "https://www.bbc.com/news/articles/c20j01gqx1eo?at_medium=RSS&at_campaign=rss"
+      "title": "US considers lifting sanctions on some Iranian oil",
+      "url": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Cloud service providers ask EU regulator to reinstate VMware partner program",
+      "url": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/"
+    },
     {
       "title": "Federal cyber experts called Microsoft's cloud a \"pile of shit,\" approved it anyway",
       "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"
@@ -102,13 +106,9 @@
     {
       "title": "The who, what, and why of the attack that has shut down Stryker's Windows network",
       "url": "https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/"
-    },
-    {
-      "title": "14,000 routers are infected by malware that's highly resistant to takedowns",
-      "url": "https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
