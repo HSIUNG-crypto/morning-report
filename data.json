@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-03-24 08:54:43 (台北時間)",
-  "updated_at_utc": "2026-03-24 00:54:43 (UTC)",
+  "updated_at": "2026-03-25 08:59:23 (台北時間)",
+  "updated_at_utc": "2026-03-25 00:59:23 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8586,
-    "USD/JPY": 158.6291,
-    "USD/EUR": 0.8624,
-    "USD/GBP": 0.7454,
-    "USD/CNY": 6.8965,
-    "USD/AUD": 1.4269,
-    "USD/CAD": 1.3722,
-    "USD/CHF": 0.7871,
-    "USD/HKD": 7.8334,
-    "USD/KRW": 1488.0754,
-    "USD/SGD": 1.2751,
-    "USD/INR": 93.4608
+    "USD/TWD": 31.9487,
+    "USD/JPY": 158.7682,
+    "USD/EUR": 0.8623,
+    "USD/GBP": 0.7462,
+    "USD/CNY": 6.8991,
+    "USD/AUD": 1.4339,
+    "USD/CAD": 1.3755,
+    "USD/CHF": 0.7889,
+    "USD/HKD": 7.8278,
+    "USD/KRW": 1497.9713,
+    "USD/SGD": 1.2786,
+    "USD/INR": 94.0486
   },
   "exchange_changes": {
-    "USD/TWD": -0.48,
-    "USD/JPY": -0.29,
-    "USD/EUR": -0.3,
-    "USD/GBP": -0.59,
-    "USD/CNY": -0.17,
-    "USD/AUD": 0.15,
-    "USD/CAD": 0.12,
-    "USD/CHF": -0.06,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.88,
-    "USD/SGD": -0.51,
-    "USD/INR": -0.44
+    "USD/TWD": 0.28,
+    "USD/JPY": 0.09,
+    "USD/EUR": -0.01,
+    "USD/GBP": 0.11,
+    "USD/CNY": 0.04,
+    "USD/AUD": 0.49,
+    "USD/CAD": 0.24,
+    "USD/CHF": 0.23,
+    "USD/HKD": -0.07,
+    "USD/KRW": 0.67,
+    "USD/SGD": 0.27,
+    "USD/INR": 0.63
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Royal Mail staff say they were told to hide post to look like delivery targets met",
-      "url": "https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss"
+      "title": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
+      "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "HS2 trains could run slower than planned to save money",
-      "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss"
+      "title": "Meta told to pay $375m for misleading users over child safety",
+      "url": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Cosmetics giant Estée Lauder in merger talks with owner of Jean Paul Gaultier and Rabanne",
-      "url": "https://www.bbc.com/news/articles/c5yvmd6k38ko?at_medium=RSS&at_campaign=rss"
+      "title": "Reeves plans energy bill help for those 'who need it most'",
+      "url": "https://www.bbc.com/news/articles/cr516nmer5eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Huel bought by Danone in €1bn deal",
-      "url": "https://www.bbc.com/news/articles/czre7pl600go?at_medium=RSS&at_campaign=rss"
+      "title": "Social media bans and digital curfews to be trialled on UK teenagers",
+      "url": "https://www.bbc.com/news/articles/cn89g3ngkyzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'We can't justify a £52 lunch': Middle-income families cut back on days out",
-      "url": "https://www.bbc.com/news/articles/ckg3g11z6d8o?at_medium=RSS&at_campaign=rss"
+      "title": "Oil above $100 over conflicting claims on US-Iran talks",
+      "url": "https://www.bbc.com/news/articles/c625j162yy6o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
+      "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/"
+    },
     {
       "title": "Widely used Trivy scanner compromised in ongoing supply-chain attack",
       "url": "https://arstechnica.com/security/2026/03/widely-used-trivy-scanner-compromised-in-ongoing-supply-chain-attack/"
@@ -102,10 +106,6 @@
     {
       "title": "Researchers disclose vulnerabilities in IP KVMs from four manufacturers",
       "url": "https://arstechnica.com/security/2026/03/researchers-disclose-vulnerabilities-in-ip-kvms-from-4-manufacturers/"
-    },
-    {
-      "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
-      "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/"
     }
   ],
   "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
