@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-26 09:04:13 (台北時間)",
-  "updated_at_utc": "2026-03-26 01:04:13 (UTC)",
+  "updated_at": "2026-03-27 09:04:11 (台北時間)",
+  "updated_at_utc": "2026-03-27 01:04:11 (UTC)",
   "exchange_rates": {
     "USD/TWD": 31.9606,
     "USD/JPY": 159.2046,
@@ -16,18 +16,18 @@
     "USD/INR": 94.0283
   },
   "exchange_changes": {
-    "USD/TWD": 0.04,
-    "USD/JPY": 0.27,
-    "USD/EUR": 0.17,
-    "USD/GBP": 0.17,
-    "USD/CNY": 0.09,
-    "USD/AUD": 0.33,
-    "USD/CAD": 0.33,
-    "USD/CHF": 0.3,
-    "USD/HKD": -0.12,
-    "USD/KRW": 0.25,
-    "USD/SGD": 0.16,
-    "USD/INR": -0.02
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Octopus boss: We've seen a 50% rise in solar panel sales since start of Iran war",
-      "url": "https://www.bbc.com/news/articles/c4gjlezq80no?at_medium=RSS&at_campaign=rss"
+      "title": "Trump's signature to appear on US dollars in first for sitting president",
+      "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Meta and YouTube found liable in landmark social media addiction trial",
-      "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss"
+      "title": "NS&I boss replaced as savers left waiting for millions of pounds",
+      "url": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK inflation rate stays at 3% before Iran war hits oil prices",
-      "url": "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss"
+      "title": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
+      "url": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why are UK prices still rising?",
-      "url": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss"
+      "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
+      "url": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "We need more plumbers and fewer lawyers in AI age, says BlackRock boss",
-      "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss"
+      "title": "'It took six years to receive my late father's premium bonds'",
+      "url": "https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
