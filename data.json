@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-03-27 09:04:11 (台北時間)",
-  "updated_at_utc": "2026-03-27 01:04:11 (UTC)",
+  "updated_at": "2026-03-28 08:58:23 (台北時間)",
+  "updated_at_utc": "2026-03-28 00:58:23 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.9606,
-    "USD/JPY": 159.2046,
-    "USD/EUR": 0.8638,
-    "USD/GBP": 0.7475,
-    "USD/CNY": 6.9053,
-    "USD/AUD": 1.4387,
-    "USD/CAD": 1.3801,
-    "USD/CHF": 0.7913,
-    "USD/HKD": 7.8184,
-    "USD/KRW": 1501.6582,
-    "USD/SGD": 1.2806,
-    "USD/INR": 94.0283
+    "USD/TWD": 32.0426,
+    "USD/JPY": 160.0597,
+    "USD/EUR": 0.8681,
+    "USD/GBP": 0.7528,
+    "USD/CNY": 6.9198,
+    "USD/AUD": 1.4538,
+    "USD/CAD": 1.3875,
+    "USD/CHF": 0.7978,
+    "USD/HKD": 7.8326,
+    "USD/KRW": 1509.0154,
+    "USD/SGD": 1.2876,
+    "USD/INR": 94.8347
   },
   "exchange_changes": {
-    "USD/TWD": 0.0,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.0,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.0
+    "USD/TWD": 0.26,
+    "USD/JPY": 0.54,
+    "USD/EUR": 0.5,
+    "USD/GBP": 0.71,
+    "USD/CNY": 0.21,
+    "USD/AUD": 1.05,
+    "USD/CAD": 0.54,
+    "USD/CHF": 0.82,
+    "USD/HKD": 0.18,
+    "USD/KRW": 0.49,
+    "USD/SGD": 0.55,
+    "USD/INR": 0.86
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Trump's signature to appear on US dollars in first for sitting president",
-      "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss"
+      "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
+      "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "NS&I boss replaced as savers left waiting for millions of pounds",
-      "url": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss"
+      "title": "Just Eat and Autotrader among firms investigated in fake reviews probe",
+      "url": "https://www.bbc.com/news/articles/cj37eeyz0epo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Judge rejects Pentagon's attempt to 'cripple' Anthropic",
-      "url": "https://www.bbc.com/news/articles/cvg4p02lvd0o?at_medium=RSS&at_campaign=rss"
+      "title": "'Ripple of fear' over Iran war hits consumer confidence",
+      "url": "https://www.bbc.com/news/articles/c8957kqqdg4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Elon Musk's X advertising boycott lawsuit dismissed by US judge",
-      "url": "https://www.bbc.com/news/articles/c05dlm0l0jgo?at_medium=RSS&at_campaign=rss"
+      "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
+      "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'It took six years to receive my late father's premium bonds'",
-      "url": "https://www.bbc.com/news/articles/c2k350g3jelo?at_medium=RSS&at_campaign=rss"
+      "title": "How the Hormuz closure could affect food, medicines and smartphones",
+      "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/information-technology/2026/03/federal-cyber-experts-called-microsofts-cloud-a-pile-of-shit-approved-it-anyway/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
