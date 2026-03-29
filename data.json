@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-03-28 08:58:23 (台北時間)",
-  "updated_at_utc": "2026-03-28 00:58:23 (UTC)",
+  "updated_at": "2026-03-29 09:06:50 (台北時間)",
+  "updated_at_utc": "2026-03-29 01:06:50 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.0426,
-    "USD/JPY": 160.0597,
+    "USD/TWD": 32.0256,
+    "USD/JPY": 160.0187,
     "USD/EUR": 0.8681,
-    "USD/GBP": 0.7528,
-    "USD/CNY": 6.9198,
-    "USD/AUD": 1.4538,
-    "USD/CAD": 1.3875,
-    "USD/CHF": 0.7978,
-    "USD/HKD": 7.8326,
-    "USD/KRW": 1509.0154,
-    "USD/SGD": 1.2876,
-    "USD/INR": 94.8347
+    "USD/GBP": 0.7526,
+    "USD/CNY": 6.9222,
+    "USD/AUD": 1.4537,
+    "USD/CAD": 1.387,
+    "USD/CHF": 0.7977,
+    "USD/HKD": 7.8319,
+    "USD/KRW": 1508.638,
+    "USD/SGD": 1.2877,
+    "USD/INR": 94.77
   },
   "exchange_changes": {
-    "USD/TWD": 0.26,
-    "USD/JPY": 0.54,
-    "USD/EUR": 0.5,
-    "USD/GBP": 0.71,
-    "USD/CNY": 0.21,
-    "USD/AUD": 1.05,
-    "USD/CAD": 0.54,
-    "USD/CHF": 0.82,
-    "USD/HKD": 0.18,
-    "USD/KRW": 0.49,
-    "USD/SGD": 0.55,
-    "USD/INR": 0.86
+    "USD/TWD": -0.05,
+    "USD/JPY": -0.03,
+    "USD/EUR": 0.0,
+    "USD/GBP": -0.03,
+    "USD/CNY": 0.03,
+    "USD/AUD": -0.01,
+    "USD/CAD": -0.04,
+    "USD/CHF": -0.01,
+    "USD/HKD": -0.01,
+    "USD/KRW": -0.03,
+    "USD/SGD": 0.01,
+    "USD/INR": -0.07
   },
   "stocks": {
     "道瓊": {
@@ -65,6 +65,10 @@
   },
   "news_economy": [
     {
+      "title": "How Trump and the oil markets move in sync: a tango in five charts",
+      "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
       "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss"
     },
@@ -79,10 +83,6 @@
     {
       "title": "Lloyds bank reveals IT glitch affected almost half a million customers",
       "url": "https://www.bbc.com/news/articles/c70dqk2vjv8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "How the Hormuz closure could affect food, medicines and smartphones",
-      "url": "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
