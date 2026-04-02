@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-01 09:12:11 (台北時間)",
-  "updated_at_utc": "2026-04-01 01:12:11 (UTC)",
+  "updated_at": "2026-04-02 09:02:26 (台北時間)",
+  "updated_at_utc": "2026-04-02 01:02:26 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.024,
-    "USD/JPY": 159.0033,
-    "USD/EUR": 0.8672,
-    "USD/GBP": 0.7558,
-    "USD/CNY": 6.9038,
-    "USD/AUD": 1.4525,
-    "USD/CAD": 1.392,
-    "USD/CHF": 0.7997,
-    "USD/HKD": 7.8396,
-    "USD/KRW": 1516.9707,
-    "USD/SGD": 1.2873,
-    "USD/INR": 93.8578
+    "USD/TWD": 32.0246,
+    "USD/JPY": 158.6509,
+    "USD/EUR": 0.8624,
+    "USD/GBP": 0.7513,
+    "USD/CNY": 6.8858,
+    "USD/AUD": 1.4429,
+    "USD/CAD": 1.3882,
+    "USD/CHF": 0.7939,
+    "USD/HKD": 7.8382,
+    "USD/KRW": 1510.4521,
+    "USD/SGD": 1.2831,
+    "USD/INR": 93.5527
   },
   "exchange_changes": {
-    "USD/TWD": -0.12,
-    "USD/JPY": -0.42,
-    "USD/EUR": -0.56,
-    "USD/GBP": -0.26,
-    "USD/CNY": -0.24,
-    "USD/AUD": -0.5,
-    "USD/CAD": 0.0,
-    "USD/CHF": -0.03,
-    "USD/HKD": 0.05,
-    "USD/KRW": 0.05,
-    "USD/SGD": -0.27,
-    "USD/INR": -0.88
+    "USD/TWD": 0.0,
+    "USD/JPY": -0.22,
+    "USD/EUR": -0.55,
+    "USD/GBP": -0.6,
+    "USD/CNY": -0.26,
+    "USD/AUD": -0.66,
+    "USD/CAD": -0.27,
+    "USD/CHF": -0.73,
+    "USD/HKD": -0.02,
+    "USD/KRW": -0.43,
+    "USD/SGD": -0.33,
+    "USD/INR": -0.33
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Minimum wage rises to £12.71 an hour",
-      "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss"
+      "title": "Record monthly rise in petrol and diesel prices, says RAC",
+      "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "From water to council tax: How the bill rises (and one drop) affect you",
-      "url": "https://www.bbc.com/news/articles/clyeke8z871o?at_medium=RSS&at_campaign=rss"
+      "title": "New laws to make it easier to cancel subscriptions",
+      "url": "https://www.bbc.com/news/articles/cvg0v36ek2go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tech giant Oracle makes 'significant' job cuts",
-      "url": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss"
+      "title": "Elon Musk's SpaceX moves to become a publicly traded company",
+      "url": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Oil nears highest price since start of Iran war",
-      "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss"
+      "title": "Estate agents accuse Rightmove of charging excessive fees",
+      "url": "https://www.bbc.com/news/articles/cn0yle5rrp8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Housing market to soften amid Iran war fallout, Nationwide says",
-      "url": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss"
+      "title": "Warning Iran war 'shock' could push up mortgages for 1.3m homeowners",
+      "url": "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/information-technology/2026/03/cloud-service-providers-ask-eu-regulator-to-reinstate-vmware-partner-program/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
