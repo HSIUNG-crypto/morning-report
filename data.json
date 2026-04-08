@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-07 09:06:01 (台北時間)",
-  "updated_at_utc": "2026-04-07 01:06:01 (UTC)",
+  "updated_at": "2026-04-08 09:07:18 (台北時間)",
+  "updated_at_utc": "2026-04-08 01:07:18 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.9973,
-    "USD/JPY": 159.6237,
-    "USD/EUR": 0.8662,
-    "USD/GBP": 0.7556,
-    "USD/CNY": 6.8889,
-    "USD/AUD": 1.4457,
-    "USD/CAD": 1.3915,
-    "USD/CHF": 0.7982,
-    "USD/HKD": 7.8371,
-    "USD/KRW": 1507.4224,
-    "USD/SGD": 1.285,
-    "USD/INR": 93.3059
+    "USD/TWD": 31.9606,
+    "USD/JPY": 159.2413,
+    "USD/EUR": 0.8607,
+    "USD/GBP": 0.7521,
+    "USD/CNY": 6.8722,
+    "USD/AUD": 1.4311,
+    "USD/CAD": 1.3878,
+    "USD/CHF": 0.7956,
+    "USD/HKD": 7.8355,
+    "USD/KRW": 1496.2994,
+    "USD/SGD": 1.2817,
+    "USD/INR": 93.161
   },
   "exchange_changes": {
-    "USD/TWD": -0.12,
-    "USD/JPY": -0.05,
-    "USD/EUR": -0.24,
-    "USD/GBP": -0.32,
-    "USD/CNY": -0.05,
-    "USD/AUD": -0.45,
-    "USD/CAD": -0.18,
-    "USD/CHF": -0.3,
-    "USD/HKD": -0.0,
-    "USD/KRW": -0.24,
-    "USD/SGD": -0.14,
-    "USD/INR": 0.19
+    "USD/TWD": -0.11,
+    "USD/JPY": -0.24,
+    "USD/EUR": -0.63,
+    "USD/GBP": -0.46,
+    "USD/CNY": -0.24,
+    "USD/AUD": -1.01,
+    "USD/CAD": -0.27,
+    "USD/CHF": -0.33,
+    "USD/HKD": -0.02,
+    "USD/KRW": -0.74,
+    "USD/SGD": -0.26,
+    "USD/INR": -0.16
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Trump's Hormuz deadline looms but Asian nations have already struck deals with Iran",
-      "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss"
+      "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Benefits and pensions rise as two-child cap ends",
-      "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss"
+      "title": "Music giant Universal gets $64bn takeover offer",
+      "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
-      "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss"
+      "title": "Oil price fluctuates ahead of Trump's Iran deal deadline",
+      "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'I jump in the sea to refresh my brain': How remote workers are boosting coastal towns",
-      "url": "https://www.bbc.com/news/articles/ce3dqw12vgyo?at_medium=RSS&at_campaign=rss"
+      "title": "Plan 2 student loan interest rates capped at 6% in England",
+      "url": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
-      "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss"
+      "title": "Airlines cut flights and hike fares as fuel prices surge",
+      "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
