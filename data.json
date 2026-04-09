@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-08 09:07:18 (台北時間)",
-  "updated_at_utc": "2026-04-08 01:07:18 (UTC)",
+  "updated_at": "2026-04-09 08:57:22 (台北時間)",
+  "updated_at_utc": "2026-04-09 00:57:22 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.9606,
-    "USD/JPY": 159.2413,
-    "USD/EUR": 0.8607,
-    "USD/GBP": 0.7521,
-    "USD/CNY": 6.8722,
-    "USD/AUD": 1.4311,
-    "USD/CAD": 1.3878,
-    "USD/CHF": 0.7956,
-    "USD/HKD": 7.8355,
-    "USD/KRW": 1496.2994,
-    "USD/SGD": 1.2817,
-    "USD/INR": 93.161
+    "USD/TWD": 31.7551,
+    "USD/JPY": 158.5291,
+    "USD/EUR": 0.8564,
+    "USD/GBP": 0.7454,
+    "USD/CNY": 6.8436,
+    "USD/AUD": 1.4194,
+    "USD/CAD": 1.3847,
+    "USD/CHF": 0.7905,
+    "USD/HKD": 7.8323,
+    "USD/KRW": 1478.0495,
+    "USD/SGD": 1.2741,
+    "USD/INR": 92.5746
   },
   "exchange_changes": {
-    "USD/TWD": -0.11,
-    "USD/JPY": -0.24,
-    "USD/EUR": -0.63,
-    "USD/GBP": -0.46,
-    "USD/CNY": -0.24,
-    "USD/AUD": -1.01,
-    "USD/CAD": -0.27,
-    "USD/CHF": -0.33,
-    "USD/HKD": -0.02,
-    "USD/KRW": -0.74,
-    "USD/SGD": -0.26,
-    "USD/INR": -0.16
+    "USD/TWD": -0.64,
+    "USD/JPY": -0.45,
+    "USD/EUR": -0.5,
+    "USD/GBP": -0.89,
+    "USD/CNY": -0.42,
+    "USD/AUD": -0.82,
+    "USD/CAD": -0.22,
+    "USD/CHF": -0.64,
+    "USD/HKD": -0.04,
+    "USD/KRW": -1.22,
+    "USD/SGD": -0.59,
+    "USD/INR": -0.63
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+      "title": "'Even if Iran war ends now, farmers' costs will have to be passed on'",
+      "url": "https://www.bbc.com/news/articles/c0q98w57k25o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Why fuel and food prices could still be affected for months",
+      "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Faisal Islam: Iran war pause is welcome but the economic scars will last",
+      "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
       "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Music giant Universal gets $64bn takeover offer",
-      "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Oil price fluctuates ahead of Trump's Iran deal deadline",
-      "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Plan 2 student loan interest rates capped at 6% in England",
-      "url": "https://www.bbc.com/news/articles/crr1e5zqdyko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Airlines cut flights and hike fares as fuel prices surge",
-      "url": "https://www.bbc.com/news/articles/c87w4x0n3j0o?at_medium=RSS&at_campaign=rss"
+      "title": "UK house prices fall as Iran war uncertainty dampens demand",
+      "url": "https://www.bbc.com/news/articles/cj401ll8j5zo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
+      "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/"
+    },
+    {
+      "title": "Thousands of consumer routers hacked by Russia's military",
+      "url": "https://arstechnica.com/security/2026/04/russias-military-hacks-thousands-of-consumer-routers-to-steal-credentials/"
+    },
     {
       "title": "OpenClaw gives users yet another reason to be freaked out about security",
       "url": "https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/"
@@ -98,17 +106,9 @@
     {
       "title": "Quantum computers need vastly fewer resources than thought to break vital encryption",
       "url": "https://arstechnica.com/security/2026/03/new-quantum-computing-advances-heighten-threat-to-elliptic-curve-cryptosystems/"
-    },
-    {
-      "title": "Google bumps up Q Day deadline to 2029, far sooner than previously thought",
-      "url": "https://arstechnica.com/security/2026/03/google-bumps-up-q-day-estimate-to-2029-far-sooner-than-previously-thought/"
-    },
-    {
-      "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-      "url": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
