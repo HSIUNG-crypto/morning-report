@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-14 09:11:54 (台北時間)",
-  "updated_at_utc": "2026-04-14 01:11:54 (UTC)",
+  "updated_at": "2026-04-15 09:10:36 (台北時間)",
+  "updated_at_utc": "2026-04-15 01:10:36 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.7057,
-    "USD/JPY": 159.429,
-    "USD/EUR": 0.8521,
-    "USD/GBP": 0.7421,
-    "USD/CNY": 6.843,
-    "USD/AUD": 1.4139,
-    "USD/CAD": 1.3803,
-    "USD/CHF": 0.7866,
-    "USD/HKD": 7.8309,
-    "USD/KRW": 1482.8801,
-    "USD/SGD": 1.2739,
-    "USD/INR": 93.3568
+    "USD/TWD": 31.5627,
+    "USD/JPY": 158.886,
+    "USD/EUR": 0.8477,
+    "USD/GBP": 0.7374,
+    "USD/CNY": 6.829,
+    "USD/AUD": 1.4033,
+    "USD/CAD": 1.3762,
+    "USD/CHF": 0.7812,
+    "USD/HKD": 7.8334,
+    "USD/KRW": 1472.4676,
+    "USD/SGD": 1.2715,
+    "USD/INR": 93.2612
   },
   "exchange_changes": {
-    "USD/TWD": -0.28,
-    "USD/JPY": -0.15,
-    "USD/EUR": -0.47,
-    "USD/GBP": -0.51,
-    "USD/CNY": 0.07,
-    "USD/AUD": -0.62,
-    "USD/CAD": -0.45,
-    "USD/CHF": -0.68,
-    "USD/HKD": -0.02,
-    "USD/KRW": -0.18,
-    "USD/SGD": -0.22,
-    "USD/INR": 0.19
+    "USD/TWD": -0.45,
+    "USD/JPY": -0.34,
+    "USD/EUR": -0.52,
+    "USD/GBP": -0.63,
+    "USD/CNY": -0.2,
+    "USD/AUD": -0.75,
+    "USD/CAD": -0.3,
+    "USD/CHF": -0.69,
+    "USD/HKD": 0.03,
+    "USD/KRW": -0.7,
+    "USD/SGD": -0.19,
+    "USD/INR": -0.1
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Man charged with attempted murder in attack on home of OpenAI's Sam Altman",
-      "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss"
+      "title": "Help to Buy mostly helped high earners, IFS says",
+      "url": "https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Hollywood stars unite to oppose Paramount and Warner Bros Discovery merger",
-      "url": "https://www.bbc.com/news/articles/cz0egvr94zro?at_medium=RSS&at_campaign=rss"
+      "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
+      "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US home buyers 'frozen' as sales slump over Iran war fears",
-      "url": "https://www.bbc.com/news/articles/cn08ep6d5ndo?at_medium=RSS&at_campaign=rss"
+      "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+      "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Oil jumps back above $100 after US-Iran peace talks fail",
-      "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss"
+      "title": "Households could get free electricity for doing washing on sunny weekends",
+      "url": "https://www.bbc.com/news/articles/c9d44ld97dyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "EasyJet passengers describe EU border 'nightmare'",
-      "url": "https://www.bbc.com/news/articles/cn897e8280do?at_medium=RSS&at_campaign=rss"
+      "title": "Fuel prices stop rising after 43 days of increases, RAC says",
+      "url": "https://www.bbc.com/news/articles/c98kk1lrkzno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
