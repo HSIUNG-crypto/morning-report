@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-16 09:14:51 (台北時間)",
-  "updated_at_utc": "2026-04-16 01:14:51 (UTC)",
+  "updated_at": "2026-04-17 09:12:26 (台北時間)",
+  "updated_at_utc": "2026-04-17 01:12:26 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6156,
-    "USD/JPY": 158.8965,
-    "USD/EUR": 0.8475,
-    "USD/GBP": 0.7371,
-    "USD/CNY": 6.8325,
-    "USD/AUD": 1.3974,
-    "USD/CAD": 1.3741,
-    "USD/CHF": 0.7817,
-    "USD/HKD": 7.8338,
-    "USD/KRW": 1475.2681,
-    "USD/SGD": 1.2712,
-    "USD/INR": 93.4415
+    "USD/TWD": 31.5925,
+    "USD/JPY": 159.13,
+    "USD/EUR": 0.849,
+    "USD/GBP": 0.7389,
+    "USD/CNY": 6.835,
+    "USD/AUD": 1.396,
+    "USD/CAD": 1.3709,
+    "USD/CHF": 0.7833,
+    "USD/HKD": 7.8244,
+    "USD/KRW": 1478.1203,
+    "USD/SGD": 1.2723,
+    "USD/INR": 93.2456
   },
   "exchange_changes": {
-    "USD/TWD": 0.17,
-    "USD/JPY": 0.01,
-    "USD/EUR": -0.02,
-    "USD/GBP": -0.04,
-    "USD/CNY": 0.05,
-    "USD/AUD": -0.42,
-    "USD/CAD": -0.15,
-    "USD/CHF": 0.06,
-    "USD/HKD": 0.01,
+    "USD/TWD": -0.07,
+    "USD/JPY": 0.15,
+    "USD/EUR": 0.18,
+    "USD/GBP": 0.24,
+    "USD/CNY": 0.04,
+    "USD/AUD": -0.1,
+    "USD/CAD": -0.23,
+    "USD/CHF": 0.2,
+    "USD/HKD": -0.12,
     "USD/KRW": 0.19,
-    "USD/SGD": -0.02,
-    "USD/INR": 0.19
+    "USD/SGD": 0.09,
+    "USD/INR": -0.21
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Bank boss tells BBC he won't rush interest rate rises",
-      "url": "https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss"
+      "title": "Rising value of Pokémon cards sparks smash and grab crime spree",
+      "url": "https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Horse urine perfume: why online bargains may be dangerous",
-      "url": "https://www.bbc.com/news/articles/c4gjjryvzg9o?at_medium=RSS&at_campaign=rss"
+      "title": "Netflix co-founder Reed Hastings to step down as chairman",
+      "url": "https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "More big energy users to get help as support plan expanded",
-      "url": "https://www.bbc.com/news/articles/c0lee3j122go?at_medium=RSS&at_campaign=rss"
+      "title": "No issues with UK fuel supply, says Reeves",
+      "url": "https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
-      "url": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss"
+      "title": "Europe has 'maybe six weeks of jet fuel left', energy boss warns",
+      "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US war on Iran was a 'mistake', says Reeves",
-      "url": "https://www.bbc.com/news/articles/cr5110n2l3mo?at_medium=RSS&at_campaign=rss"
+      "title": "UK economy grew faster than expected in February ahead of Iran war",
+      "url": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
