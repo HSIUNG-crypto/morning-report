@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-20 09:14:23 (台北時間)",
-  "updated_at_utc": "2026-04-20 01:14:23 (UTC)",
+  "updated_at": "2026-04-21 09:11:45 (台北時間)",
+  "updated_at_utc": "2026-04-21 01:11:45 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.493,
-    "USD/JPY": 159.0684,
-    "USD/EUR": 0.8511,
-    "USD/GBP": 0.7411,
-    "USD/CNY": 6.8275,
-    "USD/AUD": 1.3996,
-    "USD/CAD": 1.3702,
-    "USD/CHF": 0.7834,
-    "USD/HKD": 7.8314,
-    "USD/KRW": 1470.6853,
-    "USD/SGD": 1.2722,
-    "USD/INR": 92.7898
+    "USD/TWD": 31.4537,
+    "USD/JPY": 158.7957,
+    "USD/EUR": 0.849,
+    "USD/GBP": 0.7393,
+    "USD/CNY": 6.8314,
+    "USD/AUD": 1.3948,
+    "USD/CAD": 1.3653,
+    "USD/CHF": 0.7795,
+    "USD/HKD": 7.8309,
+    "USD/KRW": 1470.9619,
+    "USD/SGD": 1.2705,
+    "USD/INR": 93.1663
   },
   "exchange_changes": {
-    "USD/TWD": 0.05,
-    "USD/JPY": 0.25,
-    "USD/EUR": 0.27,
-    "USD/GBP": 0.28,
-    "USD/CNY": -0.15,
-    "USD/AUD": 0.42,
-    "USD/CAD": 0.14,
-    "USD/CHF": 0.23,
-    "USD/HKD": 0.02,
-    "USD/KRW": -0.09,
-    "USD/SGD": 0.17,
-    "USD/INR": -0.14
+    "USD/TWD": -0.12,
+    "USD/JPY": -0.17,
+    "USD/EUR": -0.25,
+    "USD/GBP": -0.24,
+    "USD/CNY": 0.06,
+    "USD/AUD": -0.34,
+    "USD/CAD": -0.36,
+    "USD/CHF": -0.5,
+    "USD/HKD": -0.01,
+    "USD/KRW": 0.02,
+    "USD/SGD": -0.13,
+    "USD/INR": 0.41
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Oil prices jump after Trump says Iranian ship seized",
-      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss"
+      "title": "Apple names new chief executive to replace Tim Cook",
+      "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Petrol thefts surge as Iran war pushes up fuel costs",
+      "url": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The 20-somethings juggling three jobs to make ends meet",
+      "url": "https://www.bbc.com/news/articles/cn89n9exl11o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "The insider trading suspicions looming over Trump's presidency",
       "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Mortgage rates show signs of falling after Iran war peak",
-      "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'I'm the lucky one' - more than one in three young men live with their parents",
-      "url": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-      "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump tariff refunds begin but consumers likely to miss out",
+      "url": "https://www.bbc.com/news/articles/c7vqgge5g8lo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
