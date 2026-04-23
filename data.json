@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-22 09:10:10 (台北時間)",
-  "updated_at_utc": "2026-04-22 01:10:10 (UTC)",
+  "updated_at": "2026-04-23 09:15:46 (台北時間)",
+  "updated_at_utc": "2026-04-23 01:15:46 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4966,
-    "USD/JPY": 159.2733,
-    "USD/EUR": 0.8511,
-    "USD/GBP": 0.7402,
-    "USD/CNY": 6.8364,
-    "USD/AUD": 1.3972,
-    "USD/CAD": 1.3656,
-    "USD/CHF": 0.7805,
-    "USD/HKD": 7.8307,
-    "USD/KRW": 1475.2795,
-    "USD/SGD": 1.2727,
-    "USD/INR": 93.6058
+    "USD/TWD": 31.4907,
+    "USD/JPY": 159.3875,
+    "USD/EUR": 0.853,
+    "USD/GBP": 0.7405,
+    "USD/CNY": 6.8388,
+    "USD/AUD": 1.3969,
+    "USD/CAD": 1.3662,
+    "USD/CHF": 0.7837,
+    "USD/HKD": 7.8324,
+    "USD/KRW": 1478.4283,
+    "USD/SGD": 1.2749,
+    "USD/INR": 93.8602
   },
   "exchange_changes": {
-    "USD/TWD": 0.14,
-    "USD/JPY": 0.3,
-    "USD/EUR": 0.25,
-    "USD/GBP": 0.12,
-    "USD/CNY": 0.07,
-    "USD/AUD": 0.17,
-    "USD/CAD": 0.02,
-    "USD/CHF": 0.13,
-    "USD/HKD": -0.0,
-    "USD/KRW": 0.29,
+    "USD/TWD": -0.02,
+    "USD/JPY": 0.07,
+    "USD/EUR": 0.22,
+    "USD/GBP": 0.04,
+    "USD/CNY": 0.04,
+    "USD/AUD": -0.02,
+    "USD/CAD": 0.04,
+    "USD/CHF": 0.41,
+    "USD/HKD": 0.02,
+    "USD/KRW": 0.21,
     "USD/SGD": 0.17,
-    "USD/INR": 0.47
+    "USD/INR": 0.27
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Oil prices fluctuate as status of US-Iran peace talks remains unclear",
-      "url": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss"
+      "title": "AI is flattening the jobs market for young people, says Sunak",
+      "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
-      "url": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss"
+      "title": "Three ways the latest inflation figures affect you",
+      "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "I was left with an £8,000 vet bill when my insurer cancelled my pet policy",
-      "url": "https://www.bbc.com/news/articles/cn4vkw1lrz0o?at_medium=RSS&at_campaign=rss"
+      "title": "UK inflation rises after Iran war pushes up fuel prices",
+      "url": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Meta to track workers' clicks and keystrokes to train AI",
-      "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss"
+      "title": "Four arrested over suspected home insulation scheme fraud",
+      "url": "https://www.bbc.com/news/articles/cgmermvppp8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
-      "url": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss"
+      "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+      "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
+      "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/"
+    },
     {
       "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
       "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/"
@@ -102,10 +106,6 @@
     {
       "title": "“Negative” views of Broadcom driving thousands of VMware migrations, rival says",
       "url": "https://arstechnica.com/information-technology/2026/04/nutanix-claims-it-has-poached-30000-vmware-customers/"
-    },
-    {
-      "title": "Iran-linked hackers disrupt operations at US critical infrastructure sites",
-      "url": "https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
