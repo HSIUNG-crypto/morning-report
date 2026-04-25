@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-24 09:15:14 (台北時間)",
-  "updated_at_utc": "2026-04-24 01:15:14 (UTC)",
+  "updated_at": "2026-04-25 09:08:27 (台北時間)",
+  "updated_at_utc": "2026-04-25 01:08:27 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5763,
-    "USD/JPY": 159.6168,
-    "USD/EUR": 0.8553,
-    "USD/GBP": 0.7417,
-    "USD/CNY": 6.8439,
-    "USD/AUD": 1.4003,
-    "USD/CAD": 1.3684,
-    "USD/CHF": 0.7857,
-    "USD/HKD": 7.8325,
-    "USD/KRW": 1481.4514,
-    "USD/SGD": 1.2769,
-    "USD/INR": 94.1701
+    "USD/TWD": 31.5011,
+    "USD/JPY": 159.4538,
+    "USD/EUR": 0.854,
+    "USD/GBP": 0.7407,
+    "USD/CNY": 6.8471,
+    "USD/AUD": 1.3993,
+    "USD/CAD": 1.3672,
+    "USD/CHF": 0.7855,
+    "USD/HKD": 7.8348,
+    "USD/KRW": 1477.6505,
+    "USD/SGD": 1.2767,
+    "USD/INR": 94.2832
   },
   "exchange_changes": {
-    "USD/TWD": 0.27,
-    "USD/JPY": 0.14,
-    "USD/EUR": 0.27,
-    "USD/GBP": 0.16,
-    "USD/CNY": 0.07,
-    "USD/AUD": 0.24,
-    "USD/CAD": 0.16,
-    "USD/CHF": 0.26,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.2,
-    "USD/SGD": 0.16,
-    "USD/INR": 0.33
+    "USD/TWD": -0.24,
+    "USD/JPY": -0.1,
+    "USD/EUR": -0.15,
+    "USD/GBP": -0.13,
+    "USD/CNY": 0.05,
+    "USD/AUD": -0.07,
+    "USD/CAD": -0.09,
+    "USD/CHF": -0.03,
+    "USD/HKD": 0.03,
+    "USD/KRW": -0.26,
+    "USD/SGD": -0.02,
+    "USD/INR": 0.12
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
+      "title": "China car giant BYD says it can thrive without US",
+      "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Stock markets are too high and set to fall, says Bank of England deputy",
       "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "US justice department drops probe into Fed chairman Jerome Powell",
+      "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "How does it affect me if share prices fall?",
+      "url": "https://www.bbc.com/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "White House memo claims mass AI theft by Chinese firms",
       "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Which airlines are cancelling flights to the UK - and what can you do?",
-      "url": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Meta says it will cut 8,000 jobs as AI spending soars",
-      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "From scientist to silk farmer: India's silk industry renewal",
-      "url": "https://www.bbc.com/news/articles/c0e7le127v5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
+      "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/"
+    },
     {
       "title": "In a first, a ransomware family is confirmed to be quantum-safe",
       "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/"
@@ -102,10 +106,6 @@
     {
       "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
       "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
-    },
-    {
-      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
-      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/"
     }
   ],
   "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
