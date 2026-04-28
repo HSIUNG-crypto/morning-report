@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-27 09:18:10 (台北時間)",
-  "updated_at_utc": "2026-04-27 01:18:10 (UTC)",
+  "updated_at": "2026-04-28 09:24:44 (台北時間)",
+  "updated_at_utc": "2026-04-28 01:24:44 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4888,
-    "USD/JPY": 159.5406,
-    "USD/EUR": 0.8542,
-    "USD/GBP": 0.7402,
-    "USD/CNY": 6.8413,
-    "USD/AUD": 1.4001,
-    "USD/CAD": 1.3677,
-    "USD/CHF": 0.7864,
-    "USD/HKD": 7.8353,
-    "USD/KRW": 1476.4625,
-    "USD/SGD": 1.2769,
-    "USD/INR": 94.3403
+    "USD/TWD": 31.4834,
+    "USD/JPY": 159.3423,
+    "USD/EUR": 0.8526,
+    "USD/GBP": 0.7384,
+    "USD/CNY": 6.8347,
+    "USD/AUD": 1.3915,
+    "USD/CAD": 1.3623,
+    "USD/CHF": 0.785,
+    "USD/HKD": 7.8373,
+    "USD/KRW": 1473.343,
+    "USD/SGD": 1.2739,
+    "USD/INR": 94.2827
   },
   "exchange_changes": {
-    "USD/TWD": -0.05,
-    "USD/JPY": 0.05,
-    "USD/EUR": 0.02,
-    "USD/GBP": -0.07,
-    "USD/CNY": -0.15,
-    "USD/AUD": 0.05,
-    "USD/CAD": 0.04,
-    "USD/CHF": 0.1,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.08,
-    "USD/SGD": 0.02,
-    "USD/INR": 0.08
+    "USD/TWD": -0.02,
+    "USD/JPY": -0.12,
+    "USD/EUR": -0.19,
+    "USD/GBP": -0.24,
+    "USD/CNY": -0.1,
+    "USD/AUD": -0.61,
+    "USD/CAD": -0.39,
+    "USD/CHF": -0.18,
+    "USD/HKD": 0.03,
+    "USD/KRW": -0.21,
+    "USD/SGD": -0.23,
+    "USD/INR": -0.06
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Higher prices could last for eight months after Iran war, minister says",
-      "url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss"
+      "title": "European flight prices are falling in short term, Wizz Air boss says",
+      "url": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The Chinese sports brand taking on Nike and Adidas",
-      "url": "https://www.bbc.com/news/articles/c87r2d850q4o?at_medium=RSS&at_campaign=rss"
+      "title": "Claire's closes all 154 stores in UK and Ireland with loss of 1,300 jobs",
+      "url": "https://www.bbc.com/news/articles/cg4047qnpk2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "China car giant BYD says it can thrive without US",
-      "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss"
+      "title": "'I had £20,000 stolen and had to fight a 13-month fraud reporting rule to get it back'",
+      "url": "https://www.bbc.com/news/articles/cpvxg1vzxzjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Stock markets are too high and set to fall, says Bank of England deputy",
-      "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss"
+      "title": "Greggs removes cabinets in shoplifting hotspots",
+      "url": "https://www.bbc.com/news/articles/c8dldv4lqygo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US justice department drops probe into Fed chairman Jerome Powell",
-      "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss"
+      "title": "Superdry co-founder accused of raping woman",
+      "url": "https://www.bbc.com/news/articles/cly7yevvl2wo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Open source package with 1 million monthly downloads stole user credentials",
+      "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/"
+    },
     {
       "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
       "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/"
@@ -102,10 +106,6 @@
     {
       "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
       "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/"
-    },
-    {
-      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
-      "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
     }
   ],
   "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
