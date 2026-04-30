@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-29 09:27:38 (台北時間)",
-  "updated_at_utc": "2026-04-29 01:27:38 (UTC)",
+  "updated_at": "2026-04-30 09:26:17 (台北時間)",
+  "updated_at_utc": "2026-04-30 01:26:17 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5692,
-    "USD/JPY": 159.5401,
-    "USD/EUR": 0.8541,
-    "USD/GBP": 0.7403,
-    "USD/CNY": 6.8464,
-    "USD/AUD": 1.3931,
-    "USD/CAD": 1.3673,
-    "USD/CHF": 0.7895,
-    "USD/HKD": 7.8367,
-    "USD/KRW": 1473.3112,
-    "USD/SGD": 1.2764,
-    "USD/INR": 94.6214
+    "USD/TWD": 31.6473,
+    "USD/JPY": 160.0845,
+    "USD/EUR": 0.8556,
+    "USD/GBP": 0.7412,
+    "USD/CNY": 6.8486,
+    "USD/AUD": 1.4023,
+    "USD/CAD": 1.3678,
+    "USD/CHF": 0.7905,
+    "USD/HKD": 7.8373,
+    "USD/KRW": 1483.345,
+    "USD/SGD": 1.2795,
+    "USD/INR": 94.9411
   },
   "exchange_changes": {
-    "USD/TWD": 0.27,
-    "USD/JPY": 0.12,
+    "USD/TWD": 0.25,
+    "USD/JPY": 0.34,
     "USD/EUR": 0.18,
-    "USD/GBP": 0.26,
-    "USD/CNY": 0.17,
-    "USD/AUD": 0.11,
-    "USD/CAD": 0.37,
-    "USD/CHF": 0.57,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.0,
-    "USD/SGD": 0.2,
-    "USD/INR": 0.36
+    "USD/GBP": 0.12,
+    "USD/CNY": 0.03,
+    "USD/AUD": 0.66,
+    "USD/CAD": 0.04,
+    "USD/CHF": 0.13,
+    "USD/HKD": 0.01,
+    "USD/KRW": 0.68,
+    "USD/SGD": 0.24,
+    "USD/INR": 0.34
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Face serum advert banned over 'five years younger' claim",
-      "url": "https://www.bbc.com/news/articles/c78kl05en7po?at_medium=RSS&at_campaign=rss"
+      "title": "Interest rates expected to be held as uncertainty over Iran war continues",
+      "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "A fresh financial crisis may be coming - it won't play out like the last one",
-      "url": "https://www.bbc.com/news/articles/cp3p5l0nyevo?at_medium=RSS&at_campaign=rss"
+      "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
+      "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "United Arab Emirates to quit oil cartel Opec",
-      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss"
+      "title": "Meta shares slide as investors weigh Big Tech's AI spending spree",
+      "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
-      "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss"
+      "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+      "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Flying cars and 5-minute charges: China's EV industry sees opportunity in Iran crisis",
-      "url": "https://www.bbc.com/news/videos/cm2pnde3l7yo?at_medium=RSS&at_campaign=rss"
+      "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
+      "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
+      "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/"
+    },
     {
       "title": "Open source package with 1 million monthly downloads stole user credentials",
       "url": "https://arstechnica.com/security/2026/04/open-source-package-with-1-million-monthly-downloads-stole-user-credentials/"
@@ -102,13 +106,9 @@
     {
       "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
       "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/"
-    },
-    {
-      "title": "Contrary to popular superstition, AES 128 is just fine in a post-quantum world",
-      "url": "https://arstechnica.com/security/2026/04/contrary-to-popular-superstition-aes-128-is-just-fine-in-a-post-quantum-world/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
