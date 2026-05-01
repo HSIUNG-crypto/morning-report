@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-04-30 09:26:17 (台北時間)",
-  "updated_at_utc": "2026-04-30 01:26:17 (UTC)",
+  "updated_at": "2026-05-01 09:29:12 (台北時間)",
+  "updated_at_utc": "2026-05-01 01:29:12 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6473,
-    "USD/JPY": 160.0845,
-    "USD/EUR": 0.8556,
-    "USD/GBP": 0.7412,
-    "USD/CNY": 6.8486,
-    "USD/AUD": 1.4023,
-    "USD/CAD": 1.3678,
-    "USD/CHF": 0.7905,
-    "USD/HKD": 7.8373,
-    "USD/KRW": 1483.345,
-    "USD/SGD": 1.2795,
-    "USD/INR": 94.9411
+    "USD/TWD": 31.6236,
+    "USD/JPY": 157.1639,
+    "USD/EUR": 0.8533,
+    "USD/GBP": 0.7376,
+    "USD/CNY": 6.8409,
+    "USD/AUD": 1.3937,
+    "USD/CAD": 1.3612,
+    "USD/CHF": 0.7833,
+    "USD/HKD": 7.8335,
+    "USD/KRW": 1475.6994,
+    "USD/SGD": 1.2746,
+    "USD/INR": 94.9786
   },
   "exchange_changes": {
-    "USD/TWD": 0.25,
-    "USD/JPY": 0.34,
-    "USD/EUR": 0.18,
-    "USD/GBP": 0.12,
-    "USD/CNY": 0.03,
-    "USD/AUD": 0.66,
-    "USD/CAD": 0.04,
-    "USD/CHF": 0.13,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.68,
-    "USD/SGD": 0.24,
-    "USD/INR": 0.34
+    "USD/TWD": -0.07,
+    "USD/JPY": -1.82,
+    "USD/EUR": -0.27,
+    "USD/GBP": -0.49,
+    "USD/CNY": -0.11,
+    "USD/AUD": -0.61,
+    "USD/CAD": -0.48,
+    "USD/CHF": -0.91,
+    "USD/HKD": -0.05,
+    "USD/KRW": -0.52,
+    "USD/SGD": -0.38,
+    "USD/INR": 0.04
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Interest rates expected to be held as uncertainty over Iran war continues",
-      "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss"
+      "title": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
+      "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
-      "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss"
+      "title": "Fertiliser boss says war puts 10 billion meals a week at risk",
+      "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Meta shares slide as investors weigh Big Tech's AI spending spree",
-      "url": "https://www.bbc.com/news/articles/crkpd4r2y7eo?at_medium=RSS&at_campaign=rss"
+      "title": "Chippies sell catfish as 'traditional fish supper'",
+      "url": "https://www.bbc.com/news/articles/cvg0337n0y1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
-      "url": "https://www.bbc.com/news/articles/c62rm4zk3kgo?at_medium=RSS&at_campaign=rss"
+      "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+      "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
-      "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss"
+      "title": "What the Renters' Rights Act means for tenants and landlords",
+      "url": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "The most severe Linux threat to surface in years catches the world flat-footed",
+      "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/"
+    },
     {
       "title": "Why a recent supply-chain attack singled out security firms Checkmarx and Bitwarden",
       "url": "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/"
@@ -102,13 +106,9 @@
     {
       "title": "In a first, a ransomware family is confirmed to be quantum-safe",
       "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/"
-    },
-    {
-      "title": "Microsoft issues emergency update for macOS and Linux ASP.NET threat",
-      "url": "https://arstechnica.com/security/2026/04/microsoft-issues-emergency-update-for-macos-and-linux-asp-net-threat/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
