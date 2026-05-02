@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-01 09:29:12 (台北時間)",
-  "updated_at_utc": "2026-05-01 01:29:12 (UTC)",
+  "updated_at": "2026-05-02 09:20:13 (台北時間)",
+  "updated_at_utc": "2026-05-02 01:20:13 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6236,
-    "USD/JPY": 157.1639,
-    "USD/EUR": 0.8533,
-    "USD/GBP": 0.7376,
-    "USD/CNY": 6.8409,
-    "USD/AUD": 1.3937,
-    "USD/CAD": 1.3612,
-    "USD/CHF": 0.7833,
-    "USD/HKD": 7.8335,
-    "USD/KRW": 1475.6994,
-    "USD/SGD": 1.2746,
-    "USD/INR": 94.9786
+    "USD/TWD": 31.6341,
+    "USD/JPY": 157.0812,
+    "USD/EUR": 0.8529,
+    "USD/GBP": 0.7373,
+    "USD/CNY": 6.8373,
+    "USD/AUD": 1.3895,
+    "USD/CAD": 1.3593,
+    "USD/CHF": 0.7821,
+    "USD/HKD": 7.8345,
+    "USD/KRW": 1473.1246,
+    "USD/SGD": 1.2731,
+    "USD/INR": 95.0415
   },
   "exchange_changes": {
-    "USD/TWD": -0.07,
-    "USD/JPY": -1.82,
-    "USD/EUR": -0.27,
-    "USD/GBP": -0.49,
-    "USD/CNY": -0.11,
-    "USD/AUD": -0.61,
-    "USD/CAD": -0.48,
-    "USD/CHF": -0.91,
-    "USD/HKD": -0.05,
-    "USD/KRW": -0.52,
-    "USD/SGD": -0.38,
-    "USD/INR": 0.04
+    "USD/TWD": 0.03,
+    "USD/JPY": -0.05,
+    "USD/EUR": -0.05,
+    "USD/GBP": -0.04,
+    "USD/CNY": -0.05,
+    "USD/AUD": -0.3,
+    "USD/CAD": -0.14,
+    "USD/CHF": -0.15,
+    "USD/HKD": 0.01,
+    "USD/KRW": -0.17,
+    "USD/SGD": -0.12,
+    "USD/INR": 0.07
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
-      "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss"
+      "title": "Trump says he will hike tariffs on EU cars to 25%",
+      "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Fertiliser boss says war puts 10 billion meals a week at risk",
-      "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss"
+      "title": "Pentagon says US military to be an 'AI-first' fighting force",
+      "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Chippies sell catfish as 'traditional fish supper'",
-      "url": "https://www.bbc.com/news/articles/cvg0337n0y1o?at_medium=RSS&at_campaign=rss"
+      "title": "Mortgages, jobs and energy bills - how the Iran war will affect your money",
+      "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
-      "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss"
+      "title": "The Real Greek rescued by Cote Brasserie-owner",
+      "url": "https://www.bbc.com/news/articles/c93xqnlq33qo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What the Renters' Rights Act means for tenants and landlords",
-      "url": "https://www.bbc.com/news/articles/cqjwqp72y7ro?at_medium=RSS&at_campaign=rss"
+      "title": "Crayola toys recalled over possible asbestos contamination",
+      "url": "https://www.bbc.com/news/articles/cdjp3dlkzwwo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Ubuntu infrastructure has been down for more than a day",
+      "url": "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/"
+    },
     {
       "title": "The most severe Linux threat to surface in years catches the world flat-footed",
       "url": "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/"
@@ -102,13 +106,9 @@
     {
       "title": "Why are top university websites serving porn? It comes down to shoddy housekeeping.",
       "url": "https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/"
-    },
-    {
-      "title": "In a first, a ransomware family is confirmed to be quantum-safe",
-      "url": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
