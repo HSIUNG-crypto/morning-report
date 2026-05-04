@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-03 09:23:38 (台北時間)",
-  "updated_at_utc": "2026-05-03 01:23:38 (UTC)",
+  "updated_at": "2026-05-04 09:22:35 (台北時間)",
+  "updated_at_utc": "2026-05-04 01:22:35 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6293,
-    "USD/JPY": 157.0882,
-    "USD/EUR": 0.8528,
-    "USD/GBP": 0.7371,
-    "USD/CNY": 6.8455,
-    "USD/AUD": 1.3904,
-    "USD/CAD": 1.3589,
-    "USD/CHF": 0.7822,
-    "USD/HKD": 7.8344,
-    "USD/KRW": 1474.0695,
-    "USD/SGD": 1.2728,
-    "USD/INR": 95.0062
+    "USD/TWD": 31.6533,
+    "USD/JPY": 156.7799,
+    "USD/EUR": 0.8521,
+    "USD/GBP": 0.7359,
+    "USD/CNY": 6.8356,
+    "USD/AUD": 1.3872,
+    "USD/CAD": 1.358,
+    "USD/CHF": 0.7808,
+    "USD/HKD": 7.8352,
+    "USD/KRW": 1473.2661,
+    "USD/SGD": 1.2729,
+    "USD/INR": 95.0964
   },
   "exchange_changes": {
-    "USD/TWD": -0.02,
-    "USD/JPY": 0.0,
-    "USD/EUR": -0.01,
-    "USD/GBP": -0.03,
-    "USD/CNY": 0.12,
-    "USD/AUD": 0.06,
-    "USD/CAD": -0.03,
-    "USD/CHF": 0.01,
-    "USD/HKD": -0.0,
-    "USD/KRW": 0.06,
-    "USD/SGD": -0.02,
-    "USD/INR": -0.04
+    "USD/TWD": 0.08,
+    "USD/JPY": -0.2,
+    "USD/EUR": -0.08,
+    "USD/GBP": -0.16,
+    "USD/CNY": -0.14,
+    "USD/AUD": -0.23,
+    "USD/CAD": -0.07,
+    "USD/CHF": -0.18,
+    "USD/HKD": 0.01,
+    "USD/KRW": -0.05,
+    "USD/SGD": 0.01,
+    "USD/INR": 0.09
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Airlines can cancel flights in advance over fuel shortages, under new plans",
+      "title": "GameStop makes $55.5bn takeover offer for eBay",
+      "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The threat to summer holidays looming from jet fuel shortages",
+      "url": "https://www.bbc.com/news/articles/c86d9v28qxxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Airlines can cancel flights in advance over fuel shortages under new plans",
       "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Struggling High Streets fuel sense of neglect for voters ahead of local elections",
+      "url": "https://www.bbc.com/news/articles/crl1l6g9264o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Spirit Airlines shutting down after rescue talks collapse",
       "url": "https://www.bbc.com/news/articles/cqxlnrqjvzyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump says he will hike tariffs on EU cars to 25%",
-      "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Mortgages, jobs and energy bills - how the Iran war will affect your money",
-      "url": "https://www.bbc.com/news/articles/cg4pqe1zzgqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Pentagon says US military to be an 'AI-first' fighting force",
-      "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
