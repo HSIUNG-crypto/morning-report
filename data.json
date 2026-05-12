@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-11 09:45:57 (台北時間)",
-  "updated_at_utc": "2026-05-11 01:45:57 (UTC)",
+  "updated_at": "2026-05-12 09:27:51 (台北時間)",
+  "updated_at_utc": "2026-05-12 01:27:51 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.3335,
-    "USD/JPY": 156.8052,
-    "USD/EUR": 0.8497,
-    "USD/GBP": 0.7356,
-    "USD/CNY": 6.8074,
-    "USD/AUD": 1.382,
-    "USD/CAD": 1.368,
-    "USD/CHF": 0.7778,
-    "USD/HKD": 7.8293,
-    "USD/KRW": 1462.8432,
-    "USD/SGD": 1.2674,
-    "USD/INR": 94.5702
+    "USD/TWD": 31.3737,
+    "USD/JPY": 157.1496,
+    "USD/EUR": 0.8496,
+    "USD/GBP": 0.7349,
+    "USD/CNY": 6.8093,
+    "USD/AUD": 1.3803,
+    "USD/CAD": 1.3673,
+    "USD/CHF": 0.7782,
+    "USD/HKD": 7.829,
+    "USD/KRW": 1473.0516,
+    "USD/SGD": 1.269,
+    "USD/INR": 95.3747
   },
   "exchange_changes": {
-    "USD/TWD": -0.03,
-    "USD/JPY": 0.09,
-    "USD/EUR": 0.04,
-    "USD/GBP": 0.16,
-    "USD/CNY": -0.12,
-    "USD/AUD": 0.09,
-    "USD/CAD": 0.08,
+    "USD/TWD": 0.13,
+    "USD/JPY": 0.22,
+    "USD/EUR": -0.01,
+    "USD/GBP": -0.1,
+    "USD/CNY": 0.03,
+    "USD/AUD": -0.12,
+    "USD/CAD": -0.05,
     "USD/CHF": 0.05,
     "USD/HKD": -0.0,
-    "USD/KRW": 0.09,
-    "USD/SGD": 0.01,
-    "USD/INR": 0.1
+    "USD/KRW": 0.7,
+    "USD/SGD": 0.13,
+    "USD/INR": 0.85
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "No summer border delays for Brits, Greek tourism minister says",
-      "url": "https://www.bbc.com/news/articles/cn5pxyr9xr7o?at_medium=RSS&at_campaign=rss"
+      "title": "How driving test booking is changing for learner drivers",
+      "url": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "This couple lost £1,000 after their flight was cancelled - here is what to check so you don't",
-      "url": "https://www.bbc.com/news/articles/cx215yldr13o?at_medium=RSS&at_campaign=rss"
+      "title": "China should stop hoarding food and fertiliser, says former World Bank chief",
+      "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The UK is set for a staycation summer - and there are plenty of hidden gems",
-      "url": "https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss"
+      "title": "British Steel nationalisation plans announced by Starmer",
+      "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US jet fuel could be used in Europe to ease possible shortages",
-      "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss"
+      "title": "Ovo energy customers urged not to panic as takeover planned",
+      "url": "https://www.bbc.com/news/articles/cn4pl91npjdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Major train operator to be renationalised in months",
-      "url": "https://www.bbc.com/news/articles/cy02yyl1e7xo?at_medium=RSS&at_campaign=rss"
+      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
+      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Linux bitten by second severe vulnerability in as many weeks",
+      "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/"
+    },
     {
       "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
       "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/"
@@ -102,10 +106,6 @@
     {
       "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
       "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/"
-    },
-    {
-      "title": "Why Reddit blocked my daily visit to its mobile website",
-      "url": "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
