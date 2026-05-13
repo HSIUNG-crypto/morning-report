@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-12 09:27:51 (台北時間)",
-  "updated_at_utc": "2026-05-12 01:27:51 (UTC)",
+  "updated_at": "2026-05-13 09:46:28 (台北時間)",
+  "updated_at_utc": "2026-05-13 01:46:28 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.3737,
-    "USD/JPY": 157.1496,
-    "USD/EUR": 0.8496,
-    "USD/GBP": 0.7349,
-    "USD/CNY": 6.8093,
-    "USD/AUD": 1.3803,
-    "USD/CAD": 1.3673,
-    "USD/CHF": 0.7782,
-    "USD/HKD": 7.829,
-    "USD/KRW": 1473.0516,
-    "USD/SGD": 1.269,
-    "USD/INR": 95.3747
+    "USD/TWD": 31.5532,
+    "USD/JPY": 157.5856,
+    "USD/EUR": 0.8519,
+    "USD/GBP": 0.7388,
+    "USD/CNY": 6.8087,
+    "USD/AUD": 1.3826,
+    "USD/CAD": 1.3699,
+    "USD/CHF": 0.7809,
+    "USD/HKD": 7.8288,
+    "USD/KRW": 1490.2028,
+    "USD/SGD": 1.2721,
+    "USD/INR": 95.6726
   },
   "exchange_changes": {
-    "USD/TWD": 0.13,
-    "USD/JPY": 0.22,
-    "USD/EUR": -0.01,
-    "USD/GBP": -0.1,
-    "USD/CNY": 0.03,
-    "USD/AUD": -0.12,
-    "USD/CAD": -0.05,
-    "USD/CHF": 0.05,
+    "USD/TWD": 0.57,
+    "USD/JPY": 0.28,
+    "USD/EUR": 0.27,
+    "USD/GBP": 0.53,
+    "USD/CNY": -0.01,
+    "USD/AUD": 0.17,
+    "USD/CAD": 0.19,
+    "USD/CHF": 0.35,
     "USD/HKD": -0.0,
-    "USD/KRW": 0.7,
-    "USD/SGD": 0.13,
-    "USD/INR": 0.85
+    "USD/KRW": 1.16,
+    "USD/SGD": 0.24,
+    "USD/INR": 0.31
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "How driving test booking is changing for learner drivers",
-      "url": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss"
+      "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
+      "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "China should stop hoarding food and fertiliser, says former World Bank chief",
-      "url": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss"
+      "title": "UK borrowing costs jump as uncertainty over PM's future continues",
+      "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "British Steel nationalisation plans announced by Starmer",
-      "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss"
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ovo energy customers urged not to panic as takeover planned",
-      "url": "https://www.bbc.com/news/articles/cn4pl91npjdo?at_medium=RSS&at_campaign=rss"
+      "title": "Plans for Australia's first Trump Tower scrapped due to 'toxic' brand, developer says",
+      "url": "https://www.bbc.com/news/articles/c4g08dlnd0vo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Elon Musk and Tim Cook among CEOs expected to accompany Trump on China trip",
-      "url": "https://www.bbc.com/news/articles/c5yx757w048o?at_medium=RSS&at_campaign=rss"
+      "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
+      "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
