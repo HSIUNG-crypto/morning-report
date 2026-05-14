@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-13 09:46:28 (台北時間)",
-  "updated_at_utc": "2026-05-13 01:46:28 (UTC)",
+  "updated_at": "2026-05-14 09:49:09 (台北時間)",
+  "updated_at_utc": "2026-05-14 01:49:09 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5532,
-    "USD/JPY": 157.5856,
-    "USD/EUR": 0.8519,
-    "USD/GBP": 0.7388,
-    "USD/CNY": 6.8087,
-    "USD/AUD": 1.3826,
-    "USD/CAD": 1.3699,
-    "USD/CHF": 0.7809,
-    "USD/HKD": 7.8288,
-    "USD/KRW": 1490.2028,
-    "USD/SGD": 1.2721,
-    "USD/INR": 95.6726
+    "USD/TWD": 31.5497,
+    "USD/JPY": 157.8178,
+    "USD/EUR": 0.8537,
+    "USD/GBP": 0.7396,
+    "USD/CNY": 6.8057,
+    "USD/AUD": 1.3788,
+    "USD/CAD": 1.3701,
+    "USD/CHF": 0.782,
+    "USD/HKD": 7.83,
+    "USD/KRW": 1489.6427,
+    "USD/SGD": 1.2725,
+    "USD/INR": 95.7717
   },
   "exchange_changes": {
-    "USD/TWD": 0.57,
-    "USD/JPY": 0.28,
-    "USD/EUR": 0.27,
-    "USD/GBP": 0.53,
-    "USD/CNY": -0.01,
-    "USD/AUD": 0.17,
-    "USD/CAD": 0.19,
-    "USD/CHF": 0.35,
-    "USD/HKD": -0.0,
-    "USD/KRW": 1.16,
-    "USD/SGD": 0.24,
-    "USD/INR": 0.31
+    "USD/TWD": -0.01,
+    "USD/JPY": 0.15,
+    "USD/EUR": 0.21,
+    "USD/GBP": 0.11,
+    "USD/CNY": -0.04,
+    "USD/AUD": -0.27,
+    "USD/CAD": 0.01,
+    "USD/CHF": 0.14,
+    "USD/HKD": 0.02,
+    "USD/KRW": -0.04,
+    "USD/SGD": 0.03,
+    "USD/INR": 0.1
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
-      "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss"
+      "title": "Higher Europe air fares 'inevitable', says industry head",
+      "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK borrowing costs jump as uncertainty over PM's future continues",
-      "url": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump's Fed chair pick Kevin Warsh confirmed by US Senate",
+      "url": "https://www.bbc.com/news/articles/ce8p71p4nezo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss"
+      "title": "Tui sees summer sales fall 10% due to cautious UK customers",
+      "url": "https://www.bbc.com/news/articles/ce8p31ngv90o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Plans for Australia's first Trump Tower scrapped due to 'toxic' brand, developer says",
-      "url": "https://www.bbc.com/news/articles/c4g08dlnd0vo?at_medium=RSS&at_campaign=rss"
+      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Air India crisis deepens ahead of final Ahmedabad crash report",
-      "url": "https://www.bbc.com/news/articles/c775vvz0kydo?at_medium=RSS&at_campaign=rss"
+      "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
+      "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
