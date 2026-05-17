@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-16 09:27:10 (台北時間)",
-  "updated_at_utc": "2026-05-16 01:27:10 (UTC)",
+  "updated_at": "2026-05-17 09:44:01 (台北時間)",
+  "updated_at_utc": "2026-05-17 01:44:01 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5868,
-    "USD/JPY": 158.6479,
-    "USD/EUR": 0.8599,
-    "USD/GBP": 0.7498,
-    "USD/CNY": 6.8229,
-    "USD/AUD": 1.3977,
-    "USD/CAD": 1.3748,
-    "USD/CHF": 0.7865,
+    "USD/TWD": 31.5759,
+    "USD/JPY": 158.6088,
+    "USD/EUR": 0.8597,
+    "USD/GBP": 0.7495,
+    "USD/CNY": 6.8263,
+    "USD/AUD": 1.3973,
+    "USD/CAD": 1.3745,
+    "USD/CHF": 0.7863,
     "USD/HKD": 7.8308,
-    "USD/KRW": 1498.0798,
-    "USD/SGD": 1.2789,
-    "USD/INR": 96.0068
+    "USD/KRW": 1497.8404,
+    "USD/SGD": 1.2787,
+    "USD/INR": 95.977
   },
   "exchange_changes": {
-    "USD/TWD": 0.1,
-    "USD/JPY": 0.32,
-    "USD/EUR": 0.44,
-    "USD/GBP": 0.87,
-    "USD/CNY": 0.31,
-    "USD/AUD": 0.99,
-    "USD/CAD": 0.23,
-    "USD/CHF": 0.4,
-    "USD/HKD": -0.03,
-    "USD/KRW": 0.41,
-    "USD/SGD": 0.32,
-    "USD/INR": 0.2
+    "USD/TWD": -0.03,
+    "USD/JPY": -0.02,
+    "USD/EUR": -0.02,
+    "USD/GBP": -0.04,
+    "USD/CNY": 0.05,
+    "USD/AUD": -0.03,
+    "USD/CAD": -0.02,
+    "USD/CHF": -0.03,
+    "USD/HKD": 0.0,
+    "USD/KRW": -0.02,
+    "USD/SGD": -0.02,
+    "USD/INR": -0.03
   },
   "stocks": {
     "道瓊": {
@@ -65,6 +65,10 @@
   },
   "news_economy": [
     {
+      "title": "'They took £20,000 I didn't owe': Parents hit by child maintenance errors",
+      "url": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "UK borrowing costs rise and pound falls as leadership drama continues",
       "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss"
     },
@@ -79,10 +83,6 @@
     {
       "title": "Beckhams become billionaires as Oasis make rich list for first time",
       "url": "https://www.bbc.com/news/articles/ce8p4ywypx8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "X pledges quicker action on hate and terror content in the UK",
-      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
