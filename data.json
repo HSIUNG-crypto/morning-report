@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-18 09:53:03 (台北時間)",
-  "updated_at_utc": "2026-05-18 01:53:03 (UTC)",
+  "updated_at": "2026-05-19 09:52:54 (台北時間)",
+  "updated_at_utc": "2026-05-19 01:52:54 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6169,
-    "USD/JPY": 158.7583,
-    "USD/EUR": 0.8606,
-    "USD/GBP": 0.7506,
-    "USD/CNY": 6.818,
-    "USD/AUD": 1.4009,
-    "USD/CAD": 1.3753,
-    "USD/CHF": 0.7871,
-    "USD/HKD": 7.8308,
-    "USD/KRW": 1497.5306,
-    "USD/SGD": 1.2805,
-    "USD/INR": 96.1053
+    "USD/TWD": 31.595,
+    "USD/JPY": 158.8075,
+    "USD/EUR": 0.8584,
+    "USD/GBP": 0.7456,
+    "USD/CNY": 6.8126,
+    "USD/AUD": 1.3955,
+    "USD/CAD": 1.3738,
+    "USD/CHF": 0.7848,
+    "USD/HKD": 7.8306,
+    "USD/KRW": 1494.4184,
+    "USD/SGD": 1.2787,
+    "USD/INR": 96.376
   },
   "exchange_changes": {
-    "USD/TWD": 0.13,
-    "USD/JPY": 0.09,
-    "USD/EUR": 0.1,
-    "USD/GBP": 0.15,
-    "USD/CNY": -0.12,
-    "USD/AUD": 0.26,
-    "USD/CAD": 0.06,
-    "USD/CHF": 0.1,
-    "USD/HKD": 0.0,
-    "USD/KRW": -0.02,
-    "USD/SGD": 0.14,
-    "USD/INR": 0.13
+    "USD/TWD": -0.07,
+    "USD/JPY": 0.03,
+    "USD/EUR": -0.26,
+    "USD/GBP": -0.67,
+    "USD/CNY": -0.08,
+    "USD/AUD": -0.39,
+    "USD/CAD": -0.11,
+    "USD/CHF": -0.29,
+    "USD/HKD": -0.0,
+    "USD/KRW": -0.21,
+    "USD/SGD": -0.14,
+    "USD/INR": 0.28
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "HS2 failings blamed on high-speed focus and political pressure",
-      "url": "https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&at_campaign=rss"
+      "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
+      "url": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Robert paid £726 to skip the driving test waiting list. New laws mean others won't be able to",
-      "url": "https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss"
+      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Swatch stores close for second day after crowds",
-      "url": "https://www.bbc.com/news/articles/c302vjqz563o?at_medium=RSS&at_campaign=rss"
+      "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'They took £20,000 I didn't owe': Parents hit by child maintenance errors",
-      "url": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss"
+      "title": "New High Street crime unit to target gangs fronting shops after BBC investigation",
+      "url": "https://www.bbc.com/news/articles/ce3pzwx449no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK borrowing costs rise and pound falls as leadership drama continues",
-      "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss"
+      "title": "Oil price slumps as Trump says he called off Iran attacks",
+      "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
