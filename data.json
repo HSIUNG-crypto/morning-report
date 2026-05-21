@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-20 09:52:45 (台北時間)",
-  "updated_at_utc": "2026-05-20 01:52:45 (UTC)",
+  "updated_at": "2026-05-21 09:51:52 (台北時間)",
+  "updated_at_utc": "2026-05-21 01:51:52 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6858,
-    "USD/JPY": 159.0319,
+    "USD/TWD": 31.6072,
+    "USD/JPY": 158.916,
     "USD/EUR": 0.8612,
-    "USD/GBP": 0.7463,
-    "USD/CNY": 6.8207,
-    "USD/AUD": 1.4062,
-    "USD/CAD": 1.3749,
-    "USD/CHF": 0.7886,
-    "USD/HKD": 7.8328,
-    "USD/KRW": 1507.658,
-    "USD/SGD": 1.2815,
-    "USD/INR": 96.6493
+    "USD/GBP": 0.7451,
+    "USD/CNY": 6.812,
+    "USD/AUD": 1.4001,
+    "USD/CAD": 1.375,
+    "USD/CHF": 0.7882,
+    "USD/HKD": 7.8323,
+    "USD/KRW": 1501.6581,
+    "USD/SGD": 1.2789,
+    "USD/INR": 96.8244
   },
   "exchange_changes": {
-    "USD/TWD": 0.29,
-    "USD/JPY": 0.14,
-    "USD/EUR": 0.33,
-    "USD/GBP": 0.09,
-    "USD/CNY": 0.12,
-    "USD/AUD": 0.77,
-    "USD/CAD": 0.08,
-    "USD/CHF": 0.48,
-    "USD/HKD": 0.03,
-    "USD/KRW": 0.89,
-    "USD/SGD": 0.22,
-    "USD/INR": 0.28
+    "USD/TWD": -0.25,
+    "USD/JPY": -0.07,
+    "USD/EUR": 0.0,
+    "USD/GBP": -0.16,
+    "USD/CNY": -0.13,
+    "USD/AUD": -0.43,
+    "USD/CAD": 0.01,
+    "USD/CHF": -0.05,
+    "USD/HKD": -0.01,
+    "USD/KRW": -0.4,
+    "USD/SGD": -0.2,
+    "USD/INR": 0.18
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Supermarkets urged to limit food prices by government",
+      "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
+      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK agrees £3.7bn trade deal with six Gulf states",
+      "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Samsung strike on hold - but the fight isn't over yet. Why?",
+      "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
       "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Young drivers targeted by 'ghost brokers' selling fake car insurance online",
-      "url": "https://www.bbc.com/news/articles/c1w29zw0q44o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK should set maximum working temperature rules, advisers say",
-      "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Google to release first smart glasses since Google Glass flop",
-      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "NS&I to begin contacting victims of lost funds scandal",
-      "url": "https://www.bbc.com/news/articles/cvgzrz59yz2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/"
+    },
     {
       "title": "In stunning display of stupid, secret CISA credentials found in public GitHub repo",
       "url": "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/"
@@ -102,10 +106,6 @@
     {
       "title": "Linux bitten by second severe vulnerability in as many weeks",
       "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/"
-    },
-    {
-      "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
-      "url": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
