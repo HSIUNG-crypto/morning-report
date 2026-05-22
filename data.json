@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-21 09:51:52 (台北時間)",
-  "updated_at_utc": "2026-05-21 01:51:52 (UTC)",
+  "updated_at": "2026-05-22 09:52:49 (台北時間)",
+  "updated_at_utc": "2026-05-22 01:52:49 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6072,
-    "USD/JPY": 158.916,
-    "USD/EUR": 0.8612,
-    "USD/GBP": 0.7451,
-    "USD/CNY": 6.812,
+    "USD/TWD": 31.5571,
+    "USD/JPY": 159.0405,
+    "USD/EUR": 0.8613,
+    "USD/GBP": 0.7449,
+    "USD/CNY": 6.811,
     "USD/AUD": 1.4001,
-    "USD/CAD": 1.375,
-    "USD/CHF": 0.7882,
-    "USD/HKD": 7.8323,
-    "USD/KRW": 1501.6581,
-    "USD/SGD": 1.2789,
-    "USD/INR": 96.8244
+    "USD/CAD": 1.3774,
+    "USD/CHF": 0.7875,
+    "USD/HKD": 7.8347,
+    "USD/KRW": 1504.937,
+    "USD/SGD": 1.2787,
+    "USD/INR": 96.2439
   },
   "exchange_changes": {
-    "USD/TWD": -0.25,
-    "USD/JPY": -0.07,
-    "USD/EUR": 0.0,
-    "USD/GBP": -0.16,
-    "USD/CNY": -0.13,
-    "USD/AUD": -0.43,
-    "USD/CAD": 0.01,
-    "USD/CHF": -0.05,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.4,
-    "USD/SGD": -0.2,
-    "USD/INR": 0.18
+    "USD/TWD": -0.16,
+    "USD/JPY": 0.08,
+    "USD/EUR": 0.01,
+    "USD/GBP": -0.03,
+    "USD/CNY": -0.01,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.17,
+    "USD/CHF": -0.09,
+    "USD/HKD": 0.03,
+    "USD/KRW": 0.22,
+    "USD/SGD": -0.02,
+    "USD/INR": -0.6
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
-      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss"
+      "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+      "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss"
+      "title": "Prepare for half term queues at Dover due to EU border process, port says",
+      "url": "https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK agrees £3.7bn trade deal with six Gulf states",
-      "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss"
+      "title": "'Monitoring the situation': why young men are drawn to prediction markets",
+      "url": "https://www.bbc.com/news/articles/c93xv27kpwxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Samsung strike on hold - but the fight isn't over yet. Why?",
-      "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss"
+      "title": "Police to score train firms on tackling sexual harassment",
+      "url": "https://www.bbc.com/news/articles/cg4pew075xpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
-      "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss"
+      "title": "UK police bosses urge unsafe platforms to be blocked for under-16s",
+      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "US government takes $2 billion equity stake in nine quantum computing firms",
+      "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/"
+    },
     {
       "title": "Google publishes exploit code threatening millions of Chromium users",
       "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/"
@@ -102,10 +106,6 @@
     {
       "title": "Cisco announces record revenue and 4,000 layoffs in the same day",
       "url": "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/"
-    },
-    {
-      "title": "Linux bitten by second severe vulnerability in as many weeks",
-      "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
