@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-26 09:48:53 (台北時間)",
-  "updated_at_utc": "2026-05-26 01:48:53 (UTC)",
+  "updated_at": "2026-05-27 09:56:28 (台北時間)",
+  "updated_at_utc": "2026-05-27 01:56:28 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4302,
-    "USD/JPY": 158.9205,
-    "USD/EUR": 0.8591,
-    "USD/GBP": 0.7409,
-    "USD/CNY": 6.798,
-    "USD/AUD": 1.3946,
-    "USD/CAD": 1.3803,
-    "USD/CHF": 0.7829,
-    "USD/HKD": 7.8347,
-    "USD/KRW": 1512.2428,
-    "USD/SGD": 1.2774,
-    "USD/INR": 95.3336
+    "USD/TWD": 31.4565,
+    "USD/JPY": 159.2329,
+    "USD/EUR": 0.8597,
+    "USD/GBP": 0.7433,
+    "USD/CNY": 6.7987,
+    "USD/AUD": 1.395,
+    "USD/CAD": 1.3808,
+    "USD/CHF": 0.7854,
+    "USD/HKD": 7.8364,
+    "USD/KRW": 1506.2047,
+    "USD/SGD": 1.2775,
+    "USD/INR": 95.77
   },
   "exchange_changes": {
-    "USD/TWD": -0.17,
-    "USD/JPY": -0.05,
-    "USD/EUR": -0.09,
-    "USD/GBP": -0.27,
-    "USD/CNY": -0.05,
-    "USD/AUD": -0.26,
-    "USD/CAD": -0.01,
-    "USD/CHF": -0.09,
-    "USD/HKD": -0.02,
-    "USD/KRW": -0.43,
-    "USD/SGD": -0.13,
-    "USD/INR": -0.51
+    "USD/TWD": 0.08,
+    "USD/JPY": 0.2,
+    "USD/EUR": 0.07,
+    "USD/GBP": 0.32,
+    "USD/CNY": 0.01,
+    "USD/AUD": 0.03,
+    "USD/CAD": 0.04,
+    "USD/CHF": 0.32,
+    "USD/HKD": 0.02,
+    "USD/KRW": -0.4,
+    "USD/SGD": 0.01,
+    "USD/INR": 0.46
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Next boss warns of 'dramatic' fall in entry-level jobs",
-      "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss"
+      "title": "Instagram betting ads featuring Kane and Haaland banned",
+      "url": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Social media as bad for young people as smoking, top doctors say",
-      "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss"
+      "title": "Chipmakers SK Hynix and Micron join $1tn club on surging AI demand",
+      "url": "https://www.bbc.com/news/articles/cnvp9dq0p3go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss"
+      "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+      "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Beer boom goes flat as breweries call last orders",
-      "url": "https://www.bbc.com/news/articles/c9werp5keqlo?at_medium=RSS&at_campaign=rss"
+      "title": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
+      "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'I live in survival mode': The rise of the multi-job workforce",
-      "url": "https://www.bbc.com/news/articles/c70vwr8z7pyo?at_medium=RSS&at_campaign=rss"
+      "title": "Post Office investigation could be delayed by five years, police warn",
+      "url": "https://www.bbc.com/news/articles/c2422y4ldymo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
+    },
     {
       "title": "US's big bet on quantum computing may not be entirely legal",
       "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/"
@@ -102,13 +106,9 @@
     {
       "title": "US government takes $2 billion equity stake in nine quantum computing firms",
       "url": "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/"
-    },
-    {
-      "title": "Google publishes exploit code threatening millions of Chromium users",
-      "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
