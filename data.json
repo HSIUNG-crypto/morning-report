@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-28 09:28:53 (台北時間)",
-  "updated_at_utc": "2026-05-28 01:28:53 (UTC)",
+  "updated_at": "2026-05-29 09:50:11 (台北時間)",
+  "updated_at_utc": "2026-05-29 01:50:11 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4309,
-    "USD/JPY": 159.4714,
-    "USD/EUR": 0.8597,
-    "USD/GBP": 0.7446,
-    "USD/CNY": 6.7939,
-    "USD/AUD": 1.4008,
-    "USD/CAD": 1.3831,
-    "USD/CHF": 0.787,
-    "USD/HKD": 7.8348,
-    "USD/KRW": 1500.6849,
-    "USD/SGD": 1.2774,
-    "USD/INR": 95.8083
+    "USD/TWD": 31.4267,
+    "USD/JPY": 159.3093,
+    "USD/EUR": 0.8589,
+    "USD/GBP": 0.7444,
+    "USD/CNY": 6.7919,
+    "USD/AUD": 1.3991,
+    "USD/CAD": 1.3804,
+    "USD/CHF": 0.7853,
+    "USD/HKD": 7.8343,
+    "USD/KRW": 1498.3694,
+    "USD/SGD": 1.2769,
+    "USD/INR": 95.7847
   },
   "exchange_changes": {
-    "USD/TWD": -0.08,
-    "USD/JPY": 0.15,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.17,
-    "USD/CNY": -0.07,
-    "USD/AUD": 0.42,
-    "USD/CAD": 0.17,
-    "USD/CHF": 0.2,
-    "USD/HKD": -0.02,
-    "USD/KRW": -0.37,
-    "USD/SGD": -0.01,
-    "USD/INR": 0.04
+    "USD/TWD": -0.01,
+    "USD/JPY": -0.1,
+    "USD/EUR": -0.09,
+    "USD/GBP": -0.03,
+    "USD/CNY": -0.03,
+    "USD/AUD": -0.12,
+    "USD/CAD": -0.2,
+    "USD/CHF": -0.22,
+    "USD/HKD": -0.01,
+    "USD/KRW": -0.15,
+    "USD/SGD": -0.04,
+    "USD/INR": -0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,30 +65,34 @@
   },
   "news_economy": [
     {
-      "title": "One in six young people will not be in work or training in five years without action, report warns",
+      "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
       "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture",
-      "url": "https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&at_campaign=rss"
+      "title": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
+      "url": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The world's carmakers are struggling to compete with China",
-      "url": "https://www.bbc.com/news/articles/c4g8vg72z43o?at_medium=RSS&at_campaign=rss"
+      "title": "US government prepares to print $250 note featuring Trump's face",
+      "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Energy bills to rise for millions as impact of Iran war hits",
-      "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss"
+      "title": "When trade soured, this American liquor maker moved to Canada",
+      "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How you can save money on your energy bill",
-      "url": "https://www.bbc.com/news/articles/cwy2e3wx7xwo?at_medium=RSS&at_campaign=rss"
+      "title": "Drag queen Pattie Gonia fights trademark lawsuit by Patagonia",
+      "url": "https://www.bbc.com/news/articles/cx21427lvvvo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
     {
-      "title": "Websites have a new way to spy on visitors: analyzing their SSD activity",
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
+    },
+    {
+      "title": "Websites have a new way to spy on visitors: Analyzing their SSD activity",
       "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/"
     },
     {
@@ -102,10 +106,6 @@
     {
       "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
       "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/"
-    },
-    {
-      "title": "A hacker group is poisoning open source code at an unprecedented scale",
-      "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
