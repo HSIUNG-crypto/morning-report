@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-29 09:50:11 (台北時間)",
-  "updated_at_utc": "2026-05-29 01:50:11 (UTC)",
+  "updated_at": "2026-05-30 09:46:26 (台北時間)",
+  "updated_at_utc": "2026-05-30 01:46:26 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.4267,
-    "USD/JPY": 159.3093,
-    "USD/EUR": 0.8589,
-    "USD/GBP": 0.7444,
-    "USD/CNY": 6.7919,
-    "USD/AUD": 1.3991,
-    "USD/CAD": 1.3804,
-    "USD/CHF": 0.7853,
-    "USD/HKD": 7.8343,
-    "USD/KRW": 1498.3694,
-    "USD/SGD": 1.2769,
-    "USD/INR": 95.7847
+    "USD/TWD": 31.4255,
+    "USD/JPY": 159.2659,
+    "USD/EUR": 0.8576,
+    "USD/GBP": 0.744,
+    "USD/CNY": 6.7817,
+    "USD/AUD": 1.3933,
+    "USD/CAD": 1.3794,
+    "USD/CHF": 0.7816,
+    "USD/HKD": 7.8363,
+    "USD/KRW": 1506.6619,
+    "USD/SGD": 1.2767,
+    "USD/INR": 95.1992
   },
   "exchange_changes": {
-    "USD/TWD": -0.01,
-    "USD/JPY": -0.1,
-    "USD/EUR": -0.09,
-    "USD/GBP": -0.03,
-    "USD/CNY": -0.03,
-    "USD/AUD": -0.12,
-    "USD/CAD": -0.2,
-    "USD/CHF": -0.22,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.15,
-    "USD/SGD": -0.04,
-    "USD/INR": -0.02
+    "USD/TWD": -0.0,
+    "USD/JPY": -0.03,
+    "USD/EUR": -0.15,
+    "USD/GBP": -0.05,
+    "USD/CNY": -0.15,
+    "USD/AUD": -0.41,
+    "USD/CAD": -0.07,
+    "USD/CHF": -0.47,
+    "USD/HKD": 0.03,
+    "USD/KRW": 0.55,
+    "USD/SGD": -0.02,
+    "USD/INR": -0.61
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
+      "title": "Only three-quarters of first class mail delivered on time",
+      "url": "https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Universal rejects billionaire Bill Ackman's takeover bid",
+      "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
+      "url": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
       "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "'I've applied for more than 400 roles' - how young people are facing the job shortage",
       "url": "https://www.bbc.com/news/articles/czx2qll4rlyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US government prepares to print $250 note featuring Trump's face",
-      "url": "https://www.bbc.com/news/articles/clypeyx6nemo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "When trade soured, this American liquor maker moved to Canada",
-      "url": "https://www.bbc.com/news/articles/c2l22ypl909o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Drag queen Pattie Gonia fights trademark lawsuit by Patagonia",
-      "url": "https://www.bbc.com/news/articles/cx21427lvvvo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Botnet of more than 17 million devices dismantled",
+      "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/"
+    },
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
       "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
@@ -102,13 +106,9 @@
     {
       "title": "US's big bet on quantum computing may not be entirely legal",
       "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/"
-    },
-    {
-      "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
-      "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
