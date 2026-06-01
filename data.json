@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-05-31 09:57:18 (台北時間)",
-  "updated_at_utc": "2026-05-31 01:57:18 (UTC)",
+  "updated_at": "2026-06-01 10:06:08 (台北時間)",
+  "updated_at_utc": "2026-06-01 02:06:08 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.437,
-    "USD/JPY": 159.2466,
-    "USD/EUR": 0.8578,
-    "USD/GBP": 0.7436,
-    "USD/CNY": 6.7867,
-    "USD/AUD": 1.3937,
-    "USD/CAD": 1.3791,
-    "USD/CHF": 0.7819,
-    "USD/HKD": 7.8362,
-    "USD/KRW": 1506.7779,
-    "USD/SGD": 1.2767,
-    "USD/INR": 95.2043
+    "USD/TWD": 31.4756,
+    "USD/JPY": 159.3388,
+    "USD/EUR": 0.8581,
+    "USD/GBP": 0.7435,
+    "USD/CNY": 6.7726,
+    "USD/AUD": 1.3932,
+    "USD/CAD": 1.3795,
+    "USD/CHF": 0.7818,
+    "USD/HKD": 7.8367,
+    "USD/KRW": 1506.8279,
+    "USD/SGD": 1.2772,
+    "USD/INR": 95.0764
   },
   "exchange_changes": {
-    "USD/TWD": 0.04,
-    "USD/JPY": -0.01,
-    "USD/EUR": 0.02,
-    "USD/GBP": -0.05,
-    "USD/CNY": 0.07,
-    "USD/AUD": 0.03,
-    "USD/CAD": -0.02,
-    "USD/CHF": 0.04,
-    "USD/HKD": -0.0,
-    "USD/KRW": 0.01,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.01
+    "USD/TWD": 0.12,
+    "USD/JPY": 0.06,
+    "USD/EUR": 0.03,
+    "USD/GBP": -0.01,
+    "USD/CNY": -0.21,
+    "USD/AUD": -0.04,
+    "USD/CAD": 0.03,
+    "USD/CHF": -0.01,
+    "USD/HKD": 0.01,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.04,
+    "USD/INR": -0.13
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "Put a £5 deposit on vapes to stop littering, say waste companies",
+      "url": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "A year of grief and waiting: What remains when a plane falls from the sky",
+      "url": "https://www.bbc.com/news/articles/ce9pp53ky42o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Secret tunnels and unregistered workers: China's coal mine disaster is a reminder of darker days",
+      "url": "https://www.bbc.com/news/articles/cpwpeg57777o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
       "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Only three-quarters of first class mail delivered on time",
-      "url": "https://www.bbc.com/news/articles/cy02jyxz26po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Universal rejects billionaire Bill Ackman's takeover bid",
-      "url": "https://www.bbc.com/news/articles/cn8pnd9yj4eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Top UK chefs call for cutting VAT for pubs and restaurants to 10%",
-      "url": "https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Opportunities shrinking for too many young people, says major report on 'lost generation'",
-      "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss"
+      "title": "Arrive three hours before flight home, airline boss tells UK holidaymakers",
+      "url": "https://www.bbc.com/news/articles/c8xw2kjlrlxo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
