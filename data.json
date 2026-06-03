@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-02 10:07:02 (台北時間)",
-  "updated_at_utc": "2026-06-02 02:07:02 (UTC)",
+  "updated_at": "2026-06-03 10:14:49 (台北時間)",
+  "updated_at_utc": "2026-06-03 02:14:49 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.3679,
-    "USD/JPY": 159.6015,
-    "USD/EUR": 0.8596,
-    "USD/GBP": 0.7433,
-    "USD/CNY": 6.7809,
-    "USD/AUD": 1.3957,
-    "USD/CAD": 1.3833,
-    "USD/CHF": 0.786,
-    "USD/HKD": 7.8379,
-    "USD/KRW": 1511.0474,
-    "USD/SGD": 1.2784,
-    "USD/INR": 95.0971
+    "USD/TWD": 31.462,
+    "USD/JPY": 159.8747,
+    "USD/EUR": 0.8598,
+    "USD/GBP": 0.7428,
+    "USD/CNY": 6.7786,
+    "USD/AUD": 1.3937,
+    "USD/CAD": 1.3838,
+    "USD/CHF": 0.7873,
+    "USD/HKD": 7.8376,
+    "USD/KRW": 1516.8678,
+    "USD/SGD": 1.2794,
+    "USD/INR": 95.3412
   },
   "exchange_changes": {
-    "USD/TWD": -0.34,
-    "USD/JPY": 0.16,
-    "USD/EUR": 0.17,
-    "USD/GBP": -0.03,
-    "USD/CNY": 0.12,
-    "USD/AUD": 0.18,
-    "USD/CAD": 0.28,
-    "USD/CHF": 0.54,
-    "USD/HKD": 0.02,
-    "USD/KRW": 0.28,
-    "USD/SGD": 0.09,
-    "USD/INR": 0.02
+    "USD/TWD": 0.3,
+    "USD/JPY": 0.17,
+    "USD/EUR": 0.02,
+    "USD/GBP": -0.07,
+    "USD/CNY": -0.03,
+    "USD/AUD": -0.14,
+    "USD/CAD": 0.04,
+    "USD/CHF": 0.17,
+    "USD/HKD": -0.0,
+    "USD/KRW": 0.39,
+    "USD/SGD": 0.08,
+    "USD/INR": 0.26
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "AI giant Anthropic says it plans to list on US stock market",
-      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss"
+      "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+      "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Wise under investigation over money laundering control concerns",
-      "url": "https://www.bbc.com/news/articles/cy42x8ye02vo?at_medium=RSS&at_campaign=rss"
+      "title": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes",
+      "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss"
+      "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
+      "url": "https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Abusive passengers could be blacklisted from all airlines under new proposal",
-      "url": "https://www.bbc.com/news/articles/c707pknywjno?at_medium=RSS&at_campaign=rss"
+      "title": "Microsoft testing wearable AI gadget aimed at office workers",
+      "url": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
-      "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss"
+      "title": "Water firm fined £1.8m over parasite outbreak",
+      "url": "https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
