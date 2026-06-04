@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-03 10:14:49 (台北時間)",
-  "updated_at_utc": "2026-06-03 02:14:49 (UTC)",
+  "updated_at": "2026-06-04 10:12:47 (台北時間)",
+  "updated_at_utc": "2026-06-04 02:12:47 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.462,
-    "USD/JPY": 159.8747,
-    "USD/EUR": 0.8598,
-    "USD/GBP": 0.7428,
-    "USD/CNY": 6.7786,
-    "USD/AUD": 1.3937,
-    "USD/CAD": 1.3838,
-    "USD/CHF": 0.7873,
-    "USD/HKD": 7.8376,
-    "USD/KRW": 1516.8678,
-    "USD/SGD": 1.2794,
-    "USD/INR": 95.3412
+    "USD/TWD": 31.5035,
+    "USD/JPY": 159.934,
+    "USD/EUR": 0.8616,
+    "USD/GBP": 0.7446,
+    "USD/CNY": 6.7883,
+    "USD/AUD": 1.4006,
+    "USD/CAD": 1.388,
+    "USD/CHF": 0.791,
+    "USD/HKD": 7.8369,
+    "USD/KRW": 1529.3736,
+    "USD/SGD": 1.2828,
+    "USD/INR": 95.7914
   },
   "exchange_changes": {
-    "USD/TWD": 0.3,
-    "USD/JPY": 0.17,
-    "USD/EUR": 0.02,
-    "USD/GBP": -0.07,
-    "USD/CNY": -0.03,
-    "USD/AUD": -0.14,
-    "USD/CAD": 0.04,
-    "USD/CHF": 0.17,
-    "USD/HKD": -0.0,
-    "USD/KRW": 0.39,
-    "USD/SGD": 0.08,
-    "USD/INR": 0.26
+    "USD/TWD": 0.13,
+    "USD/JPY": 0.04,
+    "USD/EUR": 0.21,
+    "USD/GBP": 0.24,
+    "USD/CNY": 0.14,
+    "USD/AUD": 0.5,
+    "USD/CAD": 0.3,
+    "USD/CHF": 0.47,
+    "USD/HKD": -0.01,
+    "USD/KRW": 0.82,
+    "USD/SGD": 0.27,
+    "USD/INR": 0.47
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+      "title": "SpaceX says it’s worth $1.75tn as it nears stock market debut",
+      "url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US announces new tariffs over forced labour concerns",
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
       "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Puffin and bumblebee among 18 creatures shortlisted to feature on banknotes",
+      "title": "The 18 creatures in the running to be on the new banknotes",
       "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
-      "url": "https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Microsoft testing wearable AI gadget aimed at office workers",
-      "url": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Water firm fined £1.8m over parasite outbreak",
-      "url": "https://www.bbc.com/news/articles/c62xevydk05o?at_medium=RSS&at_campaign=rss"
+      "title": "Universal park officially named as government pledges £1.3bn",
+      "url": "https://www.bbc.com/news/articles/cn8p3zjx7pzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
+      "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/"
+    },
     {
       "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
       "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/"
@@ -102,10 +106,6 @@
     {
       "title": "Websites have a new way to spy on visitors: Analyzing their SSD activity",
       "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/"
-    },
-    {
-      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
-      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
