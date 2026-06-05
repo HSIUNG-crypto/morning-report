@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-04 10:12:47 (台北時間)",
-  "updated_at_utc": "2026-06-04 02:12:47 (UTC)",
+  "updated_at": "2026-06-05 09:57:13 (台北時間)",
+  "updated_at_utc": "2026-06-05 01:57:13 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5035,
-    "USD/JPY": 159.934,
-    "USD/EUR": 0.8616,
-    "USD/GBP": 0.7446,
-    "USD/CNY": 6.7883,
-    "USD/AUD": 1.4006,
-    "USD/CAD": 1.388,
-    "USD/CHF": 0.791,
-    "USD/HKD": 7.8369,
-    "USD/KRW": 1529.3736,
-    "USD/SGD": 1.2828,
-    "USD/INR": 95.7914
+    "USD/TWD": 31.5075,
+    "USD/JPY": 159.9525,
+    "USD/EUR": 0.8605,
+    "USD/GBP": 0.7445,
+    "USD/CNY": 6.7888,
+    "USD/AUD": 1.4013,
+    "USD/CAD": 1.3899,
+    "USD/CHF": 0.7891,
+    "USD/HKD": 7.8343,
+    "USD/KRW": 1532.4154,
+    "USD/SGD": 1.2839,
+    "USD/INR": 95.8417
   },
   "exchange_changes": {
-    "USD/TWD": 0.13,
-    "USD/JPY": 0.04,
-    "USD/EUR": 0.21,
-    "USD/GBP": 0.24,
-    "USD/CNY": 0.14,
-    "USD/AUD": 0.5,
-    "USD/CAD": 0.3,
-    "USD/CHF": 0.47,
-    "USD/HKD": -0.01,
-    "USD/KRW": 0.82,
-    "USD/SGD": 0.27,
-    "USD/INR": 0.47
+    "USD/TWD": 0.01,
+    "USD/JPY": 0.01,
+    "USD/EUR": -0.13,
+    "USD/GBP": -0.01,
+    "USD/CNY": 0.01,
+    "USD/AUD": 0.05,
+    "USD/CAD": 0.14,
+    "USD/CHF": -0.24,
+    "USD/HKD": -0.03,
+    "USD/KRW": 0.2,
+    "USD/SGD": 0.09,
+    "USD/INR": 0.05
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "SpaceX says it’s worth $1.75tn as it nears stock market debut",
-      "url": "https://www.bbc.com/news/articles/cvgz237n40jo?at_medium=RSS&at_campaign=rss"
+      "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
+      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US announces new tariffs over forced labour concerns",
-      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump announces $700m coal investment using wartime powers",
+      "url": "https://www.bbc.com/news/articles/cy0209r62k5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Three-quarters of workers not on track for 'moderate' pension income, report suggests",
-      "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss"
+      "title": "Single 20-somethings need AI to make first move on dating apps - Hinge boss",
+      "url": "https://www.bbc.com/news/articles/c052397y6ygo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The 18 creatures in the running to be on the new banknotes",
-      "url": "https://www.bbc.com/news/articles/cvgzrpe6mzjo?at_medium=RSS&at_campaign=rss"
+      "title": "Musk's SpaceX share sale: Four things you need to know",
+      "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Universal park officially named as government pledges £1.3bn",
-      "url": "https://www.bbc.com/news/articles/cn8p3zjx7pzo?at_medium=RSS&at_campaign=rss"
+      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
+      "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/"
+    },
     {
       "title": "Can't make sense of Dashlane's vault theft notification? You're not alone.",
       "url": "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/"
@@ -102,10 +106,6 @@
     {
       "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
       "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/"
-    },
-    {
-      "title": "Websites have a new way to spy on visitors: Analyzing their SSD activity",
-      "url": "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
