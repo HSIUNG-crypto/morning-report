@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-07 10:01:59 (台北時間)",
-  "updated_at_utc": "2026-06-07 02:01:59 (UTC)",
+  "updated_at": "2026-06-08 10:07:03 (台北時間)",
+  "updated_at_utc": "2026-06-08 02:07:03 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.616,
-    "USD/JPY": 160.145,
-    "USD/EUR": 0.8647,
-    "USD/GBP": 0.7471,
-    "USD/CNY": 6.7916,
-    "USD/AUD": 1.4134,
-    "USD/CAD": 1.3914,
-    "USD/CHF": 0.7937,
-    "USD/HKD": 7.8349,
-    "USD/KRW": 1545.5284,
-    "USD/SGD": 1.2863,
-    "USD/INR": 95.2702
+    "USD/TWD": 31.6502,
+    "USD/JPY": 160.257,
+    "USD/EUR": 0.8671,
+    "USD/GBP": 0.7492,
+    "USD/CNY": 6.7934,
+    "USD/AUD": 1.4197,
+    "USD/CAD": 1.3937,
+    "USD/CHF": 0.7958,
+    "USD/HKD": 7.8345,
+    "USD/KRW": 1551.5728,
+    "USD/SGD": 1.2881,
+    "USD/INR": 95.1808
   },
   "exchange_changes": {
-    "USD/TWD": 0.04,
-    "USD/JPY": -0.01,
-    "USD/EUR": -0.07,
-    "USD/GBP": -0.07,
-    "USD/CNY": -0.02,
-    "USD/AUD": -0.08,
-    "USD/CAD": -0.04,
-    "USD/CHF": -0.08,
-    "USD/HKD": -0.0,
-    "USD/KRW": 0.02,
-    "USD/SGD": -0.02,
-    "USD/INR": 0.05
+    "USD/TWD": 0.11,
+    "USD/JPY": 0.07,
+    "USD/EUR": 0.28,
+    "USD/GBP": 0.28,
+    "USD/CNY": 0.03,
+    "USD/AUD": 0.45,
+    "USD/CAD": 0.17,
+    "USD/CHF": 0.26,
+    "USD/HKD": -0.01,
+    "USD/KRW": 0.39,
+    "USD/SGD": 0.14,
+    "USD/INR": -0.09
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "We need to stop AI developing without humans, says Anthropic co-founder",
-      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss"
+      "title": "Oil prices edge higher after strikes on Israel test ceasefire",
+      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump to meet AI leaders to discuss US investment in their companies",
-      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss"
+      "title": "M&S launches new traineeship for 1,000 young people",
+      "url": "https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US stocks slump as fears over Big Tech shake Wall Street",
-      "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss"
+      "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
+      "url": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Who can buy shares in Elon Musk's SpaceX?",
-      "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss"
+      "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
+      "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Hospitality jobs boom as US prepares for World Cup",
-      "url": "https://www.bbc.com/news/articles/cdxpx4gel1yo?at_medium=RSS&at_campaign=rss"
+      "title": "Tata Steel says new £1.25bn furnace may be delayed due to electrical issue",
+      "url": "https://www.bbc.com/news/articles/ckg0w0lw451o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
