@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-08 10:07:03 (台北時間)",
-  "updated_at_utc": "2026-06-08 02:07:03 (UTC)",
+  "updated_at": "2026-06-09 09:45:22 (台北時間)",
+  "updated_at_utc": "2026-06-09 01:45:22 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6502,
-    "USD/JPY": 160.257,
-    "USD/EUR": 0.8671,
-    "USD/GBP": 0.7492,
-    "USD/CNY": 6.7934,
-    "USD/AUD": 1.4197,
-    "USD/CAD": 1.3937,
-    "USD/CHF": 0.7958,
-    "USD/HKD": 7.8345,
-    "USD/KRW": 1551.5728,
-    "USD/SGD": 1.2881,
-    "USD/INR": 95.1808
+    "USD/TWD": 31.5787,
+    "USD/JPY": 160.1411,
+    "USD/EUR": 0.8672,
+    "USD/GBP": 0.7496,
+    "USD/CNY": 6.7948,
+    "USD/AUD": 1.4184,
+    "USD/CAD": 1.3948,
+    "USD/CHF": 0.7976,
+    "USD/HKD": 7.8361,
+    "USD/KRW": 1529.0228,
+    "USD/SGD": 1.2884,
+    "USD/INR": 95.7357
   },
   "exchange_changes": {
-    "USD/TWD": 0.11,
-    "USD/JPY": 0.07,
-    "USD/EUR": 0.28,
-    "USD/GBP": 0.28,
-    "USD/CNY": 0.03,
-    "USD/AUD": 0.45,
-    "USD/CAD": 0.17,
-    "USD/CHF": 0.26,
-    "USD/HKD": -0.01,
-    "USD/KRW": 0.39,
-    "USD/SGD": 0.14,
-    "USD/INR": -0.09
+    "USD/TWD": -0.23,
+    "USD/JPY": -0.07,
+    "USD/EUR": 0.01,
+    "USD/GBP": 0.05,
+    "USD/CNY": 0.02,
+    "USD/AUD": -0.09,
+    "USD/CAD": 0.08,
+    "USD/CHF": 0.23,
+    "USD/HKD": 0.02,
+    "USD/KRW": -1.45,
+    "USD/SGD": 0.02,
+    "USD/INR": 0.58
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Oil prices edge higher after strikes on Israel test ceasefire",
-      "url": "https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss"
+      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "M&S launches new traineeship for 1,000 young people",
-      "url": "https://www.bbc.com/news/articles/cr7xr3dvxp9o?at_medium=RSS&at_campaign=rss"
+      "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+      "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Spain's visitor numbers hit new highs as tourists avoid Middle East",
-      "url": "https://www.bbc.com/news/articles/c4gvndd2qelo?at_medium=RSS&at_campaign=rss"
+      "title": "Driving test booking rules tightened after thousands of no shows",
+      "url": "https://www.bbc.com/news/articles/c4gyel9n02zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'No dead ends': What the Dutch can teach us about tackling youth unemployment",
-      "url": "https://www.bbc.com/news/articles/cnvpn253re4o?at_medium=RSS&at_campaign=rss"
+      "title": "How driving test booking is changing for learner drivers",
+      "url": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tata Steel says new £1.25bn furnace may be delayed due to electrical issue",
-      "url": "https://www.bbc.com/news/articles/ckg0w0lw451o?at_medium=RSS&at_campaign=rss"
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "url": "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/"
+    },
     {
       "title": "How a USB-connected speaker can infect a PC without ever being touched",
       "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/"
@@ -102,10 +106,6 @@
     {
       "title": "Dozens of Red Hat packages backdoored through its official NPM channel",
       "url": "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/"
-    },
-    {
-      "title": "Botnet of more than 17 million devices dismantled",
-      "url": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
