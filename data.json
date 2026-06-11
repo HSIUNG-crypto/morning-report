@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-10 09:55:53 (台北時間)",
-  "updated_at_utc": "2026-06-10 01:55:53 (UTC)",
+  "updated_at": "2026-06-11 10:07:15 (台北時間)",
+  "updated_at_utc": "2026-06-11 02:07:15 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5787,
-    "USD/JPY": 160.1411,
-    "USD/EUR": 0.8672,
-    "USD/GBP": 0.7496,
-    "USD/CNY": 6.7948,
-    "USD/AUD": 1.4184,
-    "USD/CAD": 1.3948,
-    "USD/CHF": 0.7976,
-    "USD/HKD": 7.8361,
-    "USD/KRW": 1529.0228,
-    "USD/SGD": 1.2884,
-    "USD/INR": 95.7357
+    "USD/TWD": 31.6452,
+    "USD/JPY": 160.471,
+    "USD/EUR": 0.8666,
+    "USD/GBP": 0.7476,
+    "USD/CNY": 6.7893,
+    "USD/AUD": 1.4276,
+    "USD/CAD": 1.3936,
+    "USD/CHF": 0.7994,
+    "USD/HKD": 7.8367,
+    "USD/KRW": 1522.5117,
+    "USD/SGD": 1.2875,
+    "USD/INR": 95.369
   },
   "exchange_changes": {
-    "USD/TWD": 0.0,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.0,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.0
+    "USD/TWD": 0.21,
+    "USD/JPY": 0.21,
+    "USD/EUR": -0.07,
+    "USD/GBP": -0.27,
+    "USD/CNY": -0.08,
+    "USD/AUD": 0.65,
+    "USD/CAD": -0.09,
+    "USD/CHF": 0.23,
+    "USD/HKD": 0.01,
+    "USD/KRW": -0.43,
+    "USD/SGD": -0.07,
+    "USD/INR": -0.38
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "World's largest chipmaker does not rule out price rises as costs increase",
-      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss"
+      "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+      "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How to enjoy the World Cup - and keep your boss on side",
-      "url": "https://www.bbc.com/news/articles/c0r2yldw1vjo?at_medium=RSS&at_campaign=rss"
+      "title": "The furious dispute over what caused Air India flight 171 to crash",
+      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Bill debt soars but many don't know help is available",
-      "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss"
+      "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
+      "url": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Beauty Pie LED mask ad banned over misleading anti-wrinkle claim",
-      "url": "https://www.bbc.com/news/articles/c892lj7xn02o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss"
+      "title": "World Cup expected to be the biggest betting event in history",
+      "url": "https://www.bbc.com/news/articles/cwydgwdx83yo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
