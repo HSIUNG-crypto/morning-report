@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-11 10:07:15 (台北時間)",
-  "updated_at_utc": "2026-06-11 02:07:15 (UTC)",
+  "updated_at": "2026-06-12 10:03:24 (台北時間)",
+  "updated_at_utc": "2026-06-12 02:03:24 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6452,
-    "USD/JPY": 160.471,
-    "USD/EUR": 0.8666,
-    "USD/GBP": 0.7476,
-    "USD/CNY": 6.7893,
-    "USD/AUD": 1.4276,
-    "USD/CAD": 1.3936,
-    "USD/CHF": 0.7994,
-    "USD/HKD": 7.8367,
-    "USD/KRW": 1522.5117,
-    "USD/SGD": 1.2875,
-    "USD/INR": 95.369
+    "USD/TWD": 31.6112,
+    "USD/JPY": 160.2656,
+    "USD/EUR": 0.8657,
+    "USD/GBP": 0.7471,
+    "USD/CNY": 6.7876,
+    "USD/AUD": 1.4251,
+    "USD/CAD": 1.3978,
+    "USD/CHF": 0.7975,
+    "USD/HKD": 7.8364,
+    "USD/KRW": 1525.1722,
+    "USD/SGD": 1.2866,
+    "USD/INR": 95.6773
   },
   "exchange_changes": {
-    "USD/TWD": 0.21,
-    "USD/JPY": 0.21,
-    "USD/EUR": -0.07,
-    "USD/GBP": -0.27,
-    "USD/CNY": -0.08,
-    "USD/AUD": 0.65,
-    "USD/CAD": -0.09,
-    "USD/CHF": 0.23,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.43,
+    "USD/TWD": -0.11,
+    "USD/JPY": -0.13,
+    "USD/EUR": -0.1,
+    "USD/GBP": -0.07,
+    "USD/CNY": -0.03,
+    "USD/AUD": -0.18,
+    "USD/CAD": 0.3,
+    "USD/CHF": -0.24,
+    "USD/HKD": -0.0,
+    "USD/KRW": 0.17,
     "USD/SGD": -0.07,
-    "USD/INR": -0.38
+    "USD/INR": 0.32
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "Why the economics makes this the craziest world cup ever",
+      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "My friends always want to split the bill equally, how do I say no?",
+      "url": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
+      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ryanair investigated over charging parents to sit with children",
+      "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
       "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The furious dispute over what caused Air India flight 171 to crash",
-      "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "I'd have vetoed foreign sale of UK tech giant, says Business Secretary",
-      "url": "https://www.bbc.com/news/articles/cd0mg79ggm0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
-      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "World Cup expected to be the biggest betting event in history",
-      "url": "https://www.bbc.com/news/articles/cwydgwdx83yo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
