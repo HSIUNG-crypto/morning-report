@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-12 10:03:24 (台北時間)",
-  "updated_at_utc": "2026-06-12 02:03:24 (UTC)",
+  "updated_at": "2026-06-13 09:56:26 (台北時間)",
+  "updated_at_utc": "2026-06-13 01:56:26 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6112,
-    "USD/JPY": 160.2656,
-    "USD/EUR": 0.8657,
-    "USD/GBP": 0.7471,
-    "USD/CNY": 6.7876,
-    "USD/AUD": 1.4251,
-    "USD/CAD": 1.3978,
-    "USD/CHF": 0.7975,
-    "USD/HKD": 7.8364,
-    "USD/KRW": 1525.1722,
-    "USD/SGD": 1.2866,
-    "USD/INR": 95.6773
+    "USD/TWD": 31.6033,
+    "USD/JPY": 160.2361,
+    "USD/EUR": 0.8644,
+    "USD/GBP": 0.7462,
+    "USD/CNY": 6.7765,
+    "USD/AUD": 1.42,
+    "USD/CAD": 1.3981,
+    "USD/CHF": 0.7968,
+    "USD/HKD": 7.8358,
+    "USD/KRW": 1517.3658,
+    "USD/SGD": 1.284,
+    "USD/INR": 95.3078
   },
   "exchange_changes": {
-    "USD/TWD": -0.11,
-    "USD/JPY": -0.13,
-    "USD/EUR": -0.1,
-    "USD/GBP": -0.07,
-    "USD/CNY": -0.03,
-    "USD/AUD": -0.18,
-    "USD/CAD": 0.3,
-    "USD/CHF": -0.24,
-    "USD/HKD": -0.0,
-    "USD/KRW": 0.17,
-    "USD/SGD": -0.07,
-    "USD/INR": 0.32
+    "USD/TWD": -0.02,
+    "USD/JPY": -0.02,
+    "USD/EUR": -0.15,
+    "USD/GBP": -0.12,
+    "USD/CNY": -0.16,
+    "USD/AUD": -0.36,
+    "USD/CAD": 0.02,
+    "USD/CHF": -0.09,
+    "USD/HKD": -0.01,
+    "USD/KRW": -0.51,
+    "USD/SGD": -0.2,
+    "USD/INR": -0.39
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Why the economics makes this the craziest world cup ever",
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
+      "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
+      "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "UK economy contracts as Iran war impact felt",
+      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Why the economics make this the craziest World Cup ever",
       "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "My friends always want to split the bill equally, how do I say no?",
-      "url": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Elon Musk's SpaceX raises $75bn ahead of record stock market debut",
-      "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ryanair investigated over charging parents to sit with children",
-      "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
-      "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data",
+      "url": "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/"
+    },
     {
       "title": "Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed",
       "url": "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/"
@@ -102,13 +106,9 @@
     {
       "title": "How a USB-connected speaker can infect a PC without ever being touched",
       "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/"
-    },
-    {
-      "title": "Dashlane explains how attackers managed to download encrypted password vaults",
-      "url": "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
