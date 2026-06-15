@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-14 10:05:47 (台北時間)",
-  "updated_at_utc": "2026-06-14 02:05:47 (UTC)",
+  "updated_at": "2026-06-15 10:10:06 (台北時間)",
+  "updated_at_utc": "2026-06-15 02:10:06 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6095,
-    "USD/JPY": 160.2327,
-    "USD/EUR": 0.8645,
-    "USD/GBP": 0.7461,
-    "USD/CNY": 6.7817,
-    "USD/AUD": 1.4203,
-    "USD/CAD": 1.3982,
-    "USD/CHF": 0.7967,
-    "USD/HKD": 7.8359,
-    "USD/KRW": 1517.253,
-    "USD/SGD": 1.2841,
-    "USD/INR": 95.2997
+    "USD/TWD": 31.595,
+    "USD/JPY": 160.1404,
+    "USD/EUR": 0.8632,
+    "USD/GBP": 0.745,
+    "USD/CNY": 6.7691,
+    "USD/AUD": 1.4155,
+    "USD/CAD": 1.3983,
+    "USD/CHF": 0.7953,
+    "USD/HKD": 7.8356,
+    "USD/KRW": 1516.9709,
+    "USD/SGD": 1.2842,
+    "USD/INR": 95.1765
   },
   "exchange_changes": {
-    "USD/TWD": 0.02,
-    "USD/JPY": -0.0,
-    "USD/EUR": 0.01,
-    "USD/GBP": -0.01,
-    "USD/CNY": 0.08,
-    "USD/AUD": 0.02,
+    "USD/TWD": -0.05,
+    "USD/JPY": -0.06,
+    "USD/EUR": -0.15,
+    "USD/GBP": -0.15,
+    "USD/CNY": -0.19,
+    "USD/AUD": -0.34,
     "USD/CAD": 0.01,
-    "USD/CHF": -0.01,
-    "USD/HKD": 0.0,
-    "USD/KRW": -0.01,
+    "USD/CHF": -0.18,
+    "USD/HKD": -0.0,
+    "USD/KRW": -0.02,
     "USD/SGD": 0.01,
-    "USD/INR": -0.01
+    "USD/INR": -0.13
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss"
+      "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+      "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
-      "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss"
+      "title": "Millions of people can get discounts on their bills - here's how",
+      "url": "https://www.bbc.com/news/articles/c4gyplpyj00o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
-      "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss"
+      "title": "Surge in scams as fraudsters use AI to target people",
+      "url": "https://www.bbc.com/news/articles/cwykp9ygxlvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK economy contracts as Iran war impact felt",
-      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss"
+      "title": "Is the convertible heading into the sunset?",
+      "url": "https://www.bbc.com/news/articles/cx212yy4er0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why the economics make this the craziest World Cup ever",
-      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss"
+      "title": "UK electric car sales target set to be weakened",
+      "url": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
