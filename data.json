@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-19 10:35:04 (台北時間)",
-  "updated_at_utc": "2026-06-19 02:35:04 (UTC)",
+  "updated_at": "2026-06-20 09:56:56 (台北時間)",
+  "updated_at_utc": "2026-06-20 01:56:56 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6395,
-    "USD/JPY": 161.1038,
-    "USD/EUR": 0.8718,
-    "USD/GBP": 0.7562,
-    "USD/CNY": 6.7836,
-    "USD/AUD": 1.4258,
-    "USD/CAD": 1.4124,
-    "USD/CHF": 0.8042,
-    "USD/HKD": 7.8373,
-    "USD/KRW": 1536.2363,
-    "USD/SGD": 1.2902,
-    "USD/INR": 94.4149
+    "USD/TWD": 31.6541,
+    "USD/JPY": 161.2629,
+    "USD/EUR": 0.8719,
+    "USD/GBP": 0.756,
+    "USD/CNY": 6.7844,
+    "USD/AUD": 1.4257,
+    "USD/CAD": 1.4151,
+    "USD/CHF": 0.8068,
+    "USD/HKD": 7.8376,
+    "USD/KRW": 1530.4355,
+    "USD/SGD": 1.2912,
+    "USD/INR": 94.4312
   },
   "exchange_changes": {
-    "USD/TWD": -0.02,
-    "USD/JPY": 0.4,
-    "USD/EUR": 0.72,
-    "USD/GBP": 1.07,
-    "USD/CNY": 0.14,
-    "USD/AUD": 0.44,
-    "USD/CAD": 0.52,
-    "USD/CHF": 0.97,
-    "USD/HKD": 0.02,
-    "USD/KRW": 1.14,
-    "USD/SGD": 0.4,
-    "USD/INR": -0.27
+    "USD/TWD": 0.05,
+    "USD/JPY": 0.1,
+    "USD/EUR": 0.01,
+    "USD/GBP": -0.03,
+    "USD/CNY": 0.01,
+    "USD/AUD": -0.01,
+    "USD/CAD": 0.19,
+    "USD/CHF": 0.32,
+    "USD/HKD": 0.0,
+    "USD/KRW": -0.38,
+    "USD/SGD": 0.08,
+    "USD/INR": 0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
-      "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss"
+      "title": "Plans to end gazumping with binding agreements in house sales shake-up",
+      "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'He hid the a la carte menu': Who should pay on the first date",
+      "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
+      "url": "https://www.bbc.com/news/articles/c4gyejpy221o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Warning over 'fragile' public finances as borrowing rises",
+      "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
       "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Five ways the Iran peace deal could affect you and your money",
-      "url": "https://www.bbc.com/news/articles/c4g5574pwreo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Heathrow's 'critical' expansion blueprint released",
-      "url": "https://www.bbc.com/news/articles/cx2dem7y78no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Interest rates held as Bank warns of impact of high energy prices",
-      "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss"
+      "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
+      "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
