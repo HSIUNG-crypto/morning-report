@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-22 10:12:25 (台北時間)",
-  "updated_at_utc": "2026-06-22 02:12:25 (UTC)",
+  "updated_at": "2026-06-23 09:51:51 (台北時間)",
+  "updated_at_utc": "2026-06-23 01:51:51 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6463,
-    "USD/JPY": 161.2229,
-    "USD/EUR": 0.872,
-    "USD/GBP": 0.7559,
-    "USD/CNY": 6.789,
-    "USD/AUD": 1.4256,
-    "USD/CAD": 1.4149,
-    "USD/CHF": 0.8068,
-    "USD/HKD": 7.8377,
-    "USD/KRW": 1531.0045,
-    "USD/SGD": 1.2907,
-    "USD/INR": 94.4113
+    "USD/TWD": 31.6872,
+    "USD/JPY": 161.6078,
+    "USD/EUR": 0.8744,
+    "USD/GBP": 0.7551,
+    "USD/CNY": 6.7869,
+    "USD/AUD": 1.4286,
+    "USD/CAD": 1.416,
+    "USD/CHF": 0.8087,
+    "USD/HKD": 7.84,
+    "USD/KRW": 1537.593,
+    "USD/SGD": 1.2932,
+    "USD/INR": 94.7041
   },
   "exchange_changes": {
-    "USD/TWD": 0.0,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.0,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.0
+    "USD/TWD": 0.13,
+    "USD/JPY": 0.24,
+    "USD/EUR": 0.28,
+    "USD/GBP": -0.11,
+    "USD/CNY": -0.03,
+    "USD/AUD": 0.21,
+    "USD/CAD": 0.08,
+    "USD/CHF": 0.24,
+    "USD/HKD": 0.03,
+    "USD/KRW": 0.43,
+    "USD/SGD": 0.19,
+    "USD/INR": 0.31
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
+      "title": "Tesla crash that killed a woman under US federal investigation",
+      "url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
+      "url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
+      "url": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
       "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Plans to end gazumping with binding agreements in house sales shake-up",
-      "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "O'Leary extends Ryanair contract in deal that could net him over £130m",
-      "url": "https://www.bbc.com/news/articles/c4gyejpy221o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Warning over 'fragile' public finances as borrowing rises",
-      "url": "https://www.bbc.com/news/articles/cqx1e8nrwgvo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'I'd be put off if he asked to split it': Who should pay on a first date?",
-      "url": "https://www.bbc.com/news/articles/c74yl4gknzno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/"
+    },
     {
       "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
       "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/"
@@ -102,10 +106,6 @@
     {
       "title": "Massive breach spills credentials for thousands of sensitive networks",
       "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/"
-    },
-    {
-      "title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
-      "url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/"
     }
   ],
   "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
