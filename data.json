@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-23 09:51:51 (台北時間)",
-  "updated_at_utc": "2026-06-23 01:51:51 (UTC)",
+  "updated_at": "2026-06-24 09:50:02 (台北時間)",
+  "updated_at_utc": "2026-06-24 01:50:02 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6872,
-    "USD/JPY": 161.6078,
-    "USD/EUR": 0.8744,
-    "USD/GBP": 0.7551,
-    "USD/CNY": 6.7869,
-    "USD/AUD": 1.4286,
-    "USD/CAD": 1.416,
-    "USD/CHF": 0.8087,
-    "USD/HKD": 7.84,
-    "USD/KRW": 1537.593,
-    "USD/SGD": 1.2932,
-    "USD/INR": 94.7041
+    "USD/TWD": 31.7107,
+    "USD/JPY": 161.5419,
+    "USD/EUR": 0.878,
+    "USD/GBP": 0.7573,
+    "USD/CNY": 6.8004,
+    "USD/AUD": 1.4443,
+    "USD/CAD": 1.4197,
+    "USD/CHF": 0.8097,
+    "USD/HKD": 7.8411,
+    "USD/KRW": 1534.5292,
+    "USD/SGD": 1.2962,
+    "USD/INR": 94.8137
   },
   "exchange_changes": {
-    "USD/TWD": 0.13,
-    "USD/JPY": 0.24,
-    "USD/EUR": 0.28,
-    "USD/GBP": -0.11,
-    "USD/CNY": -0.03,
-    "USD/AUD": 0.21,
-    "USD/CAD": 0.08,
-    "USD/CHF": 0.24,
-    "USD/HKD": 0.03,
-    "USD/KRW": 0.43,
-    "USD/SGD": 0.19,
-    "USD/INR": 0.31
+    "USD/TWD": 0.07,
+    "USD/JPY": -0.04,
+    "USD/EUR": 0.41,
+    "USD/GBP": 0.29,
+    "USD/CNY": 0.2,
+    "USD/AUD": 1.1,
+    "USD/CAD": 0.26,
+    "USD/CHF": 0.12,
+    "USD/HKD": 0.01,
+    "USD/KRW": -0.2,
+    "USD/SGD": 0.23,
+    "USD/INR": 0.12
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Tesla crash that killed a woman under US federal investigation",
-      "url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss"
+      "title": "The economic challenges facing the next prime minister",
+      "url": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-      "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+      "title": "Ten years on, Brexit's economic impact is becoming clearer",
+      "url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
-      "url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss"
+      "title": "Stanford was their golden ticket - could AI help or hinder that?",
+      "url": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
-      "url": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss"
+      "title": "Tech stocks tumble on concerns over AI spending",
+      "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
-      "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss"
+      "title": "Who could be the UK's next chancellor?",
+      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
+    },
+    {
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
+    },
     {
       "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
       "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/"
@@ -98,17 +106,9 @@
     {
       "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
       "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/"
-    },
-    {
-      "title": "Before SpaceX IPO, investors in China secretly acquired stakes",
-      "url": "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/"
-    },
-    {
-      "title": "Massive breach spills credentials for thousands of sensitive networks",
-      "url": "https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
