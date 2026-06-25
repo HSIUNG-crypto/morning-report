@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-24 09:50:02 (台北時間)",
-  "updated_at_utc": "2026-06-24 01:50:02 (UTC)",
+  "updated_at": "2026-06-25 09:53:55 (台北時間)",
+  "updated_at_utc": "2026-06-25 01:53:55 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.7107,
-    "USD/JPY": 161.5419,
-    "USD/EUR": 0.878,
-    "USD/GBP": 0.7573,
-    "USD/CNY": 6.8004,
-    "USD/AUD": 1.4443,
-    "USD/CAD": 1.4197,
-    "USD/CHF": 0.8097,
-    "USD/HKD": 7.8411,
-    "USD/KRW": 1534.5292,
-    "USD/SGD": 1.2962,
-    "USD/INR": 94.8137
+    "USD/TWD": 31.8217,
+    "USD/JPY": 161.7352,
+    "USD/EUR": 0.8808,
+    "USD/GBP": 0.7597,
+    "USD/CNY": 6.8177,
+    "USD/AUD": 1.4499,
+    "USD/CAD": 1.4231,
+    "USD/CHF": 0.8125,
+    "USD/HKD": 7.8397,
+    "USD/KRW": 1543.2603,
+    "USD/SGD": 1.2976,
+    "USD/INR": 94.6528
   },
   "exchange_changes": {
-    "USD/TWD": 0.07,
-    "USD/JPY": -0.04,
-    "USD/EUR": 0.41,
-    "USD/GBP": 0.29,
-    "USD/CNY": 0.2,
-    "USD/AUD": 1.1,
-    "USD/CAD": 0.26,
-    "USD/CHF": 0.12,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.2,
-    "USD/SGD": 0.23,
-    "USD/INR": 0.12
+    "USD/TWD": 0.35,
+    "USD/JPY": 0.12,
+    "USD/EUR": 0.32,
+    "USD/GBP": 0.32,
+    "USD/CNY": 0.25,
+    "USD/AUD": 0.39,
+    "USD/CAD": 0.24,
+    "USD/CHF": 0.35,
+    "USD/HKD": -0.02,
+    "USD/KRW": 0.57,
+    "USD/SGD": 0.11,
+    "USD/INR": -0.17
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "The economic challenges facing the next prime minister",
-      "url": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss"
+      "title": "I've spent 30 years in recruitment - this is how to get a job",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2vljglgno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ten years on, Brexit's economic impact is becoming clearer",
-      "url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss"
+      "title": "VAT cut on theme parks and kids' meals comes into force",
+      "url": "https://www.bbc.co.uk/news/articles/cwy05rnlpe9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Stanford was their golden ticket - could AI help or hinder that?",
-      "url": "https://www.bbc.co.uk/news/articles/c872j82j2qyo?at_medium=RSS&at_campaign=rss"
+      "title": "Baroness Mone among individuals sued to recover PPE Medpro millions",
+      "url": "https://www.bbc.co.uk/news/articles/c7vy1y7myn5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tech stocks tumble on concerns over AI spending",
-      "url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss"
+      "title": "Texas family sues Tesla over fatal crash into home",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2rzke05yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Who could be the UK's next chancellor?",
-      "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss"
+      "title": "Elon Musk loses trillionaire status as global tech rout hits SpaceX",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2m2p8dgmo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "One-two punch delivered in global operation disrupts cybercrime \"assembly line\"",
+      "url": "https://arstechnica.com/security/2026/06/one-two-punch-delivered-in-global-operation-disrupts-cybercrime-assembly-line/"
+    },
     {
       "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
       "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
@@ -102,13 +106,9 @@
     {
       "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
       "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/"
-    },
-    {
-      "title": "Apple patches high-severity eavesdropping vulnerability in Beats Studio Buds",
-      "url": "https://arstechnica.com/apple/2026/06/apple-patches-high-severity-eavesdropping-vulnerability-in-beats-studio-buds/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
-  "forecast_ai": "AI情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
+  "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
