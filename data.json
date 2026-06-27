@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-06-26 09:55:55 (台北時間)",
-  "updated_at_utc": "2026-06-26 01:55:55 (UTC)",
+  "updated_at": "2026-06-27 09:49:03 (台北時間)",
+  "updated_at_utc": "2026-06-27 01:49:03 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8604,
-    "USD/JPY": 161.7778,
-    "USD/EUR": 0.8801,
-    "USD/GBP": 0.7584,
-    "USD/CNY": 6.8086,
-    "USD/AUD": 1.4488,
-    "USD/CAD": 1.4207,
-    "USD/CHF": 0.8109,
-    "USD/HKD": 7.8403,
-    "USD/KRW": 1543.5753,
-    "USD/SGD": 1.2967,
-    "USD/INR": 94.4628
+    "USD/TWD": 31.8734,
+    "USD/JPY": 161.7164,
+    "USD/EUR": 0.8778,
+    "USD/GBP": 0.7573,
+    "USD/CNY": 6.8076,
+    "USD/AUD": 1.4496,
+    "USD/CAD": 1.4189,
+    "USD/CHF": 0.8094,
+    "USD/HKD": 7.8418,
+    "USD/KRW": 1536.0097,
+    "USD/SGD": 1.2942,
+    "USD/INR": 94.4541
   },
   "exchange_changes": {
-    "USD/TWD": 0.12,
-    "USD/JPY": 0.03,
-    "USD/EUR": -0.08,
-    "USD/GBP": -0.17,
-    "USD/CNY": -0.13,
-    "USD/AUD": -0.08,
-    "USD/CAD": -0.17,
-    "USD/CHF": -0.2,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.02,
-    "USD/SGD": -0.07,
-    "USD/INR": -0.2
+    "USD/TWD": 0.04,
+    "USD/JPY": -0.04,
+    "USD/EUR": -0.26,
+    "USD/GBP": -0.15,
+    "USD/CNY": -0.01,
+    "USD/AUD": 0.06,
+    "USD/CAD": -0.13,
+    "USD/CHF": -0.18,
+    "USD/HKD": 0.02,
+    "USD/KRW": -0.49,
+    "USD/SGD": -0.19,
+    "USD/INR": -0.01
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Warning over power bank fire risk on flights as summer holidays begin",
-      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump threatens 100% tariff on European nations over tech tax",
+      "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Yes, there have been rows but here's how I've made moving back home work",
+      "title": "Three unusual things about the King's tax bill",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "I'm back at home again after uni - here's how I'm making it work",
       "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Teens who hacked TfL were known to police years before cyber-attack",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss"
+      "title": "Power banks and vapes now biggest fire risk on planes",
+      "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-      "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Apple hikes some prices by nearly 20% while Xbox raises console cost",
-      "url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
+      "title": "Asia stock markets slide as tech shares slump",
+      "url": "https://www.bbc.co.uk/news/articles/ce8jz40k00ro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
