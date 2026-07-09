@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-07-08 09:14:58 (台北時間)",
-  "updated_at_utc": "2026-07-08 01:14:58 (UTC)",
+  "updated_at": "2026-07-09 09:22:53 (台北時間)",
+  "updated_at_utc": "2026-07-09 01:22:53 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.1275,
-    "USD/JPY": 162.1092,
-    "USD/EUR": 0.8758,
-    "USD/GBP": 0.7483,
-    "USD/CNY": 6.8019,
-    "USD/AUD": 1.4423,
-    "USD/CAD": 1.4204,
-    "USD/CHF": 0.8077,
-    "USD/HKD": 7.8421,
-    "USD/KRW": 1516.8999,
-    "USD/SGD": 1.2925,
-    "USD/INR": 95.0475
+    "USD/TWD": 32.0991,
+    "USD/JPY": 162.5206,
+    "USD/EUR": 0.8761,
+    "USD/GBP": 0.7477,
+    "USD/CNY": 6.8102,
+    "USD/AUD": 1.4427,
+    "USD/CAD": 1.4173,
+    "USD/CHF": 0.8085,
+    "USD/HKD": 7.8395,
+    "USD/KRW": 1505.957,
+    "USD/SGD": 1.2939,
+    "USD/INR": 95.6046
   },
   "exchange_changes": {
-    "USD/TWD": 0.15,
-    "USD/JPY": -0.01,
-    "USD/EUR": 0.14,
-    "USD/GBP": 0.04,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.19,
-    "USD/CAD": -0.06,
-    "USD/CHF": 0.26,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.91,
-    "USD/SGD": 0.01,
-    "USD/INR": -0.43
+    "USD/TWD": -0.09,
+    "USD/JPY": 0.25,
+    "USD/EUR": 0.03,
+    "USD/GBP": -0.08,
+    "USD/CNY": 0.12,
+    "USD/AUD": 0.03,
+    "USD/CAD": -0.22,
+    "USD/CHF": 0.1,
+    "USD/HKD": -0.03,
+    "USD/KRW": -0.72,
+    "USD/SGD": 0.11,
+    "USD/INR": 0.59
   },
   "stocks": {
     "道瓊": {
@@ -65,50 +65,50 @@
   },
   "news_economy": [
     {
-      "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
-      "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss"
+      "title": "Why electric cars cost more to insure - and what's being done about it",
+      "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "I run the UK's biggest bank, here are five ways to manage your money",
+      "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
+      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
       "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Victims of 23andMe data breach to get $47m payout, judge rules",
-      "url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Package holidays to Dubai and Egypt cheaper as European prices creep up",
-      "url": "https://www.bbc.co.uk/news/articles/c17y81vnje5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "One million more UK homeowners set  to face higher mortgages",
-      "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss"
+      "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
+      "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
     {
+      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
+      "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/"
+    },
+    {
+      "title": "Aussie gov't tells volunteers to throw out thousands of functioning test routers",
+      "url": "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/"
+    },
+    {
+      "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
+      "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/"
+    },
+    {
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
+    },
+    {
       "title": "Newly discovered PamStealer isn't your typical macOS malware",
       "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/"
-    },
-    {
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/"
-    },
-    {
-      "title": "New attack provides one more reason why AI browsers are a bad idea",
-      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/"
-    },
-    {
-      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-      "url": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
-    },
-    {
-      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
