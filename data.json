@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-07-09 09:22:53 (台北時間)",
-  "updated_at_utc": "2026-07-09 01:22:53 (UTC)",
+  "updated_at": "2026-07-10 09:20:20 (台北時間)",
+  "updated_at_utc": "2026-07-10 01:20:20 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.0991,
-    "USD/JPY": 162.5206,
-    "USD/EUR": 0.8761,
-    "USD/GBP": 0.7477,
-    "USD/CNY": 6.8102,
-    "USD/AUD": 1.4427,
-    "USD/CAD": 1.4173,
-    "USD/CHF": 0.8085,
-    "USD/HKD": 7.8395,
-    "USD/KRW": 1505.957,
-    "USD/SGD": 1.2939,
-    "USD/INR": 95.6046
+    "USD/TWD": 32.1225,
+    "USD/JPY": 162.3785,
+    "USD/EUR": 0.8748,
+    "USD/GBP": 0.746,
+    "USD/CNY": 6.8002,
+    "USD/AUD": 1.441,
+    "USD/CAD": 1.4172,
+    "USD/CHF": 0.8069,
+    "USD/HKD": 7.8367,
+    "USD/KRW": 1508.2881,
+    "USD/SGD": 1.2926,
+    "USD/INR": 95.4736
   },
   "exchange_changes": {
-    "USD/TWD": -0.09,
-    "USD/JPY": 0.25,
-    "USD/EUR": 0.03,
-    "USD/GBP": -0.08,
-    "USD/CNY": 0.12,
-    "USD/AUD": 0.03,
-    "USD/CAD": -0.22,
-    "USD/CHF": 0.1,
-    "USD/HKD": -0.03,
-    "USD/KRW": -0.72,
-    "USD/SGD": 0.11,
-    "USD/INR": 0.59
+    "USD/TWD": 0.07,
+    "USD/JPY": -0.09,
+    "USD/EUR": -0.15,
+    "USD/GBP": -0.23,
+    "USD/CNY": -0.15,
+    "USD/AUD": -0.12,
+    "USD/CAD": -0.01,
+    "USD/CHF": -0.2,
+    "USD/HKD": -0.04,
+    "USD/KRW": 0.15,
+    "USD/SGD": -0.1,
+    "USD/INR": -0.14
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
+      "title": "We saved £6,000 on holidays by swapping homes with strangers",
+      "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "South Korean chip giant SK Hynix raises $26.5bn in US share sale",
+      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Why electric cars cost more to insure - and what's being done about it",
       "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "Interest rates may need to rise this year, says Bank of England economist",
+      "url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "I run the UK's biggest bank, here are five ways to manage your money",
       "url": "https://www.bbc.co.uk/news/articles/cd7wldr3prro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
-      "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "From mouthwash to hair dye: How weight-loss jabs are changing shopping habits",
-      "url": "https://www.bbc.co.uk/news/articles/cy49w2knlrdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Online marketplaces still selling dozens of unsafe baby products, Which? finds",
-      "url": "https://www.bbc.co.uk/news/articles/c1dy11vvwk1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+      "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/"
+    },
+    {
+      "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
+      "url": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/"
+    },
     {
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
       "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/"
@@ -98,14 +106,6 @@
     {
       "title": "US rare earths flow to Asia as domestic demand is slow to emerge",
       "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/"
-    },
-    {
-      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
-    },
-    {
-      "title": "Newly discovered PamStealer isn't your typical macOS malware",
-      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
