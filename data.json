@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-07-11 09:13:43 (台北時間)",
-  "updated_at_utc": "2026-07-11 01:13:43 (UTC)",
+  "updated_at": "2026-07-12 09:15:02 (台北時間)",
+  "updated_at_utc": "2026-07-12 01:15:02 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.085,
-    "USD/JPY": 161.7689,
-    "USD/EUR": 0.8756,
-    "USD/GBP": 0.746,
-    "USD/CNY": 6.7848,
+    "USD/TWD": 32.0443,
+    "USD/JPY": 161.7876,
+    "USD/EUR": 0.8755,
+    "USD/GBP": 0.7459,
+    "USD/CNY": 6.79,
     "USD/AUD": 1.4387,
-    "USD/CAD": 1.4153,
+    "USD/CAD": 1.4151,
     "USD/CHF": 0.8079,
-    "USD/HKD": 7.8398,
-    "USD/KRW": 1502.9802,
+    "USD/HKD": 7.8397,
+    "USD/KRW": 1501.5874,
     "USD/SGD": 1.2914,
-    "USD/INR": 95.4392
+    "USD/INR": 95.5482
   },
   "exchange_changes": {
-    "USD/TWD": -0.12,
-    "USD/JPY": -0.38,
-    "USD/EUR": 0.09,
-    "USD/GBP": 0.0,
-    "USD/CNY": -0.23,
-    "USD/AUD": -0.16,
-    "USD/CAD": -0.13,
-    "USD/CHF": 0.12,
-    "USD/HKD": 0.04,
-    "USD/KRW": -0.35,
-    "USD/SGD": -0.09,
-    "USD/INR": -0.04
+    "USD/TWD": -0.13,
+    "USD/JPY": 0.01,
+    "USD/EUR": -0.01,
+    "USD/GBP": -0.01,
+    "USD/CNY": 0.08,
+    "USD/AUD": 0.0,
+    "USD/CAD": -0.01,
+    "USD/CHF": 0.0,
+    "USD/HKD": -0.0,
+    "USD/KRW": -0.09,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.11
   },
   "stocks": {
     "道瓊": {
@@ -65,6 +65,10 @@
   },
   "news_economy": [
     {
+      "title": "Will Trump Accounts deliver for American children?",
+      "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Major car firms found not to have installed emissions-cheating devices",
       "url": "https://www.bbc.co.uk/news/articles/c0mye0d1297o?at_medium=RSS&at_campaign=rss"
     },
@@ -79,10 +83,6 @@
     {
       "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Vapes to have less enticing names and flavours to protect children",
-      "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
