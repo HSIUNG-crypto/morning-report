@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-07-22 09:11:54 (台北時間)",
-  "updated_at_utc": "2026-07-22 01:11:54 (UTC)",
+  "updated_at": "2026-07-23 09:19:29 (台北時間)",
+  "updated_at_utc": "2026-07-23 01:19:29 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.3433,
-    "USD/JPY": 163.013,
-    "USD/EUR": 0.8767,
-    "USD/GBP": 0.7471,
-    "USD/CNY": 6.7767,
-    "USD/AUD": 1.4281,
-    "USD/CAD": 1.4095,
-    "USD/CHF": 0.8122,
-    "USD/HKD": 7.842,
-    "USD/KRW": 1480.0207,
-    "USD/SGD": 1.2916,
-    "USD/INR": 96.339
+    "USD/TWD": 32.4098,
+    "USD/JPY": 163.0866,
+    "USD/EUR": 0.8764,
+    "USD/GBP": 0.7477,
+    "USD/CNY": 6.7815,
+    "USD/AUD": 1.4301,
+    "USD/CAD": 1.409,
+    "USD/CHF": 0.8138,
+    "USD/HKD": 7.8402,
+    "USD/KRW": 1478.493,
+    "USD/SGD": 1.2911,
+    "USD/INR": 96.6117
   },
   "exchange_changes": {
-    "USD/TWD": 0.05,
-    "USD/JPY": 0.34,
-    "USD/EUR": 0.1,
-    "USD/GBP": 0.36,
-    "USD/CNY": -0.02,
-    "USD/AUD": -0.03,
-    "USD/CAD": 0.28,
-    "USD/CHF": 0.27,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.09,
-    "USD/SGD": 0.04,
-    "USD/INR": -0.2
+    "USD/TWD": 0.21,
+    "USD/JPY": 0.05,
+    "USD/EUR": -0.03,
+    "USD/GBP": 0.08,
+    "USD/CNY": 0.07,
+    "USD/AUD": 0.14,
+    "USD/CAD": -0.04,
+    "USD/CHF": 0.2,
+    "USD/HKD": -0.02,
+    "USD/KRW": -0.1,
+    "USD/SGD": -0.04,
+    "USD/INR": 0.28
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Will AI help you do your job or replace you?",
+      "title": "Some food prices have fallen – but inflation expected to rise from here",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Airport drop-off fees up by a third - here are the priciest",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Will your job be replaced by AI? Here are the roles most affected",
       "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Boost youth jobs by cutting employers' national insurance, MPs urge",
-      "url": "https://www.bbc.co.uk/news/articles/cy45p77l3zwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "VAT to be cut from household electricity bills in October",
-      "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Ozempic-maker accuses rival of false advertising",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Thames Water lenders offer 'golden share' to head off nationalisation",
-      "url": "https://www.bbc.co.uk/news/articles/clyv43x372wo?at_medium=RSS&at_campaign=rss"
+      "title": "Former Lloyd's of London boss's relationship breached rules, firm says",
+      "url": "https://www.bbc.co.uk/news/articles/cre48d34ewzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
