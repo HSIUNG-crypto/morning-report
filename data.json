@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-07-27 09:23:28 (台北時間)",
-  "updated_at_utc": "2026-07-27 01:23:28 (UTC)",
+  "updated_at": "2026-07-28 09:11:01 (台北時間)",
+  "updated_at_utc": "2026-07-28 01:11:01 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.3533,
-    "USD/JPY": 163.6793,
-    "USD/EUR": 0.878,
-    "USD/GBP": 0.7495,
-    "USD/CNY": 6.7777,
-    "USD/AUD": 1.4304,
-    "USD/CAD": 1.4087,
-    "USD/CHF": 0.8169,
-    "USD/HKD": 7.8424,
-    "USD/KRW": 1459.603,
-    "USD/SGD": 1.29,
-    "USD/INR": 96.6172
+    "USD/TWD": 32.3274,
+    "USD/JPY": 163.7225,
+    "USD/EUR": 0.8788,
+    "USD/GBP": 0.7519,
+    "USD/CNY": 6.7746,
+    "USD/AUD": 1.4307,
+    "USD/CAD": 1.4115,
+    "USD/CHF": 0.8185,
+    "USD/HKD": 7.8418,
+    "USD/KRW": 1467.3343,
+    "USD/SGD": 1.291,
+    "USD/INR": 95.938
   },
   "exchange_changes": {
-    "USD/TWD": 0.01,
-    "USD/JPY": -0.08,
-    "USD/EUR": -0.09,
-    "USD/GBP": -0.16,
-    "USD/CNY": -0.12,
-    "USD/AUD": -0.15,
-    "USD/CAD": 0.03,
-    "USD/CHF": -0.11,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.22,
-    "USD/SGD": -0.08,
-    "USD/INR": 0.0
+    "USD/TWD": -0.08,
+    "USD/JPY": 0.03,
+    "USD/EUR": 0.09,
+    "USD/GBP": 0.32,
+    "USD/CNY": -0.05,
+    "USD/AUD": 0.02,
+    "USD/CAD": 0.2,
+    "USD/CHF": 0.2,
+    "USD/HKD": -0.01,
+    "USD/KRW": 0.53,
+    "USD/SGD": 0.08,
+    "USD/INR": -0.7
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Water returns to Gatwick Airport after major outage",
-      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss"
+      "title": "New technical education routes to be offered at 14 in England",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Would you choose £50,000 over the chance of £1m?",
-      "url": "https://www.bbc.co.uk/news/articles/cn0njd4e2evo?at_medium=RSS&at_campaign=rss"
+      "title": "Some people's chats with Claude AI found publicly available online",
+      "url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Rental searches for pet friendly properties drop after law change",
-      "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss"
+      "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
+      "url": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss"
+      "title": "Cash recovered from ex-Nasa scientist turned scammer",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2x2qprwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-      "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss"
+      "title": "How wildfires in France and Spain might affect your travel plans",
+      "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
+    },
     {
       "title": "TreeSize won't renew perpetual-license support unless users subscribe",
       "url": "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/"
@@ -102,10 +106,6 @@
     {
       "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
       "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/"
-    },
-    {
-      "title": "Sheetz is quitting VMware, migrating 11,000 virtual machines",
-      "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
