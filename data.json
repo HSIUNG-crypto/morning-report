@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-07-30 09:06:59 (台北時間)",
-  "updated_at_utc": "2026-07-30 01:06:59 (UTC)",
+  "updated_at": "2026-07-31 09:19:37 (台北時間)",
+  "updated_at_utc": "2026-07-31 01:19:37 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.3837,
-    "USD/JPY": 163.5309,
-    "USD/EUR": 0.8756,
-    "USD/GBP": 0.7507,
-    "USD/CNY": 6.7736,
-    "USD/AUD": 1.4384,
-    "USD/CAD": 1.4062,
-    "USD/CHF": 0.8171,
-    "USD/HKD": 7.8421,
-    "USD/KRW": 1448.9879,
-    "USD/SGD": 1.2916,
-    "USD/INR": 95.7557
+    "USD/TWD": 32.3782,
+    "USD/JPY": 160.5745,
+    "USD/EUR": 0.8688,
+    "USD/GBP": 0.7446,
+    "USD/CNY": 6.7657,
+    "USD/AUD": 1.427,
+    "USD/CAD": 1.4018,
+    "USD/CHF": 0.8082,
+    "USD/HKD": 7.8433,
+    "USD/KRW": 1429.514,
+    "USD/SGD": 1.2832,
+    "USD/INR": 95.6943
   },
   "exchange_changes": {
-    "USD/TWD": -0.0,
-    "USD/JPY": -0.18,
-    "USD/EUR": -0.35,
-    "USD/GBP": -0.24,
-    "USD/CNY": -0.07,
-    "USD/AUD": 0.32,
-    "USD/CAD": -0.3,
-    "USD/CHF": -0.28,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.59,
-    "USD/SGD": -0.07,
-    "USD/INR": -0.11
+    "USD/TWD": -0.02,
+    "USD/JPY": -1.81,
+    "USD/EUR": -0.78,
+    "USD/GBP": -0.81,
+    "USD/CNY": -0.12,
+    "USD/AUD": -0.79,
+    "USD/CAD": -0.31,
+    "USD/CHF": -1.09,
+    "USD/HKD": 0.02,
+    "USD/KRW": -1.34,
+    "USD/SGD": -0.65,
+    "USD/INR": -0.06
   },
   "stocks": {
     "道瓊": {
@@ -65,30 +65,30 @@
   },
   "news_economy": [
     {
-      "title": "Interest rates expected to be held again by Bank of England",
-      "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss"
+      "title": "Thames Water boss says leakage targets 'not realistic'",
+      "url": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What happens here has a big impact on your money",
-      "url": "https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&at_campaign=rss"
+      "title": "Anthropic says AI models hacked three firms during cyber tests",
+      "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "I dropped out of university and built five beauty businesses. Here's how I did it",
-      "url": "https://www.bbc.co.uk/news/articles/c8jngmk93p9o?at_medium=RSS&at_campaign=rss"
+      "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kvge1pyvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'No magic wand' to tackle high prices, Fed boss says as US interest rates held",
-      "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss"
+      "title": "Apple warns of future 'supply constraints' for Mac, iPhone, iPad",
+      "url": "https://www.bbc.co.uk/news/articles/c204nw64xwno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss"
+      "title": "Andy Burnham to give regional mayors share of income tax",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
     {
-      "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
       "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
     },
     {
@@ -110,5 +110,5 @@
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
-  "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
+  "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
