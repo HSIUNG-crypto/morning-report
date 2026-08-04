@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-03 09:19:27 (台北時間)",
-  "updated_at_utc": "2026-08-03 01:19:27 (UTC)",
+  "updated_at": "2026-08-04 09:11:16 (台北時間)",
+  "updated_at_utc": "2026-08-04 01:11:16 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.2784,
-    "USD/JPY": 158.0155,
-    "USD/EUR": 0.8667,
-    "USD/GBP": 0.7417,
-    "USD/CNY": 6.7598,
-    "USD/AUD": 1.4203,
-    "USD/CAD": 1.4013,
-    "USD/CHF": 0.8074,
-    "USD/HKD": 7.8424,
-    "USD/KRW": 1440.5257,
-    "USD/SGD": 1.282,
-    "USD/INR": 95.4802
+    "USD/TWD": 32.3372,
+    "USD/JPY": 157.1671,
+    "USD/EUR": 0.8687,
+    "USD/GBP": 0.7441,
+    "USD/CNY": 6.7659,
+    "USD/AUD": 1.4288,
+    "USD/CAD": 1.404,
+    "USD/CHF": 0.8099,
+    "USD/HKD": 7.8421,
+    "USD/KRW": 1429.5905,
+    "USD/SGD": 1.2826,
+    "USD/INR": 95.4013
   },
   "exchange_changes": {
-    "USD/TWD": -0.09,
-    "USD/JPY": -0.21,
-    "USD/EUR": -0.21,
-    "USD/GBP": -0.17,
-    "USD/CNY": -0.13,
-    "USD/AUD": -0.29,
-    "USD/CAD": -0.04,
-    "USD/CHF": -0.07,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.16,
-    "USD/SGD": -0.07,
-    "USD/INR": -0.02
+    "USD/TWD": 0.18,
+    "USD/JPY": -0.54,
+    "USD/EUR": 0.23,
+    "USD/GBP": 0.32,
+    "USD/CNY": 0.09,
+    "USD/AUD": 0.6,
+    "USD/CAD": 0.19,
+    "USD/CHF": 0.31,
+    "USD/HKD": -0.0,
+    "USD/KRW": -0.76,
+    "USD/SGD": 0.05,
+    "USD/INR": -0.08
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "The change that may help you get a mortgage as a first-time buyer",
-      "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss"
+      "title": "Half price rail travel extended to 18-year-olds",
+      "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-      "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss"
+      "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+      "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-      "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss"
+      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Passenger on British Airways mayday flight describes fear and shout of 'I don't want to die'",
-      "url": "https://www.bbc.co.uk/news/articles/cn9n2v3lwr0o?at_medium=RSS&at_campaign=rss"
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "AI firms must answer for rogue bots, says boss of hacked company",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k49xjzzeo?at_medium=RSS&at_campaign=rss"
+      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
