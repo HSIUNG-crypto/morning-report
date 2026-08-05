@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-04 09:11:16 (台北時間)",
-  "updated_at_utc": "2026-08-04 01:11:16 (UTC)",
+  "updated_at": "2026-08-05 09:12:21 (台北時間)",
+  "updated_at_utc": "2026-08-05 01:12:21 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.3372,
-    "USD/JPY": 157.1671,
-    "USD/EUR": 0.8687,
-    "USD/GBP": 0.7441,
-    "USD/CNY": 6.7659,
-    "USD/AUD": 1.4288,
-    "USD/CAD": 1.404,
-    "USD/CHF": 0.8099,
-    "USD/HKD": 7.8421,
-    "USD/KRW": 1429.5905,
-    "USD/SGD": 1.2826,
-    "USD/INR": 95.4013
+    "USD/TWD": 32.3549,
+    "USD/JPY": 157.6199,
+    "USD/EUR": 0.8678,
+    "USD/GBP": 0.7437,
+    "USD/CNY": 6.7629,
+    "USD/AUD": 1.421,
+    "USD/CAD": 1.4061,
+    "USD/CHF": 0.8095,
+    "USD/HKD": 7.8426,
+    "USD/KRW": 1428.8903,
+    "USD/SGD": 1.2822,
+    "USD/INR": 95.351
   },
   "exchange_changes": {
-    "USD/TWD": 0.18,
-    "USD/JPY": -0.54,
-    "USD/EUR": 0.23,
-    "USD/GBP": 0.32,
-    "USD/CNY": 0.09,
-    "USD/AUD": 0.6,
-    "USD/CAD": 0.19,
-    "USD/CHF": 0.31,
-    "USD/HKD": -0.0,
-    "USD/KRW": -0.76,
-    "USD/SGD": 0.05,
-    "USD/INR": -0.08
+    "USD/TWD": 0.05,
+    "USD/JPY": 0.29,
+    "USD/EUR": -0.1,
+    "USD/GBP": -0.05,
+    "USD/CNY": -0.04,
+    "USD/AUD": -0.55,
+    "USD/CAD": 0.15,
+    "USD/CHF": -0.05,
+    "USD/HKD": 0.01,
+    "USD/KRW": -0.05,
+    "USD/SGD": -0.03,
+    "USD/INR": -0.05
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Half price rail travel extended to 18-year-olds",
-      "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss"
+      "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+      "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
-      "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss"
+      "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss"
+      "title": "Saudi-led group completes $55bn purchase of gaming giant EA",
+      "url": "https://www.bbc.co.uk/news/articles/cjejyl34345o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss"
+      "title": "The cost of being single – and how friends are teaming up to beat it",
+      "url": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss"
+      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
