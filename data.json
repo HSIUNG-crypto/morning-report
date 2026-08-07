@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-06 09:09:42 (台北時間)",
-  "updated_at_utc": "2026-08-06 01:09:42 (UTC)",
+  "updated_at": "2026-08-07 09:53:54 (台北時間)",
+  "updated_at_utc": "2026-08-07 01:53:54 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.2019,
-    "USD/JPY": 157.6096,
-    "USD/EUR": 0.8657,
-    "USD/GBP": 0.7425,
-    "USD/CNY": 6.7622,
-    "USD/AUD": 1.4176,
-    "USD/CAD": 1.4024,
-    "USD/CHF": 0.8078,
-    "USD/HKD": 7.844,
-    "USD/KRW": 1423.6229,
-    "USD/SGD": 1.2813,
-    "USD/INR": 95.1671
+    "USD/TWD": 32.2107,
+    "USD/JPY": 158.2052,
+    "USD/EUR": 0.8673,
+    "USD/GBP": 0.743,
+    "USD/CNY": 6.7634,
+    "USD/AUD": 1.4215,
+    "USD/CAD": 1.4012,
+    "USD/CHF": 0.8116,
+    "USD/HKD": 7.8447,
+    "USD/KRW": 1423.4801,
+    "USD/SGD": 1.2829,
+    "USD/INR": 95.2668
   },
   "exchange_changes": {
-    "USD/TWD": -0.47,
-    "USD/JPY": -0.01,
-    "USD/EUR": -0.24,
-    "USD/GBP": -0.16,
-    "USD/CNY": -0.01,
-    "USD/AUD": -0.24,
-    "USD/CAD": -0.26,
-    "USD/CHF": -0.21,
-    "USD/HKD": 0.02,
-    "USD/KRW": -0.37,
-    "USD/SGD": -0.07,
-    "USD/INR": -0.19
+    "USD/TWD": 0.03,
+    "USD/JPY": 0.38,
+    "USD/EUR": 0.18,
+    "USD/GBP": 0.07,
+    "USD/CNY": 0.02,
+    "USD/AUD": 0.28,
+    "USD/CAD": -0.09,
+    "USD/CHF": 0.47,
+    "USD/HKD": 0.01,
+    "USD/KRW": -0.01,
+    "USD/SGD": 0.12,
+    "USD/INR": 0.1
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss"
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
-      "url": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss"
+      "title": "Argos is getting a makeover - but can it attract new shoppers?",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump imposes 15% tariff on key chip material to counter China",
+      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Disney agrees deal to let TikTokers use its films and TV shows in videos",
-      "url": "https://www.bbc.co.uk/news/articles/c235ev9knm4o?at_medium=RSS&at_campaign=rss"
+      "title": "EasyJet agrees to £5.7bn takeover by US firm",
+      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Prioritise new jobs over green targets to win public contracts, firms told",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss"
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
