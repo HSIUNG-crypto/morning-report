@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07 09:53:54 (台北時間)",
-  "updated_at_utc": "2026-08-07 01:53:54 (UTC)",
+  "updated_at": "2026-08-08 08:36:16 (台北時間)",
+  "updated_at_utc": "2026-08-08 00:36:16 (UTC)",
   "exchange_rates": {
     "USD/TWD": 32.2107,
     "USD/JPY": 158.2052,
@@ -16,18 +16,18 @@
     "USD/INR": 95.2668
   },
   "exchange_changes": {
-    "USD/TWD": 0.03,
-    "USD/JPY": 0.38,
-    "USD/EUR": 0.18,
-    "USD/GBP": 0.07,
-    "USD/CNY": 0.02,
-    "USD/AUD": 0.28,
-    "USD/CAD": -0.09,
-    "USD/CHF": 0.47,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.01,
-    "USD/SGD": 0.12,
-    "USD/INR": 0.1
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
+      "title": "How a 90-second power outage sparked chaos for rail commuters",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Goodwin considers selling part of defence business",
+      "url": "https://www.bbc.co.uk/news/articles/c20dgpl0z4jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Surprise fall in US jobs last month as slow summer continues",
+      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Argos is getting a makeover - but can it attract new shoppers?",
       "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "EasyJet agrees to £5.7bn takeover by US firm",
-      "url": "https://www.bbc.co.uk/news/articles/cjejzjpy98wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
-      "url": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
