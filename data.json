@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-08 08:36:16 (台北時間)",
-  "updated_at_utc": "2026-08-08 00:36:16 (UTC)",
+  "updated_at": "2026-08-09 08:38:16 (台北時間)",
+  "updated_at_utc": "2026-08-09 00:38:16 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.2107,
-    "USD/JPY": 158.2052,
-    "USD/EUR": 0.8673,
-    "USD/GBP": 0.743,
-    "USD/CNY": 6.7634,
-    "USD/AUD": 1.4215,
-    "USD/CAD": 1.4012,
-    "USD/CHF": 0.8116,
-    "USD/HKD": 7.8447,
-    "USD/KRW": 1423.4801,
-    "USD/SGD": 1.2829,
-    "USD/INR": 95.2668
+    "USD/TWD": 32.1807,
+    "USD/JPY": 157.9261,
+    "USD/EUR": 0.8659,
+    "USD/GBP": 0.7422,
+    "USD/CNY": 6.7651,
+    "USD/AUD": 1.4182,
+    "USD/CAD": 1.3956,
+    "USD/CHF": 0.809,
+    "USD/HKD": 7.8454,
+    "USD/KRW": 1412.1975,
+    "USD/SGD": 1.2796,
+    "USD/INR": 95.2492
   },
   "exchange_changes": {
-    "USD/TWD": 0.0,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.0,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.0
+    "USD/TWD": -0.09,
+    "USD/JPY": -0.18,
+    "USD/EUR": -0.16,
+    "USD/GBP": -0.11,
+    "USD/CNY": 0.03,
+    "USD/AUD": -0.23,
+    "USD/CAD": -0.4,
+    "USD/CHF": -0.32,
+    "USD/HKD": 0.01,
+    "USD/KRW": -0.79,
+    "USD/SGD": -0.26,
+    "USD/INR": -0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,6 +65,10 @@
   },
   "news_economy": [
     {
+      "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "How a 90-second power outage sparked chaos for rail commuters",
       "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss"
     },
@@ -79,10 +83,6 @@
     {
       "title": "Meta fined $567m in largest child safety ruling against social media giant",
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Argos is getting a makeover - but can it attract new shoppers?",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
