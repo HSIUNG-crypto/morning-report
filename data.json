@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-11 08:39:59 (台北時間)",
-  "updated_at_utc": "2026-08-11 00:39:59 (UTC)",
+  "updated_at": "2026-08-12 08:45:29 (台北時間)",
+  "updated_at_utc": "2026-08-12 00:45:29 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.2308,
-    "USD/JPY": 158.9512,
-    "USD/EUR": 0.8659,
+    "USD/TWD": 32.2096,
+    "USD/JPY": 159.2915,
+    "USD/EUR": 0.8665,
     "USD/GBP": 0.7404,
-    "USD/CNY": 6.7554,
-    "USD/AUD": 1.4167,
-    "USD/CAD": 1.3939,
-    "USD/CHF": 0.8095,
-    "USD/HKD": 7.8455,
-    "USD/KRW": 1417.0003,
+    "USD/CNY": 6.7586,
+    "USD/AUD": 1.416,
+    "USD/CAD": 1.3925,
+    "USD/CHF": 0.8109,
+    "USD/HKD": 7.8468,
+    "USD/KRW": 1412.8744,
     "USD/SGD": 1.2801,
-    "USD/INR": 95.3655
+    "USD/INR": 95.4642
   },
   "exchange_changes": {
-    "USD/TWD": 0.16,
-    "USD/JPY": 0.68,
-    "USD/EUR": 0.05,
-    "USD/GBP": -0.15,
+    "USD/TWD": -0.07,
+    "USD/JPY": 0.21,
+    "USD/EUR": 0.07,
+    "USD/GBP": 0.0,
     "USD/CNY": 0.05,
-    "USD/AUD": 0.02,
-    "USD/CAD": -0.11,
-    "USD/CHF": 0.12,
-    "USD/HKD": -0.0,
-    "USD/KRW": 0.52,
-    "USD/SGD": 0.08,
-    "USD/INR": 0.12
+    "USD/AUD": -0.05,
+    "USD/CAD": -0.1,
+    "USD/CHF": 0.17,
+    "USD/HKD": 0.02,
+    "USD/KRW": -0.29,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.1
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
-      "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
+      "title": "First 'pounds for pylons' energy bill discount sites revealed",
+      "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
-      "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss"
+      "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
+      "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Thames Water gave finance boss a £1m signing-on fee",
-      "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss"
+      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+      "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ban on 'subscription traps' brought forward by three months",
-      "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss"
+      "title": "Tributes to co-founder of John Pye auction house",
+      "url": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Consortium advances talks for stake in Liverpool",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/"
+    },
+    {
+      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "url": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/"
+    },
     {
       "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
       "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
@@ -98,17 +106,9 @@
     {
       "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
       "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/"
-    },
-    {
-      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
-    },
-    {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
-  "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
+  "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
