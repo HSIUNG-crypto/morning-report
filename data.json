@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-12 08:45:29 (台北時間)",
-  "updated_at_utc": "2026-08-12 00:45:29 (UTC)",
+  "updated_at": "2026-08-13 08:47:26 (台北時間)",
+  "updated_at_utc": "2026-08-13 00:47:26 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.2096,
-    "USD/JPY": 159.2915,
-    "USD/EUR": 0.8665,
-    "USD/GBP": 0.7404,
-    "USD/CNY": 6.7586,
-    "USD/AUD": 1.416,
-    "USD/CAD": 1.3925,
-    "USD/CHF": 0.8109,
-    "USD/HKD": 7.8468,
-    "USD/KRW": 1412.8744,
-    "USD/SGD": 1.2801,
-    "USD/INR": 95.4642
+    "USD/TWD": 32.2002,
+    "USD/JPY": 159.2909,
+    "USD/EUR": 0.867,
+    "USD/GBP": 0.7405,
+    "USD/CNY": 6.7569,
+    "USD/AUD": 1.4156,
+    "USD/CAD": 1.3932,
+    "USD/CHF": 0.8127,
+    "USD/HKD": 7.8474,
+    "USD/KRW": 1416.7654,
+    "USD/SGD": 1.2798,
+    "USD/INR": 95.412
   },
   "exchange_changes": {
-    "USD/TWD": -0.07,
-    "USD/JPY": 0.21,
-    "USD/EUR": 0.07,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.05,
-    "USD/AUD": -0.05,
-    "USD/CAD": -0.1,
-    "USD/CHF": 0.17,
-    "USD/HKD": 0.02,
-    "USD/KRW": -0.29,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.1
+    "USD/TWD": -0.03,
+    "USD/JPY": -0.0,
+    "USD/EUR": 0.06,
+    "USD/GBP": 0.01,
+    "USD/CNY": -0.03,
+    "USD/AUD": -0.03,
+    "USD/CAD": 0.05,
+    "USD/CHF": 0.22,
+    "USD/HKD": 0.01,
+    "USD/KRW": 0.28,
+    "USD/SGD": -0.02,
+    "USD/INR": -0.05
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "First 'pounds for pylons' energy bill discount sites revealed",
-      "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump sued over Truth Social's $100,000 early access service",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Discord ordered to suspend livestreams in Brazil",
+      "url": "https://www.bbc.co.uk/news/articles/cgewpqxyrddo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Burnham warned Iran war could hit UK growth next year",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US inflation eases as food and fuel costs cool",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Sun-tanned cauliflowers and knobbly spuds - the heatwave veg that's good to eat",
       "url": "https://www.bbc.co.uk/news/articles/c4g360z8d2lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
-      "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Tributes to co-founder of John Pye auction house",
-      "url": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
+    },
+    {
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/"
+    },
     {
       "title": "Chrome adopts what may be the best protection yet against account takeovers",
       "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/"
@@ -98,17 +106,9 @@
     {
       "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
       "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
-    },
-    {
-      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
-      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/"
-    },
-    {
-      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-      "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
