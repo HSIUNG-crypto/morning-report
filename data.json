@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-15 08:26:05 (台北時間)",
-  "updated_at_utc": "2026-08-15 00:26:05 (UTC)",
+  "updated_at": "2026-08-16 08:26:03 (台北時間)",
+  "updated_at_utc": "2026-08-16 00:26:03 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.9717,
-    "USD/JPY": 159.2372,
-    "USD/EUR": 0.8646,
-    "USD/GBP": 0.7388,
-    "USD/CNY": 6.7556,
-    "USD/AUD": 1.4123,
-    "USD/CAD": 1.3873,
-    "USD/CHF": 0.813,
-    "USD/HKD": 7.8475,
-    "USD/KRW": 1415.4341,
+    "USD/TWD": 31.9873,
+    "USD/JPY": 159.2258,
+    "USD/EUR": 0.8647,
+    "USD/GBP": 0.739,
+    "USD/CNY": 6.7606,
+    "USD/AUD": 1.4129,
+    "USD/CAD": 1.3875,
+    "USD/CHF": 0.8129,
+    "USD/HKD": 7.8476,
+    "USD/KRW": 1414.8605,
     "USD/SGD": 1.279,
-    "USD/INR": 95.5313
+    "USD/INR": 95.5035
   },
   "exchange_changes": {
-    "USD/TWD": -0.47,
-    "USD/JPY": -0.1,
-    "USD/EUR": -0.29,
-    "USD/GBP": -0.34,
-    "USD/CNY": -0.02,
-    "USD/AUD": -0.31,
-    "USD/CAD": -0.44,
-    "USD/CHF": -0.06,
-    "USD/HKD": -0.0,
-    "USD/KRW": -0.21,
-    "USD/SGD": -0.1,
-    "USD/INR": 0.06
+    "USD/TWD": 0.05,
+    "USD/JPY": -0.01,
+    "USD/EUR": 0.01,
+    "USD/GBP": 0.03,
+    "USD/CNY": 0.07,
+    "USD/AUD": 0.04,
+    "USD/CAD": 0.01,
+    "USD/CHF": -0.01,
+    "USD/HKD": 0.0,
+    "USD/KRW": -0.04,
+    "USD/SGD": 0.0,
+    "USD/INR": -0.03
   },
   "stocks": {
     "道瓊": {
@@ -69,7 +69,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
       "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
     },
     {
