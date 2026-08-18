@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-17 08:24:37 (台北時間)",
-  "updated_at_utc": "2026-08-17 00:24:37 (UTC)",
+  "updated_at": "2026-08-18 08:24:40 (台北時間)",
+  "updated_at_utc": "2026-08-18 00:24:40 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.9667,
-    "USD/JPY": 159.2045,
-    "USD/EUR": 0.8642,
-    "USD/GBP": 0.7385,
-    "USD/CNY": 6.7487,
-    "USD/AUD": 1.4117,
-    "USD/CAD": 1.3873,
-    "USD/CHF": 0.8127,
-    "USD/HKD": 7.8475,
-    "USD/KRW": 1415.0994,
-    "USD/SGD": 1.2791,
-    "USD/INR": 95.6104
+    "USD/TWD": 31.8395,
+    "USD/JPY": 159.3139,
+    "USD/EUR": 0.8631,
+    "USD/GBP": 0.7379,
+    "USD/CNY": 6.7531,
+    "USD/AUD": 1.4068,
+    "USD/CAD": 1.3865,
+    "USD/CHF": 0.8105,
+    "USD/HKD": 7.8451,
+    "USD/KRW": 1414.423,
+    "USD/SGD": 1.277,
+    "USD/INR": 95.695
   },
   "exchange_changes": {
-    "USD/TWD": -0.06,
-    "USD/JPY": -0.01,
-    "USD/EUR": -0.06,
-    "USD/GBP": -0.07,
-    "USD/CNY": -0.18,
-    "USD/AUD": -0.08,
-    "USD/CAD": -0.01,
-    "USD/CHF": -0.02,
-    "USD/HKD": -0.0,
-    "USD/KRW": 0.02,
-    "USD/SGD": 0.01,
-    "USD/INR": 0.11
+    "USD/TWD": -0.4,
+    "USD/JPY": 0.07,
+    "USD/EUR": -0.13,
+    "USD/GBP": -0.08,
+    "USD/CNY": 0.07,
+    "USD/AUD": -0.35,
+    "USD/CAD": -0.06,
+    "USD/CHF": -0.27,
+    "USD/HKD": -0.03,
+    "USD/KRW": -0.05,
+    "USD/SGD": -0.16,
+    "USD/INR": 0.09
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Changing pubs into homes to be made harder under new rules",
-      "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss"
+      "title": "To joke or not to joke?: How to write a good out-of-office message",
+      "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
-      "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss"
+      "title": "Virgin takes step towards running Channel Tunnel rail services",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss"
+      "title": "Fifa official sacked after Infantino plan criticism",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Selena Gomez sued for alleged fraud over mental health company",
-      "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss"
+      "title": "Film commission backs Amazon MGM expansion of studios",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
-      "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss"
+      "title": "How switching your bank account could earn you up to £220",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Nvidia discloses $21B stake in SpaceX",
+      "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
+    },
     {
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/"
@@ -102,13 +106,9 @@
     {
       "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
       "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/"
-    },
-    {
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
