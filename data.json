@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-18 08:24:40 (台北時間)",
-  "updated_at_utc": "2026-08-18 00:24:40 (UTC)",
+  "updated_at": "2026-08-19 08:24:38 (台北時間)",
+  "updated_at_utc": "2026-08-19 00:24:38 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8395,
-    "USD/JPY": 159.3139,
-    "USD/EUR": 0.8631,
-    "USD/GBP": 0.7379,
-    "USD/CNY": 6.7531,
-    "USD/AUD": 1.4068,
-    "USD/CAD": 1.3865,
-    "USD/CHF": 0.8105,
-    "USD/HKD": 7.8451,
-    "USD/KRW": 1414.423,
-    "USD/SGD": 1.277,
-    "USD/INR": 95.695
+    "USD/TWD": 31.8922,
+    "USD/JPY": 159.5908,
+    "USD/EUR": 0.8639,
+    "USD/GBP": 0.7388,
+    "USD/CNY": 6.7569,
+    "USD/AUD": 1.4099,
+    "USD/CAD": 1.3888,
+    "USD/CHF": 0.8125,
+    "USD/HKD": 7.8438,
+    "USD/KRW": 1411.9309,
+    "USD/SGD": 1.2782,
+    "USD/INR": 95.7669
   },
   "exchange_changes": {
-    "USD/TWD": -0.4,
-    "USD/JPY": 0.07,
-    "USD/EUR": -0.13,
-    "USD/GBP": -0.08,
-    "USD/CNY": 0.07,
-    "USD/AUD": -0.35,
-    "USD/CAD": -0.06,
-    "USD/CHF": -0.27,
-    "USD/HKD": -0.03,
-    "USD/KRW": -0.05,
-    "USD/SGD": -0.16,
-    "USD/INR": 0.09
+    "USD/TWD": 0.17,
+    "USD/JPY": 0.17,
+    "USD/EUR": 0.09,
+    "USD/GBP": 0.12,
+    "USD/CNY": 0.06,
+    "USD/AUD": 0.22,
+    "USD/CAD": 0.17,
+    "USD/CHF": 0.25,
+    "USD/HKD": -0.02,
+    "USD/KRW": -0.18,
+    "USD/SGD": 0.09,
+    "USD/INR": 0.08
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "To joke or not to joke?: How to write a good out-of-office message",
-      "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss"
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Virgin takes step towards running Channel Tunnel rail services",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss"
+      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Fifa official sacked after Infantino plan criticism",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss"
+      "title": "Mobile payments on the rise but cash decline slows",
+      "url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Film commission backs Amazon MGM expansion of studios",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8wjvd2q4o?at_medium=RSS&at_campaign=rss"
+      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+      "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How switching your bank account could earn you up to £220",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss"
+      "title": "Wetherspoons bans customers playing music from phones in pubs",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
+    },
     {
       "title": "Nvidia discloses $21B stake in SpaceX",
       "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
@@ -102,13 +106,9 @@
     {
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
-    },
-    {
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
