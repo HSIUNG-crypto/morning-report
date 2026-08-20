@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-19 08:24:38 (台北時間)",
-  "updated_at_utc": "2026-08-19 00:24:38 (UTC)",
+  "updated_at": "2026-08-20 08:25:09 (台北時間)",
+  "updated_at_utc": "2026-08-20 00:25:09 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8922,
-    "USD/JPY": 159.5908,
-    "USD/EUR": 0.8639,
-    "USD/GBP": 0.7388,
-    "USD/CNY": 6.7569,
-    "USD/AUD": 1.4099,
-    "USD/CAD": 1.3888,
-    "USD/CHF": 0.8125,
-    "USD/HKD": 7.8438,
-    "USD/KRW": 1411.9309,
-    "USD/SGD": 1.2782,
-    "USD/INR": 95.7669
+    "USD/TWD": 31.8085,
+    "USD/JPY": 158.5485,
+    "USD/EUR": 0.8584,
+    "USD/GBP": 0.7359,
+    "USD/CNY": 6.7461,
+    "USD/AUD": 1.4072,
+    "USD/CAD": 1.3827,
+    "USD/CHF": 0.8031,
+    "USD/HKD": 7.841,
+    "USD/KRW": 1391.0316,
+    "USD/SGD": 1.273,
+    "USD/INR": 95.7527
   },
   "exchange_changes": {
-    "USD/TWD": 0.17,
-    "USD/JPY": 0.17,
-    "USD/EUR": 0.09,
-    "USD/GBP": 0.12,
-    "USD/CNY": 0.06,
-    "USD/AUD": 0.22,
-    "USD/CAD": 0.17,
-    "USD/CHF": 0.25,
-    "USD/HKD": -0.02,
-    "USD/KRW": -0.18,
-    "USD/SGD": 0.09,
-    "USD/INR": 0.08
+    "USD/TWD": -0.26,
+    "USD/JPY": -0.65,
+    "USD/EUR": -0.64,
+    "USD/GBP": -0.39,
+    "USD/CNY": -0.16,
+    "USD/AUD": -0.19,
+    "USD/CAD": -0.44,
+    "USD/CHF": -1.16,
+    "USD/HKD": -0.04,
+    "USD/KRW": -1.48,
+    "USD/SGD": -0.41,
+    "USD/INR": -0.01
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Meta hooked children on Facebook and Instagram, court hears",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss"
+      "title": "US national debt passes $40tn after doubling in a decade",
+      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss"
+      "title": "I quit my £80,000 job to make ice cream - here's how",
+      "url": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Mobile payments on the rise but cash decline slows",
-      "url": "https://www.bbc.co.uk/news/articles/cd7l9en2qrjo?at_medium=RSS&at_campaign=rss"
+      "title": "Inflation is heating up but don't expect another crisis",
+      "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
-      "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss"
+      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Wetherspoons bans customers playing music from phones in pubs",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo?at_medium=RSS&at_campaign=rss"
+      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
