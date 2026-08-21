@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-20 08:25:09 (台北時間)",
-  "updated_at_utc": "2026-08-20 00:25:09 (UTC)",
+  "updated_at": "2026-08-21 08:27:29 (台北時間)",
+  "updated_at_utc": "2026-08-21 00:27:29 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8085,
-    "USD/JPY": 158.5485,
-    "USD/EUR": 0.8584,
-    "USD/GBP": 0.7359,
-    "USD/CNY": 6.7461,
-    "USD/AUD": 1.4072,
-    "USD/CAD": 1.3827,
-    "USD/CHF": 0.8031,
-    "USD/HKD": 7.841,
-    "USD/KRW": 1391.0316,
-    "USD/SGD": 1.273,
-    "USD/INR": 95.7527
+    "USD/TWD": 31.8622,
+    "USD/JPY": 158.8265,
+    "USD/EUR": 0.856,
+    "USD/GBP": 0.7335,
+    "USD/CNY": 6.7394,
+    "USD/AUD": 1.405,
+    "USD/CAD": 1.3781,
+    "USD/CHF": 0.7996,
+    "USD/HKD": 7.8433,
+    "USD/KRW": 1394.7066,
+    "USD/SGD": 1.2718,
+    "USD/INR": 95.7694
   },
   "exchange_changes": {
-    "USD/TWD": -0.26,
-    "USD/JPY": -0.65,
-    "USD/EUR": -0.64,
-    "USD/GBP": -0.39,
-    "USD/CNY": -0.16,
-    "USD/AUD": -0.19,
-    "USD/CAD": -0.44,
-    "USD/CHF": -1.16,
-    "USD/HKD": -0.04,
-    "USD/KRW": -1.48,
-    "USD/SGD": -0.41,
-    "USD/INR": -0.01
+    "USD/TWD": 0.17,
+    "USD/JPY": 0.18,
+    "USD/EUR": -0.28,
+    "USD/GBP": -0.33,
+    "USD/CNY": -0.1,
+    "USD/AUD": -0.16,
+    "USD/CAD": -0.33,
+    "USD/CHF": -0.44,
+    "USD/HKD": 0.03,
+    "USD/KRW": 0.26,
+    "USD/SGD": -0.09,
+    "USD/INR": 0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "US national debt passes $40tn after doubling in a decade",
-      "url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss"
+      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "I quit my £80,000 job to make ice cream - here's how",
-      "url": "https://www.bbc.co.uk/news/articles/cz97148eye0o?at_medium=RSS&at_campaign=rss"
+      "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
+      "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Inflation is heating up but don't expect another crisis",
-      "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss"
+      "title": "Why the US economy is ringing alarm bells",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Jump in energy bills drives UK inflation to highest rate for four months",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss"
+      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
+      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trainline, Virgin Atlantic and RED Driving School investigated over 'drip pricing'",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjqe62574o?at_medium=RSS&at_campaign=rss"
+      "title": "Walmart sales under strain as US shoppers pull back",
+      "url": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
+    },
     {
       "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
       "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
@@ -102,13 +106,9 @@
     {
       "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
       "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/"
-    },
-    {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
