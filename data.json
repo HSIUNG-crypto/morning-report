@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-21 08:27:29 (台北時間)",
-  "updated_at_utc": "2026-08-21 00:27:29 (UTC)",
+  "updated_at": "2026-08-22 08:24:53 (台北時間)",
+  "updated_at_utc": "2026-08-22 00:24:53 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8622,
-    "USD/JPY": 158.8265,
+    "USD/TWD": 31.8124,
+    "USD/JPY": 158.9549,
     "USD/EUR": 0.856,
-    "USD/GBP": 0.7335,
-    "USD/CNY": 6.7394,
-    "USD/AUD": 1.405,
-    "USD/CAD": 1.3781,
-    "USD/CHF": 0.7996,
-    "USD/HKD": 7.8433,
-    "USD/KRW": 1394.7066,
-    "USD/SGD": 1.2718,
-    "USD/INR": 95.7694
+    "USD/GBP": 0.7333,
+    "USD/CNY": 6.7379,
+    "USD/AUD": 1.3959,
+    "USD/CAD": 1.3763,
+    "USD/CHF": 0.8009,
+    "USD/HKD": 7.8402,
+    "USD/KRW": 1385.7418,
+    "USD/SGD": 1.2692,
+    "USD/INR": 95.7547
   },
   "exchange_changes": {
-    "USD/TWD": 0.17,
-    "USD/JPY": 0.18,
-    "USD/EUR": -0.28,
-    "USD/GBP": -0.33,
-    "USD/CNY": -0.1,
-    "USD/AUD": -0.16,
-    "USD/CAD": -0.33,
-    "USD/CHF": -0.44,
-    "USD/HKD": 0.03,
-    "USD/KRW": 0.26,
-    "USD/SGD": -0.09,
-    "USD/INR": 0.02
+    "USD/TWD": -0.16,
+    "USD/JPY": 0.08,
+    "USD/EUR": 0.0,
+    "USD/GBP": -0.03,
+    "USD/CNY": -0.02,
+    "USD/AUD": -0.65,
+    "USD/CAD": -0.13,
+    "USD/CHF": 0.16,
+    "USD/HKD": -0.04,
+    "USD/KRW": -0.64,
+    "USD/SGD": -0.2,
+    "USD/INR": -0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss"
+      "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
+      "title": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
+      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
+      "url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Millennials have found it hard to buy homes – but things may be turning a corner",
       "url": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why the US economy is ringing alarm bells",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Walmart sales under strain as US shoppers pull back",
-      "url": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss"
+      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+      "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/"
+    },
     {
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
@@ -102,13 +106,9 @@
     {
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/"
-    },
-    {
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
