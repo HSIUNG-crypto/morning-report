@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-24 08:26:11 (台北時間)",
-  "updated_at_utc": "2026-08-24 00:26:11 (UTC)",
+  "updated_at": "2026-08-25 08:26:06 (台北時間)",
+  "updated_at_utc": "2026-08-25 00:26:06 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.7982,
-    "USD/JPY": 158.9063,
-    "USD/EUR": 0.8562,
-    "USD/GBP": 0.7329,
-    "USD/CNY": 6.7291,
-    "USD/AUD": 1.3952,
-    "USD/CAD": 1.3785,
-    "USD/CHF": 0.8008,
-    "USD/HKD": 7.8398,
-    "USD/KRW": 1385.479,
-    "USD/SGD": 1.2695,
-    "USD/INR": 95.7937
+    "USD/TWD": 31.8106,
+    "USD/JPY": 159.1254,
+    "USD/EUR": 0.8572,
+    "USD/GBP": 0.7335,
+    "USD/CNY": 6.7387,
+    "USD/AUD": 1.3976,
+    "USD/CAD": 1.3838,
+    "USD/CHF": 0.8023,
+    "USD/HKD": 7.8374,
+    "USD/KRW": 1383.1185,
+    "USD/SGD": 1.2703,
+    "USD/INR": 95.7989
   },
   "exchange_changes": {
-    "USD/TWD": -0.08,
-    "USD/JPY": 0.02,
-    "USD/EUR": 0.02,
-    "USD/GBP": -0.01,
-    "USD/CNY": -0.21,
-    "USD/AUD": -0.11,
-    "USD/CAD": 0.17,
-    "USD/CHF": -0.01,
-    "USD/HKD": -0.01,
-    "USD/KRW": 0.07,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.05
+    "USD/TWD": 0.04,
+    "USD/JPY": 0.14,
+    "USD/EUR": 0.12,
+    "USD/GBP": 0.08,
+    "USD/CNY": 0.14,
+    "USD/AUD": 0.17,
+    "USD/CAD": 0.38,
+    "USD/CHF": 0.19,
+    "USD/HKD": -0.03,
+    "USD/KRW": -0.17,
+    "USD/SGD": 0.06,
+    "USD/INR": 0.01
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Review launched into how pub and hotel business rates calculated",
-      "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss"
+      "title": "New 10p coin enters circulation - will you spot one?",
+      "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why students are being paid £2,000 to play computer games",
-      "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&at_campaign=rss"
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'I didn't speak the Queen's English': Why people worry about their accents",
-      "url": "https://www.bbc.co.uk/news/articles/c05q318501yo?at_medium=RSS&at_campaign=rss"
+      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+      "url": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Struggling households need more help with bills, energy industry says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "CrossCountry cancels 'almost all' UK services after power cut",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss"
+      "title": "70,000 social and affordable homes to be built across England as part of £39bn plan",
+      "url": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
+      "url": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/"
+    },
     {
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
       "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/"
@@ -102,13 +106,9 @@
     {
       "title": "Nvidia discloses $21B stake in SpaceX",
       "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
-    },
-    {
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
