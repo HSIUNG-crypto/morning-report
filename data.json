@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-08-31 09:42:43 (台北時間)",
-  "updated_at_utc": "2026-08-31 01:42:43 (UTC)",
+  "updated_at": "2026-09-01 10:06:38 (台北時間)",
+  "updated_at_utc": "2026-09-01 02:06:38 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6493,
-    "USD/JPY": 160.0451,
-    "USD/EUR": 0.8623,
-    "USD/GBP": 0.7382,
-    "USD/CNY": 6.7358,
+    "USD/TWD": 31.6997,
+    "USD/JPY": 159.7877,
+    "USD/EUR": 0.8614,
+    "USD/GBP": 0.7384,
+    "USD/CNY": 6.7362,
     "USD/AUD": 1.3959,
-    "USD/CAD": 1.3892,
-    "USD/CHF": 0.808,
-    "USD/HKD": 7.8404,
-    "USD/KRW": 1376.5967,
-    "USD/SGD": 1.2738,
-    "USD/INR": 95.5816
+    "USD/CAD": 1.3863,
+    "USD/CHF": 0.8086,
+    "USD/HKD": 7.8388,
+    "USD/KRW": 1368.5229,
+    "USD/SGD": 1.2717,
+    "USD/INR": 95.2014
   },
   "exchange_changes": {
-    "USD/TWD": -0.04,
-    "USD/JPY": 0.07,
-    "USD/EUR": 0.09,
-    "USD/GBP": 0.04,
-    "USD/CNY": -0.15,
-    "USD/AUD": 0.09,
-    "USD/CAD": 0.03,
-    "USD/CHF": -0.01,
-    "USD/HKD": 0.0,
-    "USD/KRW": -0.09,
-    "USD/SGD": 0.05,
-    "USD/INR": -0.07
+    "USD/TWD": 0.16,
+    "USD/JPY": -0.16,
+    "USD/EUR": -0.1,
+    "USD/GBP": 0.03,
+    "USD/CNY": 0.01,
+    "USD/AUD": 0.0,
+    "USD/CAD": -0.21,
+    "USD/CHF": 0.07,
+    "USD/HKD": -0.02,
+    "USD/KRW": -0.59,
+    "USD/SGD": -0.16,
+    "USD/INR": -0.4
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
-      "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss"
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How the US-Canada trade war is being felt on both sides of the border",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss"
+      "title": "Shein shares slide in long-awaited stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
+      "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-      "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss"
+      "title": "Japan Inc is betting big on India as China risks deepen",
+      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Wife of man who died after turbulence sues airline",
-      "url": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss"
+      "title": "Kushner states regret over World Cup sell-off plan",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Think twice before installing this device promising free movies",
+      "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/"
+    },
     {
       "title": "Inside Meta’s push to put robots to work in data centers",
       "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
@@ -102,13 +106,9 @@
     {
       "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
       "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/"
-    },
-    {
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
