@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-03 09:33:13 (台北時間)",
-  "updated_at_utc": "2026-09-03 01:33:13 (UTC)",
+  "updated_at": "2026-09-04 09:26:57 (台北時間)",
+  "updated_at_utc": "2026-09-04 01:26:57 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.7576,
-    "USD/JPY": 159.0888,
-    "USD/EUR": 0.8633,
-    "USD/GBP": 0.7416,
-    "USD/CNY": 6.7365,
-    "USD/AUD": 1.3967,
-    "USD/CAD": 1.3865,
-    "USD/CHF": 0.8134,
-    "USD/HKD": 7.8418,
-    "USD/KRW": 1361.1392,
-    "USD/SGD": 1.2717,
-    "USD/INR": 94.8924
+    "USD/TWD": 31.6872,
+    "USD/JPY": 156.0197,
+    "USD/EUR": 0.8606,
+    "USD/GBP": 0.7398,
+    "USD/CNY": 6.7355,
+    "USD/AUD": 1.3897,
+    "USD/CAD": 1.3793,
+    "USD/CHF": 0.8082,
+    "USD/HKD": 7.8405,
+    "USD/KRW": 1356.7317,
+    "USD/SGD": 1.2674,
+    "USD/INR": 94.5405
   },
   "exchange_changes": {
-    "USD/TWD": 0.12,
-    "USD/JPY": -0.64,
-    "USD/EUR": 0.09,
-    "USD/GBP": 0.3,
+    "USD/TWD": -0.22,
+    "USD/JPY": -1.93,
+    "USD/EUR": -0.31,
+    "USD/GBP": -0.24,
     "USD/CNY": -0.01,
-    "USD/AUD": -0.18,
-    "USD/CAD": -0.19,
-    "USD/CHF": 0.26,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.92,
-    "USD/SGD": -0.1,
-    "USD/INR": -0.11
+    "USD/AUD": -0.5,
+    "USD/CAD": -0.52,
+    "USD/CHF": -0.64,
+    "USD/HKD": -0.02,
+    "USD/KRW": -0.32,
+    "USD/SGD": -0.34,
+    "USD/INR": -0.37
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-      "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss"
+      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+      "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Almost half of households do not see benefits of economic growth, report says",
-      "url": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss"
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'I don't even like them': How much should you give to office gift collections?",
-      "url": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss"
+      "title": "'I lost my savings after a job interview scam'",
+      "url": "https://www.bbc.co.uk/news/articles/crk3xd8j3k5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-      "url": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss"
+      "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss"
+      "title": "Is India's internet boom running into an undersea problem?",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+      "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/"
+    },
+    {
+      "title": "VMware migration reduces Tottenham Hotspur's licensing fees by 85 percent",
+      "url": "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/"
+    },
     {
       "title": "I rented a car, and within hours, my driver's license was for sale",
       "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/"
@@ -98,17 +106,9 @@
     {
       "title": "Think twice before installing this device promising free movies",
       "url": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/"
-    },
-    {
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
-    },
-    {
-      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
