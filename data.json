@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-11 09:32:16 (台北時間)",
-  "updated_at_utc": "2026-09-11 01:32:16 (UTC)",
+  "updated_at": "2026-09-12 09:38:44 (台北時間)",
+  "updated_at_utc": "2026-09-12 01:38:44 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.6004,
-    "USD/JPY": 154.2501,
-    "USD/EUR": 0.8607,
-    "USD/GBP": 0.7397,
-    "USD/CNY": 6.728,
+    "USD/TWD": 31.578,
+    "USD/JPY": 153.7596,
+    "USD/EUR": 0.862,
+    "USD/GBP": 0.7395,
+    "USD/CNY": 6.7253,
     "USD/AUD": 1.3947,
-    "USD/CAD": 1.3825,
-    "USD/CHF": 0.8125,
-    "USD/HKD": 7.8412,
-    "USD/KRW": 1345.0616,
+    "USD/CAD": 1.3861,
+    "USD/CHF": 0.8161,
+    "USD/HKD": 7.8425,
+    "USD/KRW": 1342.5345,
     "USD/SGD": 1.2671,
-    "USD/INR": 95.5137
+    "USD/INR": 95.6018
   },
   "exchange_changes": {
-    "USD/TWD": 0.41,
-    "USD/JPY": 0.43,
-    "USD/EUR": 0.13,
-    "USD/GBP": 0.23,
-    "USD/CNY": 0.04,
-    "USD/AUD": 0.72,
-    "USD/CAD": 0.22,
-    "USD/CHF": 0.37,
-    "USD/HKD": -0.02,
-    "USD/KRW": 0.45,
-    "USD/SGD": 0.23,
-    "USD/INR": 0.41
+    "USD/TWD": -0.07,
+    "USD/JPY": -0.32,
+    "USD/EUR": 0.15,
+    "USD/GBP": -0.03,
+    "USD/CNY": -0.04,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.26,
+    "USD/CHF": 0.44,
+    "USD/HKD": 0.02,
+    "USD/KRW": -0.19,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.09
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "I asked my husband to pay into my pension when we had a child - here's why",
-      "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss"
+      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+      "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Are interest rates on the way up again?",
+      "title": "US prices remain high as fuel costs squeeze household budgets",
+      "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Interest rates could rise again across the world – here's why",
       "url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-      "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss"
+      "title": "AI boom helps drive surprise UK growth in July",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Alstom to build new battery-electric train fleet",
-      "url": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
-      "url": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss"
+      "title": "I asked my husband to pay into my pension when we had a child - here's why",
+      "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/"
+    },
     {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
@@ -102,10 +106,6 @@
     {
       "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
       "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/"
-    },
-    {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/"
     }
   ],
   "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
