@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-14 09:47:09 (台北時間)",
-  "updated_at_utc": "2026-09-14 01:47:09 (UTC)",
+  "updated_at": "2026-09-15 09:56:56 (台北時間)",
+  "updated_at_utc": "2026-09-15 01:56:56 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.5598,
-    "USD/JPY": 153.6117,
-    "USD/EUR": 0.8622,
-    "USD/GBP": 0.7395,
-    "USD/CNY": 6.7156,
-    "USD/AUD": 1.3976,
-    "USD/CAD": 1.3863,
-    "USD/CHF": 0.8166,
-    "USD/HKD": 7.8423,
-    "USD/KRW": 1342.6345,
-    "USD/SGD": 1.2671,
-    "USD/INR": 95.614
+    "USD/TWD": 31.7754,
+    "USD/JPY": 154.389,
+    "USD/EUR": 0.8657,
+    "USD/GBP": 0.741,
+    "USD/CNY": 6.7252,
+    "USD/AUD": 1.4016,
+    "USD/CAD": 1.39,
+    "USD/CHF": 0.8174,
+    "USD/HKD": 7.8435,
+    "USD/KRW": 1347.1997,
+    "USD/SGD": 1.2706,
+    "USD/INR": 95.6745
   },
   "exchange_changes": {
-    "USD/TWD": -0.02,
-    "USD/JPY": -0.12,
-    "USD/EUR": 0.05,
-    "USD/GBP": 0.01,
-    "USD/CNY": -0.23,
-    "USD/AUD": 0.17,
-    "USD/CAD": 0.04,
-    "USD/CHF": 0.07,
-    "USD/HKD": 0.0,
-    "USD/KRW": -0.03,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.04
+    "USD/TWD": 0.68,
+    "USD/JPY": 0.51,
+    "USD/EUR": 0.41,
+    "USD/GBP": 0.2,
+    "USD/CNY": 0.14,
+    "USD/AUD": 0.29,
+    "USD/CAD": 0.27,
+    "USD/CHF": 0.1,
+    "USD/HKD": 0.02,
+    "USD/KRW": 0.34,
+    "USD/SGD": 0.28,
+    "USD/INR": 0.06
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Gloomy forecast for tenants as rent rises set to speed up",
-      "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss"
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Culture shift' needed in how UK does business, PM urges",
-      "url": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss"
+      "title": "I got paid $5,000 to move to a place I'd never heard of",
+      "url": "https://www.bbc.co.uk/news/articles/c3eq7485kewo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How to protect your laptop, phone and bike from thieves at uni",
-      "url": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss"
+      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+      "title": "Government set to nationalise troubled steel firm",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss"
+      "title": "Petrol and diesel prices hit highest since 2022",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
+    },
     {
       "title": "ClickFix attacks infecting PCs and Macs are going viral",
       "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/"
@@ -102,13 +106,9 @@
     {
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
       "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
-    },
-    {
-      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
