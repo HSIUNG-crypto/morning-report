@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-16 09:47:27 (台北時間)",
-  "updated_at_utc": "2026-09-16 01:47:27 (UTC)",
+  "updated_at": "2026-09-17 09:51:23 (台北時間)",
+  "updated_at_utc": "2026-09-17 01:51:23 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8404,
-    "USD/JPY": 155.076,
-    "USD/EUR": 0.8667,
-    "USD/GBP": 0.742,
-    "USD/CNY": 6.7268,
-    "USD/AUD": 1.4031,
-    "USD/CAD": 1.3913,
-    "USD/CHF": 0.819,
-    "USD/HKD": 7.8444,
-    "USD/KRW": 1360.3618,
-    "USD/SGD": 1.2727,
-    "USD/INR": 95.9893
+    "USD/TWD": 31.8414,
+    "USD/JPY": 155.5791,
+    "USD/EUR": 0.8693,
+    "USD/GBP": 0.7449,
+    "USD/CNY": 6.7223,
+    "USD/AUD": 1.4065,
+    "USD/CAD": 1.3956,
+    "USD/CHF": 0.8226,
+    "USD/HKD": 7.8442,
+    "USD/KRW": 1369.8112,
+    "USD/SGD": 1.2755,
+    "USD/INR": 96.0216
   },
   "exchange_changes": {
-    "USD/TWD": 0.2,
-    "USD/JPY": 0.44,
-    "USD/EUR": 0.12,
-    "USD/GBP": 0.13,
-    "USD/CNY": 0.02,
-    "USD/AUD": 0.11,
-    "USD/CAD": 0.09,
-    "USD/CHF": 0.2,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.98,
-    "USD/SGD": 0.17,
-    "USD/INR": 0.33
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.32,
+    "USD/EUR": 0.3,
+    "USD/GBP": 0.39,
+    "USD/CNY": -0.07,
+    "USD/AUD": 0.24,
+    "USD/CAD": 0.31,
+    "USD/CHF": 0.44,
+    "USD/HKD": -0.0,
+    "USD/KRW": 0.69,
+    "USD/SGD": 0.22,
+    "USD/INR": 0.03
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Complaints to watchdog about water firms jump 84%",
-      "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss"
+      "title": "Interest rates hold expected but Bank of England facing tough choices",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss"
+      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-      "url": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss"
+      "title": "US interest rates raised for first time in three years",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK in talks about joining global defence bank led by Canada",
-      "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss"
+      "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "We are all new job starters - here's how we got through the first few days",
-      "url": "https://www.bbc.co.uk/news/articles/cm2qn163053o?at_medium=RSS&at_campaign=rss"
+      "title": "Petrol and diesel price rises push UK inflation higher",
+      "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/"
+    },
     {
       "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
       "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/"
@@ -102,10 +106,6 @@
     {
       "title": "Why this month's Microsoft patch release is a doozy",
       "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
-    },
-    {
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
