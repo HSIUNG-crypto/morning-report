@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-18 09:38:49 (台北時間)",
-  "updated_at_utc": "2026-09-18 01:38:49 (UTC)",
+  "updated_at": "2026-09-19 09:42:58 (台北時間)",
+  "updated_at_utc": "2026-09-19 01:42:58 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8636,
-    "USD/JPY": 155.8362,
-    "USD/EUR": 0.8706,
-    "USD/GBP": 0.7482,
-    "USD/CNY": 6.7218,
-    "USD/AUD": 1.406,
-    "USD/CAD": 1.3979,
-    "USD/CHF": 0.8247,
-    "USD/HKD": 7.8452,
-    "USD/KRW": 1380.5017,
-    "USD/SGD": 1.2757,
-    "USD/INR": 95.9573
+    "USD/TWD": 31.8341,
+    "USD/JPY": 157.0551,
+    "USD/EUR": 0.8713,
+    "USD/GBP": 0.7481,
+    "USD/CNY": 6.7141,
+    "USD/AUD": 1.4045,
+    "USD/CAD": 1.3992,
+    "USD/CHF": 0.8233,
+    "USD/HKD": 7.8451,
+    "USD/KRW": 1386.888,
+    "USD/SGD": 1.2766,
+    "USD/INR": 95.9896
   },
   "exchange_changes": {
-    "USD/TWD": 0.07,
-    "USD/JPY": 0.17,
-    "USD/EUR": 0.15,
-    "USD/GBP": 0.44,
-    "USD/CNY": -0.01,
-    "USD/AUD": -0.04,
-    "USD/CAD": 0.16,
-    "USD/CHF": 0.26,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.78,
-    "USD/SGD": 0.02,
-    "USD/INR": -0.07
+    "USD/TWD": -0.09,
+    "USD/JPY": 0.78,
+    "USD/EUR": 0.08,
+    "USD/GBP": -0.01,
+    "USD/CNY": -0.11,
+    "USD/AUD": -0.11,
+    "USD/CAD": 0.09,
+    "USD/CHF": -0.17,
+    "USD/HKD": -0.0,
+    "USD/KRW": 0.46,
+    "USD/SGD": 0.07,
+    "USD/INR": 0.03
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Healey to ask EU finance ministers to let UK into industry scheme",
-      "url": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss"
+      "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why we bought our first home with a 100% mortgage - despite the risks",
+      "title": "Flight chaos caused by 'millisecond' software defect, report says",
+      "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "We bought our £242,000 home without a deposit - here's how",
       "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Early Bowie music available to stream for first time",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gj5z9xvnqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Interest rates held but Bank signals rise if energy prices stay high",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Barclays workers ask for more money to return to the office",
-      "url": "https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/"
+    },
     {
       "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
       "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/"
@@ -102,13 +106,9 @@
     {
       "title": "Four groups caught using the same Chrome and Windows exploit kit",
       "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/"
-    },
-    {
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
