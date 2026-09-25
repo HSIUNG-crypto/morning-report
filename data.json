@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-24 09:42:12 (台北時間)",
-  "updated_at_utc": "2026-09-24 01:42:12 (UTC)",
+  "updated_at": "2026-09-25 09:59:23 (台北時間)",
+  "updated_at_utc": "2026-09-25 01:59:23 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.7844,
-    "USD/JPY": 158.1273,
-    "USD/EUR": 0.8774,
-    "USD/GBP": 0.7545,
-    "USD/CNY": 6.7227,
-    "USD/AUD": 1.4195,
-    "USD/CAD": 1.4094,
-    "USD/CHF": 0.8245,
-    "USD/HKD": 7.8436,
-    "USD/KRW": 1364.7682,
-    "USD/SGD": 1.2793,
-    "USD/INR": 95.8091
+    "USD/TWD": 31.8253,
+    "USD/JPY": 158.6866,
+    "USD/EUR": 0.8787,
+    "USD/GBP": 0.7564,
+    "USD/CNY": 6.7173,
+    "USD/AUD": 1.4255,
+    "USD/CAD": 1.4128,
+    "USD/CHF": 0.8277,
+    "USD/HKD": 7.8431,
+    "USD/KRW": 1368.605,
+    "USD/SGD": 1.2797,
+    "USD/INR": 96.0151
   },
   "exchange_changes": {
-    "USD/TWD": 0.25,
-    "USD/JPY": 0.45,
-    "USD/EUR": 0.48,
-    "USD/GBP": 0.69,
-    "USD/CNY": 0.14,
-    "USD/AUD": 0.93,
-    "USD/CAD": 0.28,
-    "USD/CHF": 0.45,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.82,
-    "USD/SGD": 0.31,
-    "USD/INR": 0.17
+    "USD/TWD": 0.13,
+    "USD/JPY": 0.35,
+    "USD/EUR": 0.15,
+    "USD/GBP": 0.25,
+    "USD/CNY": -0.08,
+    "USD/AUD": 0.42,
+    "USD/CAD": 0.24,
+    "USD/CHF": 0.39,
+    "USD/HKD": -0.01,
+    "USD/KRW": 0.28,
+    "USD/SGD": 0.03,
+    "USD/INR": 0.22
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
-      "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss"
+      "title": "'We're all broke': Would you chase a friend for £5?",
+      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Reported assaults on Britain's rail services rise by more than a third",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
       "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-      "url": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss"
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "There's a new way to break RSA that's faster than anything we've seen before",
+      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/"
+    },
     {
       "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
       "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
@@ -102,10 +106,6 @@
     {
       "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
       "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
-    },
-    {
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
