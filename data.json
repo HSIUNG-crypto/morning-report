@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-25 09:59:23 (台北時間)",
-  "updated_at_utc": "2026-09-25 01:59:23 (UTC)",
+  "updated_at": "2026-09-26 10:04:57 (台北時間)",
+  "updated_at_utc": "2026-09-26 02:04:57 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8253,
-    "USD/JPY": 158.6866,
-    "USD/EUR": 0.8787,
-    "USD/GBP": 0.7564,
-    "USD/CNY": 6.7173,
-    "USD/AUD": 1.4255,
-    "USD/CAD": 1.4128,
-    "USD/CHF": 0.8277,
-    "USD/HKD": 7.8431,
-    "USD/KRW": 1368.605,
-    "USD/SGD": 1.2797,
-    "USD/INR": 96.0151
+    "USD/TWD": 31.7696,
+    "USD/JPY": 157.5398,
+    "USD/EUR": 0.8773,
+    "USD/GBP": 0.7554,
+    "USD/CNY": 6.7246,
+    "USD/AUD": 1.4234,
+    "USD/CAD": 1.4133,
+    "USD/CHF": 0.8284,
+    "USD/HKD": 7.8445,
+    "USD/KRW": 1357.4142,
+    "USD/SGD": 1.2778,
+    "USD/INR": 95.9187
   },
   "exchange_changes": {
-    "USD/TWD": 0.13,
-    "USD/JPY": 0.35,
-    "USD/EUR": 0.15,
-    "USD/GBP": 0.25,
-    "USD/CNY": -0.08,
-    "USD/AUD": 0.42,
-    "USD/CAD": 0.24,
-    "USD/CHF": 0.39,
-    "USD/HKD": -0.01,
-    "USD/KRW": 0.28,
-    "USD/SGD": 0.03,
-    "USD/INR": 0.22
+    "USD/TWD": -0.18,
+    "USD/JPY": -0.72,
+    "USD/EUR": -0.16,
+    "USD/GBP": -0.13,
+    "USD/CNY": 0.11,
+    "USD/AUD": -0.15,
+    "USD/CAD": 0.04,
+    "USD/CHF": 0.08,
+    "USD/HKD": 0.02,
+    "USD/KRW": -0.82,
+    "USD/SGD": -0.15,
+    "USD/INR": -0.1
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "'We're all broke': Would you chase a friend for £5?",
-      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss"
+      "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
+      "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Reported assaults on Britain's rail services rise by more than a third",
-      "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss"
+      "title": "Man City found guilty of breaking financial rules",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
+      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "They were labelled 'pervert glasses'. Will a camera-free version transform their image?",
-      "url": "https://www.bbc.co.uk/news/articles/cwp80l0my1x2o?at_medium=RSS&at_campaign=rss"
+      "title": "UK diesel price close to all-time high",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "X-planes: Are they needed in the new era of drones?",
-      "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss"
+      "title": "Special agents' blood and urine test results stolen in FBI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
