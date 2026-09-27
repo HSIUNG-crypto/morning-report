@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-09-26 10:04:57 (台北時間)",
-  "updated_at_utc": "2026-09-26 02:04:57 (UTC)",
+  "updated_at": "2026-09-27 09:56:28 (台北時間)",
+  "updated_at_utc": "2026-09-27 01:56:28 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.7696,
-    "USD/JPY": 157.5398,
-    "USD/EUR": 0.8773,
-    "USD/GBP": 0.7554,
-    "USD/CNY": 6.7246,
-    "USD/AUD": 1.4234,
-    "USD/CAD": 1.4133,
-    "USD/CHF": 0.8284,
-    "USD/HKD": 7.8445,
-    "USD/KRW": 1357.4142,
+    "USD/TWD": 31.7603,
+    "USD/JPY": 157.4536,
+    "USD/EUR": 0.8775,
+    "USD/GBP": 0.7551,
+    "USD/CNY": 6.729,
+    "USD/AUD": 1.4235,
+    "USD/CAD": 1.4137,
+    "USD/CHF": 0.8286,
+    "USD/HKD": 7.8447,
+    "USD/KRW": 1357.0476,
     "USD/SGD": 1.2778,
-    "USD/INR": 95.9187
+    "USD/INR": 95.8789
   },
   "exchange_changes": {
-    "USD/TWD": -0.18,
-    "USD/JPY": -0.72,
-    "USD/EUR": -0.16,
-    "USD/GBP": -0.13,
-    "USD/CNY": 0.11,
-    "USD/AUD": -0.15,
-    "USD/CAD": 0.04,
-    "USD/CHF": 0.08,
-    "USD/HKD": 0.02,
-    "USD/KRW": -0.82,
-    "USD/SGD": -0.15,
-    "USD/INR": -0.1
+    "USD/TWD": -0.03,
+    "USD/JPY": -0.05,
+    "USD/EUR": 0.02,
+    "USD/GBP": -0.04,
+    "USD/CNY": 0.07,
+    "USD/AUD": 0.01,
+    "USD/CAD": 0.03,
+    "USD/CHF": 0.02,
+    "USD/HKD": 0.0,
+    "USD/KRW": -0.03,
+    "USD/SGD": 0.0,
+    "USD/INR": -0.04
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Could an iced coffee freeze you out of the job market?",
+      "url": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Clubs seek legal advice over Man City charges compensation",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'We're all broke': Would you chase a friend for £5?",
+      "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
       "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Man City found guilty of breaking financial rules",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "UK diesel price close to all-time high",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/"
+    },
     {
       "title": "There's a new way to break RSA that's faster than anything we've seen before",
       "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/"
@@ -102,10 +106,6 @@
     {
       "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
       "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
-    },
-    {
-      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
-      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
