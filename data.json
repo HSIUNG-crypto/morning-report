@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-10-03 10:24:50 (台北時間)",
-  "updated_at_utc": "2026-10-03 02:24:50 (UTC)",
+  "updated_at": "2026-10-04 10:54:06 (台北時間)",
+  "updated_at_utc": "2026-10-04 02:54:06 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.8596,
-    "USD/JPY": 157.8151,
+    "USD/TWD": 31.8541,
+    "USD/JPY": 157.8204,
     "USD/EUR": 0.8888,
-    "USD/GBP": 0.7563,
-    "USD/CNY": 6.7144,
-    "USD/AUD": 1.4387,
-    "USD/CAD": 1.424,
-    "USD/CHF": 0.8287,
+    "USD/GBP": 0.7564,
+    "USD/CNY": 6.7201,
+    "USD/AUD": 1.4397,
+    "USD/CAD": 1.4239,
+    "USD/CHF": 0.8285,
     "USD/HKD": 7.8469,
-    "USD/KRW": 1347.3891,
+    "USD/KRW": 1348.6061,
     "USD/SGD": 1.2794,
-    "USD/INR": 96.3726
+    "USD/INR": 96.3495
   },
   "exchange_changes": {
-    "USD/TWD": -0.42,
-    "USD/JPY": -0.07,
-    "USD/EUR": 0.17,
-    "USD/GBP": -0.11,
-    "USD/CNY": -0.0,
-    "USD/AUD": -0.29,
-    "USD/CAD": 0.06,
-    "USD/CHF": -0.43,
+    "USD/TWD": -0.02,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.01,
+    "USD/CNY": 0.08,
+    "USD/AUD": 0.07,
+    "USD/CAD": -0.01,
+    "USD/CHF": -0.02,
     "USD/HKD": 0.0,
-    "USD/KRW": -0.94,
-    "USD/SGD": -0.09,
-    "USD/INR": -0.01
+    "USD/KRW": 0.09,
+    "USD/SGD": 0.0,
+    "USD/INR": -0.02
   },
   "stocks": {
     "道瓊": {
@@ -65,8 +65,12 @@
   },
   "news_economy": [
     {
-      "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
       "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Suppliers pile pressure on government over energy bills",
+      "url": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "UK diesel prices top £2 a litre for first time, RAC says",
@@ -79,10 +83,6 @@
     {
       "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
       "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-      "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
