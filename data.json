@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-10-07 10:46:02 (台北時間)",
-  "updated_at_utc": "2026-10-07 02:46:02 (UTC)",
+  "updated_at": "2026-10-08 11:04:02 (台北時間)",
+  "updated_at_utc": "2026-10-08 03:04:02 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.801,
-    "USD/JPY": 158.1454,
-    "USD/EUR": 0.8887,
-    "USD/GBP": 0.754,
-    "USD/CNY": 6.7119,
-    "USD/AUD": 1.4328,
-    "USD/CAD": 1.4221,
-    "USD/CHF": 0.8319,
-    "USD/HKD": 7.848,
-    "USD/KRW": 1338.9242,
-    "USD/SGD": 1.2778,
-    "USD/INR": 96.4676
+    "USD/TWD": 31.869,
+    "USD/JPY": 158.1005,
+    "USD/EUR": 0.8929,
+    "USD/GBP": 0.7565,
+    "USD/CNY": 6.7125,
+    "USD/AUD": 1.4363,
+    "USD/CAD": 1.4243,
+    "USD/CHF": 0.8331,
+    "USD/HKD": 7.8476,
+    "USD/KRW": 1339.0925,
+    "USD/SGD": 1.2797,
+    "USD/INR": 96.8303
   },
   "exchange_changes": {
-    "USD/TWD": 0.05,
-    "USD/JPY": 0.1,
-    "USD/EUR": -0.38,
-    "USD/GBP": -0.33,
-    "USD/CNY": -0.04,
-    "USD/AUD": -0.2,
-    "USD/CAD": -0.25,
-    "USD/CHF": 0.1,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.29,
-    "USD/SGD": -0.16,
-    "USD/INR": 0.09
+    "USD/TWD": 0.21,
+    "USD/JPY": -0.03,
+    "USD/EUR": 0.47,
+    "USD/GBP": 0.33,
+    "USD/CNY": 0.01,
+    "USD/AUD": 0.24,
+    "USD/CAD": 0.15,
+    "USD/CHF": 0.14,
+    "USD/HKD": -0.01,
+    "USD/KRW": 0.01,
+    "USD/SGD": 0.15,
+    "USD/INR": 0.38
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "From 'woke' ridicule to real car - new electric Jaguar unveiled",
-      "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss"
+      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
+      "url": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss"
+      "title": "Hedgehog among four animals chosen to feature on new banknotes",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Froyo's made a comeback. But at £12 a tub will it last?",
-      "url": "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss"
+      "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
+      "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss"
+      "title": "AI chip boom pushes Samsung profits to record $80bn",
+      "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss"
+      "title": "Boots sold in £7bn deal to Canadian billionaire family",
+      "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
