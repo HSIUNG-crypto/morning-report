@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-10-08 11:04:02 (台北時間)",
-  "updated_at_utc": "2026-10-08 03:04:02 (UTC)",
+  "updated_at": "2026-10-09 11:10:35 (台北時間)",
+  "updated_at_utc": "2026-10-09 03:10:35 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 31.869,
-    "USD/JPY": 158.1005,
-    "USD/EUR": 0.8929,
+    "USD/TWD": 31.9627,
+    "USD/JPY": 158.0335,
+    "USD/EUR": 0.8923,
     "USD/GBP": 0.7565,
-    "USD/CNY": 6.7125,
-    "USD/AUD": 1.4363,
-    "USD/CAD": 1.4243,
-    "USD/CHF": 0.8331,
-    "USD/HKD": 7.8476,
-    "USD/KRW": 1339.0925,
-    "USD/SGD": 1.2797,
-    "USD/INR": 96.8303
+    "USD/CNY": 6.7153,
+    "USD/AUD": 1.4379,
+    "USD/CAD": 1.4231,
+    "USD/CHF": 0.8325,
+    "USD/HKD": 7.8482,
+    "USD/KRW": 1342.3404,
+    "USD/SGD": 1.281,
+    "USD/INR": 96.8837
   },
   "exchange_changes": {
-    "USD/TWD": 0.21,
-    "USD/JPY": -0.03,
-    "USD/EUR": 0.47,
-    "USD/GBP": 0.33,
-    "USD/CNY": 0.01,
-    "USD/AUD": 0.24,
-    "USD/CAD": 0.15,
-    "USD/CHF": 0.14,
-    "USD/HKD": -0.01,
-    "USD/KRW": 0.01,
-    "USD/SGD": 0.15,
-    "USD/INR": 0.38
+    "USD/TWD": 0.29,
+    "USD/JPY": -0.04,
+    "USD/EUR": -0.07,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.04,
+    "USD/AUD": 0.11,
+    "USD/CAD": -0.08,
+    "USD/CHF": -0.07,
+    "USD/HKD": 0.01,
+    "USD/KRW": 0.24,
+    "USD/SGD": 0.1,
+    "USD/INR": 0.06
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-      "url": "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss"
+      "title": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Hedgehog among four animals chosen to feature on new banknotes",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss"
+      "title": "'Add me to WhatsApp' scam calls to be investigated",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "We spent thousands on a Tui river cruise but ended up on coach trips",
-      "url": "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss"
+      "title": "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
+      "url": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "AI chip boom pushes Samsung profits to record $80bn",
-      "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss"
+      "title": "White House blocks Microsoft from foreign worker hiring program",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Boots sold in £7bn deal to Canadian billionaire family",
-      "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss"
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
