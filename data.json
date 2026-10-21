@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-10-20 10:11:44 (台北時間)",
-  "updated_at_utc": "2026-10-20 02:11:44 (UTC)",
+  "updated_at": "2026-10-21 10:05:26 (台北時間)",
+  "updated_at_utc": "2026-10-21 02:05:26 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.4917,
-    "USD/JPY": 158.4415,
-    "USD/EUR": 0.8915,
-    "USD/GBP": 0.7511,
-    "USD/CNY": 6.6937,
-    "USD/AUD": 1.4325,
-    "USD/CAD": 1.41,
-    "USD/CHF": 0.8264,
-    "USD/HKD": 7.848,
-    "USD/KRW": 1330.7944,
-    "USD/SGD": 1.2798,
-    "USD/INR": 95.0525
+    "USD/TWD": 32.6264,
+    "USD/JPY": 158.2241,
+    "USD/EUR": 0.8908,
+    "USD/GBP": 0.7483,
+    "USD/CNY": 6.6913,
+    "USD/AUD": 1.4286,
+    "USD/CAD": 1.4061,
+    "USD/CHF": 0.8253,
+    "USD/HKD": 7.8483,
+    "USD/KRW": 1327.1703,
+    "USD/SGD": 1.2782,
+    "USD/INR": 94.9952
   },
   "exchange_changes": {
-    "USD/TWD": 0.14,
-    "USD/JPY": 0.34,
-    "USD/EUR": 0.07,
-    "USD/GBP": 0.11,
-    "USD/CNY": 0.01,
-    "USD/AUD": -0.23,
-    "USD/CAD": -0.23,
-    "USD/CHF": 0.25,
-    "USD/HKD": -0.0,
-    "USD/KRW": -0.21,
-    "USD/SGD": 0.02,
-    "USD/INR": -0.14
+    "USD/TWD": 0.41,
+    "USD/JPY": -0.14,
+    "USD/EUR": -0.08,
+    "USD/GBP": -0.37,
+    "USD/CNY": -0.04,
+    "USD/AUD": -0.27,
+    "USD/CAD": -0.28,
+    "USD/CHF": -0.13,
+    "USD/HKD": 0.0,
+    "USD/KRW": -0.27,
+    "USD/SGD": -0.13,
+    "USD/INR": -0.06
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-      "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss"
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
-      "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss"
+      "title": "Google resolves cloud outage affecting UK banks and websites",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-      "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss"
+      "title": "UK government to make Jackdaw gas field announcement",
+      "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
+      "title": "Trump sued over Canadian tariffs in latest legal challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Vinted blocks French looters listing stolen goods for sale",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss"
+      "title": "Audit regulator looking into Manchester City accounting",
+      "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
+    },
+    {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+    },
     {
       "title": "PSA: Patch your Plex media server before someone hacks it",
       "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/"
@@ -98,14 +106,6 @@
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
       "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
-    },
-    {
-      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
-    },
-    {
-      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
