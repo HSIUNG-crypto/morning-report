@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-10-23 10:03:29 (台北時間)",
-  "updated_at_utc": "2026-10-23 02:03:29 (UTC)",
+  "updated_at": "2026-10-24 10:02:38 (台北時間)",
+  "updated_at_utc": "2026-10-24 02:02:38 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.5918,
-    "USD/JPY": 156.9206,
-    "USD/EUR": 0.8915,
-    "USD/GBP": 0.7467,
-    "USD/CNY": 6.6882,
-    "USD/AUD": 1.4253,
-    "USD/CAD": 1.4014,
-    "USD/CHF": 0.8213,
-    "USD/HKD": 7.8372,
-    "USD/KRW": 1324.9538,
-    "USD/SGD": 1.2773,
-    "USD/INR": 94.9013
+    "USD/TWD": 32.5872,
+    "USD/JPY": 156.8397,
+    "USD/EUR": 0.8928,
+    "USD/GBP": 0.7477,
+    "USD/CNY": 6.6849,
+    "USD/AUD": 1.4229,
+    "USD/CAD": 1.4004,
+    "USD/CHF": 0.8247,
+    "USD/HKD": 7.8426,
+    "USD/KRW": 1324.7022,
+    "USD/SGD": 1.2782,
+    "USD/INR": 95.0365
   },
   "exchange_changes": {
-    "USD/TWD": 0.56,
-    "USD/JPY": -0.75,
-    "USD/EUR": 0.13,
-    "USD/GBP": 0.0,
-    "USD/CNY": -0.02,
-    "USD/AUD": 0.15,
-    "USD/CAD": -0.24,
-    "USD/CHF": -0.39,
-    "USD/HKD": -0.13,
-    "USD/KRW": -0.09,
-    "USD/SGD": -0.01,
-    "USD/INR": 0.32
+    "USD/TWD": -0.01,
+    "USD/JPY": -0.05,
+    "USD/EUR": 0.15,
+    "USD/GBP": 0.13,
+    "USD/CNY": -0.05,
+    "USD/AUD": -0.17,
+    "USD/CAD": -0.07,
+    "USD/CHF": 0.41,
+    "USD/HKD": 0.07,
+    "USD/KRW": -0.02,
+    "USD/SGD": 0.07,
+    "USD/INR": 0.14
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Grid operator says lights will stay on this winter after concerns",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss"
+      "title": "How does the UK state pension compare with other countries?",
+      "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
-      "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
+      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'I wasn't thinking straight' says five jobs civil servant",
-      "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss"
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
+      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
