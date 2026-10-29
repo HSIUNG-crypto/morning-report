@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-10-28 10:38:00 (台北時間)",
-  "updated_at_utc": "2026-10-28 02:38:00 (UTC)",
+  "updated_at": "2026-10-29 10:57:47 (台北時間)",
+  "updated_at_utc": "2026-10-29 02:57:47 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.4389,
-    "USD/JPY": 157.8927,
-    "USD/EUR": 0.8975,
-    "USD/GBP": 0.7511,
-    "USD/CNY": 6.681,
-    "USD/AUD": 1.4226,
-    "USD/CAD": 1.4041,
-    "USD/CHF": 0.8288,
-    "USD/HKD": 7.8443,
-    "USD/KRW": 1326.8062,
-    "USD/SGD": 1.2812,
-    "USD/INR": 95.1993
+    "USD/TWD": 32.416,
+    "USD/JPY": 157.9054,
+    "USD/EUR": 0.8972,
+    "USD/GBP": 0.7515,
+    "USD/CNY": 6.6805,
+    "USD/AUD": 1.4198,
+    "USD/CAD": 1.4018,
+    "USD/CHF": 0.829,
+    "USD/HKD": 7.8453,
+    "USD/KRW": 1340.2408,
+    "USD/SGD": 1.2818,
+    "USD/INR": 95.2961
   },
   "exchange_changes": {
-    "USD/TWD": -0.47,
-    "USD/JPY": 0.29,
-    "USD/EUR": 0.4,
-    "USD/GBP": 0.25,
-    "USD/CNY": -0.04,
-    "USD/AUD": -0.14,
-    "USD/CAD": 0.18,
-    "USD/CHF": 0.21,
-    "USD/HKD": -0.01,
-    "USD/KRW": 0.12,
-    "USD/SGD": 0.04,
-    "USD/INR": -0.07
+    "USD/TWD": -0.07,
+    "USD/JPY": 0.01,
+    "USD/EUR": -0.03,
+    "USD/GBP": 0.05,
+    "USD/CNY": -0.01,
+    "USD/AUD": -0.2,
+    "USD/CAD": -0.16,
+    "USD/CHF": 0.02,
+    "USD/HKD": 0.01,
+    "USD/KRW": 1.01,
+    "USD/SGD": 0.05,
+    "USD/INR": 0.1
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
       "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss"
+      "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "China's families are now supporting more old people than kids",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss"
+      "title": "What we now know about the UK economy in four charts",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Donald Trump's biggest economic problem looks strangely familiar",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss"
+      "title": "What the Budget offers for under 25s - and what it leaves out",
+      "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss"
+      "title": "Your pay, energy bills and savings: How the Budget affects you",
+      "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
