@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-10-30 11:01:38 (台北時間)",
-  "updated_at_utc": "2026-10-30 03:01:38 (UTC)",
+  "updated_at": "2026-10-31 10:48:37 (台北時間)",
+  "updated_at_utc": "2026-10-31 02:48:37 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.5518,
-    "USD/JPY": 157.8816,
-    "USD/EUR": 0.8959,
-    "USD/GBP": 0.7492,
-    "USD/CNY": 6.6769,
-    "USD/AUD": 1.4229,
-    "USD/CAD": 1.3989,
-    "USD/CHF": 0.8261,
-    "USD/HKD": 7.8461,
-    "USD/KRW": 1338.0415,
-    "USD/SGD": 1.2809,
-    "USD/INR": 95.2921
+    "USD/TWD": 32.6187,
+    "USD/JPY": 157.4944,
+    "USD/EUR": 0.8956,
+    "USD/GBP": 0.7471,
+    "USD/CNY": 6.6696,
+    "USD/AUD": 1.4223,
+    "USD/CAD": 1.3966,
+    "USD/CHF": 0.8245,
+    "USD/HKD": 7.8453,
+    "USD/KRW": 1334.5069,
+    "USD/SGD": 1.2782,
+    "USD/INR": 95.0736
   },
   "exchange_changes": {
-    "USD/TWD": 0.42,
-    "USD/JPY": -0.02,
-    "USD/EUR": -0.14,
-    "USD/GBP": -0.31,
-    "USD/CNY": -0.05,
-    "USD/AUD": 0.22,
-    "USD/CAD": -0.21,
-    "USD/CHF": -0.35,
-    "USD/HKD": 0.01,
-    "USD/KRW": -0.16,
-    "USD/SGD": -0.07,
-    "USD/INR": -0.0
+    "USD/TWD": 0.21,
+    "USD/JPY": -0.25,
+    "USD/EUR": -0.03,
+    "USD/GBP": -0.28,
+    "USD/CNY": -0.11,
+    "USD/AUD": -0.04,
+    "USD/CAD": -0.16,
+    "USD/CHF": -0.19,
+    "USD/HKD": -0.01,
+    "USD/KRW": -0.26,
+    "USD/SGD": -0.21,
+    "USD/INR": -0.23
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Crypto worth billions frozen after suspected Binance hack",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-      "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss"
+      "title": "What we know about Binance's $6.3bn hack",
+      "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US interest rates held steady and economy grows - what it means for you",
-      "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss"
+      "title": "City of London chief tops UK Black Powerlist",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-      "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss"
+      "title": "How Poundland grew from a market stall to a high street giant",
+      "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+    },
     {
       "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
       "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
@@ -102,13 +106,9 @@
     {
       "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
       "url": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/"
-    },
-    {
-      "title": "PHP warns it plans to release 2 emergency patches imminently",
-      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
