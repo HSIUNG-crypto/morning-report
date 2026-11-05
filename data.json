@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-04 11:24:15 (台北時間)",
-  "updated_at_utc": "2026-11-04 03:24:15 (UTC)",
+  "updated_at": "2026-11-05 11:47:57 (台北時間)",
+  "updated_at_utc": "2026-11-05 03:47:57 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.7708,
-    "USD/JPY": 158.3992,
-    "USD/EUR": 0.8934,
-    "USD/GBP": 0.7454,
-    "USD/CNY": 6.684,
-    "USD/AUD": 1.4342,
-    "USD/CAD": 1.3994,
-    "USD/CHF": 0.82,
-    "USD/HKD": 7.8458,
-    "USD/KRW": 1343.931,
-    "USD/SGD": 1.2811,
-    "USD/INR": 94.8343
+    "USD/TWD": 32.8241,
+    "USD/JPY": 158.3779,
+    "USD/EUR": 0.8899,
+    "USD/GBP": 0.7423,
+    "USD/CNY": 6.6854,
+    "USD/AUD": 1.4276,
+    "USD/CAD": 1.3967,
+    "USD/CHF": 0.817,
+    "USD/HKD": 7.8453,
+    "USD/KRW": 1340.3113,
+    "USD/SGD": 1.2788,
+    "USD/INR": 94.6202
   },
   "exchange_changes": {
-    "USD/TWD": 0.56,
-    "USD/JPY": 0.32,
-    "USD/EUR": 0.01,
-    "USD/GBP": -0.04,
-    "USD/CNY": 0.28,
-    "USD/AUD": 0.44,
-    "USD/CAD": 0.09,
-    "USD/CHF": 0.06,
+    "USD/TWD": 0.16,
+    "USD/JPY": -0.01,
+    "USD/EUR": -0.39,
+    "USD/GBP": -0.42,
+    "USD/CNY": 0.02,
+    "USD/AUD": -0.46,
+    "USD/CAD": -0.19,
+    "USD/CHF": -0.37,
     "USD/HKD": -0.01,
-    "USD/KRW": -0.01,
-    "USD/SGD": 0.16,
-    "USD/INR": -0.1
+    "USD/KRW": -0.27,
+    "USD/SGD": -0.18,
+    "USD/INR": -0.23
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,40 @@
   },
   "news_economy": [
     {
-      "title": "Poundland supplier 'will lose millions' if retailer collapses",
+      "title": "Interest rates expected to rise for first time in over three years",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
       "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
       "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Canva announces major job cuts after 'our hardest year yet'",
-      "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
+    },
+    {
+      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+      "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/"
+    },
+    {
+      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
+    },
     {
       "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
       "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
@@ -94,21 +106,9 @@
     {
       "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
-    },
-    {
-      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/"
-    },
-    {
-      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
-    },
-    {
-      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
-  "forecast_ai": "AI情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
+  "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
