@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-05 11:47:57 (台北時間)",
-  "updated_at_utc": "2026-11-05 03:47:57 (UTC)",
+  "updated_at": "2026-11-06 11:45:03 (台北時間)",
+  "updated_at_utc": "2026-11-06 03:45:03 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.8241,
-    "USD/JPY": 158.3779,
-    "USD/EUR": 0.8899,
-    "USD/GBP": 0.7423,
-    "USD/CNY": 6.6854,
-    "USD/AUD": 1.4276,
-    "USD/CAD": 1.3967,
-    "USD/CHF": 0.817,
-    "USD/HKD": 7.8453,
-    "USD/KRW": 1340.3113,
-    "USD/SGD": 1.2788,
-    "USD/INR": 94.6202
+    "USD/TWD": 33.0519,
+    "USD/JPY": 157.8355,
+    "USD/EUR": 0.8905,
+    "USD/GBP": 0.7429,
+    "USD/CNY": 6.6825,
+    "USD/AUD": 1.4376,
+    "USD/CAD": 1.3991,
+    "USD/CHF": 0.8162,
+    "USD/HKD": 7.8428,
+    "USD/KRW": 1347.695,
+    "USD/SGD": 1.2776,
+    "USD/INR": 94.537
   },
   "exchange_changes": {
-    "USD/TWD": 0.16,
-    "USD/JPY": -0.01,
-    "USD/EUR": -0.39,
-    "USD/GBP": -0.42,
-    "USD/CNY": 0.02,
-    "USD/AUD": -0.46,
-    "USD/CAD": -0.19,
-    "USD/CHF": -0.37,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.27,
-    "USD/SGD": -0.18,
-    "USD/INR": -0.23
+    "USD/TWD": 0.69,
+    "USD/JPY": -0.34,
+    "USD/EUR": 0.07,
+    "USD/GBP": 0.08,
+    "USD/CNY": -0.04,
+    "USD/AUD": 0.7,
+    "USD/CAD": 0.17,
+    "USD/CHF": -0.1,
+    "USD/HKD": -0.03,
+    "USD/KRW": 0.55,
+    "USD/SGD": -0.09,
+    "USD/INR": -0.09
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Interest rates expected to rise for first time in over three years",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Firms told to publish salaries in job adverts ahead of new law",
+      "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+      "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Interest rates hiked to 4% in first increase in over three years",
       "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Pound rises to its highest level since the Brexit referendum",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Poundland owner in crunch talks as retailer's collapse looms",
-      "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss"
+      "title": "Faisal Islam: How high will interest rates go?",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
+    },
     {
       "title": "Hackers exploited iOS and Android flaws to infect phones",
       "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
@@ -102,10 +106,6 @@
     {
       "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
       "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/"
-    },
-    {
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
