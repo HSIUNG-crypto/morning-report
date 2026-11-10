@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-09 11:05:08 (台北時間)",
-  "updated_at_utc": "2026-11-09 03:05:08 (UTC)",
+  "updated_at": "2026-11-10 12:49:43 (台北時間)",
+  "updated_at_utc": "2026-11-10 04:49:43 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.8514,
-    "USD/JPY": 158.3262,
-    "USD/EUR": 0.8969,
-    "USD/GBP": 0.7484,
-    "USD/CNY": 6.6798,
-    "USD/AUD": 1.4558,
-    "USD/CAD": 1.4116,
-    "USD/CHF": 0.8197,
-    "USD/HKD": 7.8396,
-    "USD/KRW": 1361.4014,
-    "USD/SGD": 1.2829,
-    "USD/INR": 94.0475
+    "USD/TWD": 32.7809,
+    "USD/JPY": 158.0235,
+    "USD/EUR": 0.8924,
+    "USD/GBP": 0.7447,
+    "USD/CNY": 6.6866,
+    "USD/AUD": 1.448,
+    "USD/CAD": 1.4113,
+    "USD/CHF": 0.8196,
+    "USD/HKD": 7.8423,
+    "USD/KRW": 1344.7863,
+    "USD/SGD": 1.2795,
+    "USD/INR": 93.9292
   },
   "exchange_changes": {
-    "USD/TWD": 0.01,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.12,
-    "USD/GBP": 0.12,
-    "USD/CNY": -0.16,
-    "USD/AUD": 0.12,
-    "USD/CAD": 0.16,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.44,
-    "USD/SGD": 0.11,
-    "USD/INR": -0.07
+    "USD/TWD": -0.21,
+    "USD/JPY": -0.19,
+    "USD/EUR": -0.5,
+    "USD/GBP": -0.49,
+    "USD/CNY": 0.1,
+    "USD/AUD": -0.54,
+    "USD/CAD": -0.02,
+    "USD/CHF": -0.01,
+    "USD/HKD": 0.03,
+    "USD/KRW": -1.22,
+    "USD/SGD": -0.27,
+    "USD/INR": -0.13
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Doing these things now will help you save money at Christmas",
-      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss"
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss"
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-      "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss"
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "He spent $50,000 on Labubus but now the craze is dying",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss"
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
+    },
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
       "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/"
@@ -102,10 +106,6 @@
     {
       "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
       "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/"
-    },
-    {
-      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
-      "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
