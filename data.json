@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-10 12:49:43 (台北時間)",
-  "updated_at_utc": "2026-11-10 04:49:43 (UTC)",
+  "updated_at": "2026-11-11 11:13:09 (台北時間)",
+  "updated_at_utc": "2026-11-11 03:13:09 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.7809,
-    "USD/JPY": 158.0235,
-    "USD/EUR": 0.8924,
-    "USD/GBP": 0.7447,
-    "USD/CNY": 6.6866,
-    "USD/AUD": 1.448,
-    "USD/CAD": 1.4113,
-    "USD/CHF": 0.8196,
-    "USD/HKD": 7.8423,
-    "USD/KRW": 1344.7863,
-    "USD/SGD": 1.2795,
-    "USD/INR": 93.9292
+    "USD/TWD": 32.9444,
+    "USD/JPY": 158.5553,
+    "USD/EUR": 0.8939,
+    "USD/GBP": 0.7482,
+    "USD/CNY": 6.6878,
+    "USD/AUD": 1.4549,
+    "USD/CAD": 1.417,
+    "USD/CHF": 0.8242,
+    "USD/HKD": 7.845,
+    "USD/KRW": 1341.6939,
+    "USD/SGD": 1.2807,
+    "USD/INR": 93.9558
   },
   "exchange_changes": {
-    "USD/TWD": -0.21,
-    "USD/JPY": -0.19,
-    "USD/EUR": -0.5,
-    "USD/GBP": -0.49,
-    "USD/CNY": 0.1,
-    "USD/AUD": -0.54,
-    "USD/CAD": -0.02,
-    "USD/CHF": -0.01,
+    "USD/TWD": 0.5,
+    "USD/JPY": 0.34,
+    "USD/EUR": 0.17,
+    "USD/GBP": 0.47,
+    "USD/CNY": 0.02,
+    "USD/AUD": 0.48,
+    "USD/CAD": 0.4,
+    "USD/CHF": 0.56,
     "USD/HKD": 0.03,
-    "USD/KRW": -1.22,
-    "USD/SGD": -0.27,
-    "USD/INR": -0.13
+    "USD/KRW": -0.23,
+    "USD/SGD": 0.09,
+    "USD/INR": 0.03
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss"
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Civil servant who secretly held five jobs found guilty of fraud",
-      "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss"
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How a civil servant got away with juggling five jobs for so long",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss"
+      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
+    },
     {
       "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
       "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/"
@@ -102,10 +106,6 @@
     {
       "title": "Hackers exploited iOS and Android flaws to infect phones",
       "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
-    },
-    {
-      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-      "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
