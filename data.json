@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-11 11:13:09 (台北時間)",
-  "updated_at_utc": "2026-11-11 03:13:09 (UTC)",
+  "updated_at": "2026-11-12 12:24:41 (台北時間)",
+  "updated_at_utc": "2026-11-12 04:24:41 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.9444,
-    "USD/JPY": 158.5553,
-    "USD/EUR": 0.8939,
-    "USD/GBP": 0.7482,
-    "USD/CNY": 6.6878,
-    "USD/AUD": 1.4549,
-    "USD/CAD": 1.417,
-    "USD/CHF": 0.8242,
-    "USD/HKD": 7.845,
-    "USD/KRW": 1341.6939,
-    "USD/SGD": 1.2807,
-    "USD/INR": 93.9558
+    "USD/TWD": 32.88,
+    "USD/JPY": 159.5138,
+    "USD/EUR": 0.8999,
+    "USD/GBP": 0.7524,
+    "USD/CNY": 6.6858,
+    "USD/AUD": 1.4593,
+    "USD/CAD": 1.424,
+    "USD/CHF": 0.8318,
+    "USD/HKD": 7.8451,
+    "USD/KRW": 1336.6042,
+    "USD/SGD": 1.2837,
+    "USD/INR": 93.8516
   },
   "exchange_changes": {
-    "USD/TWD": 0.5,
-    "USD/JPY": 0.34,
-    "USD/EUR": 0.17,
-    "USD/GBP": 0.47,
-    "USD/CNY": 0.02,
-    "USD/AUD": 0.48,
-    "USD/CAD": 0.4,
-    "USD/CHF": 0.56,
-    "USD/HKD": 0.03,
-    "USD/KRW": -0.23,
-    "USD/SGD": 0.09,
-    "USD/INR": 0.03
+    "USD/TWD": -0.2,
+    "USD/JPY": 0.6,
+    "USD/EUR": 0.67,
+    "USD/GBP": 0.56,
+    "USD/CNY": -0.03,
+    "USD/AUD": 0.3,
+    "USD/CAD": 0.49,
+    "USD/CHF": 0.92,
+    "USD/HKD": 0.0,
+    "USD/KRW": -0.38,
+    "USD/SGD": 0.23,
+    "USD/INR": -0.11
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
       "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "title": "Christmas toy rush being driven by squishies and building sets",
       "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
