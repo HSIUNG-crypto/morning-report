@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-12 12:24:41 (台北時間)",
-  "updated_at_utc": "2026-11-12 04:24:41 (UTC)",
+  "updated_at": "2026-11-13 11:40:47 (台北時間)",
+  "updated_at_utc": "2026-11-13 03:40:47 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.88,
-    "USD/JPY": 159.5138,
-    "USD/EUR": 0.8999,
-    "USD/GBP": 0.7524,
-    "USD/CNY": 6.6858,
-    "USD/AUD": 1.4593,
-    "USD/CAD": 1.424,
-    "USD/CHF": 0.8318,
-    "USD/HKD": 7.8451,
-    "USD/KRW": 1336.6042,
-    "USD/SGD": 1.2837,
-    "USD/INR": 93.8516
+    "USD/TWD": 32.9761,
+    "USD/JPY": 159.7954,
+    "USD/EUR": 0.9035,
+    "USD/GBP": 0.7551,
+    "USD/CNY": 6.6851,
+    "USD/AUD": 1.4683,
+    "USD/CAD": 1.4256,
+    "USD/CHF": 0.8344,
+    "USD/HKD": 7.845,
+    "USD/KRW": 1334.1828,
+    "USD/SGD": 1.2863,
+    "USD/INR": 94.0861
   },
   "exchange_changes": {
-    "USD/TWD": -0.2,
-    "USD/JPY": 0.6,
-    "USD/EUR": 0.67,
-    "USD/GBP": 0.56,
-    "USD/CNY": -0.03,
-    "USD/AUD": 0.3,
-    "USD/CAD": 0.49,
-    "USD/CHF": 0.92,
-    "USD/HKD": 0.0,
-    "USD/KRW": -0.38,
-    "USD/SGD": 0.23,
-    "USD/INR": -0.11
+    "USD/TWD": 0.29,
+    "USD/JPY": 0.18,
+    "USD/EUR": 0.4,
+    "USD/GBP": 0.36,
+    "USD/CNY": -0.01,
+    "USD/AUD": 0.62,
+    "USD/CAD": 0.11,
+    "USD/CHF": 0.31,
+    "USD/HKD": -0.0,
+    "USD/KRW": -0.18,
+    "USD/SGD": 0.2,
+    "USD/INR": 0.25
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Some under-25s should get fewer benefits, Milburn review to say",
-      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss"
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss"
+      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Christmas toy rush being driven by squishies and building sets",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss"
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss"
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
