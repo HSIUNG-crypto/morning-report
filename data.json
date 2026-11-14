@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-13 11:40:47 (台北時間)",
-  "updated_at_utc": "2026-11-13 03:40:47 (UTC)",
+  "updated_at": "2026-11-14 11:39:42 (台北時間)",
+  "updated_at_utc": "2026-11-14 03:39:42 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.9761,
-    "USD/JPY": 159.7954,
-    "USD/EUR": 0.9035,
-    "USD/GBP": 0.7551,
-    "USD/CNY": 6.6851,
-    "USD/AUD": 1.4683,
-    "USD/CAD": 1.4256,
-    "USD/CHF": 0.8344,
-    "USD/HKD": 7.845,
-    "USD/KRW": 1334.1828,
-    "USD/SGD": 1.2863,
-    "USD/INR": 94.0861
+    "USD/TWD": 32.914,
+    "USD/JPY": 159.7995,
+    "USD/EUR": 0.906,
+    "USD/GBP": 0.7564,
+    "USD/CNY": 6.6849,
+    "USD/AUD": 1.4751,
+    "USD/CAD": 1.426,
+    "USD/CHF": 0.8386,
+    "USD/HKD": 7.846,
+    "USD/KRW": 1336.1799,
+    "USD/SGD": 1.2878,
+    "USD/INR": 94.2897
   },
   "exchange_changes": {
-    "USD/TWD": 0.29,
-    "USD/JPY": 0.18,
-    "USD/EUR": 0.4,
-    "USD/GBP": 0.36,
-    "USD/CNY": -0.01,
-    "USD/AUD": 0.62,
-    "USD/CAD": 0.11,
-    "USD/CHF": 0.31,
-    "USD/HKD": -0.0,
-    "USD/KRW": -0.18,
-    "USD/SGD": 0.2,
-    "USD/INR": 0.25
+    "USD/TWD": -0.19,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.28,
+    "USD/GBP": 0.17,
+    "USD/CNY": -0.0,
+    "USD/AUD": 0.46,
+    "USD/CAD": 0.03,
+    "USD/CHF": 0.5,
+    "USD/HKD": 0.01,
+    "USD/KRW": 0.15,
+    "USD/SGD": 0.12,
+    "USD/INR": 0.22
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
     },
     {
       "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
       "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-      "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+    },
     {
       "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
       "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
@@ -102,10 +106,6 @@
     {
       "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
       "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
-    },
-    {
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
-      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/"
     }
   ],
   "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
