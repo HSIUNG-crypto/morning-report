@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-14 11:39:42 (台北時間)",
-  "updated_at_utc": "2026-11-14 03:39:42 (UTC)",
+  "updated_at": "2026-11-15 11:14:02 (台北時間)",
+  "updated_at_utc": "2026-11-15 03:14:02 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.914,
-    "USD/JPY": 159.7995,
+    "USD/TWD": 32.9156,
+    "USD/JPY": 159.779,
     "USD/EUR": 0.906,
     "USD/GBP": 0.7564,
-    "USD/CNY": 6.6849,
-    "USD/AUD": 1.4751,
-    "USD/CAD": 1.426,
-    "USD/CHF": 0.8386,
+    "USD/CNY": 6.6897,
+    "USD/AUD": 1.4747,
+    "USD/CAD": 1.4259,
+    "USD/CHF": 0.8384,
     "USD/HKD": 7.846,
-    "USD/KRW": 1336.1799,
-    "USD/SGD": 1.2878,
-    "USD/INR": 94.2897
+    "USD/KRW": 1336.0559,
+    "USD/SGD": 1.2875,
+    "USD/INR": 94.2621
   },
   "exchange_changes": {
-    "USD/TWD": -0.19,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.28,
-    "USD/GBP": 0.17,
-    "USD/CNY": -0.0,
-    "USD/AUD": 0.46,
-    "USD/CAD": 0.03,
-    "USD/CHF": 0.5,
-    "USD/HKD": 0.01,
-    "USD/KRW": 0.15,
-    "USD/SGD": 0.12,
-    "USD/INR": 0.22
+    "USD/TWD": 0.0,
+    "USD/JPY": -0.01,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.07,
+    "USD/AUD": -0.03,
+    "USD/CAD": -0.01,
+    "USD/CHF": -0.02,
+    "USD/HKD": 0.0,
+    "USD/KRW": -0.01,
+    "USD/SGD": -0.02,
+    "USD/INR": -0.03
   },
   "stocks": {
     "道瓊": {
@@ -65,7 +65,15 @@
   },
   "news_economy": [
     {
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Microsoft says services fully restored after day-long global outage",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -73,16 +81,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
