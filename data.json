@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-18 12:45:34 (台北時間)",
-  "updated_at_utc": "2026-11-18 04:45:34 (UTC)",
+  "updated_at": "2026-11-19 12:36:08 (台北時間)",
+  "updated_at_utc": "2026-11-19 04:36:08 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.9674,
-    "USD/JPY": 159.3931,
-    "USD/EUR": 0.9092,
-    "USD/GBP": 0.7576,
-    "USD/CNY": 6.6799,
-    "USD/AUD": 1.4844,
-    "USD/CAD": 1.4294,
-    "USD/CHF": 0.8407,
-    "USD/HKD": 7.8462,
-    "USD/KRW": 1335.3607,
-    "USD/SGD": 1.2885,
-    "USD/INR": 93.5135
+    "USD/TWD": 32.9732,
+    "USD/JPY": 159.3608,
+    "USD/EUR": 0.9113,
+    "USD/GBP": 0.76,
+    "USD/CNY": 6.6808,
+    "USD/AUD": 1.4884,
+    "USD/CAD": 1.4322,
+    "USD/CHF": 0.843,
+    "USD/HKD": 7.8458,
+    "USD/KRW": 1332.2168,
+    "USD/SGD": 1.2894,
+    "USD/INR": 93.5136
   },
   "exchange_changes": {
-    "USD/TWD": -0.03,
-    "USD/JPY": -0.12,
-    "USD/EUR": 0.07,
-    "USD/GBP": -0.09,
+    "USD/TWD": 0.02,
+    "USD/JPY": -0.02,
+    "USD/EUR": 0.23,
+    "USD/GBP": 0.32,
     "USD/CNY": 0.01,
-    "USD/AUD": 0.09,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.11,
+    "USD/AUD": 0.27,
+    "USD/CAD": 0.2,
+    "USD/CHF": 0.27,
     "USD/HKD": -0.01,
-    "USD/KRW": -0.01,
-    "USD/SGD": -0.03,
-    "USD/INR": -0.48
+    "USD/KRW": -0.24,
+    "USD/SGD": 0.07,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss"
+      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Government backs welfare shake-up to prevent 'lost generation'",
-      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss"
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss"
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
