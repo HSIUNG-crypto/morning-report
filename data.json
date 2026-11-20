@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-19 12:36:08 (台北時間)",
-  "updated_at_utc": "2026-11-19 04:36:08 (UTC)",
+  "updated_at": "2026-11-20 12:26:27 (台北時間)",
+  "updated_at_utc": "2026-11-20 04:26:27 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.9732,
-    "USD/JPY": 159.3608,
-    "USD/EUR": 0.9113,
-    "USD/GBP": 0.76,
-    "USD/CNY": 6.6808,
-    "USD/AUD": 1.4884,
-    "USD/CAD": 1.4322,
-    "USD/CHF": 0.843,
-    "USD/HKD": 7.8458,
-    "USD/KRW": 1332.2168,
-    "USD/SGD": 1.2894,
-    "USD/INR": 93.5136
+    "USD/TWD": 32.9866,
+    "USD/JPY": 159.7495,
+    "USD/EUR": 0.9107,
+    "USD/GBP": 0.7624,
+    "USD/CNY": 6.692,
+    "USD/AUD": 1.4987,
+    "USD/CAD": 1.4325,
+    "USD/CHF": 0.8434,
+    "USD/HKD": 7.8443,
+    "USD/KRW": 1330.973,
+    "USD/SGD": 1.2908,
+    "USD/INR": 93.3727
   },
   "exchange_changes": {
-    "USD/TWD": 0.02,
-    "USD/JPY": -0.02,
-    "USD/EUR": 0.23,
+    "USD/TWD": 0.04,
+    "USD/JPY": 0.24,
+    "USD/EUR": -0.07,
     "USD/GBP": 0.32,
-    "USD/CNY": 0.01,
-    "USD/AUD": 0.27,
-    "USD/CAD": 0.2,
-    "USD/CHF": 0.27,
-    "USD/HKD": -0.01,
-    "USD/KRW": -0.24,
-    "USD/SGD": 0.07,
-    "USD/INR": 0.0
+    "USD/CNY": 0.17,
+    "USD/AUD": 0.69,
+    "USD/CAD": 0.02,
+    "USD/CHF": 0.05,
+    "USD/HKD": -0.02,
+    "USD/KRW": -0.09,
+    "USD/SGD": 0.11,
+    "USD/INR": -0.15
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,36 @@
   },
   "news_economy": [
     {
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss"
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss"
+      "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss"
+      "title": "California targets Nvidia in China AI chip probe",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss"
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss"
+      "title": "Airbnb's divisive new house rules come into force",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
+    },
+    {
+      "title": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
+    },
     {
       "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
       "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/"
@@ -98,14 +106,6 @@
     {
       "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
       "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
-    },
-    {
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
-    },
-    {
-      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
-      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/"
     }
   ],
   "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
