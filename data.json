@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20 12:26:27 (台北時間)",
-  "updated_at_utc": "2026-11-20 04:26:27 (UTC)",
+  "updated_at": "2026-11-21 12:20:23 (台北時間)",
+  "updated_at_utc": "2026-11-21 04:20:23 (UTC)",
   "exchange_rates": {
     "USD/TWD": 32.9866,
     "USD/JPY": 159.7495,
@@ -16,18 +16,18 @@
     "USD/INR": 93.3727
   },
   "exchange_changes": {
-    "USD/TWD": 0.04,
-    "USD/JPY": 0.24,
-    "USD/EUR": -0.07,
-    "USD/GBP": 0.32,
-    "USD/CNY": 0.17,
-    "USD/AUD": 0.69,
-    "USD/CAD": 0.02,
-    "USD/CHF": 0.05,
-    "USD/HKD": -0.02,
-    "USD/KRW": -0.09,
-    "USD/SGD": 0.11,
-    "USD/INR": -0.15
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "GTA 6 breaks records as sales top $2.3bn - industry estimate",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
       "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "California targets Nvidia in China AI chip probe",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Airbnb's divisive new house rules come into force",
-      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+    },
     {
       "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
       "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
@@ -102,13 +106,9 @@
     {
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
-    },
-    {
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/"
     }
   ],
-  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
