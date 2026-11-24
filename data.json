@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-23 12:07:13 (台北時間)",
-  "updated_at_utc": "2026-11-23 04:07:13 (UTC)",
+  "updated_at": "2026-11-24 15:08:31 (台北時間)",
+  "updated_at_utc": "2026-11-24 07:08:31 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.9681,
-    "USD/JPY": 158.7014,
-    "USD/EUR": 0.9111,
-    "USD/GBP": 0.7636,
-    "USD/CNY": 6.6813,
-    "USD/AUD": 1.507,
-    "USD/CAD": 1.4332,
-    "USD/CHF": 0.8404,
-    "USD/HKD": 7.839,
-    "USD/KRW": 1343.597,
-    "USD/SGD": 1.2891,
-    "USD/INR": 92.7535
+    "USD/TWD": 32.8412,
+    "USD/JPY": 159.0617,
+    "USD/EUR": 0.9156,
+    "USD/GBP": 0.7667,
+    "USD/CNY": 6.6793,
+    "USD/AUD": 1.5089,
+    "USD/CAD": 1.436,
+    "USD/CHF": 0.8413,
+    "USD/HKD": 7.8422,
+    "USD/KRW": 1343.5138,
+    "USD/SGD": 1.2912,
+    "USD/INR": 92.995
   },
   "exchange_changes": {
-    "USD/TWD": -0.04,
-    "USD/JPY": -0.03,
-    "USD/EUR": -0.02,
-    "USD/GBP": 0.0,
-    "USD/CNY": -0.18,
-    "USD/AUD": 0.0,
-    "USD/CAD": -0.01,
-    "USD/CHF": 0.01,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.02,
-    "USD/SGD": -0.04,
-    "USD/INR": -0.15
+    "USD/TWD": -0.38,
+    "USD/JPY": 0.23,
+    "USD/EUR": 0.49,
+    "USD/GBP": 0.41,
+    "USD/CNY": -0.03,
+    "USD/AUD": 0.13,
+    "USD/CAD": 0.2,
+    "USD/CHF": 0.11,
+    "USD/HKD": 0.04,
+    "USD/KRW": -0.01,
+    "USD/SGD": 0.16,
+    "USD/INR": 0.26
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss"
+      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+      "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What is going on with Poundland?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Energy bills will soar - here's how you can ease the pain",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss"
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Employers are being asked to give interview feedback - here's what applicants want",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss"
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss"
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/"
     }
   ],
-  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏強，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
