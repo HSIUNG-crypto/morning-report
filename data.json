@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25 13:43:47 (台北時間)",
-  "updated_at_utc": "2026-11-25 05:43:47 (UTC)",
+  "updated_at": "2026-11-26 13:32:44 (台北時間)",
+  "updated_at_utc": "2026-11-26 05:32:44 (UTC)",
   "exchange_rates": {
     "USD/TWD": 32.9182,
     "USD/JPY": 159.2388,
@@ -16,18 +16,18 @@
     "USD/INR": 92.9252
   },
   "exchange_changes": {
-    "USD/TWD": 0.23,
-    "USD/JPY": 0.11,
-    "USD/EUR": -0.35,
-    "USD/GBP": -0.44,
-    "USD/CNY": -0.02,
-    "USD/AUD": -0.11,
-    "USD/CAD": -0.48,
-    "USD/CHF": -0.55,
-    "USD/HKD": -0.0,
-    "USD/KRW": -0.04,
-    "USD/SGD": -0.1,
-    "USD/INR": -0.08
+    "USD/TWD": 0.0,
+    "USD/JPY": 0.0,
+    "USD/EUR": 0.0,
+    "USD/GBP": 0.0,
+    "USD/CNY": 0.0,
+    "USD/AUD": 0.0,
+    "USD/CAD": 0.0,
+    "USD/CHF": 0.0,
+    "USD/HKD": 0.0,
+    "USD/KRW": 0.0,
+    "USD/SGD": 0.0,
+    "USD/INR": 0.0
   },
   "stocks": {
     "道瓊": {
@@ -65,28 +65,32 @@
   },
   "news_economy": [
     {
-      "title": "Households braced for soaring energy bills with new price cap to be announced",
-      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss"
+      "title": "UK government set to publish new treaties agreed with EU",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "What's gone wrong at Poundland?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "US announces new tariffs on host of countries including China",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What will the energy cap changes mean for my bills?",
-      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
-      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-      "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss"
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
   "news_ai": [
+    {
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/"
+    },
     {
       "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
       "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/"
@@ -102,10 +106,6 @@
     {
       "title": "How to tell a cyberattack from a plain old outage",
       "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
-    },
-    {
-      "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
-      "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/"
     }
   ],
   "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
