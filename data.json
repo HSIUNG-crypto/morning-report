@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-26 13:32:44 (台北時間)",
-  "updated_at_utc": "2026-11-26 05:32:44 (UTC)",
+  "updated_at": "2026-11-27 13:27:30 (台北時間)",
+  "updated_at_utc": "2026-11-27 05:27:30 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.9182,
-    "USD/JPY": 159.2388,
-    "USD/EUR": 0.9124,
-    "USD/GBP": 0.7633,
-    "USD/CNY": 6.6782,
-    "USD/AUD": 1.5073,
-    "USD/CAD": 1.4291,
-    "USD/CHF": 0.8367,
-    "USD/HKD": 7.8419,
-    "USD/KRW": 1343.0425,
-    "USD/SGD": 1.2899,
-    "USD/INR": 92.9252
+    "USD/TWD": 32.9484,
+    "USD/JPY": 159.2772,
+    "USD/EUR": 0.9113,
+    "USD/GBP": 0.763,
+    "USD/CNY": 6.675,
+    "USD/AUD": 1.5075,
+    "USD/CAD": 1.4241,
+    "USD/CHF": 0.8343,
+    "USD/HKD": 7.8373,
+    "USD/KRW": 1343.8419,
+    "USD/SGD": 1.2902,
+    "USD/INR": 92.5204
   },
   "exchange_changes": {
-    "USD/TWD": 0.0,
-    "USD/JPY": 0.0,
-    "USD/EUR": 0.0,
-    "USD/GBP": 0.0,
-    "USD/CNY": 0.0,
-    "USD/AUD": 0.0,
-    "USD/CAD": 0.0,
-    "USD/CHF": 0.0,
-    "USD/HKD": 0.0,
-    "USD/KRW": 0.0,
-    "USD/SGD": 0.0,
-    "USD/INR": 0.0
+    "USD/TWD": 0.09,
+    "USD/JPY": 0.02,
+    "USD/EUR": -0.12,
+    "USD/GBP": -0.04,
+    "USD/CNY": -0.05,
+    "USD/AUD": 0.01,
+    "USD/CAD": -0.35,
+    "USD/CHF": -0.29,
+    "USD/HKD": -0.06,
+    "USD/KRW": 0.06,
+    "USD/SGD": 0.02,
+    "USD/INR": -0.44
   },
   "stocks": {
     "道瓊": {
@@ -65,24 +65,24 @@
   },
   "news_economy": [
     {
-      "title": "UK government set to publish new treaties agreed with EU",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "Poundland collapses putting 11,000 jobs at risk",
-      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "What's gone wrong at Poundland?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US announces new tariffs on host of countries including China",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "US approves SpaceX plan to send a million data satellites to space",
-      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+      "title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
@@ -108,7 +108,7 @@
       "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
     }
   ],
-  "forecast_economy": "經濟情勢偏弱，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
+  "forecast_economy": "經濟情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。",
   "forecast_markets": "",
   "forecast_ai": "AI情勢偏穩，雲端與晶片仍是主軸；追蹤監管進展與估值壓力。"
 }
