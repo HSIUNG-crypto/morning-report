@@ -1,33 +1,33 @@
 {
-  "updated_at": "2026-11-27 13:27:30 (台北時間)",
-  "updated_at_utc": "2026-11-27 05:27:30 (UTC)",
+  "updated_at": "2026-11-28 13:02:36 (台北時間)",
+  "updated_at_utc": "2026-11-28 05:02:36 (UTC)",
   "exchange_rates": {
-    "USD/TWD": 32.9484,
-    "USD/JPY": 159.2772,
-    "USD/EUR": 0.9113,
+    "USD/TWD": 32.9786,
+    "USD/JPY": 159.5215,
+    "USD/EUR": 0.9136,
     "USD/GBP": 0.763,
-    "USD/CNY": 6.675,
-    "USD/AUD": 1.5075,
-    "USD/CAD": 1.4241,
-    "USD/CHF": 0.8343,
-    "USD/HKD": 7.8373,
-    "USD/KRW": 1343.8419,
-    "USD/SGD": 1.2902,
-    "USD/INR": 92.5204
+    "USD/CNY": 6.6709,
+    "USD/AUD": 1.5038,
+    "USD/CAD": 1.4244,
+    "USD/CHF": 0.8359,
+    "USD/HKD": 7.829,
+    "USD/KRW": 1335.0914,
+    "USD/SGD": 1.2904,
+    "USD/INR": 92.9761
   },
   "exchange_changes": {
     "USD/TWD": 0.09,
-    "USD/JPY": 0.02,
-    "USD/EUR": -0.12,
-    "USD/GBP": -0.04,
-    "USD/CNY": -0.05,
-    "USD/AUD": 0.01,
-    "USD/CAD": -0.35,
-    "USD/CHF": -0.29,
-    "USD/HKD": -0.06,
-    "USD/KRW": 0.06,
+    "USD/JPY": 0.15,
+    "USD/EUR": 0.25,
+    "USD/GBP": 0.0,
+    "USD/CNY": -0.06,
+    "USD/AUD": -0.25,
+    "USD/CAD": 0.02,
+    "USD/CHF": 0.19,
+    "USD/HKD": -0.11,
+    "USD/KRW": -0.65,
     "USD/SGD": 0.02,
-    "USD/INR": -0.44
+    "USD/INR": 0.49
   },
   "stocks": {
     "道瓊": {
@@ -69,6 +69,10 @@
       "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
     },
     {
+      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
       "title": "UK to pay 'participation' fee to deliver EU deals",
       "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
     },
@@ -77,12 +81,8 @@
       "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
     },
     {
-      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
       "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "title": "Millions of people to see average monthly mortgage payments rise by £100",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "news_markets": [],
